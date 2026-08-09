@@ -1,0 +1,972 @@
+date,series,value,unit,source_id,frequency
+2000-06-30,1. Crops ( i+ii+iii),2293488.3401639373,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,1. Crops ( i+ii+iii),2139845.9979373817,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,1. Crops ( i+ii+iii),2072269.2471381708,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,1. Crops ( i+ii+iii),2101190.86429126,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,1. Crops ( i+ii+iii),2118616.979026612,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,1. Crops ( i+ii+iii),2392432.002799484,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,1. Crops ( i+ii+iii),2384981.548034523,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,1. Crops ( i+ii+iii),2520256.833819057,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,1. Crops ( i+ii+iii),2461864.7401817245,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,1. Crops ( i+ii+iii),2559066.2120479313,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,1. Crops ( i+ii+iii),2425068.0276139425,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,1. Crops ( i+ii+iii),2475465.5423885463,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,1. Crops ( i+ii+iii),2506342.8506449466,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,1. Crops ( i+ii+iii),2576183.5371227358,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,1. Crops ( i+ii+iii),2623259.449940896,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,1. Crops ( i+ii+iii),2597394.9824314527,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,1. Crops ( i+ii+iii),2497153.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,1. Crops ( i+ii+iii),2531438.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,1. Crops ( i+ii+iii),2648128.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,1. Crops ( i+ii+iii),2532070.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,1. Crops ( i+ii+iii),2692121.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,1. Crops ( i+ii+iii),2849148.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,1. Crops ( i+ii+iii),3083439.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,1. Crops ( i+ii+iii),3047425.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,1. Crops ( i+ii+iii),3378267.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,1. Crops ( i+ii+iii),3344297.4,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,1. Crops ( i+ii+iii),3392543.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,1. Mining and Quarrying,387010.23810288514,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,1. Mining and Quarrying,410560.0775216177,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,1. Mining and Quarrying,437974.99475073325,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,1. Mining and Quarrying,481275.62714690715,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,1. Mining and Quarrying,581835.6398233749,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,1. Mining and Quarrying,521257.4134107841,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,1. Mining and Quarrying,546871.3463831488,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,1. Mining and Quarrying,576680.6380452143,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,1. Mining and Quarrying,598022.5149743939,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,1. Mining and Quarrying,591832.7537645396,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,1. Mining and Quarrying,606177.8314936261,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,1. Mining and Quarrying,581713.0396364423,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,1. Mining and Quarrying,612310.0918726507,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,1. Mining and Quarrying,623161.4500565535,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,1. Mining and Quarrying,629518.296059489,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,1. Mining and Quarrying,654371.2275901827,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,1. Mining and Quarrying,691258.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,1. Mining and Quarrying,685104.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,1. Mining and Quarrying,734818.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,1. Mining and Quarrying,738791.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,1. Mining and Quarrying,685844.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,1. Mining and Quarrying,697669.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,1. Mining and Quarrying,651208.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,1. Mining and Quarrying,630143.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,1. Mining and Quarrying,614814.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,1. Mining and Quarrying,591904.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,1. Mining and Quarrying,594170.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,1. Wholesale & Retail trade,2786055.1188090025,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,1. Wholesale & Retail trade,2921617.6249690307,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,1. Wholesale & Retail trade,2973256.1666935734,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,1. Wholesale & Retail trade,3139553.2011622945,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,1. Wholesale & Retail trade,3455772.6322558015,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,1. Wholesale & Retail trade,3907320.518531649,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,1. Wholesale & Retail trade,4235836.0592364175,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,1. Wholesale & Retail trade,4452654.013774632,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,1. Wholesale & Retail trade,4652221.173536317,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,1. Wholesale & Retail trade,4517382.030750015,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,1. Wholesale & Retail trade,4569429.027556079,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,1. Wholesale & Retail trade,4638731.531973679,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,1. Wholesale & Retail trade,4684891.532740144,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,1. Wholesale & Retail trade,4839816.543467715,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,1. Wholesale & Retail trade,5054009.603406964,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,1. Wholesale & Retail trade,5172213.263551987,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,1. Wholesale & Retail trade,5380330.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,1. Wholesale & Retail trade,5727275.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,1. Wholesale & Retail trade,6114661.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,1. Wholesale & Retail trade,6331734.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,1. Wholesale & Retail trade,5998707.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,1. Wholesale & Retail trade,6647199.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,1. Wholesale & Retail trade,7325882.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,1. Wholesale & Retail trade,7034557.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,1. Wholesale & Retail trade,7269866.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,1. Wholesale & Retail trade,7304749.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,1. Wholesale & Retail trade,7576098.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,10. Other Private Services,920564.6896457435,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,10. Other Private Services,976444.1953990748,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,10. Other Private Services,1052932.5598105,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,10. Other Private Services,1110622.230366879,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,10. Other Private Services,1158987.830778865,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,10. Other Private Services,1201350.223753545,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,10. Other Private Services,1301524.5010900877,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,10. Other Private Services,1356717.3219478182,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,10. Other Private Services,1426139.7793096402,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,10. Other Private Services,1514411.1379385283,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,10. Other Private Services,1610859.931795396,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,10. Other Private Services,1706065.1530126026,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,10. Other Private Services,1806795.4428437832,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,10. Other Private Services,1908642.5804144833,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,10. Other Private Services,2034281.2172426009,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,10. Other Private Services,2155870.4659514218,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,10. Other Private Services,2297754.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,10. Other Private Services,2467019.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,10. Other Private Services,2655324.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,10. Other Private Services,2819194.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,10. Other Private Services,2960260.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,10. Other Private Services,3110031.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,10. Other Private Services,3257106.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,10. Other Private Services,3394654.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,10. Other Private Services,3518111.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,10. Other Private Services,3653413.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,10. Other Private Services,3788108.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,2. Livestock,2413171.352996325,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,2. Livestock,2548790.811004678,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,2. Livestock,2680497.235554675,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,2. Livestock,2799540.8519059313,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,2. Livestock,2932166.28630954,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,2. Livestock,3068937.838253468,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,2. Livestock,3209572.3184672487,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,2. Livestock,3299845.202580438,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,2. Livestock,3429031.681104783,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,2. Livestock,3542890.169066441,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,2. Livestock,3686172.5044905934,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,2. Livestock,3833038.2766276323,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,2. Livestock,4006297.9337416478,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,2. Livestock,4138768.373567215,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,2. Livestock,4257306.91582882,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,2. Livestock,4426704.318808261,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,2. Livestock,4531885.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,2. Livestock,4662846.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,2. Livestock,4830324.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,2. Livestock,5006731.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,2. Livestock,5146701.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,2. Livestock,5269009.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,2. Livestock,5387611.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,2. Livestock,5587106.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,2. Livestock,5831983.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,2. Livestock,6004012.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,2. Livestock,6229439.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,2. Manufacturing ( i+ii+iii),1405601.9201351926,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,2. Manufacturing ( i+ii+iii),1555622.8579714764,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,2. Manufacturing ( i+ii+iii),1622115.6917492812,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,2. Manufacturing ( i+ii+iii),1742266.9406378907,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,2. Manufacturing ( i+ii+iii),2026951.3983467186,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,2. Manufacturing ( i+ii+iii),2345749.713263557,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,2. Manufacturing ( i+ii+iii),2590683.410284645,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,2. Manufacturing ( i+ii+iii),2799583.810896689,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,2. Manufacturing ( i+ii+iii),2971396.2818027562,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,2. Manufacturing ( i+ii+iii),2854407.39817217,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,2. Manufacturing ( i+ii+iii),2903662.82214336,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,2. Manufacturing ( i+ii+iii),2979531.278193009,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,2. Manufacturing ( i+ii+iii),3039515.546032922,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,2. Manufacturing ( i+ii+iii),3202692.388704573,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,2. Manufacturing ( i+ii+iii),3387283.184058273,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,2. Manufacturing ( i+ii+iii),3526713.954753006,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,2. Manufacturing ( i+ii+iii),3668778.0000000005,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,2. Manufacturing ( i+ii+iii),3847353.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,2. Manufacturing ( i+ii+iii),4119706.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,2. Manufacturing ( i+ii+iii),4305977.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,2. Manufacturing ( i+ii+iii),3970245.9999999995,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,2. Manufacturing ( i+ii+iii),4388024.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,2. Manufacturing ( i+ii+iii),4864350.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,2. Manufacturing ( i+ii+iii),4608423.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,2. Manufacturing ( i+ii+iii),4748113.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,2. Manufacturing ( i+ii+iii),4841123.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,2. Manufacturing ( i+ii+iii),5161262.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,2. Transportation & Storage,1762191.9573492915,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,2. Transportation & Storage,1869521.6290766085,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,2. Transportation & Storage,1900431.5479054775,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,2. Transportation & Storage,2000901.9669597733,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,2. Transportation & Storage,2090111.180988202,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,2. Transportation & Storage,2195466.4290567115,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,2. Transportation & Storage,2306455.1788789113,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,2. Transportation & Storage,2489833.1768474514,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,2. Transportation & Storage,2539136.8018967966,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,2. Transportation & Storage,2714827.006437583,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,2. Transportation & Storage,2791665.4187766137,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,2. Transportation & Storage,2865093.1582966344,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,2. Transportation & Storage,2907973.693854834,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,2. Transportation & Storage,3059426.4404167384,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,2. Transportation & Storage,3192742.984265607,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,2. Transportation & Storage,3354065.366915806,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,2. Transportation & Storage,3448607.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,2. Transportation & Storage,3589252.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,2. Transportation & Storage,3707938.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,2. Transportation & Storage,3990773.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,2. Transportation & Storage,3634152.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,2. Transportation & Storage,3811190.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,2. Transportation & Storage,3980936.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,2. Transportation & Storage,4132065.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,2. Transportation & Storage,4200059.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,2. Transportation & Storage,4306820.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,2. Transportation & Storage,4406453.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,"3 Electricity, Gas and Water supply",478550.8477831102,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,"3 Electricity, Gas and Water supply",459445.9583326588,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,"3 Electricity, Gas and Water supply",419778.2824871841,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,"3 Electricity, Gas and Water supply",427573.71001640963,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,"3 Electricity, Gas and Water supply",566769.0062991406,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,"3 Electricity, Gas and Water supply",546559.6758835021,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,"3 Electricity, Gas and Water supply",343289.0538418584,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,"3 Electricity, Gas and Water supply",328487.42037590186,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,"3 Electricity, Gas and Water supply",431750.0974401486,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,"3 Electricity, Gas and Water supply",407180.9812385094,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,"3 Electricity, Gas and Water supply",473964.34522618866,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,"3 Electricity, Gas and Water supply",707873.6142469347,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,"3 Electricity, Gas and Water supply",717927.8085227308,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,"3 Electricity, Gas and Water supply",566094.5682160937,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,"3 Electricity, Gas and Water supply",573706.1187597164,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,"3 Electricity, Gas and Water supply",635857.7418711089,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,"3 Electricity, Gas and Water supply",681030.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,"3 Electricity, Gas and Water supply",690618.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,"3 Electricity, Gas and Water supply",745548.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,"3 Electricity, Gas and Water supply",786907.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,"3 Electricity, Gas and Water supply",814703.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,"3 Electricity, Gas and Water supply",888101.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,"3 Electricity, Gas and Water supply",926804.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,"3 Electricity, Gas and Water supply",1016276.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,"3 Electricity, Gas and Water supply",833003.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,"3 Electricity, Gas and Water supply",1079575.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,"3 Electricity, Gas and Water supply",964834.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),148300.9850065377,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),163156.7209503385,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),179521.475801366,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),197483.86545280647,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),217166.18102605958,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),238769.28221883668,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),262944.9615070845,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),275533.3675918046,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),289208.5149049948,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),303642.18819219706,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),318786.71042125626,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),334725.2353996946,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),350967.0239341231,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),368513.07082446566,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),386659.85889765335,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),405595.637396429,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),425666.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),442789.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),460952.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),479936.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),499522.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),520024.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),541222.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),563348.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),586418.252,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),610324.4914815999,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,3. Accommodation and Food Services Activities (Hotels & Restaurants),634375.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,3. Forestry,212613.56743704525,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,3. Forestry,229153.6544022821,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,3. Forestry,240137.2510854348,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,3. Forestry,270242.50106352114,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,3. Forestry,281092.3081671283,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,3. Forestry,238324.91780791216,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,3. Forestry,195783.55442484393,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,3. Forestry,175604.29377836658,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,3. Forestry,145685.5045966943,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,3. Forestry,141449.47807800962,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,3. Forestry,150391.82561946276,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,3. Forestry,146901.54791336352,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,3. Forestry,150841.48811769835,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,3. Forestry,160514.29596290388,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,3. Forestry,162764.76778587498,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,3. Forestry,140810.62930465658,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,3. Forestry,161737.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,3. Forestry,157022.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,3. Forestry,160541.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,3. Forestry,172129.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,3. Forestry,177917.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,3. Forestry,183877.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,3. Forestry,185162.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,3. Forestry,217372.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,3. Forestry,214976.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,3. Forestry,221160.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,3. Forestry,225632.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,4. Construction,373025.4513879869,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,4. Construction,394615.24624775746,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,4. Construction,392687.050658226,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,4. Construction,407957.45683025825,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,4. Construction,409314.2143800682,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,4. Construction,494742.97159658076,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,4. Construction,555721.5051127288,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,4. Construction,625121.7878518006,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,4. Construction,708716.6092295954,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,4. Construction,661204.5145768884,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,4. Construction,709254.2674491348,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,4. Construction,652719.1155671157,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,4. Construction,666880.9217581201,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,4. Construction,702875.678606419,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,4. Construction,725280.7671826831,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,4. Construction,785698.2184633325,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,4. Construction,898569.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,4. Construction,990220.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,4. Construction,1183792.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,4. Construction,969000.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,4. Construction,939174.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,4. Construction,961644.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,4. Construction,979221.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,4. Construction,878866.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,4. Construction,868936.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,4. Construction,945178.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,4. Construction,999317.771261173,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,4. Fishing,99083.11602041598,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,4. Fishing,96150.6267455598,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,4. Fishing,84289.94678264981,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,4. Fishing,87196.03339458152,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,4. Fishing,88917.76592256958,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,4. Fishing,89422.54535212743,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,4. Fishing,108076.43536181634,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,4. Fishing,108181.71528375626,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,4. Fishing,117032.4690692304,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,4. Fishing,120221.13903119406,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,4. Fishing,121892.27242718262,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,4. Fishing,101275.06364970247,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,4. Fishing,105046.02707819667,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,4. Fishing,105725.56432269665,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,4. Fishing,106703.3229283409,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,4. Fishing,112541.74764306692,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,4. Fishing,116182.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,4. Fishing,117594.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,4. Fishing,119439.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,4. Fishing,120366.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,4. Fishing,121121.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,4. Fishing,122007.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,4. Fishing,122435.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,4. Fishing,123166.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,4. Fishing,124359.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,4. Fishing,126131.69,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,4. Fishing,128230.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,4. Information and Communication,101149.68120919385,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,4. Information and Communication,102656.08804426112,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,4. Information and Communication,105235.42770282892,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,4. Information and Communication,112675.452173825,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,4. Information and Communication,139920.10353693285,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,4. Information and Communication,177497.96387635608,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,4. Information and Communication,240240.37871277818,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,4. Information and Communication,298902.39877439424,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,4. Information and Communication,391100.5015887653,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,4. Information and Communication,455063.0769603066,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,4. Information and Communication,448252.469720479,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,4. Information and Communication,440763.3730766922,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,4. Information and Communication,513329.32236286235,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,4. Information and Communication,538781.325347695,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,4. Information and Communication,528909.2177928183,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,4. Information and Communication,570757.7825813596,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,4. Information and Communication,610952.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,4. Information and Communication,675174.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,4. Information and Communication,703443.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,4. Information and Communication,763216.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,4. Information and Communication,868338.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,4. Information and Communication,953818.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,4. Information and Communication,1125119.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,4. Information and Communication,1118252.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,4. Information and Communication,1166700.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,4. Information and Communication,1248721.15,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,4. Information and Communication,1342621.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,5. Financial and Insurance Activities,228779.9687651963,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,5. Financial and Insurance Activities,253572.02696121574,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,5. Financial and Insurance Activities,266571.10797760123,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,5. Financial and Insurance Activities,283228.168189602,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,5. Financial and Insurance Activities,317470.96485215466,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,5. Financial and Insurance Activities,381983.747731542,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,5. Financial and Insurance Activities,439568.2553564693,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,5. Financial and Insurance Activities,474187.80934566585,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,5. Financial and Insurance Activities,523939.8428117775,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,5. Financial and Insurance Activities,495489.1470316169,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,5. Financial and Insurance Activities,461583.39950526506,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,5. Financial and Insurance Activities,434421.2456305112,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,5. Financial and Insurance Activities,431636.7613641383,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,5. Financial and Insurance Activities,461758.9615123448,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,5. Financial and Insurance Activities,478651.274504145,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,5. Financial and Insurance Activities,504668.9026742651,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,5. Financial and Insurance Activities,530185.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,5. Financial and Insurance Activities,573828.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,5. Financial and Insurance Activities,624079.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,5. Financial and Insurance Activities,662149.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,5. Financial and Insurance Activities,647435.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,5. Financial and Insurance Activities,682988.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,5. Financial and Insurance Activities,730220.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,5. Financial and Insurance Activities,658921.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,5. Financial and Insurance Activities,572347.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,5. Financial and Insurance Activities,624443.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,5. Financial and Insurance Activities,626432.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,6. Real Estate Activities (OD),950329.4728177964,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,6. Real Estate Activities (OD),985934.0751655002,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,6. Real Estate Activities (OD),1020427.2019879137,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,6. Real Estate Activities (OD),1052954.031166552,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,6. Real Estate Activities (OD),1089218.8810885183,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,6. Real Estate Activities (OD),1125966.7915792821,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,6. Real Estate Activities (OD),1167041.1044227472,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,6. Real Estate Activities (OD),1211486.3634519738,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,6. Real Estate Activities (OD),1258790.2001461957,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,6. Real Estate Activities (OD),1309316.0142664916,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,6. Real Estate Activities (OD),1361721.273920673,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,6. Real Estate Activities (OD),1417680.944786389,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,6. Real Estate Activities (OD),1468631.6695464985,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,6. Real Estate Activities (OD),1533340.103579194,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,6. Real Estate Activities (OD),1593526.0614190623,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,6. Real Estate Activities (OD),1657448.6934878067,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,6. Real Estate Activities (OD),1735453.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,6. Real Estate Activities (OD),1798794.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,6. Real Estate Activities (OD),1863846.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,6. Real Estate Activities (OD),1932853.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,6. Real Estate Activities (OD),2006873.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,6. Real Estate Activities (OD),2080095.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,6. Real Estate Activities (OD),2156942.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,6. Real Estate Activities (OD),2237142.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,6. Real Estate Activities (OD),2320700.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,6. Real Estate Activities (OD),2407856.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,6. Real Estate Activities (OD),2495256.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,7. Public Administration and Social Security (General Government),774210.6241111148,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,7. Public Administration and Social Security (General Government),786887.5813978703,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,7. Public Administration and Social Security (General Government),838038.1797534663,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,7. Public Administration and Social Security (General Government),889990.705531264,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,7. Public Administration and Social Security (General Government),941656.957408339,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,7. Public Administration and Social Security (General Government),990794.7846659798,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,7. Public Administration and Social Security (General Government),1085282.8313222409,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,7. Public Administration and Social Security (General Government),1065491.1847894737,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,7. Public Administration and Social Security (General Government),1070320.0791519263,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,7. Public Administration and Social Security (General Government),959589.5961387597,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,7. Public Administration and Social Security (General Government),1039458.255720283,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,7. Public Administration and Social Security (General Government),1117537.124774192,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,7. Public Administration and Social Security (General Government),1254956.7229813468,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,7. Public Administration and Social Security (General Government),1380048.7699026926,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,7. Public Administration and Social Security (General Government),1261099.4850409534,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,7. Public Administration and Social Security (General Government),1359824.1850094302,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,7. Public Administration and Social Security (General Government),1458465.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,7. Public Administration and Social Security (General Government),1547990.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,7. Public Administration and Social Security (General Government),1717130.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,7. Public Administration and Social Security (General Government),1776775.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,7. Public Administration and Social Security (General Government),1830153.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,7. Public Administration and Social Security (General Government),1820093.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,7. Public Administration and Social Security (General Government),1853122.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,7. Public Administration and Social Security (General Government),1722958.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,7. Public Administration and Social Security (General Government),1602278.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,7. Public Administration and Social Security (General Government),1740090.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,7. Public Administration and Social Security (General Government),1888728.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,8. Education,354346.925850515,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,8. Education,364274.91210010304,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,8. Education,394859.0830974624,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,8. Education,435230.89025888353,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,8. Education,476683.97264920024,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,8. Education,491456.5186884168,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,8. Education,581970.1227083678,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,8. Education,588592.7797221353,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,8. Education,632653.3750771253,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,8. Education,691678.900531753,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,8. Education,687671.5116570053,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,8. Education,717632.6324681722,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,8. Education,710974.3432471891,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,8. Education,754703.4695257933,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,8. Education,874642.7807125322,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,8. Education,859989.0415441528,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,8. Education,954556.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,8. Education,939569.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,8. Education,972853.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,8. Education,991899.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,8. Education,1024760.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,8. Education,1012428.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,8. Education,1071646.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,8. Education,1133051.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,8. Education,1247057.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,8. Education,1291819.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,8. Education,1359431.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,9. Human Health and Social Work Activities,118602.53250045415,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,9. Human Health and Social Work Activities,123864.02235115021,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,9. Human Health and Social Work Activities,130834.21894857072,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,9. Human Health and Social Work Activities,140671.6908905713,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,9. Human Health and Social Work Activities,147683.30458043714,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,9. Human Health and Social Work Activities,155050.89379777992,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,9. Human Health and Social Work Activities,171910.16232526145,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,9. Human Health and Social Work Activities,191023.26475041258,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,9. Human Health and Social Work Activities,206309.87344587588,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,9. Human Health and Social Work Activities,267262.72885124217,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,9. Human Health and Social Work Activities,286804.0557221875,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,9. Human Health and Social Work Activities,291628.88873091165,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,9. Human Health and Social Work Activities,320709.2360270071,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,9. Human Health and Social Work Activities,347501.6305969486,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,9. Human Health and Social Work Activities,367958.8872251215,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,9. Human Health and Social Work Activities,394102.3367870174,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,9. Human Health and Social Work Activities,419645.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,9. Human Health and Social Work Activities,470322.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,9. Human Health and Social Work Activities,497098.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,9. Human Health and Social Work Activities,535541.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,9. Human Health and Social Work Activities,568638.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,9. Human Health and Social Work Activities,585137.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,9. Human Health and Social Work Activities,600835.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,9. Human Health and Social Work Activities,657046.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,9. Human Health and Social Work Activities,679024.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,9. Human Health and Social Work Activities,700830.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,9. Human Health and Social Work Activities,748857.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",5018356.376617723,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",5013941.090089901,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",5077193.680560931,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",5258170.250655293,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",5420793.33942585,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",5789117.304212991,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",5898413.856288432,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",6103888.045461617,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",6153614.394952432,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",6363626.998223576,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",6383524.6301511815,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",6556680.430579245,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",6768528.299582489,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",6981191.770975552,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",7150034.456483932,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",7277451.678187437,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",7306957.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",7468900.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",7758432.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",7831296.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",8137860.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",8424041.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",8778647.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",8975069.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",9549585.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",9695601.09,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,"Agriculture, Forestry and Fishing ( 1 to 4 )",9975844.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,Commodity Producing Activities (A+B),7662544.834026898,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,Commodity Producing Activities (A+B),7834185.230163412,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,Commodity Producing Activities (A+B),7949749.700206355,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,Commodity Producing Activities (A+B),8317243.985286759,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,Commodity Producing Activities (A+B),9005663.598275153,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,Commodity Producing Activities (A+B),9697427.078367416,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,Commodity Producing Activities (A+B),9934979.171910813,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,Commodity Producing Activities (A+B),10433761.702631224,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,Commodity Producing Activities (A+B),10863499.898399327,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,Commodity Producing Activities (A+B),10878252.645975683,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,Commodity Producing Activities (A+B),11076583.896463491,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,Commodity Producing Activities (A+B),11478517.478222746,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,Commodity Producing Activities (A+B),11805162.667768912,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,Commodity Producing Activities (A+B),12076015.85655919,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,Commodity Producing Activities (A+B),12465822.822544094,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,Commodity Producing Activities (A+B),12880092.820865069,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,Commodity Producing Activities (A+B),13246592.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,Commodity Producing Activities (A+B),13682195.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,Commodity Producing Activities (A+B),14542296.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,Commodity Producing Activities (A+B),14631971.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,Commodity Producing Activities (A+B),14547827.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,Commodity Producing Activities (A+B),15359479.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,Commodity Producing Activities (A+B),16200230.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,Commodity Producing Activities (A+B),16108777.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,Commodity Producing Activities (A+B),16614451.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,Commodity Producing Activities (A+B),17153381.09,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,Commodity Producing Activities (A+B),17695427.771261174,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,GDP (at Current Market Prices),5147094.96132463,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,GDP (at Current Market Prices),5655817.907899253,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,GDP (at Current Market Prices),6030116.987006255,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,GDP (at Current Market Prices),6581622.987767133,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,GDP (at Current Market Prices),7611677.902880173,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,GDP (at Current Market Prices),8619231.796799202,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,GDP (at Current Market Prices),9689070.773723098,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,GDP (at Current Market Prices),11165234.33963877,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,GDP (at Current Market Prices),12647136.76080171,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,GDP (at Current Market Prices),14705697.558496986,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,GDP (at Current Market Prices),16507053.35027136,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,GDP (at Current Market Prices),19731030.411379207,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,GDP (at Current Market Prices),22344639.1371674,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,GDP (at Current Market Prices),25042169.405187108,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,GDP (at Current Market Prices),27952815.352717996,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,GDP (at Current Market Prices),30425879.918414775,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,GDP (at Current Market Prices),32725049.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,GDP (at Current Market Prices),35552819.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,GDP (at Current Market Prices),39189810.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,GDP (at Current Market Prices),43798401.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,GDP (at Current Market Prices),47540409.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,GDP (at Current Market Prices),55836225.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,GDP (at Current Market Prices),66657868.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,GDP (at Current Market Prices),83650830.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,GDP (at Current Market Prices),105290237.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,GDP (at Current Market Prices),114039352.41999999,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,GDP (at Current Market Prices),126870134.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,GDP Growth Rate (%),3.637847301705179,% YoY,sbp_gdp_annual,annual
+2002-06-30,GDP Growth Rate (%),2.62324240028326,% YoY,sbp_gdp_annual,annual
+2003-06-30,GDP Growth Rate (%),5.1671837002404715,% YoY,sbp_gdp_annual,annual
+2004-06-30,GDP Growth Rate (%),7.690818125769596,% YoY,sbp_gdp_annual,annual
+2005-06-30,GDP Growth Rate (%),7.997488364820967,% YoY,sbp_gdp_annual,annual
+2006-06-30,GDP Growth Rate (%),5.663880388993746,% YoY,sbp_gdp_annual,annual
+2007-06-30,GDP Growth Rate (%),5.110655805429175,% YoY,sbp_gdp_annual,annual
+2008-06-30,GDP Growth Rate (%),4.444909823123339,% YoY,sbp_gdp_annual,annual
+2009-06-30,GDP Growth Rate (%),1.0631410318451344,% YoY,sbp_gdp_annual,annual
+2010-06-30,GDP Growth Rate (%),2.2645016590335416,% YoY,sbp_gdp_annual,annual
+2011-06-30,GDP Growth Rate (%),3.20442425999272,% YoY,sbp_gdp_annual,annual
+2012-06-30,GDP Growth Rate (%),3.1963139027760548,% YoY,sbp_gdp_annual,annual
+2013-06-30,GDP Growth Rate (%),3.8563347030563904,% YoY,sbp_gdp_annual,annual
+2014-06-30,GDP Growth Rate (%),3.5563148215870086,% YoY,sbp_gdp_annual,annual
+2015-06-30,GDP Growth Rate (%),3.8115755689678963,% YoY,sbp_gdp_annual,annual
+2016-06-30,GDP Growth Rate (%),4.071607127366406,% YoY,sbp_gdp_annual,annual
+2017-06-30,GDP Growth Rate (%),4.608602833237811,% YoY,sbp_gdp_annual,annual
+2018-06-30,GDP Growth Rate (%),6.095758544149319,% YoY,sbp_gdp_annual,annual
+2019-06-30,GDP Growth Rate (%),3.120002528085081,% YoY,sbp_gdp_annual,annual
+2020-06-30,GDP Growth Rate (%),-0.9433371899179406,% YoY,sbp_gdp_annual,annual
+2021-06-30,GDP Growth Rate (%),5.770481195570596,% YoY,sbp_gdp_annual,annual
+2022-06-30,GDP Growth Rate (%),6.179947003049165,% YoY,sbp_gdp_annual,annual
+2023-06-30,GDP Growth Rate (%),-0.2123637408394643,% YoY,sbp_gdp_annual,annual
+2024-06-30,GDP Growth Rate (%),2.6218267226934273,% YoY,sbp_gdp_annual,annual
+2025-06-30,GDP Growth Rate (%),3.1813236833322094,% YoY,sbp_gdp_annual,annual
+2026-06-30,GDP Growth Rate (%),3.701874914329025,% YoY,sbp_gdp_annual,annual
+2000-06-30,GDP at mp (GVA+T-S),16640025.682885455,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,GDP at mp (GVA+T-S),17247611.289107237,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,GDP at mp (GVA+T-S),17695155.18447632,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,GDP at mp (GVA+T-S),18650925.525549766,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,GDP at mp (GVA+T-S),20111527.169523038,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,GDP at mp (GVA+T-S),21574957.414317366,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,GDP at mp (GVA+T-S),22880595.66568023,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,GDP at mp (GVA+T-S),23897595.662880365,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,GDP at mp (GVA+T-S),24404330.089654706,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,GDP at mp (GVA+T-S),25251782.79964286,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,GDP at mp (GVA+T-S),25630993.24638417,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,GDP at mp (GVA+T-S),26317933.816263825,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,GDP at mp (GVA+T-S),27114731.34618253,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,GDP at mp (GVA+T-S),28298795.072716396,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,GDP at mp (GVA+T-S),29463694.645325225,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,GDP at mp (GVA+T-S),30706456.22472753,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,GDP at mp (GVA+T-S),32725049.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,GDP at mp (GVA+T-S),34175628.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,GDP at mp (GVA+T-S),36278011.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,GDP at mp (GVA+T-S),37184104.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,GDP at mp (GVA+T-S),36710346.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,GDP at mp (GVA+T-S),39101616.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,GDP at mp (GVA+T-S),40969933.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,GDP at mp (GVA+T-S),40799934.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,GDP at mp (GVA+T-S),42059800.252000004,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,GDP at mp (GVA+T-S),43664525.603349194,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,GDP at mp (GVA+T-S),45758743.77126117,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,GDP {Total of GVA at bp (A+B+C),15807076.790091746,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,GDP {Total of GVA at bp (A+B+C),16382114.106578564,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,GDP {Total of GVA at bp (A+B+C),16811856.669885118,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,GDP {Total of GVA at bp (A+B+C),17680556.18743921,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,GDP {Total of GVA at bp (A+B+C),19040335.607439663,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,GDP {Total of GVA at bp (A+B+C),20563084.232267514,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,GDP {Total of GVA at bp (A+B+C),21727752.72747118,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,GDP {Total of GVA at bp (A+B+C),22838183.383626983,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,GDP {Total of GVA at bp (A+B+C),23853320.04026874,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,GDP {Total of GVA at bp (A+B+C),24106914.473074175,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,GDP {Total of GVA at bp (A+B+C),24652815.951258734,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,GDP {Total of GVA at bp (A+B+C),25442796.766372222,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,GDP {Total of GVA at bp (A+B+C),26256028.416670837,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,GDP {Total of GVA at bp (A+B+C),27268548.75214726,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,GDP {Total of GVA at bp (A+B+C),28238304.19305155,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,GDP {Total of GVA at bp (A+B+C),29314628.49676474,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,GDP {Total of GVA at bp (A+B+C),30508205.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,GDP {Total of GVA at bp (A+B+C),31914207.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,GDP {Total of GVA at bp (A+B+C),33859620.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,GDP {Total of GVA at bp (A+B+C),34916041.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,GDP {Total of GVA at bp (A+B+C),34586665.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,GDP {Total of GVA at bp (A+B+C),36582482.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,GDP {Total of GVA at bp (A+B+C),38843260.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,GDP {Total of GVA at bp (A+B+C),38760771.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,GDP {Total of GVA at bp (A+B+C),39777011.252000004,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,GDP {Total of GVA at bp (A+B+C),41042446.7314816,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,GDP {Total of GVA at bp (A+B+C),42561786.77126117,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,Gross National Income,16383859.445043555,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,Gross National Income,16991047.876852114,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,Gross National Income,17707862.2697295,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,Gross National Income,19110937.19520072,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,Gross National Income,20430600.514222614,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,Gross National Income,21884205.332787503,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,Gross National Income,23174633.40880948,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,Gross National Income,24170020.32496117,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,Gross National Income,24697233.476660956,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,Gross National Income,25652055.82062878,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,Gross National Income,26299694.839569926,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,Gross National Income,27141392.563663002,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,Gross National Income,27973082.62449331,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,Gross National Income,29188669.942037486,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,Gross National Income,30515842.792452082,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,Gross National Income,31934958.799467135,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,Gross National Income,34217243.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,Gross National Income,35655501.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,Gross National Income,37762176.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,Gross National Income,39118552.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,Gross National Income,39134396.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,Gross National Income,42377022.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,Gross National Income,43776483.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,Gross National Income,44035776.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,Gross National Income,45253325.252000004,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,Gross National Income,47824765.603349194,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,Gross National Income,49778031.77126117,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,Industrial Activities ( 1 to 4 ),2644188.457409175,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,Industrial Activities ( 1 to 4 ),2820244.140073511,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,Industrial Activities ( 1 to 4 ),2872556.0196454246,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,Industrial Activities ( 1 to 4 ),3059073.7346314657,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,Industrial Activities ( 1 to 4 ),3584870.258849303,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,Industrial Activities ( 1 to 4 ),3908309.774154424,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,Industrial Activities ( 1 to 4 ),4036565.315622381,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,Industrial Activities ( 1 to 4 ),4329873.657169606,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,Industrial Activities ( 1 to 4 ),4709885.503446894,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,Industrial Activities ( 1 to 4 ),4514625.647752107,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,Industrial Activities ( 1 to 4 ),4693059.26631231,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,Industrial Activities ( 1 to 4 ),4921837.047643502,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,Industrial Activities ( 1 to 4 ),5036634.368186424,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,Industrial Activities ( 1 to 4 ),5094824.085583638,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,Industrial Activities ( 1 to 4 ),5315788.366060162,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,Industrial Activities ( 1 to 4 ),5602641.14267763,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,Industrial Activities ( 1 to 4 ),5939635.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,Industrial Activities ( 1 to 4 ),6213295.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,Industrial Activities ( 1 to 4 ),6783864.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,Industrial Activities ( 1 to 4 ),6800675.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,Industrial Activities ( 1 to 4 ),6409967.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,Industrial Activities ( 1 to 4 ),6935438.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,Industrial Activities ( 1 to 4 ),7421583.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,Industrial Activities ( 1 to 4 ),7133708.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,Industrial Activities ( 1 to 4 ),7064866.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,Industrial Activities ( 1 to 4 ),7457780.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,Industrial Activities ( 1 to 4 ),7719583.771261173,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,Net Primary Income (NPI),-256166.23784190125,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,Net Primary Income (NPI),-256563.41225512442,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,Net Primary Income (NPI),12707.0852531774,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,Net Primary Income (NPI),460011.6696509523,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,Net Primary Income (NPI),319073.3446995783,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,Net Primary Income (NPI),309247.9184701378,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,Net Primary Income (NPI),294037.7431292505,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,Net Primary Income (NPI),272424.66208080447,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,Net Primary Income (NPI),292903.3870062505,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,Net Primary Income (NPI),400273.0209859216,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,Net Primary Income (NPI),668701.5931857566,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,Net Primary Income (NPI),823458.747399178,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,Net Primary Income (NPI),858351.2783107779,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,Net Primary Income (NPI),889874.8693210884,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,Net Primary Income (NPI),1052148.1471268565,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,Net Primary Income (NPI),1228502.5747396045,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,Net Primary Income (NPI),1492194.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,Net Primary Income (NPI),1479873.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,Net Primary Income (NPI),1484165.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,Net Primary Income (NPI),1934448.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,Net Primary Income (NPI),2424050.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,Net Primary Income (NPI),3275406.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,Net Primary Income (NPI),2806550.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,Net Primary Income (NPI),3235842.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,Net Primary Income (NPI),3193525.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,Net Primary Income (NPI),4160240.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,Net Primary Income (NPI),4019288.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,Services ( 1 to 10),8144531.956064846,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,Services ( 1 to 10),8547928.876415152,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,Services ( 1 to 10),8862106.969678761,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,Services ( 1 to 10),9363312.202152452,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,Services ( 1 to 10),10034672.00916451,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,Services ( 1 to 10),10865657.153900098,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,Services ( 1 to 10),11792773.555560365,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,Services ( 1 to 10),12404421.68099576,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,Services ( 1 to 10),12989820.141869415,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,Services ( 1 to 10),13228661.827098493,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,Services ( 1 to 10),13576232.054795241,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,Services ( 1 to 10),13964279.288149476,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,Services ( 1 to 10),14450865.748901926,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,Services ( 1 to 10),15192532.89558807,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,Services ( 1 to 10),15772481.370507456,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,Services ( 1 to 10),16434535.675899675,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,Services ( 1 to 10),17261613.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,Services ( 1 to 10),18232012.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,Services ( 1 to 10),19317324.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,Services ( 1 to 10),20284070.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,Services ( 1 to 10),20038838.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,Services ( 1 to 10),21223003.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,Services ( 1 to 10),22643030.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,Services ( 1 to 10),22651994.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,Services ( 1 to 10),23162560.252,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,Services ( 1 to 10),23889065.6414816,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,Services ( 1 to 10),24866359.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,Subsidies,66629.7579214749,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,Subsidies,68478.57413346358,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,Subsidies,63098.87799119052,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,Subsidies,115987.76672626636,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,Subsidies,119241.89659929572,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,Subsidies,159065.22881790568,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,Subsidies,168958.05187938153,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,Subsidies,237776.07092174934,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,Subsidies,808196.3113536658,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,Subsidies,455579.37733202317,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,Subsidies,399217.820707675,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,Subsidies,581713.0751503634,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,Subsidies,672620.896879261,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,Subsidies,459677.9271867838,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,Subsidies,365702.14732191915,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,Subsidies,288529.25760436687,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,Subsidies,226036.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,Subsidies,222184.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,Subsidies,192402.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,Subsidies,287359.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,Subsidies,325947.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,Subsidies,375056.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,Subsidies,779803.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,Subsidies,632838.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,Subsidies,466788.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,Subsidies,617533.0449525382,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,Subsidies,578638.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,Taxes,899578.6507151839,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,Taxes,933975.7566621372,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,Taxes,946397.3925823935,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,Taxes,1086357.1048368234,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,Taxes,1190433.4586826717,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,Taxes,1170938.4108677574,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,Taxes,1321800.99008843,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,Taxes,1297188.3501751295,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,Taxes,1359206.360739629,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,Taxes,1600447.7039007093,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,Taxes,1377395.1158331125,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,Taxes,1456850.1250419654,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,Taxes,1531323.8263909535,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,Taxes,1489924.2477559205,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,Taxes,1591092.5995955956,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,Taxes,1680356.9855671576,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,Taxes,2442880.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,Taxes,2483605.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,Taxes,2610793.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,Taxes,2555422.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,Taxes,2449628.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,Taxes,2894190.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,Taxes,2906476.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,Taxes,2672001.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,Taxes,2749577.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,Taxes,3239611.9168201354,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,Taxes,3775595.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,i) Important Crops,1162155.4087080867,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,i) Important Crops,1044427.5693705917,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,i) Important Crops,1002894.5798040545,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,i) Important Crops,1058286.2189868125,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,i) Important Crops,1062470.9700887771,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,i) Important Crops,1276891.0290261232,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,i) Important Crops,1236014.0080732196,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,i) Important Crops,1344198.8063652762,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,i) Important Crops,1278590.182315824,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,i) Important Crops,1370855.9849782758,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,i) Important Crops,1307739.4449087894,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,i) Important Crops,1356855.3302471093,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,i) Important Crops,1455250.0923848792,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,i) Important Crops,1476418.6373776672,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,i) Important Crops,1573024.8469426348,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,i) Important Crops,1542822.283874434,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,i) Important Crops,1462455.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,i) Important Crops,1501621.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,i) Important Crops,1565723.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,i) Important Crops,1431198.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,i) Important Crops,1506263.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,i) Important Crops,1593985.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,i) Important Crops,1681708.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,i) Important Crops,1689304.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,i) Important Crops,1977855.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,i) Important Crops,1717019.4,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,i) Important Crops,1728137.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,i) Large Scale,1117699.3944698432,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,i) Large Scale,1249416.9111191374,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,i) Large Scale,1296092.0932678594,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,i) Large Scale,1395022.8731692457,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,i) Large Scale,1658121.0024425369,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,i) Large Scale,1955447.148052523,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,i) Large Scale,2167420.4511235133,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,i) Large Scale,2353825.5521897804,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,i) Large Scale,2495527.8135779398,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,i) Large Scale,2344422.617860837,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,i) Large Scale,2356726.32865439,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,i) Large Scale,2393526.712073028,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,i) Large Scale,2413881.8704137495,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,i) Large Scale,2529946.752046176,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,i) Large Scale,2667136.07941995,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,i) Large Scale,2755731.919621504,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,i) Large Scale,2841708.7218924635,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,i) Large Scale,2957914.3844979987,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,i) Large Scale,3162575.935767959,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,i) Large Scale,3274235.3016279317,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,i) Large Scale,2906578.340557982,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,i) Large Scale,3240794.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,i) Large Scale,3626559.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,i) Large Scale,3269760.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,i) Large Scale,3300543.755670657,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,i) Large Scale,3277708.9620311665,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,i) Large Scale,3478051.2934659207,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,ii) Other Crops,1001745.5519880621,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,ii) Other Crops,969276.5508561304,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,ii) Other Crops,944772.6696361203,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,ii) Other Crops,921308.1743824997,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,ii) Other Crops,935124.8627317663,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,ii) Other Crops,960653.3133117285,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,ii) Other Crops,1002746.389372864,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,ii) Other Crops,1030572.5325329547,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,ii) Other Crops,1047324.4836695727,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,ii) Other Crops,1051028.0859842817,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,ii) Other Crops,972151.384960681,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,ii) Other Crops,984172.3037665765,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,ii) Other Crops,897774.9127603499,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,ii) Other Crops,951681.4229085627,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,ii) Other Crops,904038.4296331361,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,ii) Other Crops,898386.4899436866,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,ii) Other Crops,912388.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,ii) Other Crops,901099.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,ii) Other Crops,943042.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,ii) Other Crops,977166.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,ii) Other Crops,1067179.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,ii) Other Crops,1152009.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,ii) Other Crops,1289069.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,ii) Other Crops,1271187.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,ii) Other Crops,1272421.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,ii) Other Crops,1523592.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,ii) Other Crops,1560645.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,ii) Small Scale,142702.32870222634,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,ii) Small Scale,153442.11863594223,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,ii) Small Scale,165242.56094517736,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,ii) Small Scale,177630.3581903637,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,ii) Small Scale,190466.455638291,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,ii) Small Scale,203591.96190415992,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,ii) Small Scale,224339.39566132321,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,ii) Small Scale,239309.23050943762,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,ii) Small Scale,259130.86036474732,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,ii) Small Scale,281418.34526737477,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,ii) Small Scale,306028.02375958016,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,ii) Small Scale,332119.40071143775,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,ii) Small Scale,358818.47716990666,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,ii) Small Scale,390062.3584107546,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,ii) Small Scale,422385.10848163825,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,ii) Small Scale,457082.4277703146,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,ii) Small Scale,494948.6752457114,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,ii) Small Scale,538400.8238578343,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,ii) Small Scale,585867.4341545416,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,ii) Small Scale,638625.5498881092,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,ii) Small Scale,647374.3335043645,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,ii) Small Scale,705485.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,ii) Small Scale,768249.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,ii) Small Scale,838794.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,ii) Small Scale,914696.6673102675,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,ii) Small Scale,996220.7454624193,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,ii) Small Scale,1080886.682465248,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,iii) Cotton Ginning,129587.37946778873,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,iii) Cotton Ginning,126141.87771065946,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,iii) Cotton Ginning,124601.99769799592,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,iii) Cotton Ginning,121596.47092194791,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,iii) Cotton Ginning,121021.1462060684,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,iii) Cotton Ginning,154887.66046163213,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,iii) Cotton Ginning,146221.1505884395,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,iii) Cotton Ginning,145485.4949208261,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,iii) Cotton Ginning,135950.07419632742,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,iii) Cotton Ginning,137182.14108537353,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,iii) Cotton Ginning,145177.19774447184,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,iii) Cotton Ginning,134437.90837486018,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,iii) Cotton Ginning,153317.84549971734,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,iii) Cotton Ginning,148083.47683650604,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,iii) Cotton Ginning,146196.17336512503,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,iii) Cotton Ginning,156186.20861333213,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,iii) Cotton Ginning,122310.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,iii) Cotton Ginning,128718.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,iii) Cotton Ginning,139363.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,iii) Cotton Ginning,123706.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,iii) Cotton Ginning,118679.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,iii) Cotton Ginning,103154.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,iii) Cotton Ginning,112662.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,iii) Cotton Ginning,86934.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,iii) Cotton Ginning,127991.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,iii) Cotton Ginning,103686.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,iii) Cotton Ginning,103761.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2000-06-30,iii) Slaughtering,145200.19696312293,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2001-06-30,iii) Slaughtering,152763.82821639662,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2002-06-30,iii) Slaughtering,160781.03753624437,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2003-06-30,iii) Slaughtering,169613.70927828143,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2004-06-30,iii) Slaughtering,178363.94026589068,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2005-06-30,iii) Slaughtering,186710.60330687417,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2006-06-30,iii) Slaughtering,198923.56349980854,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2007-06-30,iii) Slaughtering,206449.02819747082,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2008-06-30,iii) Slaughtering,216737.60786006926,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2009-06-30,iii) Slaughtering,228566.43504395825,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2010-06-30,iii) Slaughtering,240908.46972939023,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2011-06-30,iii) Slaughtering,253885.1654085433,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2012-06-30,iii) Slaughtering,266815.1984492657,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2013-06-30,iii) Slaughtering,282683.2782476421,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2014-06-30,iii) Slaughtering,297761.9961566848,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2015-06-30,iii) Slaughtering,313899.6073611872,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2016-06-30,iii) Slaughtering,332120.60286182526,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2017-06-30,iii) Slaughtering,351037.79164416716,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2018-06-30,iii) Slaughtering,371262.6300774996,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2019-06-30,iii) Slaughtering,393116.1484839594,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2020-06-30,iii) Slaughtering,416293.3259376531,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2021-06-30,iii) Slaughtering,441745.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2022-06-30,iii) Slaughtering,469542.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2023-06-30,iii) Slaughtering,499869.0,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2024-06-30,iii) Slaughtering,532872.5770190756,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2025-06-30,iii) Slaughtering,567193.2925064141,million PKR (constant 2015-16),sbp_gdp_annual,annual
+2026-06-30,iii) Slaughtering,602324.0240688316,million PKR (constant 2015-16),sbp_gdp_annual,annual

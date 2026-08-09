@@ -1,0 +1,91 @@
+date,series,value,unit,source_id,frequency
+1991-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",30.17,million number,pbs_labour_sdmx,annual
+1992-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",29.14,million number,pbs_labour_sdmx,annual
+1993-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",30.19,million number,pbs_labour_sdmx,annual
+1994-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",31.06,million number,pbs_labour_sdmx,annual
+1995-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",31.68,million number,pbs_labour_sdmx,annual
+1996-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",31.83,million number,pbs_labour_sdmx,annual
+1997-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",33.13,million number,pbs_labour_sdmx,annual
+1998-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",35.16,million number,pbs_labour_sdmx,annual
+1999-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",36.94,million number,pbs_labour_sdmx,annual
+2000-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",36.32,million number,pbs_labour_sdmx,annual
+2001-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",37.32,million number,pbs_labour_sdmx,annual
+2002-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",38.88,million number,pbs_labour_sdmx,annual
+2003-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",39.64,million number,pbs_labour_sdmx,annual
+2004-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",42.0,million number,pbs_labour_sdmx,annual
+2005-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",42.24,million number,pbs_labour_sdmx,annual
+2006-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",47.37,million number,pbs_labour_sdmx,annual
+2007-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",49.68,million number,pbs_labour_sdmx,annual
+2008-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",50.45,million number,pbs_labour_sdmx,annual
+2009-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",52.86,million number,pbs_labour_sdmx,annual
+2010-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",53.76,million number,pbs_labour_sdmx,annual
+2011-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",54.4,million number,pbs_labour_sdmx,annual
+2012-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",55.8,million number,pbs_labour_sdmx,annual
+2013-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",56.1,million number,pbs_labour_sdmx,annual
+2014-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",56.52,million number,pbs_labour_sdmx,annual
+2015-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",57.42,million number,pbs_labour_sdmx,annual
+2016-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",58.574142,million number,pbs_labour_sdmx,annual
+2017-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",59.0954518637999,million number,pbs_labour_sdmx,annual
+2018-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",61.71,million number,pbs_labour_sdmx,annual
+2019-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",64.03,million number,pbs_labour_sdmx,annual
+2021-06-30,"Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]",67.25,million number,pbs_labour_sdmx,annual
+1991-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",31.15,million number,pbs_labour_sdmx,annual
+1992-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",31.09,million number,pbs_labour_sdmx,annual
+1993-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",32.07,million number,pbs_labour_sdmx,annual
+1994-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",32.61,million number,pbs_labour_sdmx,annual
+1995-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",33.29,million number,pbs_labour_sdmx,annual
+1996-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",33.45,million number,pbs_labour_sdmx,annual
+1997-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",35.01,million number,pbs_labour_sdmx,annual
+1998-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",37.45,million number,pbs_labour_sdmx,annual
+1999-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",39.26,million number,pbs_labour_sdmx,annual
+2000-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",40.15,million number,pbs_labour_sdmx,annual
+2001-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",40.49,million number,pbs_labour_sdmx,annual
+2002-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",41.38,million number,pbs_labour_sdmx,annual
+2003-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",43.21,million number,pbs_labour_sdmx,annual
+2004-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",45.5,million number,pbs_labour_sdmx,annual
+2005-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",45.76,million number,pbs_labour_sdmx,annual
+2006-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",50.5,million number,pbs_labour_sdmx,annual
+2007-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",52.41,million number,pbs_labour_sdmx,annual
+2008-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",53.22,million number,pbs_labour_sdmx,annual
+2009-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",55.91,million number,pbs_labour_sdmx,annual
+2010-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",56.92,million number,pbs_labour_sdmx,annual
+2011-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",57.84,million number,pbs_labour_sdmx,annual
+2012-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",59.33,million number,pbs_labour_sdmx,annual
+2013-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",59.7,million number,pbs_labour_sdmx,annual
+2014-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",60.1,million number,pbs_labour_sdmx,annual
+2015-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",61.04,million number,pbs_labour_sdmx,annual
+2016-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",62.266904,million number,pbs_labour_sdmx,annual
+2017-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",62.8210794455999,million number,pbs_labour_sdmx,annual
+2018-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",65.5,million number,pbs_labour_sdmx,annual
+2019-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",68.75,million number,pbs_labour_sdmx,annual
+2021-06-30,"Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]",71.76,million number,pbs_labour_sdmx,annual
+1991-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",0.97,million number,pbs_labour_sdmx,annual
+1992-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",1.95,million number,pbs_labour_sdmx,annual
+1993-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",1.87,million number,pbs_labour_sdmx,annual
+1994-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",1.53,million number,pbs_labour_sdmx,annual
+1995-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",1.61,million number,pbs_labour_sdmx,annual
+1996-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",1.83,million number,pbs_labour_sdmx,annual
+1997-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",1.88,million number,pbs_labour_sdmx,annual
+1998-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",2.29,million number,pbs_labour_sdmx,annual
+1999-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",2.32,million number,pbs_labour_sdmx,annual
+2000-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",2.37,million number,pbs_labour_sdmx,annual
+2001-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.17,million number,pbs_labour_sdmx,annual
+2002-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.24,million number,pbs_labour_sdmx,annual
+2003-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.57,million number,pbs_labour_sdmx,annual
+2004-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.5,million number,pbs_labour_sdmx,annual
+2005-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.52,million number,pbs_labour_sdmx,annual
+2006-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.13,million number,pbs_labour_sdmx,annual
+2007-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",2.73,million number,pbs_labour_sdmx,annual
+2008-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",2.77,million number,pbs_labour_sdmx,annual
+2009-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.05,million number,pbs_labour_sdmx,annual
+2010-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.16,million number,pbs_labour_sdmx,annual
+2011-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.44,million number,pbs_labour_sdmx,annual
+2012-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.53,million number,pbs_labour_sdmx,annual
+2013-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.73,million number,pbs_labour_sdmx,annual
+2014-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.58,million number,pbs_labour_sdmx,annual
+2015-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.62,million number,pbs_labour_sdmx,annual
+2016-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.692762,million number,pbs_labour_sdmx,annual
+2017-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.7256275818,million number,pbs_labour_sdmx,annual
+2018-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",3.79,million number,pbs_labour_sdmx,annual
+2019-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",4.7,million number,pbs_labour_sdmx,annual
+2021-06-30,"Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]",4.51,million number,pbs_labour_sdmx,annual

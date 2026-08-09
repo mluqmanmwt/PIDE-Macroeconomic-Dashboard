@@ -1,0 +1,569 @@
+date,series,value,unit,source_id,frequency
+2013-06-30,NEER (fiscal-year average),86.59175998410035,index (2010 = 100),sbp_reer_neer,annual
+2014-06-30,NEER (fiscal-year average),86.96023074674366,index (2010 = 100),sbp_reer_neer,annual
+2015-06-30,NEER (fiscal-year average),91.18842568597681,index (2010 = 100),sbp_reer_neer,annual
+2016-06-30,NEER (fiscal-year average),91.33119047102889,index (2010 = 100),sbp_reer_neer,annual
+2017-06-30,NEER (fiscal-year average),92.54154977276232,index (2010 = 100),sbp_reer_neer,annual
+2018-06-30,NEER (fiscal-year average),79.73986012955349,index (2010 = 100),sbp_reer_neer,annual
+2019-06-30,NEER (fiscal-year average),64.19894704769328,index (2010 = 100),sbp_reer_neer,annual
+2020-06-30,NEER (fiscal-year average),61.0765665358034,index (2010 = 100),sbp_reer_neer,annual
+2021-06-30,NEER (fiscal-year average),61.25219475066738,index (2010 = 100),sbp_reer_neer,annual
+2022-06-30,NEER (fiscal-year average),50.61469655570744,index (2010 = 100),sbp_reer_neer,annual
+2023-06-30,NEER (fiscal-year average),37.315746830834954,index (2010 = 100),sbp_reer_neer,annual
+2014-06-30,NEER — change over previous period (fiscal-year average),0.42552635806336614,%,sbp_reer_neer,annual
+2015-06-30,NEER — change over previous period (fiscal-year average),4.862216789128615,%,sbp_reer_neer,annual
+2016-06-30,NEER — change over previous period (fiscal-year average),0.1565602037518543,%,sbp_reer_neer,annual
+2017-06-30,NEER — change over previous period (fiscal-year average),1.3252420071294013,%,sbp_reer_neer,annual
+2018-06-30,NEER — change over previous period (fiscal-year average),-13.83345067663514,%,sbp_reer_neer,annual
+2019-06-30,NEER — change over previous period (fiscal-year average),-19.48951635557281,%,sbp_reer_neer,annual
+2020-06-30,NEER — change over previous period (fiscal-year average),-4.863600815088553,%,sbp_reer_neer,annual
+2021-06-30,NEER — change over previous period (fiscal-year average),0.2875541714693952,%,sbp_reer_neer,annual
+2022-06-30,NEER — change over previous period (fiscal-year average),-17.36672169586876,%,sbp_reer_neer,annual
+2023-06-30,NEER — change over previous period (fiscal-year average),-26.27487791067842,%,sbp_reer_neer,annual
+2013-06-30,REER (fiscal-year average),102.52668389186938,index (2010 = 100),sbp_reer_neer,annual
+2014-06-30,REER (fiscal-year average),108.44820546417014,index (2010 = 100),sbp_reer_neer,annual
+2015-06-30,REER (fiscal-year average),115.35147346340969,index (2010 = 100),sbp_reer_neer,annual
+2016-06-30,REER (fiscal-year average),117.40410135078233,index (2010 = 100),sbp_reer_neer,annual
+2017-06-30,REER (fiscal-year average),121.2569127875358,index (2010 = 100),sbp_reer_neer,annual
+2018-06-30,REER (fiscal-year average),107.27313353610838,index (2010 = 100),sbp_reer_neer,annual
+2019-06-30,REER (fiscal-year average),92.443273518596,index (2010 = 100),sbp_reer_neer,annual
+2020-06-30,REER (fiscal-year average),94.50667465148094,index (2010 = 100),sbp_reer_neer,annual
+2021-06-30,REER (fiscal-year average),101.02532035703658,index (2010 = 100),sbp_reer_neer,annual
+2022-06-30,REER (fiscal-year average),94.86133580588019,index (2010 = 100),sbp_reer_neer,annual
+2023-06-30,REER (fiscal-year average),87.7283085486122,index (2010 = 100),sbp_reer_neer,annual
+2014-06-30,REER — change over previous period (fiscal-year average),5.77559065359603,%,sbp_reer_neer,annual
+2015-06-30,REER — change over previous period (fiscal-year average),6.365497676695342,%,sbp_reer_neer,annual
+2016-06-30,REER — change over previous period (fiscal-year average),1.7794552819680565,%,sbp_reer_neer,annual
+2017-06-30,REER — change over previous period (fiscal-year average),3.281666817790252,%,sbp_reer_neer,annual
+2018-06-30,REER — change over previous period (fiscal-year average),-11.532356325061278,%,sbp_reer_neer,annual
+2019-06-30,REER — change over previous period (fiscal-year average),-13.824393423280224,%,sbp_reer_neer,annual
+2020-06-30,REER — change over previous period (fiscal-year average),2.232072766732851,%,sbp_reer_neer,annual
+2021-06-30,REER — change over previous period (fiscal-year average),6.897550601155866,%,sbp_reer_neer,annual
+2022-06-30,REER — change over previous period (fiscal-year average),-6.101425394517001,%,sbp_reer_neer,annual
+2023-06-30,REER — change over previous period (fiscal-year average),-7.519425271287217,%,sbp_reer_neer,annual
+2013-01-31,NEER,86.38270366945983,index (2010 = 100),sbp_reer_neer,monthly
+2013-02-28,NEER,86.33309837499307,index (2010 = 100),sbp_reer_neer,monthly
+2013-03-31,NEER,87.18205107727982,index (2010 = 100),sbp_reer_neer,monthly
+2013-04-30,NEER,86.86635399342823,index (2010 = 100),sbp_reer_neer,monthly
+2013-05-31,NEER,86.76750640891375,index (2010 = 100),sbp_reer_neer,monthly
+2013-06-30,NEER,86.59175998410035,index (2010 = 100),sbp_reer_neer,monthly
+2013-07-31,NEER,85.48418935278693,index (2010 = 100),sbp_reer_neer,monthly
+2013-08-31,NEER,83.71100592373432,index (2010 = 100),sbp_reer_neer,monthly
+2013-09-30,NEER,81.67060557880572,index (2010 = 100),sbp_reer_neer,monthly
+2013-10-31,NEER,80.23450813293877,index (2010 = 100),sbp_reer_neer,monthly
+2013-11-30,NEER,79.76667977663122,index (2010 = 100),sbp_reer_neer,monthly
+2013-12-31,NEER,79.97791312780298,index (2010 = 100),sbp_reer_neer,monthly
+2014-01-31,NEER,81.6055267589204,index (2010 = 100),sbp_reer_neer,monthly
+2014-02-28,NEER,81.75611670187705,index (2010 = 100),sbp_reer_neer,monthly
+2014-03-31,NEER,85.6915717678477,index (2010 = 100),sbp_reer_neer,monthly
+2014-04-30,NEER,87.59067508077496,index (2010 = 100),sbp_reer_neer,monthly
+2014-05-31,NEER,86.59525013083693,index (2010 = 100),sbp_reer_neer,monthly
+2014-06-30,NEER,86.96023074674366,index (2010 = 100),sbp_reer_neer,monthly
+2014-07-31,NEER,86.76901682068616,index (2010 = 100),sbp_reer_neer,monthly
+2014-08-31,NEER,86.11189613561994,index (2010 = 100),sbp_reer_neer,monthly
+2014-09-30,NEER,85.2099287738408,index (2010 = 100),sbp_reer_neer,monthly
+2014-10-31,NEER,85.65335476124515,index (2010 = 100),sbp_reer_neer,monthly
+2014-11-30,NEER,87.2517825399934,index (2010 = 100),sbp_reer_neer,monthly
+2014-12-31,NEER,89.11642768285162,index (2010 = 100),sbp_reer_neer,monthly
+2015-01-31,NEER,90.6488295301554,index (2010 = 100),sbp_reer_neer,monthly
+2015-02-28,NEER,90.75032455051394,index (2010 = 100),sbp_reer_neer,monthly
+2015-03-31,NEER,91.81530977751551,index (2010 = 100),sbp_reer_neer,monthly
+2015-04-30,NEER,91.6167184261752,index (2010 = 100),sbp_reer_neer,monthly
+2015-05-31,NEER,90.75772905947076,index (2010 = 100),sbp_reer_neer,monthly
+2015-06-30,NEER,91.18842568597681,index (2010 = 100),sbp_reer_neer,monthly
+2015-07-31,NEER,91.97128658057336,index (2010 = 100),sbp_reer_neer,monthly
+2015-08-31,NEER,92.79166253232292,index (2010 = 100),sbp_reer_neer,monthly
+2015-09-30,NEER,91.71228745093724,index (2010 = 100),sbp_reer_neer,monthly
+2015-10-31,NEER,91.02293749932464,index (2010 = 100),sbp_reer_neer,monthly
+2015-11-30,NEER,91.4131416379492,index (2010 = 100),sbp_reer_neer,monthly
+2015-12-31,NEER,92.50114626165276,index (2010 = 100),sbp_reer_neer,monthly
+2016-01-31,NEER,92.97905310857497,index (2010 = 100),sbp_reer_neer,monthly
+2016-02-29,NEER,92.37610052184931,index (2010 = 100),sbp_reer_neer,monthly
+2016-03-31,NEER,91.49418083372846,index (2010 = 100),sbp_reer_neer,monthly
+2016-04-30,NEER,90.42616702321239,index (2010 = 100),sbp_reer_neer,monthly
+2016-05-31,NEER,90.87607353456285,index (2010 = 100),sbp_reer_neer,monthly
+2016-06-30,NEER,91.33119047102889,index (2010 = 100),sbp_reer_neer,monthly
+2016-07-31,NEER,91.77928356215006,index (2010 = 100),sbp_reer_neer,monthly
+2016-08-31,NEER,91.25290511445013,index (2010 = 100),sbp_reer_neer,monthly
+2016-09-30,NEER,91.61004296214782,index (2010 = 100),sbp_reer_neer,monthly
+2016-10-31,NEER,92.4825559909193,index (2010 = 100),sbp_reer_neer,monthly
+2016-11-30,NEER,93.82834803659941,index (2010 = 100),sbp_reer_neer,monthly
+2016-12-31,NEER,95.39725852721618,index (2010 = 100),sbp_reer_neer,monthly
+2017-01-31,NEER,95.11588957229944,index (2010 = 100),sbp_reer_neer,monthly
+2017-02-28,NEER,94.45557562142915,index (2010 = 100),sbp_reer_neer,monthly
+2017-03-31,NEER,94.3688040129194,index (2010 = 100),sbp_reer_neer,monthly
+2017-04-30,NEER,93.96401974863974,index (2010 = 100),sbp_reer_neer,monthly
+2017-05-31,NEER,93.39244624713398,index (2010 = 100),sbp_reer_neer,monthly
+2017-06-30,NEER,92.54154977276232,index (2010 = 100),sbp_reer_neer,monthly
+2017-07-31,NEER,91.22125532096635,index (2010 = 100),sbp_reer_neer,monthly
+2017-08-31,NEER,90.2672196979778,index (2010 = 100),sbp_reer_neer,monthly
+2017-09-30,NEER,89.4759014044835,index (2010 = 100),sbp_reer_neer,monthly
+2017-10-31,NEER,90.39551779208821,index (2010 = 100),sbp_reer_neer,monthly
+2017-11-30,NEER,90.59692266598744,index (2010 = 100),sbp_reer_neer,monthly
+2017-12-31,NEER,87.23278187338471,index (2010 = 100),sbp_reer_neer,monthly
+2018-01-31,NEER,84.12064830733594,index (2010 = 100),sbp_reer_neer,monthly
+2018-02-28,NEER,83.24734517084441,index (2010 = 100),sbp_reer_neer,monthly
+2018-03-31,NEER,81.9058250988299,index (2010 = 100),sbp_reer_neer,monthly
+2018-04-30,NEER,79.94590418710864,index (2010 = 100),sbp_reer_neer,monthly
+2018-05-31,NEER,81.5706834084756,index (2010 = 100),sbp_reer_neer,monthly
+2018-06-30,NEER,79.73986012955349,index (2010 = 100),sbp_reer_neer,monthly
+2018-07-31,NEER,77.55985633277434,index (2010 = 100),sbp_reer_neer,monthly
+2018-08-31,NEER,79.30872952644613,index (2010 = 100),sbp_reer_neer,monthly
+2018-09-30,NEER,79.26248552839601,index (2010 = 100),sbp_reer_neer,monthly
+2018-10-31,NEER,75.60742263964958,index (2010 = 100),sbp_reer_neer,monthly
+2018-11-30,NEER,74.14734143711877,index (2010 = 100),sbp_reer_neer,monthly
+2018-12-31,NEER,71.35173268041397,index (2010 = 100),sbp_reer_neer,monthly
+2019-01-31,NEER,70.61448770376406,index (2010 = 100),sbp_reer_neer,monthly
+2019-02-28,NEER,70.4669465788555,index (2010 = 100),sbp_reer_neer,monthly
+2019-03-31,NEER,70.26140613832074,index (2010 = 100),sbp_reer_neer,monthly
+2019-04-30,NEER,69.48078192910003,index (2010 = 100),sbp_reer_neer,monthly
+2019-05-31,NEER,68.15187593719791,index (2010 = 100),sbp_reer_neer,monthly
+2019-06-30,NEER,64.19894704769328,index (2010 = 100),sbp_reer_neer,monthly
+2019-07-31,NEER,61.964032489609075,index (2010 = 100),sbp_reer_neer,monthly
+2019-08-31,NEER,63.363244892655445,index (2010 = 100),sbp_reer_neer,monthly
+2019-09-30,NEER,64.43590583400088,index (2010 = 100),sbp_reer_neer,monthly
+2019-10-31,NEER,64.39939625573048,index (2010 = 100),sbp_reer_neer,monthly
+2019-11-30,NEER,64.28751749036303,index (2010 = 100),sbp_reer_neer,monthly
+2019-12-31,NEER,64.38471458172525,index (2010 = 100),sbp_reer_neer,monthly
+2020-01-31,NEER,64.12513267148658,index (2010 = 100),sbp_reer_neer,monthly
+2020-02-29,NEER,65.06482194821034,index (2010 = 100),sbp_reer_neer,monthly
+2020-03-31,NEER,63.83697400322938,index (2010 = 100),sbp_reer_neer,monthly
+2020-04-30,NEER,62.551499160159096,index (2010 = 100),sbp_reer_neer,monthly
+2020-05-31,NEER,63.90258579221323,index (2010 = 100),sbp_reer_neer,monthly
+2020-06-30,NEER,61.0765665358034,index (2010 = 100),sbp_reer_neer,monthly
+2020-07-31,NEER,59.982600232021284,index (2010 = 100),sbp_reer_neer,monthly
+2020-08-31,NEER,58.71767743762536,index (2010 = 100),sbp_reer_neer,monthly
+2020-09-30,NEER,59.39774893940228,index (2010 = 100),sbp_reer_neer,monthly
+2020-10-31,NEER,60.30416665020233,index (2010 = 100),sbp_reer_neer,monthly
+2020-11-30,NEER,61.02246612484896,index (2010 = 100),sbp_reer_neer,monthly
+2020-12-31,NEER,59.81824723293806,index (2010 = 100),sbp_reer_neer,monthly
+2021-01-31,NEER,59.42911430580802,index (2010 = 100),sbp_reer_neer,monthly
+2021-02-28,NEER,59.869451870407865,index (2010 = 100),sbp_reer_neer,monthly
+2021-03-31,NEER,61.82805478937093,index (2010 = 100),sbp_reer_neer,monthly
+2021-04-30,NEER,63.0397062135771,index (2010 = 100),sbp_reer_neer,monthly
+2021-05-31,NEER,62.50289940089197,index (2010 = 100),sbp_reer_neer,monthly
+2021-06-30,NEER,61.25219475066738,index (2010 = 100),sbp_reer_neer,monthly
+2021-07-31,NEER,60.463777476339814,index (2010 = 100),sbp_reer_neer,monthly
+2021-08-31,NEER,58.99606337996129,index (2010 = 100),sbp_reer_neer,monthly
+2021-09-30,NEER,57.47421732689395,index (2010 = 100),sbp_reer_neer,monthly
+2021-10-31,NEER,56.61138986551392,index (2010 = 100),sbp_reer_neer,monthly
+2021-11-30,NEER,56.458729486350954,index (2010 = 100),sbp_reer_neer,monthly
+2021-12-31,NEER,55.60585475042879,index (2010 = 100),sbp_reer_neer,monthly
+2022-01-31,NEER,55.7368012775794,index (2010 = 100),sbp_reer_neer,monthly
+2022-02-28,NEER,55.9179663758126,index (2010 = 100),sbp_reer_neer,monthly
+2022-03-31,NEER,55.33605803712965,index (2010 = 100),sbp_reer_neer,monthly
+2022-04-30,NEER,54.4978718185082,index (2010 = 100),sbp_reer_neer,monthly
+2022-05-31,NEER,53.25236461608846,index (2010 = 100),sbp_reer_neer,monthly
+2022-06-30,NEER,50.61469655570744,index (2010 = 100),sbp_reer_neer,monthly
+2022-07-31,NEER,48.32424977577991,index (2010 = 100),sbp_reer_neer,monthly
+2022-08-31,NEER,47.849087267986654,index (2010 = 100),sbp_reer_neer,monthly
+2022-09-30,NEER,46.89173452920271,index (2010 = 100),sbp_reer_neer,monthly
+2022-10-31,NEER,49.890236755205216,index (2010 = 100),sbp_reer_neer,monthly
+2022-11-30,NEER,48.86629268749422,index (2010 = 100),sbp_reer_neer,monthly
+2022-12-31,NEER,47.254971150793935,index (2010 = 100),sbp_reer_neer,monthly
+2023-01-31,NEER,44.46333060025954,index (2010 = 100),sbp_reer_neer,monthly
+2023-02-28,NEER,39.28956071358547,index (2010 = 100),sbp_reer_neer,monthly
+2023-03-31,NEER,37.577809907244735,index (2010 = 100),sbp_reer_neer,monthly
+2023-04-30,NEER,36.78195209513411,index (2010 = 100),sbp_reer_neer,monthly
+2023-05-31,NEER,36.976082317700005,index (2010 = 100),sbp_reer_neer,monthly
+2023-06-30,NEER,37.315746830834954,index (2010 = 100),sbp_reer_neer,monthly
+2023-07-31,NEER,37.79813581725355,index (2010 = 100),sbp_reer_neer,monthly
+2023-08-31,NEER,36.72084672347474,index (2010 = 100),sbp_reer_neer,monthly
+2023-09-30,NEER,36.786998306523955,index (2010 = 100),sbp_reer_neer,monthly
+2023-10-31,NEER,39.17559542940713,index (2010 = 100),sbp_reer_neer,monthly
+2023-11-30,NEER,37.9882993950922,index (2010 = 100),sbp_reer_neer,monthly
+2023-12-31,NEER,37.941392915599856,index (2010 = 100),sbp_reer_neer,monthly
+2013-02-28,NEER — change over previous period,-0.057425031122626535,%,sbp_reer_neer,monthly
+2013-03-31,NEER — change over previous period,0.9833455746013797,%,sbp_reer_neer,monthly
+2013-04-30,NEER — change over previous period,-0.3621124760780692,%,sbp_reer_neer,monthly
+2013-05-31,NEER — change over previous period,-0.11379271716868145,%,sbp_reer_neer,monthly
+2013-06-30,NEER — change over previous period,-0.2025486637649232,%,sbp_reer_neer,monthly
+2013-07-31,NEER — change over previous period,-1.2790716247328748,%,sbp_reer_neer,monthly
+2013-08-31,NEER — change over previous period,-2.074282323406973,%,sbp_reer_neer,monthly
+2013-09-30,NEER — change over previous period,-2.437433790710297,%,sbp_reer_neer,monthly
+2013-10-31,NEER — change over previous period,-1.7584018579135274,%,sbp_reer_neer,monthly
+2013-11-30,NEER — change over previous period,-0.5830762438680526,%,sbp_reer_neer,monthly
+2013-12-31,NEER — change over previous period,0.26481401979281394,%,sbp_reer_neer,monthly
+2014-01-31,NEER — change over previous period,2.035078895490239,%,sbp_reer_neer,monthly
+2014-02-28,NEER — change over previous period,0.1845340002540663,%,sbp_reer_neer,monthly
+2014-03-31,NEER — change over previous period,4.813652145834246,%,sbp_reer_neer,monthly
+2014-04-30,NEER — change over previous period,2.2162078180479883,%,sbp_reer_neer,monthly
+2014-05-31,NEER — change over previous period,-1.1364508254104178,%,sbp_reer_neer,monthly
+2014-06-30,NEER — change over previous period,0.42147879399305754,%,sbp_reer_neer,monthly
+2014-07-31,NEER — change over previous period,-0.21988663601224534,%,sbp_reer_neer,monthly
+2014-08-31,NEER — change over previous period,-0.757321805805633,%,sbp_reer_neer,monthly
+2014-09-30,NEER — change over previous period,-1.0474364196540353,%,sbp_reer_neer,monthly
+2014-10-31,NEER — change over previous period,0.5203923929818943,%,sbp_reer_neer,monthly
+2014-11-30,NEER — change over previous period,1.866158988405986,%,sbp_reer_neer,monthly
+2014-12-31,NEER — change over previous period,2.1370854423558905,%,sbp_reer_neer,monthly
+2015-01-31,NEER — change over previous period,1.7195503535636592,%,sbp_reer_neer,monthly
+2015-02-28,NEER — change over previous period,0.1119650643969683,%,sbp_reer_neer,monthly
+2015-03-31,NEER — change over previous period,1.173533243298519,%,sbp_reer_neer,monthly
+2015-04-30,NEER — change over previous period,-0.2162943759831948,%,sbp_reer_neer,monthly
+2015-05-31,NEER — change over previous period,-0.9375901925548713,%,sbp_reer_neer,monthly
+2015-06-30,NEER — change over previous period,0.47455641626270584,%,sbp_reer_neer,monthly
+2015-07-31,NEER — change over previous period,0.8585090582575283,%,sbp_reer_neer,monthly
+2015-08-31,NEER — change over previous period,0.8919913836704207,%,sbp_reer_neer,monthly
+2015-09-30,NEER — change over previous period,-1.1632242077888044,%,sbp_reer_neer,monthly
+2015-10-31,NEER — change over previous period,-0.75164404985687,%,sbp_reer_neer,monthly
+2015-11-30,NEER — change over previous period,0.4286877015229784,%,sbp_reer_neer,monthly
+2015-12-31,NEER — change over previous period,1.1902059202961501,%,sbp_reer_neer,monthly
+2016-01-31,NEER — change over previous period,0.51664964839504,%,sbp_reer_neer,monthly
+2016-02-29,NEER — change over previous period,-0.6484821758956594,%,sbp_reer_neer,monthly
+2016-03-31,NEER — change over previous period,-0.9547054737521043,%,sbp_reer_neer,monthly
+2016-04-30,NEER — change over previous period,-1.1673024456680725,%,sbp_reer_neer,monthly
+2016-05-31,NEER — change over previous period,0.49754017687708707,%,sbp_reer_neer,monthly
+2016-06-30,NEER — change over previous period,0.5008105200462243,%,sbp_reer_neer,monthly
+2016-07-31,NEER — change over previous period,0.49062438451770163,%,sbp_reer_neer,monthly
+2016-08-31,NEER — change over previous period,-0.5735264291352626,%,sbp_reer_neer,monthly
+2016-09-30,NEER — change over previous period,0.3913714826391024,%,sbp_reer_neer,monthly
+2016-10-31,NEER — change over previous period,0.9524207178158273,%,sbp_reer_neer,monthly
+2016-11-30,NEER — change over previous period,1.4551847440421595,%,sbp_reer_neer,monthly
+2016-12-31,NEER — change over previous period,1.6721071226840634,%,sbp_reer_neer,monthly
+2017-01-31,NEER — change over previous period,-0.2949444871484186,%,sbp_reer_neer,monthly
+2017-02-28,NEER — change over previous period,-0.6942204439652211,%,sbp_reer_neer,monthly
+2017-03-31,NEER — change over previous period,-0.09186499361087952,%,sbp_reer_neer,monthly
+2017-04-30,NEER — change over previous period,-0.4289386397481887,%,sbp_reer_neer,monthly
+2017-05-31,NEER — change over previous period,-0.6082897507309393,%,sbp_reer_neer,monthly
+2017-06-30,NEER — change over previous period,-0.9110977477985949,%,sbp_reer_neer,monthly
+2017-07-31,NEER — change over previous period,-1.4267044965617925,%,sbp_reer_neer,monthly
+2017-08-31,NEER — change over previous period,-1.0458479436966095,%,sbp_reer_neer,monthly
+2017-09-30,NEER — change over previous period,-0.8766397105637536,%,sbp_reer_neer,monthly
+2017-10-31,NEER — change over previous period,1.0277810820228828,%,sbp_reer_neer,monthly
+2017-11-30,NEER — change over previous period,0.2228040491592198,%,sbp_reer_neer,monthly
+2017-12-31,NEER — change over previous period,-3.7133058095202953,%,sbp_reer_neer,monthly
+2018-01-31,NEER — change over previous period,-3.56761930459345,%,sbp_reer_neer,monthly
+2018-02-28,NEER — change over previous period,-1.0381554993500575,%,sbp_reer_neer,monthly
+2018-03-31,NEER — change over previous period,-1.611486911998672,%,sbp_reer_neer,monthly
+2018-04-30,NEER — change over previous period,-2.3928956327054385,%,sbp_reer_neer,monthly
+2018-05-31,NEER — change over previous period,2.032348295872999,%,sbp_reer_neer,monthly
+2018-06-30,NEER — change over previous period,-2.24446235144804,%,sbp_reer_neer,monthly
+2018-07-31,NEER — change over previous period,-2.7338946835839595,%,sbp_reer_neer,monthly
+2018-08-31,NEER — change over previous period,2.2548690474208266,%,sbp_reer_neer,monthly
+2018-09-30,NEER — change over previous period,-0.05830883728215053,%,sbp_reer_neer,monthly
+2018-10-31,NEER — change over previous period,-4.611340237919981,%,sbp_reer_neer,monthly
+2018-11-30,NEER — change over previous period,-1.9311347372461984,%,sbp_reer_neer,monthly
+2018-12-31,NEER — change over previous period,-3.7703425402994872,%,sbp_reer_neer,monthly
+2019-01-31,NEER — change over previous period,-1.033254483043955,%,sbp_reer_neer,monthly
+2019-02-28,NEER — change over previous period,-0.20893888733924948,%,sbp_reer_neer,monthly
+2019-03-31,NEER — change over previous period,-0.2916834778767585,%,sbp_reer_neer,monthly
+2019-04-30,NEER — change over previous period,-1.1110284466609222,%,sbp_reer_neer,monthly
+2019-05-31,NEER — change over previous period,-1.9126238292167863,%,sbp_reer_neer,monthly
+2019-06-30,NEER — change over previous period,-5.8001762022622305,%,sbp_reer_neer,monthly
+2019-07-31,NEER — change over previous period,-3.4812324202512124,%,sbp_reer_neer,monthly
+2019-08-31,NEER — change over previous period,2.258104172418096,%,sbp_reer_neer,monthly
+2019-09-30,NEER — change over previous period,1.692875646066816,%,sbp_reer_neer,monthly
+2019-10-31,NEER — change over previous period,-0.05666030111294296,%,sbp_reer_neer,monthly
+2019-11-30,NEER — change over previous period,-0.17372641961297397,%,sbp_reer_neer,monthly
+2019-12-31,NEER — change over previous period,0.1511912345608657,%,sbp_reer_neer,monthly
+2020-01-31,NEER — change over previous period,-0.4031731940182359,%,sbp_reer_neer,monthly
+2020-02-29,NEER — change over previous period,1.4653993490162165,%,sbp_reer_neer,monthly
+2020-03-31,NEER — change over previous period,-1.8871148928345516,%,sbp_reer_neer,monthly
+2020-04-30,NEER — change over previous period,-2.0136838613391217,%,sbp_reer_neer,monthly
+2020-05-31,NEER — change over previous period,2.1599588342315457,%,sbp_reer_neer,monthly
+2020-06-30,NEER — change over previous period,-4.422386389181443,%,sbp_reer_neer,monthly
+2020-07-31,NEER — change over previous period,-1.7911391648723907,%,sbp_reer_neer,monthly
+2020-08-31,NEER — change over previous period,-2.1088162058714,%,sbp_reer_neer,monthly
+2020-09-30,NEER — change over previous period,1.1582057251827482,%,sbp_reer_neer,monthly
+2020-10-31,NEER — change over previous period,1.5260135728793145,%,sbp_reer_neer,monthly
+2020-11-30,NEER — change over previous period,1.1911274370362657,%,sbp_reer_neer,monthly
+2020-12-31,NEER — change over previous period,-1.973402532515034,%,sbp_reer_neer,monthly
+2021-01-31,NEER — change over previous period,-0.6505254585857712,%,sbp_reer_neer,monthly
+2021-02-28,NEER — change over previous period,0.7409458642340994,%,sbp_reer_neer,monthly
+2021-03-31,NEER — change over previous period,3.2714562398242997,%,sbp_reer_neer,monthly
+2021-04-30,NEER — change over previous period,1.959711377519291,%,sbp_reer_neer,monthly
+2021-05-31,NEER — change over previous period,-0.8515376179997425,%,sbp_reer_neer,monthly
+2021-06-30,NEER — change over previous period,-2.0010346115347466,%,sbp_reer_neer,monthly
+2021-07-31,NEER — change over previous period,-1.2871657538752523,%,sbp_reer_neer,monthly
+2021-08-31,NEER — change over previous period,-2.427427060694076,%,sbp_reer_neer,monthly
+2021-09-30,NEER — change over previous period,-2.5795722051248804,%,sbp_reer_neer,monthly
+2021-10-31,NEER — change over previous period,-1.50124264672028,%,sbp_reer_neer,monthly
+2021-11-30,NEER — change over previous period,-0.26966371877749085,%,sbp_reer_neer,monthly
+2021-12-31,NEER — change over previous period,-1.510616238943796,%,sbp_reer_neer,monthly
+2022-01-31,NEER — change over previous period,0.23549053914975193,%,sbp_reer_neer,monthly
+2022-02-28,NEER — change over previous period,0.32503676938862025,%,sbp_reer_neer,monthly
+2022-03-31,NEER — change over previous period,-1.040646461947603,%,sbp_reer_neer,monthly
+2022-04-30,NEER — change over previous period,-1.5147197837240944,%,sbp_reer_neer,monthly
+2022-05-31,NEER — change over previous period,-2.285423560332045,%,sbp_reer_neer,monthly
+2022-06-30,NEER — change over previous period,-4.953147300400129,%,sbp_reer_neer,monthly
+2022-07-31,NEER — change over previous period,-4.525260321192725,%,sbp_reer_neer,monthly
+2022-08-31,NEER — change over previous period,-0.9832796370310315,%,sbp_reer_neer,monthly
+2022-09-30,NEER — change over previous period,-2.0007753406499407,%,sbp_reer_neer,monthly
+2022-10-31,NEER — change over previous period,6.3945218834571715,%,sbp_reer_neer,monthly
+2022-11-30,NEER — change over previous period,-2.052393683227327,%,sbp_reer_neer,monthly
+2022-12-31,NEER — change over previous period,-3.297409007482688,%,sbp_reer_neer,monthly
+2023-01-31,NEER — change over previous period,-5.907612432194853,%,sbp_reer_neer,monthly
+2023-02-28,NEER — change over previous period,-11.636037644566077,%,sbp_reer_neer,monthly
+2023-03-31,NEER — change over previous period,-4.356757304616165,%,sbp_reer_neer,monthly
+2023-04-30,NEER — change over previous period,-2.117893017382022,%,sbp_reer_neer,monthly
+2023-05-31,NEER — change over previous period,0.5277866222646033,%,sbp_reer_neer,monthly
+2023-06-30,NEER — change over previous period,0.9186060064896528,%,sbp_reer_neer,monthly
+2023-07-31,NEER — change over previous period,1.2927223153416545,%,sbp_reer_neer,monthly
+2023-08-31,NEER — change over previous period,-2.850111706533065,%,sbp_reer_neer,monthly
+2023-09-30,NEER — change over previous period,0.18014721595982497,%,sbp_reer_neer,monthly
+2023-10-31,NEER — change over previous period,6.493047089573412,%,sbp_reer_neer,monthly
+2023-11-30,NEER — change over previous period,-3.030703225569076,%,sbp_reer_neer,monthly
+2023-12-31,NEER — change over previous period,-0.12347612354135507,%,sbp_reer_neer,monthly
+2013-01-31,REER,100.73868350533645,index (2010 = 100),sbp_reer_neer,monthly
+2013-02-28,REER,100.52255538382059,index (2010 = 100),sbp_reer_neer,monthly
+2013-03-31,REER,101.68824769555827,index (2010 = 100),sbp_reer_neer,monthly
+2013-04-30,REER,101.72639633884215,index (2010 = 100),sbp_reer_neer,monthly
+2013-05-31,REER,102.19888157909477,index (2010 = 100),sbp_reer_neer,monthly
+2013-06-30,REER,102.52668389186938,index (2010 = 100),sbp_reer_neer,monthly
+2013-07-31,REER,102.99782706797777,index (2010 = 100),sbp_reer_neer,monthly
+2013-08-31,REER,101.63604687742149,index (2010 = 100),sbp_reer_neer,monthly
+2013-09-30,REER,98.46190684390872,index (2010 = 100),sbp_reer_neer,monthly
+2013-10-31,REER,98.50233185335442,index (2010 = 100),sbp_reer_neer,monthly
+2013-11-30,REER,99.08063884526712,index (2010 = 100),sbp_reer_neer,monthly
+2013-12-31,REER,97.85778972381898,index (2010 = 100),sbp_reer_neer,monthly
+2014-01-31,REER,99.97791228020473,index (2010 = 100),sbp_reer_neer,monthly
+2014-02-28,REER,100.1843819305546,index (2010 = 100),sbp_reer_neer,monthly
+2014-03-31,REER,105.62047672749598,index (2010 = 100),sbp_reer_neer,monthly
+2014-04-30,REER,109.12150413234492,index (2010 = 100),sbp_reer_neer,monthly
+2014-05-31,REER,107.43708932275038,index (2010 = 100),sbp_reer_neer,monthly
+2014-06-30,REER,108.44820546417014,index (2010 = 100),sbp_reer_neer,monthly
+2014-07-31,REER,109.8511225331841,index (2010 = 100),sbp_reer_neer,monthly
+2014-08-31,REER,109.18017854489536,index (2010 = 100),sbp_reer_neer,monthly
+2014-09-30,REER,108.1614105926007,index (2010 = 100),sbp_reer_neer,monthly
+2014-10-31,REER,108.88360465259744,index (2010 = 100),sbp_reer_neer,monthly
+2014-11-30,REER,110.52182691033599,index (2010 = 100),sbp_reer_neer,monthly
+2014-12-31,REER,111.6233640521359,index (2010 = 100),sbp_reer_neer,monthly
+2015-01-31,REER,113.73890561623759,index (2010 = 100),sbp_reer_neer,monthly
+2015-02-28,REER,113.46336746037937,index (2010 = 100),sbp_reer_neer,monthly
+2015-03-31,REER,114.625963599415,index (2010 = 100),sbp_reer_neer,monthly
+2015-04-30,REER,114.62039842107815,index (2010 = 100),sbp_reer_neer,monthly
+2015-05-31,REER,114.24709857269734,index (2010 = 100),sbp_reer_neer,monthly
+2015-06-30,REER,115.35147346340969,index (2010 = 100),sbp_reer_neer,monthly
+2015-07-31,REER,116.5042231194619,index (2010 = 100),sbp_reer_neer,monthly
+2015-08-31,REER,117.6099446069659,index (2010 = 100),sbp_reer_neer,monthly
+2015-09-30,REER,116.03815473150834,index (2010 = 100),sbp_reer_neer,monthly
+2015-10-31,REER,115.72388150902825,index (2010 = 100),sbp_reer_neer,monthly
+2015-11-30,REER,116.94789769854957,index (2010 = 100),sbp_reer_neer,monthly
+2015-12-31,REER,117.46207691008495,index (2010 = 100),sbp_reer_neer,monthly
+2016-01-31,REER,118.68350586233443,index (2010 = 100),sbp_reer_neer,monthly
+2016-02-29,REER,116.91391705572825,index (2010 = 100),sbp_reer_neer,monthly
+2016-03-31,REER,115.73010709521478,index (2010 = 100),sbp_reer_neer,monthly
+2016-04-30,REER,116.00549651122569,index (2010 = 100),sbp_reer_neer,monthly
+2016-05-31,REER,116.20113596954845,index (2010 = 100),sbp_reer_neer,monthly
+2016-06-30,REER,117.40410135078233,index (2010 = 100),sbp_reer_neer,monthly
+2016-07-31,REER,119.39129331344377,index (2010 = 100),sbp_reer_neer,monthly
+2016-08-31,REER,118.30539393578985,index (2010 = 100),sbp_reer_neer,monthly
+2016-09-30,REER,118.55296308551935,index (2010 = 100),sbp_reer_neer,monthly
+2016-10-31,REER,120.44954216032797,index (2010 = 100),sbp_reer_neer,monthly
+2016-11-30,REER,122.46235806302933,index (2010 = 100),sbp_reer_neer,monthly
+2016-12-31,REER,123.40159810282088,index (2010 = 100),sbp_reer_neer,monthly
+2017-01-31,REER,122.77012818592644,index (2010 = 100),sbp_reer_neer,monthly
+2017-02-28,REER,122.0675433410251,index (2010 = 100),sbp_reer_neer,monthly
+2017-03-31,REER,122.82250585737023,index (2010 = 100),sbp_reer_neer,monthly
+2017-04-30,REER,123.71066394630857,index (2010 = 100),sbp_reer_neer,monthly
+2017-05-31,REER,122.9094964289248,index (2010 = 100),sbp_reer_neer,monthly
+2017-06-30,REER,121.2569127875358,index (2010 = 100),sbp_reer_neer,monthly
+2017-07-31,REER,119.95885951131655,index (2010 = 100),sbp_reer_neer,monthly
+2017-08-31,REER,118.52331610820913,index (2010 = 100),sbp_reer_neer,monthly
+2017-09-30,REER,117.74711464590291,index (2010 = 100),sbp_reer_neer,monthly
+2017-10-31,REER,119.67348233243716,index (2010 = 100),sbp_reer_neer,monthly
+2017-11-30,REER,120.30191964295281,index (2010 = 100),sbp_reer_neer,monthly
+2017-12-31,REER,115.39993579614804,index (2010 = 100),sbp_reer_neer,monthly
+2018-01-31,REER,110.99436805257095,index (2010 = 100),sbp_reer_neer,monthly
+2018-02-28,REER,108.88548084962979,index (2010 = 100),sbp_reer_neer,monthly
+2018-03-31,REER,107.61588868343591,index (2010 = 100),sbp_reer_neer,monthly
+2018-04-30,REER,106.78912277585147,index (2010 = 100),sbp_reer_neer,monthly
+2018-05-31,REER,109.2750319363832,index (2010 = 100),sbp_reer_neer,monthly
+2018-06-30,REER,107.27313353610838,index (2010 = 100),sbp_reer_neer,monthly
+2018-07-31,REER,105.12478919549852,index (2010 = 100),sbp_reer_neer,monthly
+2018-08-31,REER,107.2514063340041,index (2010 = 100),sbp_reer_neer,monthly
+2018-09-30,REER,106.63507163652433,index (2010 = 100),sbp_reer_neer,monthly
+2018-10-31,REER,103.82764211007688,index (2010 = 100),sbp_reer_neer,monthly
+2018-11-30,REER,102.20081503664656,index (2010 = 100),sbp_reer_neer,monthly
+2018-12-31,REER,97.96818296882579,index (2010 = 100),sbp_reer_neer,monthly
+2019-01-31,REER,97.93897414171029,index (2010 = 100),sbp_reer_neer,monthly
+2019-02-28,REER,97.83863089865515,index (2010 = 100),sbp_reer_neer,monthly
+2019-03-31,REER,98.71293636480198,index (2010 = 100),sbp_reer_neer,monthly
+2019-04-30,REER,98.45262967647216,index (2010 = 100),sbp_reer_neer,monthly
+2019-05-31,REER,97.15611374907445,index (2010 = 100),sbp_reer_neer,monthly
+2019-06-30,REER,92.443273518596,index (2010 = 100),sbp_reer_neer,monthly
+2019-07-31,REER,91.09699149697558,index (2010 = 100),sbp_reer_neer,monthly
+2019-08-31,REER,94.38844744709208,index (2010 = 100),sbp_reer_neer,monthly
+2019-09-30,REER,96.17102737885214,index (2010 = 100),sbp_reer_neer,monthly
+2019-10-31,REER,97.3985815707764,index (2010 = 100),sbp_reer_neer,monthly
+2019-11-30,REER,98.51747892223851,index (2010 = 100),sbp_reer_neer,monthly
+2019-12-31,REER,98.27418261526452,index (2010 = 100),sbp_reer_neer,monthly
+2020-01-31,REER,99.41917349203699,index (2010 = 100),sbp_reer_neer,monthly
+2020-02-29,REER,99.43524792359125,index (2010 = 100),sbp_reer_neer,monthly
+2020-03-31,REER,98.07857138869959,index (2010 = 100),sbp_reer_neer,monthly
+2020-04-30,REER,95.70052461997174,index (2010 = 100),sbp_reer_neer,monthly
+2020-05-31,REER,98.35827443074677,index (2010 = 100),sbp_reer_neer,monthly
+2020-06-30,REER,94.50667465148094,index (2010 = 100),sbp_reer_neer,monthly
+2020-07-31,REER,94.65877038044181,index (2010 = 100),sbp_reer_neer,monthly
+2020-08-31,REER,92.9868366299114,index (2010 = 100),sbp_reer_neer,monthly
+2020-09-30,REER,95.3491370469923,index (2010 = 100),sbp_reer_neer,monthly
+2020-10-31,REER,98.37955499829306,index (2010 = 100),sbp_reer_neer,monthly
+2020-11-30,REER,100.58489995709148,index (2010 = 100),sbp_reer_neer,monthly
+2020-12-31,REER,97.50218475309983,index (2010 = 100),sbp_reer_neer,monthly
+2021-01-31,REER,96.28359713356903,index (2010 = 100),sbp_reer_neer,monthly
+2021-02-28,REER,98.35251992280354,index (2010 = 100),sbp_reer_neer,monthly
+2021-03-31,REER,101.77666638582964,index (2010 = 100),sbp_reer_neer,monthly
+2021-04-30,REER,104.20285849676287,index (2010 = 100),sbp_reer_neer,monthly
+2021-05-31,REER,103.49021844876853,index (2010 = 100),sbp_reer_neer,monthly
+2021-06-30,REER,101.02532035703658,index (2010 = 100),sbp_reer_neer,monthly
+2021-07-31,REER,100.62378769158236,index (2010 = 100),sbp_reer_neer,monthly
+2021-08-31,REER,98.47719578657775,index (2010 = 100),sbp_reer_neer,monthly
+2021-09-30,REER,97.75993658127412,index (2010 = 100),sbp_reer_neer,monthly
+2021-10-31,REER,97.41334564238294,index (2010 = 100),sbp_reer_neer,monthly
+2021-11-30,REER,99.60742257774616,index (2010 = 100),sbp_reer_neer,monthly
+2021-12-31,REER,97.76080152966396,index (2010 = 100),sbp_reer_neer,monthly
+2022-01-31,REER,97.78777201390658,index (2010 = 100),sbp_reer_neer,monthly
+2022-02-28,REER,98.51705762226567,index (2010 = 100),sbp_reer_neer,monthly
+2022-03-31,REER,97.14297397314763,index (2010 = 100),sbp_reer_neer,monthly
+2022-04-30,REER,96.75946695558687,index (2010 = 100),sbp_reer_neer,monthly
+2022-05-31,REER,94.5533172063135,index (2010 = 100),sbp_reer_neer,monthly
+2022-06-30,REER,94.86133580588019,index (2010 = 100),sbp_reer_neer,monthly
+2022-07-31,REER,94.01025260403408,index (2010 = 100),sbp_reer_neer,monthly
+2022-08-31,REER,95.16755621794378,index (2010 = 100),sbp_reer_neer,monthly
+2022-09-30,REER,91.71256025964982,index (2010 = 100),sbp_reer_neer,monthly
+2022-10-31,REER,101.57069997073287,index (2010 = 100),sbp_reer_neer,monthly
+2022-11-30,REER,100.31394010256241,index (2010 = 100),sbp_reer_neer,monthly
+2022-12-31,REER,97.47374449566776,index (2010 = 100),sbp_reer_neer,monthly
+2023-01-31,REER,93.96209776485648,index (2010 = 100),sbp_reer_neer,monthly
+2023-02-28,REER,86.48939742711133,index (2010 = 100),sbp_reer_neer,monthly
+2023-03-31,REER,85.60532212184346,index (2010 = 100),sbp_reer_neer,monthly
+2023-04-30,REER,85.56225661002438,index (2010 = 100),sbp_reer_neer,monthly
+2023-05-31,REER,87.33010711390487,index (2010 = 100),sbp_reer_neer,monthly
+2023-06-30,REER,87.7283085486122,index (2010 = 100),sbp_reer_neer,monthly
+2023-07-31,REER,91.58650897591521,index (2010 = 100),sbp_reer_neer,monthly
+2023-08-31,REER,90.04066260764529,index (2010 = 100),sbp_reer_neer,monthly
+2023-09-30,REER,91.7298139102588,index (2010 = 100),sbp_reer_neer,monthly
+2023-10-31,REER,98.51661249392444,index (2010 = 100),sbp_reer_neer,monthly
+2023-11-30,REER,98.27553783032863,index (2010 = 100),sbp_reer_neer,monthly
+2023-12-31,REER,98.82667230968504,index (2010 = 100),sbp_reer_neer,monthly
+2013-02-28,REER — change over previous period,-0.2145433253596285,%,sbp_reer_neer,monthly
+2013-03-31,REER — change over previous period,1.1596325892102355,%,sbp_reer_neer,monthly
+2013-04-30,REER — change over previous period,0.03751529222737471,%,sbp_reer_neer,monthly
+2013-05-31,REER — change over previous period,0.4644667040782702,%,sbp_reer_neer,monthly
+2013-06-30,REER — change over previous period,0.3207494130167188,%,sbp_reer_neer,monthly
+2013-07-31,REER — change over previous period,0.45953224879999865,%,sbp_reer_neer,monthly
+2013-08-31,REER — change over previous period,-1.322144582387652,%,sbp_reer_neer,monthly
+2013-09-30,REER — change over previous period,-3.1230455444031135,%,sbp_reer_neer,monthly
+2013-10-31,REER — change over previous period,0.041056496610192283,%,sbp_reer_neer,monthly
+2013-11-30,REER — change over previous period,0.5870997985851334,%,sbp_reer_neer,monthly
+2013-12-31,REER — change over previous period,-1.2341958385611917,%,sbp_reer_neer,monthly
+2014-01-31,REER — change over previous period,2.1665342762894113,%,sbp_reer_neer,monthly
+2014-02-28,REER — change over previous period,0.2065152648629054,%,sbp_reer_neer,monthly
+2014-03-31,REER — change over previous period,5.426090067321621,%,sbp_reer_neer,monthly
+2014-04-30,REER — change over previous period,3.3147241077899015,%,sbp_reer_neer,monthly
+2014-05-31,REER — change over previous period,-1.543613995231996,%,sbp_reer_neer,monthly
+2014-06-30,REER — change over previous period,0.9411239152079753,%,sbp_reer_neer,monthly
+2014-07-31,REER — change over previous period,1.293628661727797,%,sbp_reer_neer,monthly
+2014-08-31,REER — change over previous period,-0.6107757233760225,%,sbp_reer_neer,monthly
+2014-09-30,REER — change over previous period,-0.9331070583253664,%,sbp_reer_neer,monthly
+2014-10-31,REER — change over previous period,0.6677002972131474,%,sbp_reer_neer,monthly
+2014-11-30,REER — change over previous period,1.5045628430151892,%,sbp_reer_neer,monthly
+2014-12-31,REER — change over previous period,0.9966693209781718,%,sbp_reer_neer,monthly
+2015-01-31,REER — change over previous period,1.8952497822172676,%,sbp_reer_neer,monthly
+2015-02-28,REER — change over previous period,-0.24225497367443838,%,sbp_reer_neer,monthly
+2015-03-31,REER — change over previous period,1.0246444866371496,%,sbp_reer_neer,monthly
+2015-04-30,REER — change over previous period,-0.004855076600529529,%,sbp_reer_neer,monthly
+2015-05-31,REER — change over previous period,-0.3256836073884717,%,sbp_reer_neer,monthly
+2015-06-30,REER — change over previous period,0.9666546498855899,%,sbp_reer_neer,monthly
+2015-07-31,REER — change over previous period,0.9993367413879461,%,sbp_reer_neer,monthly
+2015-08-31,REER — change over previous period,0.9490827524511358,%,sbp_reer_neer,monthly
+2015-09-30,REER — change over previous period,-1.336443002936727,%,sbp_reer_neer,monthly
+2015-10-31,REER — change over previous period,-0.270836108353556,%,sbp_reer_neer,monthly
+2015-11-30,REER — change over previous period,1.057704056898423,%,sbp_reer_neer,monthly
+2015-12-31,REER — change over previous period,0.4396652027561565,%,sbp_reer_neer,monthly
+2016-01-31,REER — change over previous period,1.039849613066579,%,sbp_reer_neer,monthly
+2016-02-29,REER — change over previous period,-1.4910149424291474,%,sbp_reer_neer,monthly
+2016-03-31,REER — change over previous period,-1.012548369198163,%,sbp_reer_neer,monthly
+2016-04-30,REER — change over previous period,0.23795831778186116,%,sbp_reer_neer,monthly
+2016-05-31,REER — change over previous period,0.16864671434240197,%,sbp_reer_neer,monthly
+2016-06-30,REER — change over previous period,1.035244080186204,%,sbp_reer_neer,monthly
+2016-07-31,REER — change over previous period,1.6926086395602669,%,sbp_reer_neer,monthly
+2016-08-31,REER — change over previous period,-0.9095297885776787,%,sbp_reer_neer,monthly
+2016-09-30,REER — change over previous period,0.2092627744968878,%,sbp_reer_neer,monthly
+2016-10-31,REER — change over previous period,1.5997736584959954,%,sbp_reer_neer,monthly
+2016-11-30,REER — change over previous period,1.6710863873788284,%,sbp_reer_neer,monthly
+2016-12-31,REER — change over previous period,0.7669622361086148,%,sbp_reer_neer,monthly
+2017-01-31,REER — change over previous period,-0.5117193995885616,%,sbp_reer_neer,monthly
+2017-02-28,REER — change over previous period,-0.5722767054843536,%,sbp_reer_neer,monthly
+2017-03-31,REER — change over previous period,0.6184793235626707,%,sbp_reer_neer,monthly
+2017-04-30,REER — change over previous period,0.7231232441794688,%,sbp_reer_neer,monthly
+2017-05-31,REER — change over previous period,-0.6476139500241396,%,sbp_reer_neer,monthly
+2017-06-30,REER — change over previous period,-1.344553260247583,%,sbp_reer_neer,monthly
+2017-07-31,REER — change over previous period,-1.070498371085593,%,sbp_reer_neer,monthly
+2017-08-31,REER — change over previous period,-1.1966964415596082,%,sbp_reer_neer,monthly
+2017-09-30,REER — change over previous period,-0.6548934739537327,%,sbp_reer_neer,monthly
+2017-10-31,REER — change over previous period,1.6360211393097401,%,sbp_reer_neer,monthly
+2017-11-30,REER — change over previous period,0.5251266180839709,%,sbp_reer_neer,monthly
+2017-12-31,REER — change over previous period,-4.074734519077916,%,sbp_reer_neer,monthly
+2018-01-31,REER — change over previous period,-3.8176518151270433,%,sbp_reer_neer,monthly
+2018-02-28,REER — change over previous period,-1.8999947834671405,%,sbp_reer_neer,monthly
+2018-03-31,REER — change over previous period,-1.1659884828420508,%,sbp_reer_neer,monthly
+2018-04-30,REER — change over previous period,-0.768256358516417,%,sbp_reer_neer,monthly
+2018-05-31,REER — change over previous period,2.327867385660265,%,sbp_reer_neer,monthly
+2018-06-30,REER — change over previous period,-1.831981528443083,%,sbp_reer_neer,monthly
+2018-07-31,REER — change over previous period,-2.002686292264144,%,sbp_reer_neer,monthly
+2018-08-31,REER — change over previous period,2.022945448718816,%,sbp_reer_neer,monthly
+2018-09-30,REER — change over previous period,-0.5746635112274134,%,sbp_reer_neer,monthly
+2018-10-31,REER — change over previous period,-2.632745009087478,%,sbp_reer_neer,monthly
+2018-11-30,REER — change over previous period,-1.5668535279897533,%,sbp_reer_neer,monthly
+2018-12-31,REER — change over previous period,-4.141485629349495,%,sbp_reer_neer,monthly
+2019-01-31,REER — change over previous period,-0.029814605344669065,%,sbp_reer_neer,monthly
+2019-02-28,REER — change over previous period,-0.10245486430146,%,sbp_reer_neer,monthly
+2019-03-31,REER — change over previous period,0.8936198903401138,%,sbp_reer_neer,monthly
+2019-04-30,REER — change over previous period,-0.2637006839385614,%,sbp_reer_neer,monthly
+2019-05-31,REER — change over previous period,-1.3168931410549645,%,sbp_reer_neer,monthly
+2019-06-30,REER — change over previous period,-4.850791214900097,%,sbp_reer_neer,monthly
+2019-07-31,REER — change over previous period,-1.456333133150678,%,sbp_reer_neer,monthly
+2019-08-31,REER — change over previous period,3.6131335360573003,%,sbp_reer_neer,monthly
+2019-09-30,REER — change over previous period,1.888557318160422,%,sbp_reer_neer,monthly
+2019-10-31,REER — change over previous period,1.2764282813455763,%,sbp_reer_neer,monthly
+2019-11-30,REER — change over previous period,1.1487819775373609,%,sbp_reer_neer,monthly
+2019-12-31,REER — change over previous period,-0.24695750402425887,%,sbp_reer_neer,monthly
+2020-01-31,REER — change over previous period,1.1650983465871345,%,sbp_reer_neer,monthly
+2020-02-29,REER — change over previous period,0.016168341567990296,%,sbp_reer_neer,monthly
+2020-03-31,REER — change over previous period,-1.364381910058865,%,sbp_reer_neer,monthly
+2020-04-30,REER — change over previous period,-2.424634387570046,%,sbp_reer_neer,monthly
+2020-05-31,REER — change over previous period,2.777152812201389,%,sbp_reer_neer,monthly
+2020-06-30,REER — change over previous period,-3.915887912386795,%,sbp_reer_neer,monthly
+2020-07-31,REER — change over previous period,0.1609364941913105,%,sbp_reer_neer,monthly
+2020-08-31,REER — change over previous period,-1.7662745288268278,%,sbp_reer_neer,monthly
+2020-09-30,REER — change over previous period,2.5404675572338054,%,sbp_reer_neer,monthly
+2020-10-31,REER — change over previous period,3.1782332228211363,%,sbp_reer_neer,monthly
+2020-11-30,REER — change over previous period,2.2416699880749347,%,sbp_reer_neer,monthly
+2020-12-31,REER — change over previous period,-3.064789252966116,%,sbp_reer_neer,monthly
+2021-01-31,REER — change over previous period,-1.2498054506333012,%,sbp_reer_neer,monthly
+2021-02-28,REER — change over previous period,2.1487801150225083,%,sbp_reer_neer,monthly
+2021-03-31,REER — change over previous period,3.4815035402384176,%,sbp_reer_neer,monthly
+2021-04-30,REER — change over previous period,2.383839240455843,%,sbp_reer_neer,monthly
+2021-05-31,REER — change over previous period,-0.6838968318863103,%,sbp_reer_neer,monthly
+2021-06-30,REER — change over previous period,-2.3817691456049728,%,sbp_reer_neer,monthly
+2021-07-31,REER — change over previous period,-0.3974574532752184,%,sbp_reer_neer,monthly
+2021-08-31,REER — change over previous period,-2.1332847373863872,%,sbp_reer_neer,monthly
+2021-09-30,REER — change over previous period,-0.7283505582938221,%,sbp_reer_neer,monthly
+2021-10-31,REER — change over previous period,-0.3545326961244877,%,sbp_reer_neer,monthly
+2021-11-30,REER — change over previous period,2.2523371114035795,%,sbp_reer_neer,monthly
+2021-12-31,REER — change over previous period,-1.8538990371333663,%,sbp_reer_neer,monthly
+2022-01-31,REER — change over previous period,0.027588239683606908,%,sbp_reer_neer,monthly
+2022-02-28,REER — change over previous period,0.7457840518703795,%,sbp_reer_neer,monthly
+2022-03-31,REER — change over previous period,-1.394767243644801,%,sbp_reer_neer,monthly
+2022-04-30,REER — change over previous period,-0.39478616092890606,%,sbp_reer_neer,monthly
+2022-05-31,REER — change over previous period,-2.280035038107453,%,sbp_reer_neer,monthly
+2022-06-30,REER — change over previous period,0.32576181213674893,%,sbp_reer_neer,monthly
+2022-07-31,REER — change over previous period,-0.8971866088705815,%,sbp_reer_neer,monthly
+2022-08-31,REER — change over previous period,1.2310397875263668,%,sbp_reer_neer,monthly
+2022-09-30,REER — change over previous period,-3.6304346729064463,%,sbp_reer_neer,monthly
+2022-10-31,REER — change over previous period,10.748952687803515,%,sbp_reer_neer,monthly
+2022-11-30,REER — change over previous period,-1.2373252015911995,%,sbp_reer_neer,monthly
+2022-12-31,REER — change over previous period,-2.831306998798766,%,sbp_reer_neer,monthly
+2023-01-31,REER — change over previous period,-3.6026591047472856,%,sbp_reer_neer,monthly
+2023-02-28,REER — change over previous period,-7.952887936203656,%,sbp_reer_neer,monthly
+2023-03-31,REER — change over previous period,-1.02217766751459,%,sbp_reer_neer,monthly
+2023-04-30,REER — change over previous period,-0.05030704955211185,%,sbp_reer_neer,monthly
+2023-05-31,REER — change over previous period,2.066156941065733,%,sbp_reer_neer,monthly
+2023-06-30,REER — change over previous period,0.4559726855572821,%,sbp_reer_neer,monthly
+2023-07-31,REER — change over previous period,4.397896746367902,%,sbp_reer_neer,monthly
+2023-08-31,REER — change over previous period,-1.687853795886507,%,sbp_reer_neer,monthly
+2023-09-30,REER — change over previous period,1.8759871970001285,%,sbp_reer_neer,monthly
+2023-10-31,REER — change over previous period,7.398683475260626,%,sbp_reer_neer,monthly
+2023-11-30,REER — change over previous period,-0.24470458077380242,%,sbp_reer_neer,monthly
+2023-12-31,REER — change over previous period,0.5608053555585135,%,sbp_reer_neer,monthly

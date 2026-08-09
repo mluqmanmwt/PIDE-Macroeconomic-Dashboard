@@ -1,0 +1,18 @@
+# Streamlit's own widget accents are set here rather than in CSS. Without this the
+# framework default is a red primary colour, so selection chips, radio buttons and
+# focus rings render red against this dashboard's green palette - readable, but it
+# looks like two different products bolted together.
+[theme]
+primaryColor = "#0B5D4B"
+backgroundColor = "#F7F8F6"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#202B32"
+font = "sans serif"
+
+[server]
+# The ETL writes into data/ while the app is running; restarting the server on
+# every parquet write would interrupt a reader mid-session.
+folderWatchBlacklist = ["data", "logs"]
+
+[browser]
+gatherUsageStats = false

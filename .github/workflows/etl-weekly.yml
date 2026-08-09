@@ -1,0 +1,89 @@
+# Weekly refresh for the fast-moving series.
+#
+# The Sensitive Price Indicator is published by PBS every Friday and is the
+# earliest read on consumer prices available anywhere in the official statistics
+# system — it leads the monthly CPI by up to five weeks. Foreign exchange
+# reserves are published weekly by the State Bank on Thursdays.
+#
+# Waiting for the monthly job would leave both stale for up to four weeks, which
+# defeats the point of carrying a weekly indicator at all. This job therefore
+# refreshes only that handful of sources rather than re-running the full tier.
+#
+# Saturday 04:00 UTC (09:00 PKT) — after both publishers have posted.
+
+name: ETL — weekly fast indicators
+
+on:
+  schedule:
+    - cron: "0 4 * * 6"
+  workflow_dispatch:
+
+concurrency:
+  group: etl-pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # The SPI is published as one file per week (Annex_DD.MM.YYYY.xlsx), so
+      # every weekly snapshot has to be kept — the transform stage unions them
+      # into a continuous series. Skipping a week leaves a permanent hole that a
+      # later run cannot fill, because PBS eventually removes old annexes.
+      - name: Refresh weekly sources
+        run: |
+          python -m etl.run_etl \
+            --id pbs_spi_weekly sbp_forex_reserves sbp_interest_rate_corridor \
+            --skip-backfill
+
+      - name: Summarise
+        if: always()
+        run: |
+          {
+            echo "## Weekly fast-indicator refresh — $(date -u '+%Y-%m-%d %H:%M UTC')"
+            echo
+            if [ -f data/metadata/validation_report.csv ]; then
+              echo '```'
+              cat data/metadata/validation_report.csv
+              echo '```'
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload raw snapshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: weekly-raw-${{ github.run_number }}
+          path: data/raw/
+          retention-days: 180
+          if-no-files-found: warn
+
+      - name: Commit refreshed data
+        if: success()
+        run: |
+          git config user.name  "pide-etl-bot"
+          git config user.email "actions@github.com"
+          git add -A data/processed data/metadata
+          if git diff --cached --quiet; then
+            echo "No data changed this run."
+          else
+            git commit -m "data: weekly refresh $(date -u '+%Y-%m-%d')"
+            git push
+          fi

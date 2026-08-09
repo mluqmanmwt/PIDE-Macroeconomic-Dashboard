@@ -1,0 +1,4 @@
+severity,source_id,series,check,detail
+warning,mof_central_govt_operations_sdmx,,stale,latest observation 2025-03-31 is 495d old (budget 300d for quarterly)
+warning,mof_general_govt_operations_sdmx,,stale,latest observation 2025-03-31 is 495d old (budget 300d for quarterly)
+warning,sbp_credit_loans_by_borrower,Manufacture of railway locomotives and rolling stock (ISIC rev. 4 basis),constant_series,all 85 observations equal 0.0

@@ -1,0 +1,596 @@
+date,series,value,unit,source_id,frequency
+2026-06-18,KIBOR 1-month,11.95,%,sbp_interest_rates,daily
+2026-06-19,KIBOR 1-month,11.94,%,sbp_interest_rates,daily
+2026-06-22,KIBOR 1-month,11.94,%,sbp_interest_rates,daily
+2026-06-23,KIBOR 1-month,11.97,%,sbp_interest_rates,daily
+2026-06-24,KIBOR 1-month,11.93,%,sbp_interest_rates,daily
+2026-06-29,KIBOR 1-month,11.91,%,sbp_interest_rates,daily
+2026-06-30,KIBOR 1-month,11.9,%,sbp_interest_rates,daily
+2026-07-02,KIBOR 1-month,11.9,%,sbp_interest_rates,daily
+2026-07-03,KIBOR 1-month,11.89,%,sbp_interest_rates,daily
+2026-07-06,KIBOR 1-month,11.87,%,sbp_interest_rates,daily
+2026-07-07,KIBOR 1-month,11.88,%,sbp_interest_rates,daily
+2026-07-08,KIBOR 1-month,11.86,%,sbp_interest_rates,daily
+2026-07-09,KIBOR 1-month,11.84,%,sbp_interest_rates,daily
+2026-07-10,KIBOR 1-month,11.84,%,sbp_interest_rates,daily
+2026-07-13,KIBOR 1-month,11.85,%,sbp_interest_rates,daily
+2026-07-14,KIBOR 1-month,11.89,%,sbp_interest_rates,daily
+2026-07-15,KIBOR 1-month,11.85,%,sbp_interest_rates,daily
+2026-07-16,KIBOR 1-month,11.86,%,sbp_interest_rates,daily
+2026-07-17,KIBOR 1-month,11.86,%,sbp_interest_rates,daily
+2026-07-20,KIBOR 1-month,11.87,%,sbp_interest_rates,daily
+2026-07-21,KIBOR 1-month,11.87,%,sbp_interest_rates,daily
+2026-07-22,KIBOR 1-month,11.89,%,sbp_interest_rates,daily
+2026-07-23,KIBOR 1-month,11.89,%,sbp_interest_rates,daily
+2026-07-24,KIBOR 1-month,11.89,%,sbp_interest_rates,daily
+2026-07-27,KIBOR 1-month,11.88,%,sbp_interest_rates,daily
+2026-07-28,KIBOR 1-month,11.88,%,sbp_interest_rates,daily
+2026-07-29,KIBOR 1-month,11.91,%,sbp_interest_rates,daily
+2026-07-30,KIBOR 1-month,11.9,%,sbp_interest_rates,daily
+2026-07-31,KIBOR 1-month,11.9,%,sbp_interest_rates,daily
+2026-06-18,KIBOR 3-month,11.92,%,sbp_interest_rates,daily
+2026-06-19,KIBOR 3-month,11.91,%,sbp_interest_rates,daily
+2026-06-22,KIBOR 3-month,11.88,%,sbp_interest_rates,daily
+2026-06-23,KIBOR 3-month,11.83,%,sbp_interest_rates,daily
+2026-06-24,KIBOR 3-month,11.82,%,sbp_interest_rates,daily
+2026-06-29,KIBOR 3-month,11.8,%,sbp_interest_rates,daily
+2026-06-30,KIBOR 3-month,11.79,%,sbp_interest_rates,daily
+2026-07-02,KIBOR 3-month,11.74,%,sbp_interest_rates,daily
+2026-07-03,KIBOR 3-month,11.71,%,sbp_interest_rates,daily
+2026-07-06,KIBOR 3-month,11.67,%,sbp_interest_rates,daily
+2026-07-07,KIBOR 3-month,11.65,%,sbp_interest_rates,daily
+2026-07-08,KIBOR 3-month,11.63,%,sbp_interest_rates,daily
+2026-07-09,KIBOR 3-month,11.59,%,sbp_interest_rates,daily
+2026-07-10,KIBOR 3-month,11.59,%,sbp_interest_rates,daily
+2026-07-13,KIBOR 3-month,11.59,%,sbp_interest_rates,daily
+2026-07-14,KIBOR 3-month,11.65,%,sbp_interest_rates,daily
+2026-07-15,KIBOR 3-month,11.62,%,sbp_interest_rates,daily
+2026-07-16,KIBOR 3-month,11.62,%,sbp_interest_rates,daily
+2026-07-17,KIBOR 3-month,11.61,%,sbp_interest_rates,daily
+2026-07-20,KIBOR 3-month,11.66,%,sbp_interest_rates,daily
+2026-07-21,KIBOR 3-month,11.64,%,sbp_interest_rates,daily
+2026-07-22,KIBOR 3-month,11.67,%,sbp_interest_rates,daily
+2026-07-23,KIBOR 3-month,11.69,%,sbp_interest_rates,daily
+2026-07-24,KIBOR 3-month,11.7,%,sbp_interest_rates,daily
+2026-07-27,KIBOR 3-month,11.67,%,sbp_interest_rates,daily
+2026-07-28,KIBOR 3-month,11.67,%,sbp_interest_rates,daily
+2026-07-29,KIBOR 3-month,11.67,%,sbp_interest_rates,daily
+2026-07-30,KIBOR 3-month,11.67,%,sbp_interest_rates,daily
+2026-07-31,KIBOR 3-month,11.69,%,sbp_interest_rates,daily
+2026-06-18,KIBOR 6-month,12.07,%,sbp_interest_rates,daily
+2026-06-19,KIBOR 6-month,12.04,%,sbp_interest_rates,daily
+2026-06-22,KIBOR 6-month,12.0,%,sbp_interest_rates,daily
+2026-06-23,KIBOR 6-month,11.99,%,sbp_interest_rates,daily
+2026-06-24,KIBOR 6-month,11.89,%,sbp_interest_rates,daily
+2026-06-29,KIBOR 6-month,11.82,%,sbp_interest_rates,daily
+2026-06-30,KIBOR 6-month,11.8,%,sbp_interest_rates,daily
+2026-07-02,KIBOR 6-month,11.76,%,sbp_interest_rates,daily
+2026-07-03,KIBOR 6-month,11.73,%,sbp_interest_rates,daily
+2026-07-06,KIBOR 6-month,11.67,%,sbp_interest_rates,daily
+2026-07-07,KIBOR 6-month,11.64,%,sbp_interest_rates,daily
+2026-07-08,KIBOR 6-month,11.63,%,sbp_interest_rates,daily
+2026-07-09,KIBOR 6-month,11.59,%,sbp_interest_rates,daily
+2026-07-10,KIBOR 6-month,11.58,%,sbp_interest_rates,daily
+2026-07-13,KIBOR 6-month,11.58,%,sbp_interest_rates,daily
+2026-07-14,KIBOR 6-month,11.65,%,sbp_interest_rates,daily
+2026-07-15,KIBOR 6-month,11.64,%,sbp_interest_rates,daily
+2026-07-16,KIBOR 6-month,11.64,%,sbp_interest_rates,daily
+2026-07-17,KIBOR 6-month,11.62,%,sbp_interest_rates,daily
+2026-07-20,KIBOR 6-month,11.67,%,sbp_interest_rates,daily
+2026-07-21,KIBOR 6-month,11.65,%,sbp_interest_rates,daily
+2026-07-22,KIBOR 6-month,11.67,%,sbp_interest_rates,daily
+2026-07-23,KIBOR 6-month,11.76,%,sbp_interest_rates,daily
+2026-07-24,KIBOR 6-month,11.76,%,sbp_interest_rates,daily
+2026-07-27,KIBOR 6-month,11.75,%,sbp_interest_rates,daily
+2026-07-28,KIBOR 6-month,11.74,%,sbp_interest_rates,daily
+2026-07-29,KIBOR 6-month,11.76,%,sbp_interest_rates,daily
+2026-07-30,KIBOR 6-month,11.78,%,sbp_interest_rates,daily
+2026-07-31,KIBOR 6-month,11.78,%,sbp_interest_rates,daily
+2023-01-24,Minimum rate of return on saving deposits,15.5,%,sbp_interest_rates,irregular
+2023-03-03,Minimum rate of return on saving deposits,18.5,%,sbp_interest_rates,irregular
+2023-04-05,Minimum rate of return on saving deposits,19.5,%,sbp_interest_rates,irregular
+2023-06-27,Minimum rate of return on saving deposits,20.5,%,sbp_interest_rates,irregular
+2024-06-11,Minimum rate of return on saving deposits,19.0,%,sbp_interest_rates,irregular
+2024-07-30,Minimum rate of return on saving deposits,18.0,%,sbp_interest_rates,irregular
+2024-09-13,Minimum rate of return on saving deposits,16.0,%,sbp_interest_rates,irregular
+2024-11-05,Minimum rate of return on saving deposits,13.5,%,sbp_interest_rates,irregular
+2024-12-17,Minimum rate of return on saving deposits,11.5,%,sbp_interest_rates,irregular
+2025-01-28,Minimum rate of return on saving deposits,10.5,%,sbp_interest_rates,irregular
+2025-05-06,Minimum rate of return on saving deposits,9.5,%,sbp_interest_rates,irregular
+2025-12-16,Minimum rate of return on saving deposits,9.0,%,sbp_interest_rates,irregular
+2026-04-28,Minimum rate of return on saving deposits,10.0,%,sbp_interest_rates,irregular
+2023-01-24,SBP Policy Rate (target),17.0,%,sbp_interest_rates,irregular
+2023-03-03,SBP Policy Rate (target),20.0,%,sbp_interest_rates,irregular
+2023-04-05,SBP Policy Rate (target),21.0,%,sbp_interest_rates,irregular
+2023-06-27,SBP Policy Rate (target),22.0,%,sbp_interest_rates,irregular
+2024-06-11,SBP Policy Rate (target),20.5,%,sbp_interest_rates,irregular
+2024-07-30,SBP Policy Rate (target),19.5,%,sbp_interest_rates,irregular
+2024-09-13,SBP Policy Rate (target),17.5,%,sbp_interest_rates,irregular
+2024-11-05,SBP Policy Rate (target),15.0,%,sbp_interest_rates,irregular
+2024-12-17,SBP Policy Rate (target),13.0,%,sbp_interest_rates,irregular
+2025-01-28,SBP Policy Rate (target),12.0,%,sbp_interest_rates,irregular
+2025-05-06,SBP Policy Rate (target),11.0,%,sbp_interest_rates,irregular
+2025-12-16,SBP Policy Rate (target),10.5,%,sbp_interest_rates,irregular
+2026-04-28,SBP Policy Rate (target),11.5,%,sbp_interest_rates,irregular
+2023-01-24,SBP Repo Rate (floor),16.0,%,sbp_interest_rates,irregular
+2023-03-03,SBP Repo Rate (floor),19.0,%,sbp_interest_rates,irregular
+2023-04-05,SBP Repo Rate (floor),20.0,%,sbp_interest_rates,irregular
+2023-06-27,SBP Repo Rate (floor),21.0,%,sbp_interest_rates,irregular
+2024-06-11,SBP Repo Rate (floor),19.5,%,sbp_interest_rates,irregular
+2024-07-30,SBP Repo Rate (floor),18.5,%,sbp_interest_rates,irregular
+2024-09-13,SBP Repo Rate (floor),16.5,%,sbp_interest_rates,irregular
+2024-11-05,SBP Repo Rate (floor),14.0,%,sbp_interest_rates,irregular
+2024-12-17,SBP Repo Rate (floor),12.0,%,sbp_interest_rates,irregular
+2025-01-28,SBP Repo Rate (floor),11.0,%,sbp_interest_rates,irregular
+2025-05-06,SBP Repo Rate (floor),10.0,%,sbp_interest_rates,irregular
+2025-12-16,SBP Repo Rate (floor),9.5,%,sbp_interest_rates,irregular
+2026-04-28,SBP Repo Rate (floor),10.5,%,sbp_interest_rates,irregular
+2023-01-24,SBP Reverse Repo Rate (ceiling),18.0,%,sbp_interest_rates,irregular
+2023-03-03,SBP Reverse Repo Rate (ceiling),21.0,%,sbp_interest_rates,irregular
+2023-04-05,SBP Reverse Repo Rate (ceiling),22.0,%,sbp_interest_rates,irregular
+2023-06-27,SBP Reverse Repo Rate (ceiling),23.0,%,sbp_interest_rates,irregular
+2024-06-11,SBP Reverse Repo Rate (ceiling),21.5,%,sbp_interest_rates,irregular
+2024-07-30,SBP Reverse Repo Rate (ceiling),20.5,%,sbp_interest_rates,irregular
+2024-09-13,SBP Reverse Repo Rate (ceiling),18.5,%,sbp_interest_rates,irregular
+2024-11-05,SBP Reverse Repo Rate (ceiling),16.0,%,sbp_interest_rates,irregular
+2024-12-17,SBP Reverse Repo Rate (ceiling),14.0,%,sbp_interest_rates,irregular
+2025-01-28,SBP Reverse Repo Rate (ceiling),13.0,%,sbp_interest_rates,irregular
+2025-05-06,SBP Reverse Repo Rate (ceiling),12.0,%,sbp_interest_rates,irregular
+2025-12-16,SBP Reverse Repo Rate (ceiling),11.5,%,sbp_interest_rates,irregular
+2026-04-28,SBP Reverse Repo Rate (ceiling),12.5,%,sbp_interest_rates,irregular
+2025-03-19,T-bill 1-month cut-off yield,12.05,%,sbp_interest_rates,irregular
+2025-03-26,T-bill 1-month cut-off yield,12.39,%,sbp_interest_rates,irregular
+2025-04-16,T-bill 1-month cut-off yield,12.32,%,sbp_interest_rates,irregular
+2025-04-30,T-bill 1-month cut-off yield,12.15,%,sbp_interest_rates,irregular
+2025-05-14,T-bill 1-month cut-off yield,11.25,%,sbp_interest_rates,irregular
+2025-05-27,T-bill 1-month cut-off yield,11.1,%,sbp_interest_rates,irregular
+2025-06-11,T-bill 1-month cut-off yield,11.09,%,sbp_interest_rates,irregular
+2025-06-25,T-bill 1-month cut-off yield,11.0,%,sbp_interest_rates,irregular
+2025-07-09,T-bill 1-month cut-off yield,11.24,%,sbp_interest_rates,irregular
+2025-07-23,T-bill 1-month cut-off yield,10.85,%,sbp_interest_rates,irregular
+2025-08-06,T-bill 1-month cut-off yield,10.9,%,sbp_interest_rates,irregular
+2025-08-20,T-bill 1-month cut-off yield,10.9,%,sbp_interest_rates,irregular
+2025-09-03,T-bill 1-month cut-off yield,10.75,%,sbp_interest_rates,irregular
+2025-09-17,T-bill 1-month cut-off yield,10.74,%,sbp_interest_rates,irregular
+2025-10-01,T-bill 1-month cut-off yield,11.15,%,sbp_interest_rates,irregular
+2025-10-15,T-bill 1-month cut-off yield,11.11,%,sbp_interest_rates,irregular
+2025-10-29,T-bill 1-month cut-off yield,11.0,%,sbp_interest_rates,irregular
+2025-11-12,T-bill 1-month cut-off yield,10.99,%,sbp_interest_rates,irregular
+2025-11-26,T-bill 1-month cut-off yield,10.89,%,sbp_interest_rates,irregular
+2025-12-10,T-bill 1-month cut-off yield,10.85,%,sbp_interest_rates,irregular
+2025-12-24,T-bill 1-month cut-off yield,10.49,%,sbp_interest_rates,irregular
+2026-01-07,T-bill 1-month cut-off yield,10.2,%,sbp_interest_rates,irregular
+2026-01-21,T-bill 1-month cut-off yield,9.9,%,sbp_interest_rates,irregular
+2026-02-04,T-bill 1-month cut-off yield,10.2,%,sbp_interest_rates,irregular
+2026-02-18,T-bill 1-month cut-off yield,10.15,%,sbp_interest_rates,irregular
+2026-03-04,T-bill 1-month cut-off yield,10.5,%,sbp_interest_rates,irregular
+2026-03-16,T-bill 1-month cut-off yield,11.48,%,sbp_interest_rates,irregular
+2026-04-15,T-bill 1-month cut-off yield,10.7,%,sbp_interest_rates,irregular
+2026-04-29,T-bill 1-month cut-off yield,11.48,%,sbp_interest_rates,irregular
+2026-05-13,T-bill 1-month cut-off yield,11.37,%,sbp_interest_rates,irregular
+2026-05-20,T-bill 1-month cut-off yield,12.23,%,sbp_interest_rates,irregular
+2026-06-10,T-bill 1-month cut-off yield,12.19,%,sbp_interest_rates,irregular
+2026-06-23,T-bill 1-month cut-off yield,11.8,%,sbp_interest_rates,irregular
+2026-07-08,T-bill 1-month cut-off yield,11.4,%,sbp_interest_rates,irregular
+2026-07-22,T-bill 1-month cut-off yield,11.35,%,sbp_interest_rates,irregular
+2025-03-26,T-bill 1-month weighted average yield,12.05,%,sbp_interest_rates,irregular
+2025-04-16,T-bill 1-month weighted average yield,12.25,%,sbp_interest_rates,irregular
+2025-04-30,T-bill 1-month weighted average yield,12.29,%,sbp_interest_rates,irregular
+2025-05-14,T-bill 1-month weighted average yield,12.14,%,sbp_interest_rates,irregular
+2025-05-27,T-bill 1-month weighted average yield,11.18,%,sbp_interest_rates,irregular
+2025-06-11,T-bill 1-month weighted average yield,11.1,%,sbp_interest_rates,irregular
+2025-06-25,T-bill 1-month weighted average yield,11.06,%,sbp_interest_rates,irregular
+2025-07-09,T-bill 1-month weighted average yield,11.0,%,sbp_interest_rates,irregular
+2025-07-23,T-bill 1-month weighted average yield,11.08,%,sbp_interest_rates,irregular
+2025-08-06,T-bill 1-month weighted average yield,10.85,%,sbp_interest_rates,irregular
+2025-08-20,T-bill 1-month weighted average yield,10.87,%,sbp_interest_rates,irregular
+2025-09-03,T-bill 1-month weighted average yield,10.73,%,sbp_interest_rates,irregular
+2025-09-17,T-bill 1-month weighted average yield,10.74,%,sbp_interest_rates,irregular
+2025-10-01,T-bill 1-month weighted average yield,11.09,%,sbp_interest_rates,irregular
+2025-10-15,T-bill 1-month weighted average yield,11.09,%,sbp_interest_rates,irregular
+2025-10-29,T-bill 1-month weighted average yield,10.99,%,sbp_interest_rates,irregular
+2025-11-12,T-bill 1-month weighted average yield,10.97,%,sbp_interest_rates,irregular
+2025-11-26,T-bill 1-month weighted average yield,10.89,%,sbp_interest_rates,irregular
+2025-12-10,T-bill 1-month weighted average yield,10.79,%,sbp_interest_rates,irregular
+2025-12-24,T-bill 1-month weighted average yield,10.34,%,sbp_interest_rates,irregular
+2026-01-07,T-bill 1-month weighted average yield,10.2,%,sbp_interest_rates,irregular
+2026-01-21,T-bill 1-month weighted average yield,9.9,%,sbp_interest_rates,irregular
+2026-02-04,T-bill 1-month weighted average yield,10.18,%,sbp_interest_rates,irregular
+2026-02-18,T-bill 1-month weighted average yield,10.14,%,sbp_interest_rates,irregular
+2026-03-04,T-bill 1-month weighted average yield,10.32,%,sbp_interest_rates,irregular
+2026-03-16,T-bill 1-month weighted average yield,11.01,%,sbp_interest_rates,irregular
+2026-04-15,T-bill 1-month weighted average yield,10.67,%,sbp_interest_rates,irregular
+2026-04-29,T-bill 1-month weighted average yield,11.4,%,sbp_interest_rates,irregular
+2026-05-13,T-bill 1-month weighted average yield,11.32,%,sbp_interest_rates,irregular
+2026-05-20,T-bill 1-month weighted average yield,12.06,%,sbp_interest_rates,irregular
+2026-06-10,T-bill 1-month weighted average yield,12.1,%,sbp_interest_rates,irregular
+2026-06-23,T-bill 1-month weighted average yield,11.75,%,sbp_interest_rates,irregular
+2026-07-08,T-bill 1-month weighted average yield,11.39,%,sbp_interest_rates,irregular
+2026-07-22,T-bill 1-month weighted average yield,11.29,%,sbp_interest_rates,irregular
+2024-11-13,T-bill 12-month cut-off yield,13.2,%,sbp_interest_rates,irregular
+2024-11-27,T-bill 12-month cut-off yield,12.35,%,sbp_interest_rates,irregular
+2024-12-11,T-bill 12-month cut-off yield,12.3,%,sbp_interest_rates,irregular
+2024-12-24,T-bill 12-month cut-off yield,12.3,%,sbp_interest_rates,irregular
+2025-01-08,T-bill 12-month cut-off yield,11.8,%,sbp_interest_rates,irregular
+2025-01-22,T-bill 12-month cut-off yield,11.39,%,sbp_interest_rates,irregular
+2025-02-04,T-bill 12-month cut-off yield,11.59,%,sbp_interest_rates,irregular
+2025-02-19,T-bill 12-month cut-off yield,11.65,%,sbp_interest_rates,irregular
+2025-03-05,T-bill 12-month cut-off yield,11.64,%,sbp_interest_rates,irregular
+2025-03-19,T-bill 12-month cut-off yield,11.9,%,sbp_interest_rates,irregular
+2025-03-26,T-bill 12-month cut-off yield,12.01,%,sbp_interest_rates,irregular
+2025-04-16,T-bill 12-month cut-off yield,12.01,%,sbp_interest_rates,irregular
+2025-04-30,T-bill 12-month cut-off yield,12.01,%,sbp_interest_rates,irregular
+2025-05-14,T-bill 12-month cut-off yield,11.35,%,sbp_interest_rates,irregular
+2025-05-27,T-bill 12-month cut-off yield,11.2,%,sbp_interest_rates,irregular
+2025-06-11,T-bill 12-month cut-off yield,10.95,%,sbp_interest_rates,irregular
+2025-06-25,T-bill 12-month cut-off yield,10.93,%,sbp_interest_rates,irregular
+2025-07-09,T-bill 12-month cut-off yield,10.8,%,sbp_interest_rates,irregular
+2025-07-23,T-bill 12-month cut-off yield,10.7,%,sbp_interest_rates,irregular
+2025-08-06,T-bill 12-month cut-off yield,11.0,%,sbp_interest_rates,irregular
+2025-08-20,T-bill 12-month cut-off yield,11.0,%,sbp_interest_rates,irregular
+2025-09-03,T-bill 12-month cut-off yield,11.0,%,sbp_interest_rates,irregular
+2025-09-17,T-bill 12-month cut-off yield,11.0,%,sbp_interest_rates,irregular
+2025-10-01,T-bill 12-month cut-off yield,11.19,%,sbp_interest_rates,irregular
+2025-10-15,T-bill 12-month cut-off yield,11.25,%,sbp_interest_rates,irregular
+2025-10-29,T-bill 12-month cut-off yield,11.35,%,sbp_interest_rates,irregular
+2025-11-12,T-bill 12-month cut-off yield,11.35,%,sbp_interest_rates,irregular
+2025-11-26,T-bill 12-month cut-off yield,11.27,%,sbp_interest_rates,irregular
+2025-12-10,T-bill 12-month cut-off yield,11.27,%,sbp_interest_rates,irregular
+2025-12-24,T-bill 12-month cut-off yield,10.49,%,sbp_interest_rates,irregular
+2026-01-07,T-bill 12-month cut-off yield,10.16,%,sbp_interest_rates,irregular
+2026-01-21,T-bill 12-month cut-off yield,10.0,%,sbp_interest_rates,irregular
+2026-02-04,T-bill 12-month cut-off yield,10.4,%,sbp_interest_rates,irregular
+2026-02-18,T-bill 12-month cut-off yield,10.6,%,sbp_interest_rates,irregular
+2026-03-04,T-bill 12-month cut-off yield,10.99,%,sbp_interest_rates,irregular
+2026-03-16,T-bill 12-month cut-off yield,11.5,%,sbp_interest_rates,irregular
+2026-04-15,T-bill 12-month cut-off yield,11.89,%,sbp_interest_rates,irregular
+2026-04-29,T-bill 12-month cut-off yield,12.1,%,sbp_interest_rates,irregular
+2026-05-13,T-bill 12-month cut-off yield,12.5,%,sbp_interest_rates,irregular
+2026-05-20,T-bill 12-month cut-off yield,12.59,%,sbp_interest_rates,irregular
+2026-06-10,T-bill 12-month cut-off yield,12.99,%,sbp_interest_rates,irregular
+2026-06-23,T-bill 12-month cut-off yield,11.84,%,sbp_interest_rates,irregular
+2026-07-08,T-bill 12-month cut-off yield,11.49,%,sbp_interest_rates,irregular
+2026-07-22,T-bill 12-month cut-off yield,11.99,%,sbp_interest_rates,irregular
+2024-11-13,T-bill 12-month weighted average yield,12.93,%,sbp_interest_rates,irregular
+2024-11-27,T-bill 12-month weighted average yield,13.02,%,sbp_interest_rates,irregular
+2024-12-11,T-bill 12-month weighted average yield,12.1,%,sbp_interest_rates,irregular
+2024-12-24,T-bill 12-month weighted average yield,11.98,%,sbp_interest_rates,irregular
+2025-01-08,T-bill 12-month weighted average yield,12.19,%,sbp_interest_rates,irregular
+2025-01-22,T-bill 12-month weighted average yield,12.19,%,sbp_interest_rates,irregular
+2025-02-04,T-bill 12-month weighted average yield,11.35,%,sbp_interest_rates,irregular
+2025-02-19,T-bill 12-month weighted average yield,11.38,%,sbp_interest_rates,irregular
+2025-03-05,T-bill 12-month weighted average yield,11.58,%,sbp_interest_rates,irregular
+2025-03-19,T-bill 12-month weighted average yield,11.55,%,sbp_interest_rates,irregular
+2025-03-26,T-bill 12-month weighted average yield,11.86,%,sbp_interest_rates,irregular
+2025-04-16,T-bill 12-month weighted average yield,11.9,%,sbp_interest_rates,irregular
+2025-04-30,T-bill 12-month weighted average yield,11.93,%,sbp_interest_rates,irregular
+2025-05-14,T-bill 12-month weighted average yield,11.97,%,sbp_interest_rates,irregular
+2025-05-27,T-bill 12-month weighted average yield,11.32,%,sbp_interest_rates,irregular
+2025-06-11,T-bill 12-month weighted average yield,11.16,%,sbp_interest_rates,irregular
+2025-06-25,T-bill 12-month weighted average yield,10.92,%,sbp_interest_rates,irregular
+2025-07-09,T-bill 12-month weighted average yield,10.88,%,sbp_interest_rates,irregular
+2025-07-23,T-bill 12-month weighted average yield,10.67,%,sbp_interest_rates,irregular
+2025-08-06,T-bill 12-month weighted average yield,10.67,%,sbp_interest_rates,irregular
+2025-08-20,T-bill 12-month weighted average yield,10.9,%,sbp_interest_rates,irregular
+2025-09-03,T-bill 12-month weighted average yield,10.98,%,sbp_interest_rates,irregular
+2025-09-17,T-bill 12-month weighted average yield,10.99,%,sbp_interest_rates,irregular
+2025-10-01,T-bill 12-month weighted average yield,11.13,%,sbp_interest_rates,irregular
+2025-10-15,T-bill 12-month weighted average yield,11.2,%,sbp_interest_rates,irregular
+2025-10-29,T-bill 12-month weighted average yield,11.29,%,sbp_interest_rates,irregular
+2025-11-12,T-bill 12-month weighted average yield,11.32,%,sbp_interest_rates,irregular
+2025-11-26,T-bill 12-month weighted average yield,11.27,%,sbp_interest_rates,irregular
+2025-12-10,T-bill 12-month weighted average yield,11.24,%,sbp_interest_rates,irregular
+2025-12-24,T-bill 12-month weighted average yield,10.45,%,sbp_interest_rates,irregular
+2026-01-07,T-bill 12-month weighted average yield,10.09,%,sbp_interest_rates,irregular
+2026-01-21,T-bill 12-month weighted average yield,9.99,%,sbp_interest_rates,irregular
+2026-02-04,T-bill 12-month weighted average yield,10.35,%,sbp_interest_rates,irregular
+2026-02-18,T-bill 12-month weighted average yield,10.53,%,sbp_interest_rates,irregular
+2026-03-04,T-bill 12-month weighted average yield,10.91,%,sbp_interest_rates,irregular
+2026-03-16,T-bill 12-month weighted average yield,11.31,%,sbp_interest_rates,irregular
+2026-04-15,T-bill 12-month weighted average yield,11.82,%,sbp_interest_rates,irregular
+2026-04-29,T-bill 12-month weighted average yield,12.04,%,sbp_interest_rates,irregular
+2026-05-13,T-bill 12-month weighted average yield,12.39,%,sbp_interest_rates,irregular
+2026-05-20,T-bill 12-month weighted average yield,12.59,%,sbp_interest_rates,irregular
+2026-06-10,T-bill 12-month weighted average yield,12.91,%,sbp_interest_rates,irregular
+2026-06-23,T-bill 12-month weighted average yield,11.76,%,sbp_interest_rates,irregular
+2026-07-08,T-bill 12-month weighted average yield,11.37,%,sbp_interest_rates,irregular
+2026-07-22,T-bill 12-month weighted average yield,11.89,%,sbp_interest_rates,irregular
+2024-11-13,T-bill 3-month cut-off yield,13.7,%,sbp_interest_rates,irregular
+2024-11-27,T-bill 3-month cut-off yield,13.0,%,sbp_interest_rates,irregular
+2024-12-11,T-bill 3-month cut-off yield,12.0,%,sbp_interest_rates,irregular
+2024-12-24,T-bill 3-month cut-off yield,12.0,%,sbp_interest_rates,irregular
+2025-01-08,T-bill 3-month cut-off yield,11.78,%,sbp_interest_rates,irregular
+2025-01-22,T-bill 3-month cut-off yield,11.59,%,sbp_interest_rates,irregular
+2025-02-04,T-bill 3-month cut-off yield,11.8,%,sbp_interest_rates,irregular
+2025-02-19,T-bill 3-month cut-off yield,11.82,%,sbp_interest_rates,irregular
+2025-03-05,T-bill 3-month cut-off yield,11.82,%,sbp_interest_rates,irregular
+2025-03-19,T-bill 3-month cut-off yield,11.82,%,sbp_interest_rates,irregular
+2025-03-26,T-bill 3-month cut-off yield,12.01,%,sbp_interest_rates,irregular
+2025-04-16,T-bill 3-month cut-off yield,12.01,%,sbp_interest_rates,irregular
+2025-04-30,T-bill 3-month cut-off yield,12.01,%,sbp_interest_rates,irregular
+2025-05-14,T-bill 3-month cut-off yield,11.24,%,sbp_interest_rates,irregular
+2025-05-27,T-bill 3-month cut-off yield,11.15,%,sbp_interest_rates,irregular
+2025-06-11,T-bill 3-month cut-off yield,11.05,%,sbp_interest_rates,irregular
+2025-06-25,T-bill 3-month cut-off yield,11.0,%,sbp_interest_rates,irregular
+2025-07-09,T-bill 3-month cut-off yield,11.0,%,sbp_interest_rates,irregular
+2025-07-23,T-bill 3-month cut-off yield,10.71,%,sbp_interest_rates,irregular
+2025-08-06,T-bill 3-month cut-off yield,10.85,%,sbp_interest_rates,irregular
+2025-08-20,T-bill 3-month cut-off yield,10.85,%,sbp_interest_rates,irregular
+2025-09-03,T-bill 3-month cut-off yield,10.85,%,sbp_interest_rates,irregular
+2025-09-17,T-bill 3-month cut-off yield,10.85,%,sbp_interest_rates,irregular
+2025-10-01,T-bill 3-month cut-off yield,11.05,%,sbp_interest_rates,irregular
+2025-10-15,T-bill 3-month cut-off yield,11.05,%,sbp_interest_rates,irregular
+2025-10-29,T-bill 3-month cut-off yield,11.05,%,sbp_interest_rates,irregular
+2025-11-12,T-bill 3-month cut-off yield,11.04,%,sbp_interest_rates,irregular
+2025-11-26,T-bill 3-month cut-off yield,11.0,%,sbp_interest_rates,irregular
+2025-12-10,T-bill 3-month cut-off yield,10.99,%,sbp_interest_rates,irregular
+2025-12-24,T-bill 3-month cut-off yield,10.49,%,sbp_interest_rates,irregular
+2026-01-07,T-bill 3-month cut-off yield,10.15,%,sbp_interest_rates,irregular
+2026-01-21,T-bill 3-month cut-off yield,9.9,%,sbp_interest_rates,irregular
+2026-02-04,T-bill 3-month cut-off yield,10.2,%,sbp_interest_rates,irregular
+2026-02-18,T-bill 3-month cut-off yield,10.29,%,sbp_interest_rates,irregular
+2026-03-04,T-bill 3-month cut-off yield,10.5,%,sbp_interest_rates,irregular
+2026-03-16,T-bill 3-month cut-off yield,11.5,%,sbp_interest_rates,irregular
+2026-04-15,T-bill 3-month cut-off yield,11.44,%,sbp_interest_rates,irregular
+2026-04-29,T-bill 3-month cut-off yield,11.84,%,sbp_interest_rates,irregular
+2026-05-13,T-bill 3-month cut-off yield,12.08,%,sbp_interest_rates,irregular
+2026-05-20,T-bill 3-month cut-off yield,12.49,%,sbp_interest_rates,irregular
+2026-06-10,T-bill 3-month cut-off yield,12.5,%,sbp_interest_rates,irregular
+2026-06-23,T-bill 3-month cut-off yield,11.75,%,sbp_interest_rates,irregular
+2026-07-08,T-bill 3-month cut-off yield,11.4,%,sbp_interest_rates,irregular
+2026-07-22,T-bill 3-month cut-off yield,11.52,%,sbp_interest_rates,irregular
+2024-11-13,T-bill 3-month weighted average yield,13.87,%,sbp_interest_rates,irregular
+2024-11-27,T-bill 3-month weighted average yield,13.45,%,sbp_interest_rates,irregular
+2024-12-11,T-bill 3-month weighted average yield,12.94,%,sbp_interest_rates,irregular
+2024-12-24,T-bill 3-month weighted average yield,11.82,%,sbp_interest_rates,irregular
+2025-01-08,T-bill 3-month weighted average yield,11.85,%,sbp_interest_rates,irregular
+2025-01-22,T-bill 3-month weighted average yield,11.85,%,sbp_interest_rates,irregular
+2025-02-04,T-bill 3-month weighted average yield,11.59,%,sbp_interest_rates,irregular
+2025-02-19,T-bill 3-month weighted average yield,11.67,%,sbp_interest_rates,irregular
+2025-03-05,T-bill 3-month weighted average yield,11.7,%,sbp_interest_rates,irregular
+2025-03-19,T-bill 3-month weighted average yield,11.7,%,sbp_interest_rates,irregular
+2025-03-26,T-bill 3-month weighted average yield,11.72,%,sbp_interest_rates,irregular
+2025-04-16,T-bill 3-month weighted average yield,11.83,%,sbp_interest_rates,irregular
+2025-04-30,T-bill 3-month weighted average yield,11.96,%,sbp_interest_rates,irregular
+2025-05-14,T-bill 3-month weighted average yield,11.98,%,sbp_interest_rates,irregular
+2025-05-27,T-bill 3-month weighted average yield,11.21,%,sbp_interest_rates,irregular
+2025-06-11,T-bill 3-month weighted average yield,11.13,%,sbp_interest_rates,irregular
+2025-06-25,T-bill 3-month weighted average yield,10.95,%,sbp_interest_rates,irregular
+2025-07-09,T-bill 3-month weighted average yield,10.95,%,sbp_interest_rates,irregular
+2025-07-23,T-bill 3-month weighted average yield,10.86,%,sbp_interest_rates,irregular
+2025-08-06,T-bill 3-month weighted average yield,10.68,%,sbp_interest_rates,irregular
+2025-08-20,T-bill 3-month weighted average yield,10.8,%,sbp_interest_rates,irregular
+2025-09-03,T-bill 3-month weighted average yield,10.83,%,sbp_interest_rates,irregular
+2025-09-17,T-bill 3-month weighted average yield,10.79,%,sbp_interest_rates,irregular
+2025-10-01,T-bill 3-month weighted average yield,10.96,%,sbp_interest_rates,irregular
+2025-10-15,T-bill 3-month weighted average yield,11.0,%,sbp_interest_rates,irregular
+2025-10-29,T-bill 3-month weighted average yield,11.02,%,sbp_interest_rates,irregular
+2025-11-12,T-bill 3-month weighted average yield,11.02,%,sbp_interest_rates,irregular
+2025-11-26,T-bill 3-month weighted average yield,11.0,%,sbp_interest_rates,irregular
+2025-12-10,T-bill 3-month weighted average yield,10.92,%,sbp_interest_rates,irregular
+2025-12-24,T-bill 3-month weighted average yield,10.43,%,sbp_interest_rates,irregular
+2026-01-07,T-bill 3-month weighted average yield,10.15,%,sbp_interest_rates,irregular
+2026-01-21,T-bill 3-month weighted average yield,9.88,%,sbp_interest_rates,irregular
+2026-02-04,T-bill 3-month weighted average yield,10.1,%,sbp_interest_rates,irregular
+2026-02-18,T-bill 3-month weighted average yield,10.23,%,sbp_interest_rates,irregular
+2026-03-04,T-bill 3-month weighted average yield,10.42,%,sbp_interest_rates,irregular
+2026-03-16,T-bill 3-month weighted average yield,11.02,%,sbp_interest_rates,irregular
+2026-04-15,T-bill 3-month weighted average yield,11.43,%,sbp_interest_rates,irregular
+2026-04-29,T-bill 3-month weighted average yield,11.72,%,sbp_interest_rates,irregular
+2026-05-13,T-bill 3-month weighted average yield,12.01,%,sbp_interest_rates,irregular
+2026-05-20,T-bill 3-month weighted average yield,12.31,%,sbp_interest_rates,irregular
+2026-06-10,T-bill 3-month weighted average yield,12.39,%,sbp_interest_rates,irregular
+2026-06-23,T-bill 3-month weighted average yield,11.7,%,sbp_interest_rates,irregular
+2026-07-08,T-bill 3-month weighted average yield,11.37,%,sbp_interest_rates,irregular
+2026-07-22,T-bill 3-month weighted average yield,11.42,%,sbp_interest_rates,irregular
+2024-11-13,T-bill 6-month cut-off yield,13.5,%,sbp_interest_rates,irregular
+2024-11-27,T-bill 6-month cut-off yield,12.89,%,sbp_interest_rates,irregular
+2024-12-11,T-bill 6-month cut-off yield,12.0,%,sbp_interest_rates,irregular
+2024-12-24,T-bill 6-month cut-off yield,12.0,%,sbp_interest_rates,irregular
+2025-01-08,T-bill 6-month cut-off yield,11.79,%,sbp_interest_rates,irregular
+2025-01-22,T-bill 6-month cut-off yield,11.4,%,sbp_interest_rates,irregular
+2025-02-04,T-bill 6-month cut-off yield,11.5,%,sbp_interest_rates,irregular
+2025-02-19,T-bill 6-month cut-off yield,11.67,%,sbp_interest_rates,irregular
+2025-03-05,T-bill 6-month cut-off yield,11.67,%,sbp_interest_rates,irregular
+2025-03-19,T-bill 6-month cut-off yield,11.67,%,sbp_interest_rates,irregular
+2025-03-26,T-bill 6-month cut-off yield,12.0,%,sbp_interest_rates,irregular
+2025-04-16,T-bill 6-month cut-off yield,11.99,%,sbp_interest_rates,irregular
+2025-04-30,T-bill 6-month cut-off yield,12.0,%,sbp_interest_rates,irregular
+2025-05-14,T-bill 6-month cut-off yield,11.28,%,sbp_interest_rates,irregular
+2025-05-27,T-bill 6-month cut-off yield,11.18,%,sbp_interest_rates,irregular
+2025-06-11,T-bill 6-month cut-off yield,10.97,%,sbp_interest_rates,irregular
+2025-06-25,T-bill 6-month cut-off yield,10.9,%,sbp_interest_rates,irregular
+2025-07-09,T-bill 6-month cut-off yield,10.9,%,sbp_interest_rates,irregular
+2025-07-23,T-bill 6-month cut-off yield,10.7,%,sbp_interest_rates,irregular
+2025-08-06,T-bill 6-month cut-off yield,10.87,%,sbp_interest_rates,irregular
+2025-08-20,T-bill 6-month cut-off yield,10.85,%,sbp_interest_rates,irregular
+2025-09-03,T-bill 6-month cut-off yield,10.85,%,sbp_interest_rates,irregular
+2025-09-17,T-bill 6-month cut-off yield,10.84,%,sbp_interest_rates,irregular
+2025-10-01,T-bill 6-month cut-off yield,11.05,%,sbp_interest_rates,irregular
+2025-10-15,T-bill 6-month cut-off yield,11.05,%,sbp_interest_rates,irregular
+2025-10-29,T-bill 6-month cut-off yield,11.05,%,sbp_interest_rates,irregular
+2025-11-12,T-bill 6-month cut-off yield,11.05,%,sbp_interest_rates,irregular
+2025-11-26,T-bill 6-month cut-off yield,11.0,%,sbp_interest_rates,irregular
+2025-12-10,T-bill 6-month cut-off yield,11.0,%,sbp_interest_rates,irregular
+2025-12-24,T-bill 6-month cut-off yield,10.48,%,sbp_interest_rates,irregular
+2026-01-07,T-bill 6-month cut-off yield,10.16,%,sbp_interest_rates,irregular
+2026-01-21,T-bill 6-month cut-off yield,9.95,%,sbp_interest_rates,irregular
+2026-02-04,T-bill 6-month cut-off yield,10.32,%,sbp_interest_rates,irregular
+2026-02-18,T-bill 6-month cut-off yield,10.44,%,sbp_interest_rates,irregular
+2026-03-04,T-bill 6-month cut-off yield,10.74,%,sbp_interest_rates,irregular
+2026-03-16,T-bill 6-month cut-off yield,11.5,%,sbp_interest_rates,irregular
+2026-04-15,T-bill 6-month cut-off yield,11.15,%,sbp_interest_rates,irregular
+2026-04-29,T-bill 6-month cut-off yield,11.98,%,sbp_interest_rates,irregular
+2026-05-13,T-bill 6-month cut-off yield,12.35,%,sbp_interest_rates,irregular
+2026-05-20,T-bill 6-month cut-off yield,12.5,%,sbp_interest_rates,irregular
+2026-06-10,T-bill 6-month cut-off yield,12.49,%,sbp_interest_rates,irregular
+2026-06-23,T-bill 6-month cut-off yield,11.75,%,sbp_interest_rates,irregular
+2026-07-08,T-bill 6-month cut-off yield,11.44,%,sbp_interest_rates,irregular
+2026-07-22,T-bill 6-month cut-off yield,11.8,%,sbp_interest_rates,irregular
+2024-11-13,T-bill 6-month weighted average yield,13.34,%,sbp_interest_rates,irregular
+2024-11-27,T-bill 6-month weighted average yield,13.42,%,sbp_interest_rates,irregular
+2024-12-11,T-bill 6-month weighted average yield,12.82,%,sbp_interest_rates,irregular
+2024-12-24,T-bill 6-month weighted average yield,11.93,%,sbp_interest_rates,irregular
+2025-01-08,T-bill 6-month weighted average yield,11.89,%,sbp_interest_rates,irregular
+2025-01-22,T-bill 6-month weighted average yield,11.89,%,sbp_interest_rates,irregular
+2025-02-04,T-bill 6-month weighted average yield,11.4,%,sbp_interest_rates,irregular
+2025-02-19,T-bill 6-month weighted average yield,11.41,%,sbp_interest_rates,irregular
+2025-03-05,T-bill 6-month weighted average yield,11.64,%,sbp_interest_rates,irregular
+2025-03-19,T-bill 6-month weighted average yield,11.66,%,sbp_interest_rates,irregular
+2025-03-26,T-bill 6-month weighted average yield,11.67,%,sbp_interest_rates,irregular
+2025-04-16,T-bill 6-month weighted average yield,11.92,%,sbp_interest_rates,irregular
+2025-04-30,T-bill 6-month weighted average yield,11.95,%,sbp_interest_rates,irregular
+2025-05-14,T-bill 6-month weighted average yield,11.97,%,sbp_interest_rates,irregular
+2025-05-27,T-bill 6-month weighted average yield,11.25,%,sbp_interest_rates,irregular
+2025-06-11,T-bill 6-month weighted average yield,11.11,%,sbp_interest_rates,irregular
+2025-06-25,T-bill 6-month weighted average yield,10.95,%,sbp_interest_rates,irregular
+2025-07-09,T-bill 6-month weighted average yield,10.9,%,sbp_interest_rates,irregular
+2025-07-23,T-bill 6-month weighted average yield,10.75,%,sbp_interest_rates,irregular
+2025-08-06,T-bill 6-month weighted average yield,10.68,%,sbp_interest_rates,irregular
+2025-08-20,T-bill 6-month weighted average yield,10.78,%,sbp_interest_rates,irregular
+2025-09-03,T-bill 6-month weighted average yield,10.83,%,sbp_interest_rates,irregular
+2025-09-17,T-bill 6-month weighted average yield,10.76,%,sbp_interest_rates,irregular
+2025-10-01,T-bill 6-month weighted average yield,10.82,%,sbp_interest_rates,irregular
+2025-10-15,T-bill 6-month weighted average yield,10.87,%,sbp_interest_rates,irregular
+2025-10-29,T-bill 6-month weighted average yield,10.94,%,sbp_interest_rates,irregular
+2025-11-12,T-bill 6-month weighted average yield,11.02,%,sbp_interest_rates,irregular
+2025-11-26,T-bill 6-month weighted average yield,11.0,%,sbp_interest_rates,irregular
+2025-12-10,T-bill 6-month weighted average yield,10.92,%,sbp_interest_rates,irregular
+2025-12-24,T-bill 6-month weighted average yield,10.46,%,sbp_interest_rates,irregular
+2026-01-07,T-bill 6-month weighted average yield,10.09,%,sbp_interest_rates,irregular
+2026-01-21,T-bill 6-month weighted average yield,9.93,%,sbp_interest_rates,irregular
+2026-02-04,T-bill 6-month weighted average yield,10.15,%,sbp_interest_rates,irregular
+2026-02-18,T-bill 6-month weighted average yield,10.42,%,sbp_interest_rates,irregular
+2026-03-04,T-bill 6-month weighted average yield,10.72,%,sbp_interest_rates,irregular
+2026-03-16,T-bill 6-month weighted average yield,11.19,%,sbp_interest_rates,irregular
+2026-04-15,T-bill 6-month weighted average yield,11.15,%,sbp_interest_rates,irregular
+2026-04-29,T-bill 6-month weighted average yield,11.86,%,sbp_interest_rates,irregular
+2026-05-13,T-bill 6-month weighted average yield,12.28,%,sbp_interest_rates,irregular
+2026-05-20,T-bill 6-month weighted average yield,12.4,%,sbp_interest_rates,irregular
+2026-06-10,T-bill 6-month weighted average yield,12.48,%,sbp_interest_rates,irregular
+2026-06-23,T-bill 6-month weighted average yield,11.72,%,sbp_interest_rates,irregular
+2026-07-08,T-bill 6-month weighted average yield,11.39,%,sbp_interest_rates,irregular
+2026-07-22,T-bill 6-month weighted average yield,11.54,%,sbp_interest_rates,irregular
+2017-06-30,"Deposit rate — fresh (marginal) (PKR, all banks)",3.43,%,sbp_interest_rates,monthly
+2018-06-30,"Deposit rate — fresh (marginal) (PKR, all banks)",3.98,%,sbp_interest_rates,monthly
+2019-06-30,"Deposit rate — fresh (marginal) (PKR, all banks)",8.3,%,sbp_interest_rates,monthly
+2020-06-30,"Deposit rate — fresh (marginal) (PKR, all banks)",4.65,%,sbp_interest_rates,monthly
+2021-06-30,"Deposit rate — fresh (marginal) (PKR, all banks)",3.43,%,sbp_interest_rates,monthly
+2022-06-30,"Deposit rate — fresh (marginal) (PKR, all banks)",8.79,%,sbp_interest_rates,monthly
+2023-06-30,"Deposit rate — fresh (marginal) (PKR, all banks)",10.44,%,sbp_interest_rates,monthly
+2024-06-30,"Deposit rate — fresh (marginal) (PKR, all banks)",10.29,%,sbp_interest_rates,monthly
+2025-06-30,"Deposit rate — fresh (marginal) (PKR, all banks)",3.35,%,sbp_interest_rates,monthly
+2025-07-31,"Deposit rate — fresh (marginal) (PKR, all banks)",5.91,%,sbp_interest_rates,monthly
+2025-08-31,"Deposit rate — fresh (marginal) (PKR, all banks)",5.32,%,sbp_interest_rates,monthly
+2025-09-30,"Deposit rate — fresh (marginal) (PKR, all banks)",5.28,%,sbp_interest_rates,monthly
+2025-10-31,"Deposit rate — fresh (marginal) (PKR, all banks)",5.1,%,sbp_interest_rates,monthly
+2025-11-30,"Deposit rate — fresh (marginal) (PKR, all banks)",4.48,%,sbp_interest_rates,monthly
+2025-12-31,"Deposit rate — fresh (marginal) (PKR, all banks)",5.05,%,sbp_interest_rates,monthly
+2026-01-31,"Deposit rate — fresh (marginal) (PKR, all banks)",4.97,%,sbp_interest_rates,monthly
+2026-02-28,"Deposit rate — fresh (marginal) (PKR, all banks)",5.04,%,sbp_interest_rates,monthly
+2026-03-31,"Deposit rate — fresh (marginal) (PKR, all banks)",4.61,%,sbp_interest_rates,monthly
+2026-04-30,"Deposit rate — fresh (marginal) (PKR, all banks)",4.85,%,sbp_interest_rates,monthly
+2026-05-31,"Deposit rate — fresh (marginal) (PKR, all banks)",4.34,%,sbp_interest_rates,monthly
+2026-06-30,"Deposit rate — fresh (marginal) (PKR, all banks)",4.05,%,sbp_interest_rates,monthly
+2017-06-30,"Deposit rate — outstanding (stocks) (PKR, all banks)",2.84,%,sbp_interest_rates,monthly
+2018-06-30,"Deposit rate — outstanding (stocks) (PKR, all banks)",3.0,%,sbp_interest_rates,monthly
+2019-06-30,"Deposit rate — outstanding (stocks) (PKR, all banks)",5.71,%,sbp_interest_rates,monthly
+2020-06-30,"Deposit rate — outstanding (stocks) (PKR, all banks)",4.31,%,sbp_interest_rates,monthly
+2021-06-30,"Deposit rate — outstanding (stocks) (PKR, all banks)",3.5,%,sbp_interest_rates,monthly
+2022-06-30,"Deposit rate — outstanding (stocks) (PKR, all banks)",6.96,%,sbp_interest_rates,monthly
+2023-06-30,"Deposit rate — outstanding (stocks) (PKR, all banks)",10.4,%,sbp_interest_rates,monthly
+2024-06-30,"Deposit rate — outstanding (stocks) (PKR, all banks)",11.68,%,sbp_interest_rates,monthly
+2025-06-30,"Deposit rate — outstanding (stocks) (PKR, all banks)",5.34,%,sbp_interest_rates,monthly
+2025-07-31,"Deposit rate — outstanding (stocks) (PKR, all banks)",5.23,%,sbp_interest_rates,monthly
+2025-08-31,"Deposit rate — outstanding (stocks) (PKR, all banks)",5.31,%,sbp_interest_rates,monthly
+2025-09-30,"Deposit rate — outstanding (stocks) (PKR, all banks)",5.2,%,sbp_interest_rates,monthly
+2025-10-31,"Deposit rate — outstanding (stocks) (PKR, all banks)",5.23,%,sbp_interest_rates,monthly
+2025-11-30,"Deposit rate — outstanding (stocks) (PKR, all banks)",5.23,%,sbp_interest_rates,monthly
+2025-12-31,"Deposit rate — outstanding (stocks) (PKR, all banks)",5.35,%,sbp_interest_rates,monthly
+2026-01-31,"Deposit rate — outstanding (stocks) (PKR, all banks)",5.01,%,sbp_interest_rates,monthly
+2026-02-28,"Deposit rate — outstanding (stocks) (PKR, all banks)",4.97,%,sbp_interest_rates,monthly
+2026-03-31,"Deposit rate — outstanding (stocks) (PKR, all banks)",4.94,%,sbp_interest_rates,monthly
+2026-04-30,"Deposit rate — outstanding (stocks) (PKR, all banks)",5.18,%,sbp_interest_rates,monthly
+2026-05-31,"Deposit rate — outstanding (stocks) (PKR, all banks)",5.49,%,sbp_interest_rates,monthly
+2026-06-30,"Deposit rate — outstanding (stocks) (PKR, all banks)",5.47,%,sbp_interest_rates,monthly
+2025-07-31,KIBOR 1-month (monthly average),11.3,%,sbp_interest_rates,monthly
+2025-08-31,KIBOR 1-month (monthly average),11.31,%,sbp_interest_rates,monthly
+2025-09-30,KIBOR 1-month (monthly average),11.28,%,sbp_interest_rates,monthly
+2025-10-31,KIBOR 1-month (monthly average),11.39,%,sbp_interest_rates,monthly
+2025-11-30,KIBOR 1-month (monthly average),11.39,%,sbp_interest_rates,monthly
+2025-12-31,KIBOR 1-month (monthly average),11.06,%,sbp_interest_rates,monthly
+2026-01-31,KIBOR 1-month (monthly average),10.67,%,sbp_interest_rates,monthly
+2026-02-28,KIBOR 1-month (monthly average),10.75,%,sbp_interest_rates,monthly
+2026-03-31,KIBOR 1-month (monthly average),11.0,%,sbp_interest_rates,monthly
+2026-04-30,KIBOR 1-month (monthly average),11.17,%,sbp_interest_rates,monthly
+2026-05-31,KIBOR 1-month (monthly average),11.91,%,sbp_interest_rates,monthly
+2026-06-30,KIBOR 1-month (monthly average),12.01,%,sbp_interest_rates,monthly
+2026-07-31,KIBOR 1-month (monthly average),11.88,%,sbp_interest_rates,monthly
+2025-07-31,KIBOR 3-month (monthly average),11.02,%,sbp_interest_rates,monthly
+2025-08-31,KIBOR 3-month (monthly average),11.05,%,sbp_interest_rates,monthly
+2025-09-30,KIBOR 3-month (monthly average),11.05,%,sbp_interest_rates,monthly
+2025-10-31,KIBOR 3-month (monthly average),11.16,%,sbp_interest_rates,monthly
+2025-11-30,KIBOR 3-month (monthly average),11.16,%,sbp_interest_rates,monthly
+2025-12-31,KIBOR 3-month (monthly average),10.87,%,sbp_interest_rates,monthly
+2026-01-31,KIBOR 3-month (monthly average),10.39,%,sbp_interest_rates,monthly
+2026-02-28,KIBOR 3-month (monthly average),10.53,%,sbp_interest_rates,monthly
+2026-03-31,KIBOR 3-month (monthly average),11.03,%,sbp_interest_rates,monthly
+2026-04-30,KIBOR 3-month (monthly average),11.45,%,sbp_interest_rates,monthly
+2026-05-31,KIBOR 3-month (monthly average),11.99,%,sbp_interest_rates,monthly
+2026-06-30,KIBOR 3-month (monthly average),12.09,%,sbp_interest_rates,monthly
+2026-07-31,KIBOR 3-month (monthly average),11.65,%,sbp_interest_rates,monthly
+2025-07-31,KIBOR 6-month (monthly average),10.98,%,sbp_interest_rates,monthly
+2025-08-31,KIBOR 6-month (monthly average),11.05,%,sbp_interest_rates,monthly
+2025-09-30,KIBOR 6-month (monthly average),11.05,%,sbp_interest_rates,monthly
+2025-10-31,KIBOR 6-month (monthly average),11.18,%,sbp_interest_rates,monthly
+2025-11-30,KIBOR 6-month (monthly average),11.19,%,sbp_interest_rates,monthly
+2025-12-31,KIBOR 6-month (monthly average),10.91,%,sbp_interest_rates,monthly
+2026-01-31,KIBOR 6-month (monthly average),10.39,%,sbp_interest_rates,monthly
+2026-02-28,KIBOR 6-month (monthly average),10.55,%,sbp_interest_rates,monthly
+2026-03-31,KIBOR 6-month (monthly average),11.12,%,sbp_interest_rates,monthly
+2026-04-30,KIBOR 6-month (monthly average),11.6,%,sbp_interest_rates,monthly
+2026-05-31,KIBOR 6-month (monthly average),12.22,%,sbp_interest_rates,monthly
+2026-06-30,KIBOR 6-month (monthly average),12.27,%,sbp_interest_rates,monthly
+2026-07-31,KIBOR 6-month (monthly average),11.68,%,sbp_interest_rates,monthly
+2017-06-30,"Lending rate — fresh (marginal) (PKR, all banks)",7.07,%,sbp_interest_rates,monthly
+2018-06-30,"Lending rate — fresh (marginal) (PKR, all banks)",7.45,%,sbp_interest_rates,monthly
+2019-06-30,"Lending rate — fresh (marginal) (PKR, all banks)",12.43,%,sbp_interest_rates,monthly
+2020-06-30,"Lending rate — fresh (marginal) (PKR, all banks)",9.6,%,sbp_interest_rates,monthly
+2021-06-30,"Lending rate — fresh (marginal) (PKR, all banks)",8.19,%,sbp_interest_rates,monthly
+2022-06-30,"Lending rate — fresh (marginal) (PKR, all banks)",13.63,%,sbp_interest_rates,monthly
+2023-06-30,"Lending rate — fresh (marginal) (PKR, all banks)",20.36,%,sbp_interest_rates,monthly
+2024-06-30,"Lending rate — fresh (marginal) (PKR, all banks)",20.16,%,sbp_interest_rates,monthly
+2025-06-30,"Lending rate — fresh (marginal) (PKR, all banks)",11.66,%,sbp_interest_rates,monthly
+2025-07-31,"Lending rate — fresh (marginal) (PKR, all banks)",11.99,%,sbp_interest_rates,monthly
+2025-08-31,"Lending rate — fresh (marginal) (PKR, all banks)",11.87,%,sbp_interest_rates,monthly
+2025-09-30,"Lending rate — fresh (marginal) (PKR, all banks)",11.82,%,sbp_interest_rates,monthly
+2025-10-31,"Lending rate — fresh (marginal) (PKR, all banks)",11.69,%,sbp_interest_rates,monthly
+2025-11-30,"Lending rate — fresh (marginal) (PKR, all banks)",11.72,%,sbp_interest_rates,monthly
+2025-12-31,"Lending rate — fresh (marginal) (PKR, all banks)",11.32,%,sbp_interest_rates,monthly
+2026-01-31,"Lending rate — fresh (marginal) (PKR, all banks)",11.39,%,sbp_interest_rates,monthly
+2026-02-28,"Lending rate — fresh (marginal) (PKR, all banks)",11.02,%,sbp_interest_rates,monthly
+2026-03-31,"Lending rate — fresh (marginal) (PKR, all banks)",11.44,%,sbp_interest_rates,monthly
+2026-04-30,"Lending rate — fresh (marginal) (PKR, all banks)",11.75,%,sbp_interest_rates,monthly
+2026-05-31,"Lending rate — fresh (marginal) (PKR, all banks)",12.18,%,sbp_interest_rates,monthly
+2026-06-30,"Lending rate — fresh (marginal) (PKR, all banks)",12.03,%,sbp_interest_rates,monthly
+2017-06-30,"Lending rate — outstanding (stocks) (PKR, all banks)",7.86,%,sbp_interest_rates,monthly
+2018-06-30,"Lending rate — outstanding (stocks) (PKR, all banks)",7.85,%,sbp_interest_rates,monthly
+2019-06-30,"Lending rate — outstanding (stocks) (PKR, all banks)",11.49,%,sbp_interest_rates,monthly
+2020-06-30,"Lending rate — outstanding (stocks) (PKR, all banks)",10.08,%,sbp_interest_rates,monthly
+2021-06-30,"Lending rate — outstanding (stocks) (PKR, all banks)",7.98,%,sbp_interest_rates,monthly
+2022-06-30,"Lending rate — outstanding (stocks) (PKR, all banks)",11.37,%,sbp_interest_rates,monthly
+2023-06-30,"Lending rate — outstanding (stocks) (PKR, all banks)",17.8,%,sbp_interest_rates,monthly
+2024-06-30,"Lending rate — outstanding (stocks) (PKR, all banks)",18.73,%,sbp_interest_rates,monthly
+2025-06-30,"Lending rate — outstanding (stocks) (PKR, all banks)",11.8,%,sbp_interest_rates,monthly
+2025-07-31,"Lending rate — outstanding (stocks) (PKR, all banks)",11.48,%,sbp_interest_rates,monthly
+2025-08-31,"Lending rate — outstanding (stocks) (PKR, all banks)",11.33,%,sbp_interest_rates,monthly
+2025-09-30,"Lending rate — outstanding (stocks) (PKR, all banks)",11.24,%,sbp_interest_rates,monthly
+2025-10-31,"Lending rate — outstanding (stocks) (PKR, all banks)",11.25,%,sbp_interest_rates,monthly
+2025-11-30,"Lending rate — outstanding (stocks) (PKR, all banks)",11.15,%,sbp_interest_rates,monthly
+2025-12-31,"Lending rate — outstanding (stocks) (PKR, all banks)",10.91,%,sbp_interest_rates,monthly
+2026-01-31,"Lending rate — outstanding (stocks) (PKR, all banks)",10.63,%,sbp_interest_rates,monthly
+2026-02-28,"Lending rate — outstanding (stocks) (PKR, all banks)",10.59,%,sbp_interest_rates,monthly
+2026-03-31,"Lending rate — outstanding (stocks) (PKR, all banks)",10.45,%,sbp_interest_rates,monthly
+2026-04-30,"Lending rate — outstanding (stocks) (PKR, all banks)",10.79,%,sbp_interest_rates,monthly
+2026-05-31,"Lending rate — outstanding (stocks) (PKR, all banks)",11.05,%,sbp_interest_rates,monthly
+2026-06-30,"Lending rate — outstanding (stocks) (PKR, all banks)",11.23,%,sbp_interest_rates,monthly

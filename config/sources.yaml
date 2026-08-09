@@ -1,0 +1,1094 @@
+# =============================================================================
+# PIDE Macroeconomic Indicator Dashboard — Source Registry
+# =============================================================================
+# Every entry is an OFFICIAL Government of Pakistan / State Bank source.
+# All `url` values below were HTTP-verified. See docs/DATA_CATALOG.md.
+#
+# Field reference
+#   id            : unique snake_case key; also the raw filename stem
+#   name          : human-readable dataset name
+#   publisher     : sbp | pbs | mof | fbr | nepra | ogra
+#   theme         : inflation | monetary | fiscal | external | growth | labour | energy
+#   page          : official landing page (for citation in the dashboard)
+#   url           : direct download URL (static) OR null when `discover` is used
+#   discover      : dynamic-URL strategy (pbs_media_search | mof_link_scan | fbr_link_scan | nepra_link_scan)
+#   query         : search string used by the `discover` strategy
+#   fmt           : xlsx | xls | pdf | csv | xml
+#   frequency     : daily | weekly | monthly | quarterly | biannual | annual
+#   coverage      : historical span actually present in the file
+#   parser        : function in etl/parsers/ that tidies this file (null = raw archive only)
+#   tier          : 1 = dashboard core (fully automated)
+#                   2 = automated download, semi-structured parse
+#                   3 = archive/reference only (PDF; manual or LLM extraction)
+# =============================================================================
+
+defaults:
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+  timeout: 120
+  retries: 3
+  backoff: 5
+
+sources:
+
+  # ---------------------------------------------------------------- INFLATION
+  - id: pbs_cpi_historical
+    name: CPI / RPI / WPI historical indices and inflation rates (base 2015-16)
+    publisher: pbs
+    theme: inflation
+    page: https://www.pbs.gov.pk/price-statistics/
+    url: https://www.pbs.gov.pk/wp-content/uploads/2020/07/indices_and_growth_rates_historical.xlsx
+    fmt: xlsx
+    frequency: monthly
+    coverage: 2016-07 onward (2015-16 base); 2007-08 base series also included
+    parser: parse_pbs_cpi_historical
+    tier: 1
+    notes: >
+      Four sheets: Historical Indices, Historical Indices 2015-16,
+      Historical Inflation Rate, Historical Inflation Rat2015-16.
+      This is the single best inflation series for the dashboard.
+
+  - id: pbs_spi_weekly
+    name: Weekly Sensitive Price Indicator (SPI) report
+    publisher: pbs
+    theme: inflation
+    page: https://www.pbs.gov.pk/spi
+    url: null
+    discover: pbs_media_search
+    query: "SPI-Report"
+    fmt: xlsx
+    frequency: weekly
+    coverage: rolling; one file per week
+    parser: parse_pbs_spi
+    tier: 1
+    notes: Filename pattern `3.-SPI-Report-DD.MM.YYYY.xlsx`. Discover via WP REST media API.
+
+  - id: pbs_spi_monthly_prices_annex
+    name: SPI monthly average prices annexure
+    publisher: pbs
+    theme: inflation
+    page: https://www.pbs.gov.pk/price-statistics/
+    url: https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Monthly-Prices-Annex-6.xlsx
+    fmt: xlsx
+    frequency: monthly
+    coverage: rolling
+    parser: null
+    tier: 2
+
+  - id: pbs_cpi_sdmx
+    name: CPI SDMX 2.1 data message (IMF ECOFIN_DSD)
+    publisher: pbs
+    theme: inflation
+    page: https://www.pbs.gov.pk/cpi
+    url: https://www.pbs.gov.pk/wp-content/uploads/2020/07/CPI-1.xml
+    fmt: xml
+    frequency: monthly
+    coverage: see file
+    parser: parse_sdmx_generic
+    tier: 2
+    notes: Genuine machine-readable SDMX. Structure ref IMF:ECOFIN_DSD(1.0).
+
+  - id: pbs_monthly_price_review
+    name: Monthly Price Indices review (CPI press release)
+    publisher: pbs
+    theme: inflation
+    page: https://www.pbs.gov.pk/price-statistics/
+    url: null
+    discover: pbs_media_search
+    query: "Monthly-Review"
+    fmt: pdf
+    frequency: monthly
+    coverage: rolling
+    parser: null
+    tier: 3
+
+  - id: pbs_cpi_urban_groupwise
+    name: CPI urban group-wise cumulative indices
+    publisher: pbs
+    theme: inflation
+    page: https://www.pbs.gov.pk/price-statistics/
+    url: https://www.pbs.gov.pk/wp-content/uploads/2020/07/CpI-Urban-Groupwise-Cumulative-Indices.pdf
+    fmt: pdf
+    frequency: monthly
+    coverage: rolling
+    parser: null
+    tier: 3
+
+  - id: pbs_rpi_groupwise
+    name: RPI (rural) group-wise cumulative indices
+    publisher: pbs
+    theme: inflation
+    page: https://www.pbs.gov.pk/price-statistics/
+    url: https://www.pbs.gov.pk/wp-content/uploads/2020/07/RPI-Gropwise-Cumulative-Indices.pdf
+    fmt: pdf
+    frequency: monthly
+    coverage: rolling
+    parser: null
+    tier: 3
+
+  # ----------------------------------------------------------------- MONETARY
+  - id: sbp_broad_money_m2
+    name: Broad Money (M2) — components and affecting factors
+    publisher: sbp
+    theme: monetary
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/BroadMoney_M2_Arch.xls
+    fmt: xls
+    frequency: weekly
+    coverage: 1969-06 onward
+    parser: parse_sbp_m2
+    tier: 1
+    notes: >-
+      Multi-sheet by FY block (M2_FY70-FY90 ... 'M2_(FY23 to onwards)'); the parser
+      concatenates all sheets. From the FY13 sheet onward SBP indents component rows one
+      column further right than the aggregate rows, so the headline 'Broad Money (M2)
+      (A+B+C)' label sits left of its own components; row labels must be resolved by
+      scanning leftward from the first data column or the M2 total is silently dropped
+      after 2012 while its components stay current.
+
+  - id: sbp_monetary_aggregates_m3
+    name: Monetary Aggregates (M3)
+    publisher: sbp
+    theme: monetary
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/M3-Arch.xlsx
+    fmt: xlsx
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: sbp_reserve_money
+    name: Reserve Money (RM)
+    publisher: sbp
+    theme: monetary
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/ReserveMoney_Arch.xls
+    fmt: xls
+    frequency: weekly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: sbp_interest_rates
+    name: Structure of interest rates (policy rate, KIBOR, lending/deposit rates)
+    publisher: sbp
+    theme: monetary
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/sir.pdf
+    fmt: pdf
+    frequency: fortnightly
+    coverage: policy rate 2023-01 onward; KIBOR and bank rates rolling ~12 months
+    notes: >-
+      The only machine-readable official carrier of the SBP policy rate. SBP
+      publishes no spreadsheet version. Page 1 gives the corridor by effective
+      date, page 2 KIBOR monthly averages, page 6 weighted-average bank rates.
+    parser: parse_sbp_interest_rates
+    tier: 1
+
+  - id: sbp_interest_rate_corridor
+    name: SBP standing facility usage (ceiling / floor amounts and institutions)
+    notes: >-
+      Despite the file name this is NOT the policy rate. It records how much
+      liquidity banks took from the ceiling (reverse repo) and floor (repo)
+      standing facilities, in Rs million, plus the number of institutions.
+      Use sbp_interest_rates for the policy rate itself.
+    publisher: sbp
+    theme: monetary
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/IR-Corridor-Hist.xls
+    fmt: xls
+    frequency: daily
+    coverage: 2009-08-13 onward
+    parser: parse_sbp_ir_corridor
+    tier: 1
+
+  - id: sbp_reer_neer
+    name: Nominal and real effective exchange rate indices (NEER / REER)
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/economic-data
+    url: https://www.sbp.org.pk/assets/document/neer-reer.xls
+    fmt: xls
+    frequency: monthly
+    coverage: 2013-01 to 2023-12
+    discontinued: true
+    notes: >-
+      Discovered through SBP's own JSON file catalog. Contradicts the widely
+      repeated claim that REER exists only inside the EasyData portal. SBP has
+      not updated the file since December 2023, so it is a historical series.
+    parser: parse_sbp_reer_neer
+    tier: 1
+
+  - id: sbp_credit_loans_by_borrower
+    name: Credit and loans to the private sector
+    publisher: sbp
+    theme: monetary
+    page: https://www.sbp.org.pk/economic-data
+    url: https://www.sbp.org.pk/assets/document/CreditLoans-arch.xls
+    fmt: xls
+    frequency: monthly
+    coverage: 2001-06 onward
+    notes: >-
+      Use the -arch file, not CreditLoans.xls. The latter is a four-vintage
+      comparison snapshot, not a time series.
+    parser: parse_sbp_credit_loans
+    tier: 1
+
+  - id: sbp_domestic_debt
+    name: Government domestic debt and liabilities by instrument
+    publisher: sbp
+    theme: fiscal
+    page: https://www.sbp.org.pk/economic-data
+    url: https://www.sbp.org.pk/assets/document/D-Debt-Liabilities.xls
+    fmt: xls
+    frequency: monthly
+    coverage: 2010-07 onward
+    notes: >-
+      Dates run across columns, instruments down rows. Values are BILLION rupees,
+      unlike most SBP files. Split into era sheets because the instrument
+      taxonomy changed in July 2022.
+    parser: parse_sbp_domestic_debt
+    tier: 1
+
+  - id: sbp_lending_deposit_rates
+    name: Weighted average lending and deposit rates
+    publisher: sbp
+    theme: monetary
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/Lendingdepositrates_Arch.xls
+    fmt: xls
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+
+  - id: sbp_loans_by_type_of_finance
+    name: Loans to private sector business by type of finance
+    publisher: sbp
+    theme: monetary
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/By-type-of-finance-arch.xls
+    fmt: xls
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: sbp_deposits_by_holder
+    name: Deposits distributed by category of deposit holders
+    publisher: sbp
+    theme: monetary
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/DDholders-Arc.xls
+    fmt: xls
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: sbp_depository_corporations_survey
+    name: Depository Corporations Survey
+    publisher: sbp
+    theme: monetary
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/DCsArch.xls
+    fmt: xls
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: sbp_pib_auction_results
+    name: Pakistan Investment Bonds auction results (cut-off yields)
+    publisher: sbp
+    theme: monetary
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/Pakinvestbonds.xlsx
+    fmt: xlsx
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 1
+
+  - id: sbp_tbill_auction_latest
+    name: Market Treasury Bills — latest auction result
+    publisher: sbp
+    theme: monetary
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/tb.xlsx
+    fmt: xlsx
+    frequency: fortnightly
+    coverage: latest auction only
+    parser: null
+    tier: 2
+
+  - id: sbp_omo_injections
+    name: Open Market Operations history (injections)
+    publisher: sbp
+    theme: monetary
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/OMO-Inject-Hist.xlsx
+    fmt: xlsx
+    frequency: weekly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: sbp_kibor_daily
+    name: KIBOR rates (daily)
+    publisher: sbp
+    theme: monetary
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: null
+    discover: sbp_dated_asset
+    query: "kibor-rates-{d}-{month_lower}-{yyyy}.pdf"
+    fmt: pdf
+    frequency: daily
+    coverage: daily snapshot only
+    parser: null
+    tier: 3
+    notes: >
+      SBP publishes KIBOR only as a dated daily PDF
+      (https://www.sbp.org.pk/assets/document/kibor-rates-06-august-2026.pdf).
+      No historical Excel archive on the public ecodata page. Accumulate your own
+      history by appending each daily fetch — that is what etl/parsers/kibor.py does.
+
+  - id: sbp_monetary_policy_statement
+    name: Monetary Policy Statement (policy rate decision)
+    publisher: sbp
+    theme: monetary
+    page: https://www.sbp.org.pk/mpstatements/index.asp
+    url: null
+    discover: sbp_mps_scan
+    fmt: pdf
+    frequency: bimonthly
+    coverage: archive on page
+    parser: null
+    tier: 3
+    notes: Latest example https://www.sbp.org.pk/assets/document/publications/MPS-July-2026-Eng.pdf
+
+  # ------------------------------------------------------------------- FISCAL
+  - id: mof_fiscal_operations
+    name: Consolidated Federal and Provincial Fiscal Operations
+    publisher: mof
+    theme: fiscal
+    page: https://www.finance.gov.pk/fiscal_main.html
+    url: null
+    discover: mof_link_scan
+    query: "/fiscal/"
+    fmt: pdf
+    frequency: quarterly
+    coverage: FY2013-14 onward (July_June_2013_14.pdf ... july_march_2025_26.pdf)
+    parser: null
+    tier: 3
+    notes: >
+      Filename pattern `/fiscal/July_June_YYYY_YY.pdf` (annual) and
+      `/fiscal/july_march_YYYY_YY.pdf` (nine-month). Case is inconsistent across
+      years — always scan the page rather than constructing the URL blindly.
+
+  - id: mof_economic_survey_chapters
+    name: Pakistan Economic Survey — statistical chapters
+    publisher: mof
+    theme: fiscal
+    page: https://www.finance.gov.pk/survey_2026.html
+    url: null
+    discover: mof_link_scan
+    query: "/survey/chapter_"
+    fmt: pdf
+    frequency: annual
+    coverage: FY2025-26 edition; earlier editions at survey_2025.html, survey_2023.html
+    parser: null
+    tier: 3
+
+  - id: mof_economic_survey_supplement
+    name: Pakistan Economic Survey — Statistical Supplement
+    publisher: mof
+    theme: fiscal
+    page: https://www.finance.gov.pk/publications_latest.html
+    url: https://www.finance.gov.pk/economic/supplement_2024-25.zip
+    fmt: zip
+    frequency: annual
+    coverage: FY2024-25
+    parser: null
+    tier: 3
+    notes: 7.2 MB zip containing supplement_2024-25.pdf — the richest single fiscal/real-sector table set.
+
+  - id: mof_monthly_economic_update
+    name: Monthly Economic Update and Outlook
+    publisher: mof
+    theme: fiscal
+    page: https://www.finance.gov.pk/economic_update.html
+    url: null
+    discover: mof_link_scan
+    query: "/economic/Monthly_Economic_Update"
+    fmt: pdf
+    frequency: monthly
+    coverage: rolling
+    parser: null
+    tier: 3
+
+  - id: mof_debt_bulletins
+    name: Debt Policy Coordination Office — debt bulletins and annual debt review
+    publisher: mof
+    theme: fiscal
+    page: https://www.finance.gov.pk/dpco_publications.html
+    url: null
+    discover: mof_link_scan
+    query: "/dpco/"
+    fmt: pdf
+    frequency: quarterly
+    coverage: 2015 onward
+    parser: null
+    tier: 3
+
+  - id: mof_budget_documents
+    name: Federal Budget documents (Budget in Brief, Finance Bill)
+    publisher: mof
+    theme: fiscal
+    page: https://www.finance.gov.pk/budget_main.html
+    url: null
+    discover: mof_link_scan
+    query: "/budget/"
+    fmt: pdf
+    frequency: annual
+    coverage: multi-year
+    parser: null
+    tier: 3
+
+  - id: fbr_monthwise_taxwise_collection
+    name: Month-wise / tax-wise net revenue collection
+    publisher: fbr
+    theme: fiscal
+    page: https://www.fbr.gov.pk/revenue-collections/142253/131355
+    url: null
+    discover: fbr_link_scan
+    query: "MonthWise-TaxWiseNetCollection"
+    fmt: pdf
+    frequency: annual (one file per FY)
+    coverage: FY2003-04 onward
+    parser: null
+    tier: 2
+    notes: >
+      Files sit on download1.fbr.gov.pk with an opaque numeric prefix
+      (e.g. .../Docs/20195141051049508MonthWise-TaxWiseNetCollectionDuringFY2011-12.pdf),
+      so the listing page MUST be scanned; URLs are not constructible.
+
+  - id: fbr_year_books
+    name: FBR Year Book (annual revenue performance)
+    publisher: fbr
+    theme: fiscal
+    page: https://www.fbr.gov.pk/fbr-year-books/142253/132039
+    url: null
+    discover: fbr_link_scan
+    query: "YEARBOOK|Yearbook|YearBook"
+    fmt: pdf
+    frequency: annual
+    coverage: FY1986-87 onward
+    parser: null
+    tier: 3
+
+  - id: fbr_quarterly_reviews
+    name: FBR Biannual / Quarterly Review
+    publisher: fbr
+    theme: fiscal
+    page: https://www.fbr.gov.pk/fbr-biannual-quarterly-reviews/142253/132077
+    url: null
+    discover: fbr_link_scan
+    query: "Review"
+    fmt: pdf
+    frequency: quarterly
+    coverage: multi-year
+    parser: null
+    tier: 3
+
+  - id: sbp_central_govt_debt
+    name: Central Government Debt
+    publisher: sbp
+    theme: fiscal
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/CenGovDebt-Archive.xls
+    fmt: xls
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 1
+
+  - id: sbp_debt_liabilities_summary
+    name: Pakistan Debt and Liabilities — Summary
+    publisher: sbp
+    theme: fiscal
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/Summary.xls
+    fmt: xls
+    frequency: quarterly
+    coverage: long archive
+    parser: null
+    tier: 1
+
+  - id: sbp_debt_liabilities_profile
+    name: Pakistan Debt and Liabilities — Profile
+    publisher: sbp
+    theme: fiscal
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/Profile.xls
+    fmt: xls
+    frequency: quarterly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: sbp_external_debt_outstanding
+    name: Pakistan's External Debt and Liabilities — Outstanding
+    publisher: sbp
+    theme: fiscal
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/pakdebt_Arch.xls
+    fmt: xls
+    frequency: quarterly
+    coverage: long archive
+    parser: null
+    tier: 1
+
+  - id: sbp_external_debt_servicing
+    name: Pakistan External Debt / Liabilities servicing
+    publisher: sbp
+    theme: fiscal
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/pakdebtsvr_Arch.xls
+    fmt: xls
+    frequency: quarterly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: sbp_pse_domestic_debt
+    name: Outstanding domestic debt of Public Sector Enterprises
+    publisher: sbp
+    theme: fiscal
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/PSEs.xls
+    fmt: xls
+    frequency: quarterly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: sbp_national_savings
+    name: Savings mobilised by National Saving Schemes
+    publisher: sbp
+    theme: fiscal
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/savings.xls
+    fmt: xls
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  # ----------------------------------------------------------------- EXTERNAL
+  - id: sbp_forex_reserves
+    name: Liquid foreign exchange reserves (SBP + banks)
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/Forex_Arch.xlsx
+    fmt: xlsx
+    frequency: weekly
+    coverage: FY1998-99 onward
+    parser: parse_sbp_forex
+    tier: 1
+    notes: Three sheets — Year-end, Month-end, Week-end. Week-end is the dashboard series.
+
+  - id: sbp_workers_remittances
+    name: Country-wise workers' remittances
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/Homeremit_Arch.xlsx
+    fmt: xlsx
+    frequency: monthly
+    coverage: 1972-07 onward
+    parser: parse_sbp_remittances
+    tier: 1
+    notes: Three sheets by era — 'Jul 72 to  Jun 10', 'July 2010- Jun 2018', 'July 2018 onwards '. Wide layout (months as columns).
+
+  - id: sbp_balance_of_trade
+    name: Exports, imports and balance of trade (BOP basis)
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/exp_import_BOP_Arch.xls
+    fmt: xls
+    frequency: monthly
+    coverage: FY1970-71 onward
+    parser: parse_sbp_balance_of_trade
+    tier: 1
+
+  - id: sbp_bop_summary
+    name: Summary of Balance of Payments (BPM6)
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/Balancepayment_BPM6.xls
+    fmt: xls
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 1
+
+  - id: sbp_bop_summary_archive
+    name: Summary Balance of Payments BPM6 — monthly archive
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/BPM6_Ach_M.xlsx
+    fmt: xlsx
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 1
+
+  - id: sbp_exports_by_commodity
+    name: Export receipts by commodities and groups
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/Export_Receipts_by_Commodities_and_Groups_Arch.xls
+    fmt: xls
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: sbp_exports_by_country
+    name: Export receipts by all countries
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/Export_Receipts_by_all_Countries_Arch.xls
+    fmt: xls
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: sbp_imports_by_commodity
+    name: Import payments by commodities and groups
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/Import_Payments_by_Commodities_and_Groups_Arch.xls
+    fmt: xls
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: sbp_imports_by_country
+    name: Import payments by all countries
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/Import_Payments_by_all_Countries_Arch.xls
+    fmt: xls
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: sbp_trade_in_services
+    name: Trade in services — detailed
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/TradeInServicesArch.xls
+    fmt: xls
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: sbp_fdi_summary
+    name: Summary of foreign investment in Pakistan
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/FIS-FDI-Arch.xls
+    fmt: xls
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 1
+
+  - id: sbp_fdi_by_country_sector
+    name: Foreign investment by countries and sectors
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/Netinflow.xls
+    fmt: xls
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: sbp_exchange_rate_monthly
+    name: Bank floating average exchange rates (monthly archive)
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/IBF_Arch.xls
+    fmt: xls
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 1
+
+  - id: sbp_exchange_rate_daily
+    name: Bank floating exchange rates — daily archive
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/BFER_Daily_Arch.xlsx
+    fmt: xlsx
+    frequency: daily
+    coverage: long archive
+    parser: null
+    tier: 1
+
+  - id: sbp_official_reserve_assets
+    name: Official Reserve Assets (SDDS template)
+    publisher: sbp
+    theme: external
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/ORA_Arch.xlsx
+    fmt: xlsx
+    frequency: monthly
+    coverage: long archive
+    parser: null
+    tier: 2
+
+  - id: pbs_trade_summary_monthly
+    name: Monthly summary on merchandise trade (PBS)
+    publisher: pbs
+    theme: external
+    page: https://www.pbs.gov.pk/external-trade-statistics/
+    url: null
+    discover: pbs_media_search
+    query: "Summary-"
+    match: "(?:^|/)(?:Revised[-_])?Summary[-_]+[A-Za-z]+[-_ ]+\\d{2,4}(?:-\\d+)?\\.xlsx$"
+    exclude: "Services-Summary|SPI"
+    fmt: xlsx
+    frequency: monthly
+    coverage: rolling
+    parser: parse_pbs_trade_summary
+    tier: 1
+    notes: >
+      Filename pattern `Summary-<Month>-<YYYY>.xlsx` (e.g. Summary-July-2026.xlsx),
+      with occasional variants (`Summary-May-26.doc`, `Revised_Summary_June-2026.xlsx`).
+      PBS trade is customs-basis and differs from SBP's BOP-basis series — never mix them.
+
+  - id: pbs_trade_services_summary
+    name: Monthly summary on trade in services (PBS)
+    publisher: pbs
+    theme: external
+    page: https://www.pbs.gov.pk/external-trade-statistics/
+    url: null
+    discover: pbs_media_search
+    query: "Services-Summary"
+    match: "Services-Summary-[A-Za-z]+-\\d{4}\\.xlsx$"
+    fmt: xlsx
+    frequency: monthly
+    coverage: rolling
+    parser: parse_pbs_services_summary
+    tier: 1
+
+  # ------------------------------------------------------------------- GROWTH
+  - id: sbp_gdp_annual
+    name: Gross Domestic Product of Pakistan (annual, by sector)
+    publisher: sbp
+    theme: growth
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/GDP_table.xlsx
+    fmt: xlsx
+    frequency: annual
+    coverage: FY1999-2000 onward
+    parser: parse_sbp_gdp_annual
+    tier: 1
+    notes: Wide layout — sector rows, fiscal-year columns. Includes GDP growth rate row.
+
+  - id: sbp_gdp_quarterly
+    name: Quarterly GDP (constant basic prices) and quarterly growth
+    publisher: sbp
+    theme: growth
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/QGDP.xlsx
+    fmt: xlsx
+    frequency: quarterly
+    coverage: FY2015-16 Q1 onward
+    parser: parse_sbp_gdp_quarterly
+    tier: 1
+    notes: Two sheets — 'Quarterly' (levels) and 'Growth_Q'.
+
+  - id: sbp_lsm_production
+    name: Production of selected large-scale manufacturing items (QIM, base 2015-16)
+    publisher: sbp
+    theme: growth
+    page: https://www.sbp.org.pk/ecodata/index2.asp
+    url: https://www.sbp.org.pk/assets/document/Productselect.xlsx
+    fmt: xlsx
+    frequency: monthly
+    coverage: base 2015-16
+    parser: parse_sbp_lsm
+    tier: 1
+
+  - id: pbs_qim_lsm
+    name: Quantum Index of Large Scale Manufacturing Industries (QIM)
+    publisher: pbs
+    theme: growth
+    page: https://www.pbs.gov.pk/pakistan-bureau-of-statistics-economic-statistics-production/
+    url: null
+    discover: pbs_media_search
+    query: "QUANTUM-INDEX"
+    fmt: pdf
+    frequency: monthly
+    coverage: base 2015-16
+    parser: null
+    tier: 3
+
+  - id: pbs_national_accounts
+    name: National Accounts tables (base 2015-16)
+    publisher: pbs
+    theme: growth
+    page: https://www.pbs.gov.pk/national-accounts-2/
+    url: null
+    discover: pbs_page_link_scan
+    query: "https://www.pbs.gov.pk/national-accounts-2/"
+    fmt: xlsx
+    frequency: annual
+    coverage: base 2015-16
+    parser: null
+    tier: 2
+
+  # ------------------------------------------------------------ LABOUR/SOCIAL
+  - id: pbs_labour_force_survey
+    name: Labour Force Survey (unemployment, LFP, employment by sector)
+    publisher: pbs
+    theme: labour
+    page: https://www.pbs.gov.pk/labour-force-statistics/
+    url: null
+    discover: pbs_page_link_scan
+    query: "https://www.pbs.gov.pk/labour-force-statistics/"
+    fmt: xlsx
+    frequency: annual
+    coverage: multi-round
+    parser: null
+    tier: 2
+
+  - id: pbs_social_statistics
+    name: PSLM / HIES and social statistics
+    publisher: pbs
+    theme: labour
+    page: https://www.pbs.gov.pk/social-statistics-2/
+    url: null
+    discover: pbs_page_link_scan
+    query: "https://www.pbs.gov.pk/social-statistics-2/"
+    fmt: xlsx
+    frequency: biennial
+    coverage: multi-round
+    parser: null
+    tier: 2
+
+  - id: pbs_agriculture_statistics
+    name: Agriculture statistics and agricultural census tables
+    publisher: pbs
+    theme: growth
+    page: https://www.pbs.gov.pk/agriculture-sector-of-pakistan-importance-role-key-statistics/
+    url: null
+    discover: pbs_page_link_scan
+    query: "https://www.pbs.gov.pk/agriculture-sector-of-pakistan-importance-role-key-statistics/"
+    fmt: xlsx
+    frequency: annual
+    coverage: census tables TABLE-NO-1.1 .. 8.16
+    parser: null
+    tier: 2
+
+  # ------------------------------------------------------------------- ENERGY
+  - id: nepra_state_of_industry
+    name: NEPRA State of Industry Report
+    publisher: nepra
+    theme: energy
+    page: https://nepra.org.pk/publications/State%20of%20Industry%20Reports.php
+    url: https://nepra.org.pk/publications/State%20of%20Industry%20Reports/State%20of%20Industry%20Report%202024.pdf
+    fmt: pdf
+    frequency: annual
+    coverage: 2004 onward
+    parser: null
+    tier: 3
+    notes: >
+      Stable, fully predictable URL pattern:
+      https://nepra.org.pk/publications/State%20of%20Industry%20Reports/State%20of%20Industry%20Report%20<YYYY>.pdf
+      Verified 200 / application/pdf / 9.35 MB for 2024. Best source for generation mix,
+      T&D losses, circular debt and capacity payments.
+
+  - id: nepra_tariff_determinations
+    name: NEPRA tariff determinations
+    publisher: nepra
+    theme: energy
+    page: https://nepra.org.pk/
+    url: null
+    discover: nepra_link_scan
+    query: "Tariff"
+    fmt: pdf
+    frequency: as issued
+    coverage: rolling
+    parser: null
+    tier: 3
+
+  - id: ogra_petroleum_industry_report
+    name: OGRA State of the Regulated Petroleum Industry
+    publisher: ogra
+    theme: energy
+    page: https://www.ogra.org.pk/
+    url: null
+    discover: manual
+    fmt: pdf
+    frequency: annual
+    coverage: multi-year
+    parser: null
+    tier: 3
+    notes: >
+      BLOCKED. www.ogra.org.pk returns HTTP 403 to every non-interactive request,
+      including with a full browser User-Agent (WAF / bot protection).
+      Treat OGRA as manual-download-only, or fetch via a headless browser session.
+      Petroleum price notifications are mirrored in the Ministry of Finance
+      circulars feed and in the Economic Survey energy chapter.
+
+  # ---------------------------------------------------------------------------
+  # SDMX 2.1 feeds
+  # ---------------------------------------------------------------------------
+  # Static XML, no API key and no session, served straight off the publishers'
+  # web roots. These are the only genuinely machine-readable feeds the Government
+  # of Pakistan offers for fiscal operations, producer prices, labour and energy,
+  # so they are tier 1 despite being the least publicised sources on any GoP site.
+  # Periods are FISCAL: FY2026 Q1 is Jul-Sep 2025. See etl/parsers/pbs.py.
+
+  - id: mof_general_govt_operations_sdmx
+    name: General Government Operations (Ministry of Finance, SDMX)
+    publisher: mof
+    theme: fiscal
+    page: https://www.finance.gov.pk/fiscal_operations.html
+    url: http://sdmx.finance.gov.pk/GGO_Pakistan.xml
+    fmt: xml
+    frequency: quarterly
+    coverage: 2017-Q1 onward
+    parser: parse_sdmx_mof_ggo
+    tier: 1
+    notes: >
+      The ONLY machine-readable fiscal series published by the Government of
+      Pakistan. Consolidated federal plus provincial revenue, expenditure and
+      the deficit. Served over plain HTTP only - sdmx.finance.gov.pk has no TLS
+      endpoint - so the content is verified by magic bytes and SHA-256 rather
+      than by transport security. Everything else fiscal (budget documents, FBR
+      collection, PSDP releases) is PDF-only.
+
+  - id: mof_central_govt_operations_sdmx
+    name: Central Government Operations (Ministry of Finance, SDMX)
+    publisher: mof
+    theme: fiscal
+    page: https://www.finance.gov.pk/fiscal_operations.html
+    url: http://sdmx.finance.gov.pk/CGO_Pakistan.xml
+    fmt: xml
+    frequency: quarterly
+    coverage: 2017-Q1 onward
+    parser: parse_sdmx_mof_cgo
+    tier: 1
+    notes: >
+      Federal government only. Do not add to the general government figures -
+      general government already consolidates the federal and provincial
+      accounts, so summing the two double-counts federal revenue and spending.
+
+  - id: pbs_merchandise_trade_sdmx
+    name: Merchandise trade, monthly (PBS, SDMX)
+    publisher: pbs
+    theme: external
+    page: https://www.pbs.gov.pk/external-trade-statistics/
+    url: https://www.pbs.gov.pk/wp-content/uploads/2020/07/MET.xml
+    fmt: xml
+    frequency: monthly
+    coverage: 2008-01 onward
+    parser: parse_sdmx_pbs_trade
+    tier: 1
+    notes: >
+      CUSTOMS basis, in rupees. This is the longest machine-readable monthly
+      trade history available - the PBS monthly summary spreadsheet only carries
+      about a year. Never combine with the SBP balance-of-payments trade series:
+      different basis, different valuation, different currency.
+
+  - id: pbs_quarterly_national_accounts_sdmx
+    name: Quarterly national accounts (PBS, SDMX)
+    publisher: pbs
+    theme: growth
+    page: https://www.pbs.gov.pk/national-accounts
+    url: https://www.pbs.gov.pk/wp-content/uploads/2020/07/QNAG.xml
+    fmt: xml
+    frequency: quarterly
+    coverage: 2016-Q1 onward
+    parser: parse_sdmx_pbs_qna
+    tier: 1
+    notes: >
+      Independent cross-check on the SBP quarterly national accounts workbook.
+      Both start 2015-09-30 and end 2026-03-31, which is what confirmed the
+      fiscal-quarter reading of the SDMX period labels.
+
+  - id: pbs_producer_prices_sdmx
+    name: Wholesale / producer price index (PBS, SDMX)
+    publisher: pbs
+    theme: inflation
+    page: https://www.pbs.gov.pk/price-statistics
+    url: https://www.pbs.gov.pk/wp-content/uploads/2020/07/PPI.xml
+    fmt: xml
+    frequency: monthly
+    coverage: 2021-04 onward
+    parser: parse_sdmx_pbs_ppi
+    tier: 1
+    notes: >
+      The only machine-readable WPI source. Base 2015-16. The historical CPI
+      workbook also carries a WPI column on the older base; the two bases are
+      not splice-compatible.
+
+  - id: pbs_energy_sdmx
+    name: Oil and energy indicators (PBS, SDMX)
+    publisher: pbs
+    theme: energy
+    page: https://www.pbs.gov.pk/
+    url: https://www.pbs.gov.pk/wp-content/uploads/2020/07/ORSI.xml
+    fmt: xml
+    frequency: monthly
+    coverage: 2022-01 onward
+    parser: parse_sdmx_pbs_energy
+    tier: 1
+    notes: >
+      Crude oil and refinery indicators. The only automated energy series in this
+      pipeline - NEPRA publishes generation and tariff data in PDF only and OGRA
+      blocks all non-interactive requests. Short history and narrow coverage; it
+      does not substitute for the NEPRA State of Industry report.
+
+  - id: pbs_labour_sdmx
+    name: Labour force indicators (PBS, SDMX)
+    publisher: pbs
+    theme: labour
+    page: https://www.pbs.gov.pk/labour-force-statistics
+    url: https://www.pbs.gov.pk/wp-content/uploads/2020/07/LMI.xml
+    fmt: xml
+    frequency: annual
+    coverage: 1991 to 2021
+    parser: parse_sdmx_pbs_labour
+    tier: 1
+    discontinued: true
+    notes: >
+      Labour force, employment and unemployment, fiscal years. STOPS AT 2021 -
+      PBS has not refreshed this feed since the 2020-21 Labour Force Survey, so
+      it is flagged discontinued to keep it from raising a staleness warning
+      every run. Any later labour data must be read from the LFS report PDFs.

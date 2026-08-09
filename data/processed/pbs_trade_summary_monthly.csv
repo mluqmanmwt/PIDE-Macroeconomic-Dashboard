@@ -1,0 +1,46 @@
+date,series,value,unit,source_id,frequency
+2025-04-30,Balance of Trade (goods),-3433.0,million USD,pbs_trade_summary_monthly,monthly
+2025-06-30,Balance of Trade (goods),-2395.0,million USD,pbs_trade_summary_monthly,monthly
+2025-08-31,Balance of Trade (goods),-2897.0,million USD,pbs_trade_summary_monthly,monthly
+2025-10-31,Balance of Trade (goods),-3208.0,million USD,pbs_trade_summary_monthly,monthly
+2025-11-30,Balance of Trade (goods),-2855.0,million USD,pbs_trade_summary_monthly,monthly
+2026-02-28,Balance of Trade (goods),-2981.0,million USD,pbs_trade_summary_monthly,monthly
+2026-06-30,Balance of Trade (goods),-4528.0,million USD,pbs_trade_summary_monthly,monthly
+2026-07-31,Balance of Trade (goods),-3948.0,million USD,pbs_trade_summary_monthly,monthly
+2025-04-30,Balance of Trade (goods) (cumulative Jul-to-date),-21396.0,million USD,pbs_trade_summary_monthly,monthly
+2025-06-30,Balance of Trade (goods) (cumulative Jul-to-date),-26346.0,million USD,pbs_trade_summary_monthly,monthly
+2025-08-31,Balance of Trade (goods) (cumulative Jul-to-date),-6042.0,million USD,pbs_trade_summary_monthly,monthly
+2025-10-31,Balance of Trade (goods) (cumulative Jul-to-date),-12582.0,million USD,pbs_trade_summary_monthly,monthly
+2025-11-30,Balance of Trade (goods) (cumulative Jul-to-date),-15469.0,million USD,pbs_trade_summary_monthly,monthly
+2026-02-28,Balance of Trade (goods) (cumulative Jul-to-date),-25042.0,million USD,pbs_trade_summary_monthly,monthly
+2026-06-30,Balance of Trade (goods) (cumulative Jul-to-date),-39471.0,million USD,pbs_trade_summary_monthly,monthly
+2025-04-30,Exports (goods),2178.0,million USD,pbs_trade_summary_monthly,monthly
+2025-06-30,Exports (goods),2477.0,million USD,pbs_trade_summary_monthly,monthly
+2025-08-31,Exports (goods),2417.0,million USD,pbs_trade_summary_monthly,monthly
+2025-10-31,Exports (goods),2849.0,million USD,pbs_trade_summary_monthly,monthly
+2025-11-30,Exports (goods),2398.0,million USD,pbs_trade_summary_monthly,monthly
+2026-02-28,Exports (goods),2272.0,million USD,pbs_trade_summary_monthly,monthly
+2026-06-30,Exports (goods),2239.0,million USD,pbs_trade_summary_monthly,monthly
+2026-07-31,Exports (goods),2939.0,million USD,pbs_trade_summary_monthly,monthly
+2025-04-30,Exports (goods) (cumulative Jul-to-date),26896.0,million USD,pbs_trade_summary_monthly,monthly
+2025-06-30,Exports (goods) (cumulative Jul-to-date),32040.0,million USD,pbs_trade_summary_monthly,monthly
+2025-08-31,Exports (goods) (cumulative Jul-to-date),5102.0,million USD,pbs_trade_summary_monthly,monthly
+2025-10-31,Exports (goods) (cumulative Jul-to-date),10448.0,million USD,pbs_trade_summary_monthly,monthly
+2025-11-30,Exports (goods) (cumulative Jul-to-date),12844.0,million USD,pbs_trade_summary_monthly,monthly
+2026-02-28,Exports (goods) (cumulative Jul-to-date),20462.0,million USD,pbs_trade_summary_monthly,monthly
+2026-06-30,Exports (goods) (cumulative Jul-to-date),30126.0,million USD,pbs_trade_summary_monthly,monthly
+2025-04-30,Imports (goods),5611.0,million USD,pbs_trade_summary_monthly,monthly
+2025-06-30,Imports (goods),4872.0,million USD,pbs_trade_summary_monthly,monthly
+2025-08-31,Imports (goods),5314.0,million USD,pbs_trade_summary_monthly,monthly
+2025-10-31,Imports (goods),6057.0,million USD,pbs_trade_summary_monthly,monthly
+2025-11-30,Imports (goods),5253.0,million USD,pbs_trade_summary_monthly,monthly
+2026-02-28,Imports (goods),5253.0,million USD,pbs_trade_summary_monthly,monthly
+2026-06-30,Imports (goods),6767.0,million USD,pbs_trade_summary_monthly,monthly
+2026-07-31,Imports (goods),6887.0,million USD,pbs_trade_summary_monthly,monthly
+2025-04-30,Imports (goods) (cumulative Jul-to-date),48292.0,million USD,pbs_trade_summary_monthly,monthly
+2025-06-30,Imports (goods) (cumulative Jul-to-date),58386.0,million USD,pbs_trade_summary_monthly,monthly
+2025-08-31,Imports (goods) (cumulative Jul-to-date),11144.0,million USD,pbs_trade_summary_monthly,monthly
+2025-10-31,Imports (goods) (cumulative Jul-to-date),23030.0,million USD,pbs_trade_summary_monthly,monthly
+2025-11-30,Imports (goods) (cumulative Jul-to-date),28313.0,million USD,pbs_trade_summary_monthly,monthly
+2026-02-28,Imports (goods) (cumulative Jul-to-date),45504.0,million USD,pbs_trade_summary_monthly,monthly
+2026-06-30,Imports (goods) (cumulative Jul-to-date),69597.0,million USD,pbs_trade_summary_monthly,monthly

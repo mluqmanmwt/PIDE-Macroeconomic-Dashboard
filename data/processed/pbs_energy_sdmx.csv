@@ -1,0 +1,351 @@
+date,series,value,unit,source_id,frequency
+2022-01-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2292.0,thousand barrels,pbs_energy_sdmx,monthly
+2022-02-28,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2036.0,thousand barrels,pbs_energy_sdmx,monthly
+2022-03-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2206.0,thousand barrels,pbs_energy_sdmx,monthly
+2022-04-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2102.0,thousand barrels,pbs_energy_sdmx,monthly
+2022-05-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2177.0,thousand barrels,pbs_energy_sdmx,monthly
+2022-06-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2118.0,thousand barrels,pbs_energy_sdmx,monthly
+2022-07-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2243.0,thousand barrels,pbs_energy_sdmx,monthly
+2022-08-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2199.0,thousand barrels,pbs_energy_sdmx,monthly
+2022-09-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2028.0,thousand barrels,pbs_energy_sdmx,monthly
+2022-10-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2135.0,thousand barrels,pbs_energy_sdmx,monthly
+2022-11-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2053.0,thousand barrels,pbs_energy_sdmx,monthly
+2022-12-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2219.0,thousand barrels,pbs_energy_sdmx,monthly
+2023-02-28,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2005.0,thousand barrels,pbs_energy_sdmx,monthly
+2023-03-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2149.0,thousand barrels,pbs_energy_sdmx,monthly
+2023-04-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2054.0,thousand barrels,pbs_energy_sdmx,monthly
+2023-05-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1945.0,thousand barrels,pbs_energy_sdmx,monthly
+2023-06-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2097.0,thousand barrels,pbs_energy_sdmx,monthly
+2023-07-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2126.0,thousand barrels,pbs_energy_sdmx,monthly
+2023-08-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2195.0,thousand barrels,pbs_energy_sdmx,monthly
+2023-09-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2176.0,thousand barrels,pbs_energy_sdmx,monthly
+2023-10-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2212.0,thousand barrels,pbs_energy_sdmx,monthly
+2023-11-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2138.0,thousand barrels,pbs_energy_sdmx,monthly
+2023-12-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2231.0,thousand barrels,pbs_energy_sdmx,monthly
+2024-02-29,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2124.0,thousand barrels,pbs_energy_sdmx,monthly
+2024-03-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2219.0,thousand barrels,pbs_energy_sdmx,monthly
+2024-04-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2055.0,thousand barrels,pbs_energy_sdmx,monthly
+2024-05-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2054.0,thousand barrels,pbs_energy_sdmx,monthly
+2024-06-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2057.0,thousand barrels,pbs_energy_sdmx,monthly
+2024-07-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2138.0,thousand barrels,pbs_energy_sdmx,monthly
+2024-08-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1931.0,thousand barrels,pbs_energy_sdmx,monthly
+2024-09-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1937.0,thousand barrels,pbs_energy_sdmx,monthly
+2024-10-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1982.0,thousand barrels,pbs_energy_sdmx,monthly
+2024-11-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1897.0,thousand barrels,pbs_energy_sdmx,monthly
+2024-12-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1951.0,thousand barrels,pbs_energy_sdmx,monthly
+2025-01-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2033.0,thousand barrels,pbs_energy_sdmx,monthly
+2025-02-28,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1743.0,thousand barrels,pbs_energy_sdmx,monthly
+2025-03-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1937.0,thousand barrels,pbs_energy_sdmx,monthly
+2025-04-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1781.0,thousand barrels,pbs_energy_sdmx,monthly
+2025-05-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1755.0,thousand barrels,pbs_energy_sdmx,monthly
+2025-06-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1693.0,thousand barrels,pbs_energy_sdmx,monthly
+2025-07-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1871.0,thousand barrels,pbs_energy_sdmx,monthly
+2025-08-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1939.0,thousand barrels,pbs_energy_sdmx,monthly
+2025-09-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1902.0,thousand barrels,pbs_energy_sdmx,monthly
+2025-10-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2009.0,thousand barrels,pbs_energy_sdmx,monthly
+2025-11-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1938.0,thousand barrels,pbs_energy_sdmx,monthly
+2025-12-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2012.0,thousand barrels,pbs_energy_sdmx,monthly
+2026-01-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2067.0,thousand barrels,pbs_energy_sdmx,monthly
+2026-02-28,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",1699.0,thousand barrels,pbs_energy_sdmx,monthly
+2026-03-31,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2027.0,thousand barrels,pbs_energy_sdmx,monthly
+2026-04-30,"Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]",2102.0,thousand barrels,pbs_energy_sdmx,monthly
+2022-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",364.0,GWh,pbs_energy_sdmx,monthly
+2022-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",338.0,GWh,pbs_energy_sdmx,monthly
+2022-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",461.0,GWh,pbs_energy_sdmx,monthly
+2022-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",680.0,GWh,pbs_energy_sdmx,monthly
+2022-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",975.0,GWh,pbs_energy_sdmx,monthly
+2022-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",1009.0,GWh,pbs_energy_sdmx,monthly
+2022-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",656.0,GWh,pbs_energy_sdmx,monthly
+2022-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",521.0,GWh,pbs_energy_sdmx,monthly
+2022-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",606.0,GWh,pbs_energy_sdmx,monthly
+2022-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",360.0,GWh,pbs_energy_sdmx,monthly
+2022-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",323.0,GWh,pbs_energy_sdmx,monthly
+2022-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",395.0,GWh,pbs_energy_sdmx,monthly
+2023-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",291.0,GWh,pbs_energy_sdmx,monthly
+2023-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",454.0,GWh,pbs_energy_sdmx,monthly
+2023-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",546.0,GWh,pbs_energy_sdmx,monthly
+2023-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",823.0,GWh,pbs_energy_sdmx,monthly
+2023-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",787.0,GWh,pbs_energy_sdmx,monthly
+2023-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",679.0,GWh,pbs_energy_sdmx,monthly
+2023-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",938.0,GWh,pbs_energy_sdmx,monthly
+2023-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",540.0,GWh,pbs_energy_sdmx,monthly
+2023-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",312.0,GWh,pbs_energy_sdmx,monthly
+2023-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",239.0,GWh,pbs_energy_sdmx,monthly
+2023-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",326.0,GWh,pbs_energy_sdmx,monthly
+2024-02-29,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",314.0,GWh,pbs_energy_sdmx,monthly
+2024-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",412.0,GWh,pbs_energy_sdmx,monthly
+2024-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",474.0,GWh,pbs_energy_sdmx,monthly
+2024-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",648.0,GWh,pbs_energy_sdmx,monthly
+2024-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",711.0,GWh,pbs_energy_sdmx,monthly
+2024-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",621.0,GWh,pbs_energy_sdmx,monthly
+2024-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",554.0,GWh,pbs_energy_sdmx,monthly
+2024-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",552.0,GWh,pbs_energy_sdmx,monthly
+2024-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",355.0,GWh,pbs_energy_sdmx,monthly
+2024-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",234.0,GWh,pbs_energy_sdmx,monthly
+2024-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",454.0,GWh,pbs_energy_sdmx,monthly
+2025-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",414.0,GWh,pbs_energy_sdmx,monthly
+2025-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",353.0,GWh,pbs_energy_sdmx,monthly
+2025-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",421.0,GWh,pbs_energy_sdmx,monthly
+2025-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",651.0,GWh,pbs_energy_sdmx,monthly
+2025-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",602.0,GWh,pbs_energy_sdmx,monthly
+2025-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",678.0,GWh,pbs_energy_sdmx,monthly
+2025-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",717.0,GWh,pbs_energy_sdmx,monthly
+2025-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",671.0,GWh,pbs_energy_sdmx,monthly
+2025-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",508.0,GWh,pbs_energy_sdmx,monthly
+2025-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",352.0,GWh,pbs_energy_sdmx,monthly
+2025-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",332.0,GWh,pbs_energy_sdmx,monthly
+2025-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",366.0,GWh,pbs_energy_sdmx,monthly
+2026-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",455.0,GWh,pbs_energy_sdmx,monthly
+2026-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",477.0,GWh,pbs_energy_sdmx,monthly
+2026-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",542.0,GWh,pbs_energy_sdmx,monthly
+2026-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]",639.0,GWh,pbs_energy_sdmx,monthly
+2022-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",513.0,GWh,pbs_energy_sdmx,monthly
+2022-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",1474.0,GWh,pbs_energy_sdmx,monthly
+2022-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",1704.0,GWh,pbs_energy_sdmx,monthly
+2022-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",2404.0,GWh,pbs_energy_sdmx,monthly
+2022-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",3591.0,GWh,pbs_energy_sdmx,monthly
+2022-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",3361.0,GWh,pbs_energy_sdmx,monthly
+2022-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",4977.0,GWh,pbs_energy_sdmx,monthly
+2022-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",5354.0,GWh,pbs_energy_sdmx,monthly
+2022-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",4404.0,GWh,pbs_energy_sdmx,monthly
+2022-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",3144.0,GWh,pbs_energy_sdmx,monthly
+2022-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",2484.0,GWh,pbs_energy_sdmx,monthly
+2022-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",1720.0,GWh,pbs_energy_sdmx,monthly
+2023-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",2052.0,GWh,pbs_energy_sdmx,monthly
+2023-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",2002.0,GWh,pbs_energy_sdmx,monthly
+2023-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",1872.0,GWh,pbs_energy_sdmx,monthly
+2023-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",3312.0,GWh,pbs_energy_sdmx,monthly
+2023-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",4133.0,GWh,pbs_energy_sdmx,monthly
+2023-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",5518.0,GWh,pbs_energy_sdmx,monthly
+2023-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",6006.0,GWh,pbs_energy_sdmx,monthly
+2023-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",5009.0,GWh,pbs_energy_sdmx,monthly
+2023-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",3114.0,GWh,pbs_energy_sdmx,monthly
+2023-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",2755.0,GWh,pbs_energy_sdmx,monthly
+2023-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",1859.0,GWh,pbs_energy_sdmx,monthly
+2024-02-29,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",1766.0,GWh,pbs_energy_sdmx,monthly
+2024-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",2217.0,GWh,pbs_energy_sdmx,monthly
+2024-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",2070.0,GWh,pbs_energy_sdmx,monthly
+2024-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",3906.0,GWh,pbs_energy_sdmx,monthly
+2024-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",4729.0,GWh,pbs_energy_sdmx,monthly
+2024-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",5341.0,GWh,pbs_energy_sdmx,monthly
+2024-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",5362.0,GWh,pbs_energy_sdmx,monthly
+2024-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",4838.0,GWh,pbs_energy_sdmx,monthly
+2024-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",3187.0,GWh,pbs_energy_sdmx,monthly
+2024-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",2860.0,GWh,pbs_energy_sdmx,monthly
+2024-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",1778.0,GWh,pbs_energy_sdmx,monthly
+2025-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",866.0,GWh,pbs_energy_sdmx,monthly
+2025-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",1883.0,GWh,pbs_energy_sdmx,monthly
+2025-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",1297.0,GWh,pbs_energy_sdmx,monthly
+2025-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",2306.0,GWh,pbs_energy_sdmx,monthly
+2025-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",4844.0,GWh,pbs_energy_sdmx,monthly
+2025-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",5410.0,GWh,pbs_energy_sdmx,monthly
+2025-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",5668.0,GWh,pbs_energy_sdmx,monthly
+2025-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",5517.0,GWh,pbs_energy_sdmx,monthly
+2025-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",4783.0,GWh,pbs_energy_sdmx,monthly
+2025-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",2705.0,GWh,pbs_energy_sdmx,monthly
+2025-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",3153.0,GWh,pbs_energy_sdmx,monthly
+2025-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",1534.0,GWh,pbs_energy_sdmx,monthly
+2026-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",713.0,GWh,pbs_energy_sdmx,monthly
+2026-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",1783.0,GWh,pbs_energy_sdmx,monthly
+2026-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",2105.0,GWh,pbs_energy_sdmx,monthly
+2026-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]",2079.0,GWh,pbs_energy_sdmx,monthly
+2022-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",107303.0,thousand units,pbs_energy_sdmx,monthly
+2022-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",94601.0,thousand units,pbs_energy_sdmx,monthly
+2022-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",103033.0,thousand units,pbs_energy_sdmx,monthly
+2022-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",104506.0,thousand units,pbs_energy_sdmx,monthly
+2022-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",104509.0,thousand units,pbs_energy_sdmx,monthly
+2022-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",103127.0,thousand units,pbs_energy_sdmx,monthly
+2022-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",102516.0,thousand units,pbs_energy_sdmx,monthly
+2022-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",102170.0,thousand units,pbs_energy_sdmx,monthly
+2022-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",96232.0,thousand units,pbs_energy_sdmx,monthly
+2022-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",96945.0,thousand units,pbs_energy_sdmx,monthly
+2022-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",93302.0,thousand units,pbs_energy_sdmx,monthly
+2022-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",104105.0,thousand units,pbs_energy_sdmx,monthly
+2023-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",89744.0,thousand units,pbs_energy_sdmx,monthly
+2023-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",100063.0,thousand units,pbs_energy_sdmx,monthly
+2023-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",100799.0,thousand units,pbs_energy_sdmx,monthly
+2023-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",99021.0,thousand units,pbs_energy_sdmx,monthly
+2023-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",100313.0,thousand units,pbs_energy_sdmx,monthly
+2023-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",101713.0,thousand units,pbs_energy_sdmx,monthly
+2023-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",102051.0,thousand units,pbs_energy_sdmx,monthly
+2023-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",94042.0,thousand units,pbs_energy_sdmx,monthly
+2023-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",91566.0,thousand units,pbs_energy_sdmx,monthly
+2023-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",90497.0,thousand units,pbs_energy_sdmx,monthly
+2023-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",97463.0,thousand units,pbs_energy_sdmx,monthly
+2024-02-29,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",92387.0,thousand units,pbs_energy_sdmx,monthly
+2024-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",94877.0,thousand units,pbs_energy_sdmx,monthly
+2024-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",88250.0,thousand units,pbs_energy_sdmx,monthly
+2024-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",92949.0,thousand units,pbs_energy_sdmx,monthly
+2024-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",93091.0,thousand units,pbs_energy_sdmx,monthly
+2024-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",98008.0,thousand units,pbs_energy_sdmx,monthly
+2024-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",90544.0,thousand units,pbs_energy_sdmx,monthly
+2024-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",89216.0,thousand units,pbs_energy_sdmx,monthly
+2024-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",87115.0,thousand units,pbs_energy_sdmx,monthly
+2024-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",86427.0,thousand units,pbs_energy_sdmx,monthly
+2024-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",88758.0,thousand units,pbs_energy_sdmx,monthly
+2025-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",98121.0,thousand units,pbs_energy_sdmx,monthly
+2025-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",76581.0,thousand units,pbs_energy_sdmx,monthly
+2025-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",90527.0,thousand units,pbs_energy_sdmx,monthly
+2025-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",82331.0,thousand units,pbs_energy_sdmx,monthly
+2025-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",83209.0,thousand units,pbs_energy_sdmx,monthly
+2025-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",82372.0,thousand units,pbs_energy_sdmx,monthly
+2025-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",88871.0,thousand units,pbs_energy_sdmx,monthly
+2025-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",86337.0,thousand units,pbs_energy_sdmx,monthly
+2025-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",82808.0,thousand units,pbs_energy_sdmx,monthly
+2025-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",86973.0,thousand units,pbs_energy_sdmx,monthly
+2025-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",78308.0,thousand units,pbs_energy_sdmx,monthly
+2025-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",86571.0,thousand units,pbs_energy_sdmx,monthly
+2026-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",96308.0,thousand units,pbs_energy_sdmx,monthly
+2026-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",76482.0,thousand units,pbs_energy_sdmx,monthly
+2026-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",94997.0,thousand units,pbs_energy_sdmx,monthly
+2026-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]",90737.0,thousand units,pbs_energy_sdmx,monthly
+2022-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1265.0,GWh,pbs_energy_sdmx,monthly
+2022-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1013.0,GWh,pbs_energy_sdmx,monthly
+2022-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1564.0,GWh,pbs_energy_sdmx,monthly
+2022-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2251.0,GWh,pbs_energy_sdmx,monthly
+2022-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1890.0,GWh,pbs_energy_sdmx,monthly
+2022-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1266.0,GWh,pbs_energy_sdmx,monthly
+2022-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2010.0,GWh,pbs_energy_sdmx,monthly
+2022-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1874.0,GWh,pbs_energy_sdmx,monthly
+2022-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2266.0,GWh,pbs_energy_sdmx,monthly
+2022-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2206.0,GWh,pbs_energy_sdmx,monthly
+2022-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2338.0,GWh,pbs_energy_sdmx,monthly
+2022-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2285.0,GWh,pbs_energy_sdmx,monthly
+2023-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1883.0,GWh,pbs_energy_sdmx,monthly
+2023-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2002.0,GWh,pbs_energy_sdmx,monthly
+2023-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1916.0,GWh,pbs_energy_sdmx,monthly
+2023-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1543.0,GWh,pbs_energy_sdmx,monthly
+2023-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1857.0,GWh,pbs_energy_sdmx,monthly
+2023-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2107.0,GWh,pbs_energy_sdmx,monthly
+2023-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2040.0,GWh,pbs_energy_sdmx,monthly
+2023-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2286.0,GWh,pbs_energy_sdmx,monthly
+2023-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1826.0,GWh,pbs_energy_sdmx,monthly
+2023-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1572.0,GWh,pbs_energy_sdmx,monthly
+2023-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1464.0,GWh,pbs_energy_sdmx,monthly
+2024-02-29,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1660.0,GWh,pbs_energy_sdmx,monthly
+2024-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2070.0,GWh,pbs_energy_sdmx,monthly
+2024-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2043.0,GWh,pbs_energy_sdmx,monthly
+2024-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2360.0,GWh,pbs_energy_sdmx,monthly
+2024-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1998.0,GWh,pbs_energy_sdmx,monthly
+2024-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1988.0,GWh,pbs_energy_sdmx,monthly
+2024-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2190.0,GWh,pbs_energy_sdmx,monthly
+2024-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1596.0,GWh,pbs_energy_sdmx,monthly
+2024-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1442.0,GWh,pbs_energy_sdmx,monthly
+2024-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1655.0,GWh,pbs_energy_sdmx,monthly
+2024-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2065.0,GWh,pbs_energy_sdmx,monthly
+2025-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2169.0,GWh,pbs_energy_sdmx,monthly
+2025-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1847.0,GWh,pbs_energy_sdmx,monthly
+2025-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2223.0,GWh,pbs_energy_sdmx,monthly
+2025-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1882.0,GWh,pbs_energy_sdmx,monthly
+2025-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2012.0,GWh,pbs_energy_sdmx,monthly
+2025-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1383.0,GWh,pbs_energy_sdmx,monthly
+2025-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1405.0,GWh,pbs_energy_sdmx,monthly
+2025-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2145.0,GWh,pbs_energy_sdmx,monthly
+2025-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2227.0,GWh,pbs_energy_sdmx,monthly
+2025-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2188.0,GWh,pbs_energy_sdmx,monthly
+2025-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2031.0,GWh,pbs_energy_sdmx,monthly
+2025-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2126.0,GWh,pbs_energy_sdmx,monthly
+2026-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1599.0,GWh,pbs_energy_sdmx,monthly
+2026-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1449.0,GWh,pbs_energy_sdmx,monthly
+2026-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",1962.0,GWh,pbs_energy_sdmx,monthly
+2026-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]",2097.0,GWh,pbs_energy_sdmx,monthly
+2022-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",7718.0,GWh,pbs_energy_sdmx,monthly
+2022-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",6373.0,GWh,pbs_energy_sdmx,monthly
+2022-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",8277.0,GWh,pbs_energy_sdmx,monthly
+2022-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",9488.0,GWh,pbs_energy_sdmx,monthly
+2022-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",10143.0,GWh,pbs_energy_sdmx,monthly
+2022-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",10143.0,GWh,pbs_energy_sdmx,monthly
+2022-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",8260.0,GWh,pbs_energy_sdmx,monthly
+2022-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",7940.0,GWh,pbs_energy_sdmx,monthly
+2022-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",7224.0,GWh,pbs_energy_sdmx,monthly
+2022-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",6625.0,GWh,pbs_energy_sdmx,monthly
+2022-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",4607.0,GWh,pbs_energy_sdmx,monthly
+2022-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",5155.0,GWh,pbs_energy_sdmx,monthly
+2023-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",4630.0,GWh,pbs_energy_sdmx,monthly
+2023-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",5747.0,GWh,pbs_energy_sdmx,monthly
+2023-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",7190.0,GWh,pbs_energy_sdmx,monthly
+2023-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",8449.0,GWh,pbs_energy_sdmx,monthly
+2023-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",8809.0,GWh,pbs_energy_sdmx,monthly
+2023-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",7480.0,GWh,pbs_energy_sdmx,monthly
+2023-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",7761.0,GWh,pbs_energy_sdmx,monthly
+2023-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",6259.0,GWh,pbs_energy_sdmx,monthly
+2023-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",5057.0,GWh,pbs_energy_sdmx,monthly
+2023-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",3424.0,GWh,pbs_energy_sdmx,monthly
+2023-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",4226.0,GWh,pbs_energy_sdmx,monthly
+2024-02-29,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",3520.0,GWh,pbs_energy_sdmx,monthly
+2024-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",3807.0,GWh,pbs_energy_sdmx,monthly
+2024-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",4615.0,GWh,pbs_energy_sdmx,monthly
+2024-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",6561.0,GWh,pbs_energy_sdmx,monthly
+2024-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",6949.0,GWh,pbs_energy_sdmx,monthly
+2024-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",7971.0,GWh,pbs_energy_sdmx,monthly
+2024-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",5855.0,GWh,pbs_energy_sdmx,monthly
+2024-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",6194.0,GWh,pbs_energy_sdmx,monthly
+2024-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",6276.0,GWh,pbs_energy_sdmx,monthly
+2024-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",4350.0,GWh,pbs_energy_sdmx,monthly
+2024-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",4310.0,GWh,pbs_energy_sdmx,monthly
+2025-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",4086.0,GWh,pbs_energy_sdmx,monthly
+2025-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",3748.0,GWh,pbs_energy_sdmx,monthly
+2025-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",5550.0,GWh,pbs_energy_sdmx,monthly
+2025-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",6819.0,GWh,pbs_energy_sdmx,monthly
+2025-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",6354.0,GWh,pbs_energy_sdmx,monthly
+2025-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",7068.0,GWh,pbs_energy_sdmx,monthly
+2025-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",7377.0,GWh,pbs_energy_sdmx,monthly
+2025-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",6996.0,GWh,pbs_energy_sdmx,monthly
+2025-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",6150.0,GWh,pbs_energy_sdmx,monthly
+2025-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",5723.0,GWh,pbs_energy_sdmx,monthly
+2025-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",3566.0,GWh,pbs_energy_sdmx,monthly
+2025-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",5468.0,GWh,pbs_energy_sdmx,monthly
+2026-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",7462.0,GWh,pbs_energy_sdmx,monthly
+2026-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",5030.0,GWh,pbs_energy_sdmx,monthly
+2026-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",5564.0,GWh,pbs_energy_sdmx,monthly
+2026-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]",6094.0,GWh,pbs_energy_sdmx,monthly
+2022-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",9860.0,GWh,pbs_energy_sdmx,monthly
+2022-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",9198.0,GWh,pbs_energy_sdmx,monthly
+2022-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",12006.0,GWh,pbs_energy_sdmx,monthly
+2022-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",14832.0,GWh,pbs_energy_sdmx,monthly
+2022-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",16599.0,GWh,pbs_energy_sdmx,monthly
+2022-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",15779.0,GWh,pbs_energy_sdmx,monthly
+2022-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",15903.0,GWh,pbs_energy_sdmx,monthly
+2022-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",15689.0,GWh,pbs_energy_sdmx,monthly
+2022-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",14500.0,GWh,pbs_energy_sdmx,monthly
+2022-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",12335.0,GWh,pbs_energy_sdmx,monthly
+2022-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",9752.0,GWh,pbs_energy_sdmx,monthly
+2022-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",9555.0,GWh,pbs_energy_sdmx,monthly
+2023-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",8856.0,GWh,pbs_energy_sdmx,monthly
+2023-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",10205.0,GWh,pbs_energy_sdmx,monthly
+2023-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",11524.0,GWh,pbs_energy_sdmx,monthly
+2023-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",14127.0,GWh,pbs_energy_sdmx,monthly
+2023-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",15586.0,GWh,pbs_energy_sdmx,monthly
+2023-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",15784.0,GWh,pbs_energy_sdmx,monthly
+2023-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",16745.0,GWh,pbs_energy_sdmx,monthly
+2023-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",14094.0,GWh,pbs_energy_sdmx,monthly
+2023-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",10309.0,GWh,pbs_energy_sdmx,monthly
+2023-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",7990.0,GWh,pbs_energy_sdmx,monthly
+2023-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",7875.0,GWh,pbs_energy_sdmx,monthly
+2024-02-29,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",7260.0,GWh,pbs_energy_sdmx,monthly
+2024-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",8506.0,GWh,pbs_energy_sdmx,monthly
+2024-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",9202.0,GWh,pbs_energy_sdmx,monthly
+2024-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",13475.0,GWh,pbs_energy_sdmx,monthly
+2024-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",14387.0,GWh,pbs_energy_sdmx,monthly
+2024-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",15921.0,GWh,pbs_energy_sdmx,monthly
+2024-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",13961.0,GWh,pbs_energy_sdmx,monthly
+2024-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",13180.0,GWh,pbs_energy_sdmx,monthly
+2024-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",11260.0,GWh,pbs_energy_sdmx,monthly
+2024-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",9099.0,GWh,pbs_energy_sdmx,monthly
+2024-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",8607.0,GWh,pbs_energy_sdmx,monthly
+2025-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",7535.0,GWh,pbs_energy_sdmx,monthly
+2025-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",7831.0,GWh,pbs_energy_sdmx,monthly
+2025-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",9491.0,GWh,pbs_energy_sdmx,monthly
+2025-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",11658.0,GWh,pbs_energy_sdmx,monthly
+2025-05-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",13812.0,GWh,pbs_energy_sdmx,monthly
+2025-06-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",14539.0,GWh,pbs_energy_sdmx,monthly
+2025-07-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",15167.0,GWh,pbs_energy_sdmx,monthly
+2025-08-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",15329.0,GWh,pbs_energy_sdmx,monthly
+2025-09-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",13668.0,GWh,pbs_energy_sdmx,monthly
+2025-10-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",10968.0,GWh,pbs_energy_sdmx,monthly
+2025-11-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",9082.0,GWh,pbs_energy_sdmx,monthly
+2025-12-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",9494.0,GWh,pbs_energy_sdmx,monthly
+2026-01-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",10229.0,GWh,pbs_energy_sdmx,monthly
+2026-02-28,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",8739.0,GWh,pbs_energy_sdmx,monthly
+2026-03-31,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",10173.0,GWh,pbs_energy_sdmx,monthly
+2026-04-30,"Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]",10909.0,GWh,pbs_energy_sdmx,monthly

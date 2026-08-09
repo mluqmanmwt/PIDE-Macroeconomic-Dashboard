@@ -1,0 +1,981 @@
+date,series,value,unit,source_id,frequency
+2017-07-31,CPI Published — index,216.2,index (base varies),pbs_cpi_historical,monthly
+2017-08-31,CPI Published — index,216.6,index (base varies),pbs_cpi_historical,monthly
+2017-09-30,CPI Published — index,218.0,index (base varies),pbs_cpi_historical,monthly
+2017-10-31,CPI Published — index,219.6,index (base varies),pbs_cpi_historical,monthly
+2017-11-30,CPI Published — index,220.4,index (base varies),pbs_cpi_historical,monthly
+2017-12-31,CPI Published — index,220.2,index (base varies),pbs_cpi_historical,monthly
+2018-01-31,CPI Published — index,220.3,index (base varies),pbs_cpi_historical,monthly
+2018-02-28,CPI Published — index,219.6,index (base varies),pbs_cpi_historical,monthly
+2018-03-31,CPI Published — index,220.3,index (base varies),pbs_cpi_historical,monthly
+2018-04-30,CPI Published — index,224.3,index (base varies),pbs_cpi_historical,monthly
+2018-05-31,CPI Published — index,225.4,index (base varies),pbs_cpi_historical,monthly
+2018-06-30,CPI Published — index,226.7,index (base varies),pbs_cpi_historical,monthly
+2018-07-31,CPI Published — index,228.8,index (base varies),pbs_cpi_historical,monthly
+2018-08-31,CPI Published — index,229.3,index (base varies),pbs_cpi_historical,monthly
+2018-09-30,CPI Published — index,229.1,index (base varies),pbs_cpi_historical,monthly
+2018-10-31,CPI Published — index,234.5,index (base varies),pbs_cpi_historical,monthly
+2018-11-30,CPI Published — index,234.8,index (base varies),pbs_cpi_historical,monthly
+2018-12-31,CPI Published — index,233.8,index (base varies),pbs_cpi_historical,monthly
+2019-01-31,CPI Published — index,236.1,index (base varies),pbs_cpi_historical,monthly
+2019-02-28,CPI Published — index,237.6,index (base varies),pbs_cpi_historical,monthly
+2019-03-31,CPI Published — index,241.0,index (base varies),pbs_cpi_historical,monthly
+2019-04-30,CPI Published — index,244.0,index (base varies),pbs_cpi_historical,monthly
+2019-05-31,CPI Published — index,245.9,index (base varies),pbs_cpi_historical,monthly
+2019-06-30,CPI Published — index,246.8,index (base varies),pbs_cpi_historical,monthly
+2019-07-31,CPI Published — index,252.5,index (base varies),pbs_cpi_historical,monthly
+2019-08-31,CPI Published — index,255.9,index (base varies),pbs_cpi_historical,monthly
+2017-06-30,CPI Published — index (FY average),212.3,index (base varies),pbs_cpi_historical,monthly
+2017-07-31,National — index,107.1,index (base varies),pbs_cpi_historical,monthly
+2017-08-31,National — index,107.3,index (base varies),pbs_cpi_historical,monthly
+2017-09-30,National — index,108.0,index (base varies),pbs_cpi_historical,monthly
+2017-10-31,National — index,109.2,index (base varies),pbs_cpi_historical,monthly
+2017-11-30,National — index,110.0,index (base varies),pbs_cpi_historical,monthly
+2017-12-31,National — index,109.9,index (base varies),pbs_cpi_historical,monthly
+2018-01-31,National — index,110.0,index (base varies),pbs_cpi_historical,monthly
+2018-02-28,National — index,109.7,index (base varies),pbs_cpi_historical,monthly
+2018-03-31,National — index,110.0,index (base varies),pbs_cpi_historical,monthly
+2018-04-30,National — index,111.1,index (base varies),pbs_cpi_historical,monthly
+2018-05-31,National — index,111.7,index (base varies),pbs_cpi_historical,monthly
+2018-06-30,National — index,112.6,index (base varies),pbs_cpi_historical,monthly
+2018-07-31,National — index,114.3,index (base varies),pbs_cpi_historical,monthly
+2018-08-31,National — index,113.9,index (base varies),pbs_cpi_historical,monthly
+2018-09-30,National — index,113.9,index (base varies),pbs_cpi_historical,monthly
+2018-10-31,National — index,116.3,index (base varies),pbs_cpi_historical,monthly
+2018-11-30,National — index,116.2,index (base varies),pbs_cpi_historical,monthly
+2018-12-31,National — index,115.8,index (base varies),pbs_cpi_historical,monthly
+2019-01-31,National — index,116.1,index (base varies),pbs_cpi_historical,monthly
+2019-02-28,National — index,117.1,index (base varies),pbs_cpi_historical,monthly
+2019-03-31,National — index,119.5,index (base varies),pbs_cpi_historical,monthly
+2019-04-30,National — index,120.3,index (base varies),pbs_cpi_historical,monthly
+2019-05-31,National — index,121.0,index (base varies),pbs_cpi_historical,monthly
+2019-06-30,National — index,121.6,index (base varies),pbs_cpi_historical,monthly
+2019-07-31,National — index,123.9,index (base varies),pbs_cpi_historical,monthly
+2019-08-31,National — index,125.9,index (base varies),pbs_cpi_historical,monthly
+2017-06-30,National — index (FY average),104.8,index (base varies),pbs_cpi_historical,monthly
+2017-07-31,RPI — index,106.3,index (base varies),pbs_cpi_historical,monthly
+2017-08-31,RPI — index,106.4,index (base varies),pbs_cpi_historical,monthly
+2017-09-30,RPI — index,107.5,index (base varies),pbs_cpi_historical,monthly
+2017-10-31,RPI — index,109.1,index (base varies),pbs_cpi_historical,monthly
+2017-11-30,RPI — index,109.8,index (base varies),pbs_cpi_historical,monthly
+2017-12-31,RPI — index,109.7,index (base varies),pbs_cpi_historical,monthly
+2018-01-31,RPI — index,109.6,index (base varies),pbs_cpi_historical,monthly
+2018-02-28,RPI — index,109.1,index (base varies),pbs_cpi_historical,monthly
+2018-03-31,RPI — index,109.3,index (base varies),pbs_cpi_historical,monthly
+2018-04-30,RPI — index,110.0,index (base varies),pbs_cpi_historical,monthly
+2018-05-31,RPI — index,110.3,index (base varies),pbs_cpi_historical,monthly
+2018-06-30,RPI — index,111.4,index (base varies),pbs_cpi_historical,monthly
+2018-07-31,RPI — index,113.3,index (base varies),pbs_cpi_historical,monthly
+2018-08-31,RPI — index,113.0,index (base varies),pbs_cpi_historical,monthly
+2018-09-30,RPI — index,113.0,index (base varies),pbs_cpi_historical,monthly
+2018-10-31,RPI — index,115.2,index (base varies),pbs_cpi_historical,monthly
+2018-11-30,RPI — index,115.0,index (base varies),pbs_cpi_historical,monthly
+2018-12-31,RPI — index,114.7,index (base varies),pbs_cpi_historical,monthly
+2019-01-31,RPI — index,114.7,index (base varies),pbs_cpi_historical,monthly
+2019-02-28,RPI — index,115.7,index (base varies),pbs_cpi_historical,monthly
+2019-03-31,RPI — index,118.2,index (base varies),pbs_cpi_historical,monthly
+2019-04-30,RPI — index,118.9,index (base varies),pbs_cpi_historical,monthly
+2019-05-31,RPI — index,119.5,index (base varies),pbs_cpi_historical,monthly
+2019-06-30,RPI — index,120.3,index (base varies),pbs_cpi_historical,monthly
+2019-07-31,RPI — index,122.2,index (base varies),pbs_cpi_historical,monthly
+2019-08-31,RPI — index,124.6,index (base varies),pbs_cpi_historical,monthly
+2017-06-30,RPI — index (FY average),104.8,index (base varies),pbs_cpi_historical,monthly
+2017-07-31,UCPI — index,107.7,index (base varies),pbs_cpi_historical,monthly
+2017-08-31,UCPI — index,107.9,index (base varies),pbs_cpi_historical,monthly
+2017-09-30,UCPI — index,108.4,index (base varies),pbs_cpi_historical,monthly
+2017-10-31,UCPI — index,109.3,index (base varies),pbs_cpi_historical,monthly
+2017-11-30,UCPI — index,110.0,index (base varies),pbs_cpi_historical,monthly
+2017-12-31,UCPI — index,110.1,index (base varies),pbs_cpi_historical,monthly
+2018-01-31,UCPI — index,110.3,index (base varies),pbs_cpi_historical,monthly
+2018-02-28,UCPI — index,110.1,index (base varies),pbs_cpi_historical,monthly
+2018-03-31,UCPI — index,110.4,index (base varies),pbs_cpi_historical,monthly
+2018-04-30,UCPI — index,111.9,index (base varies),pbs_cpi_historical,monthly
+2018-05-31,UCPI — index,112.5,index (base varies),pbs_cpi_historical,monthly
+2018-06-30,UCPI — index,113.3,index (base varies),pbs_cpi_historical,monthly
+2018-07-31,UCPI — index,114.9,index (base varies),pbs_cpi_historical,monthly
+2018-08-31,UCPI — index,114.6,index (base varies),pbs_cpi_historical,monthly
+2018-09-30,UCPI — index,114.5,index (base varies),pbs_cpi_historical,monthly
+2018-10-31,UCPI — index,117.0,index (base varies),pbs_cpi_historical,monthly
+2018-11-30,UCPI — index,116.9,index (base varies),pbs_cpi_historical,monthly
+2018-12-31,UCPI — index,116.6,index (base varies),pbs_cpi_historical,monthly
+2019-01-31,UCPI — index,117.1,index (base varies),pbs_cpi_historical,monthly
+2019-02-28,UCPI — index,118.1,index (base varies),pbs_cpi_historical,monthly
+2019-03-31,UCPI — index,120.3,index (base varies),pbs_cpi_historical,monthly
+2019-04-30,UCPI — index,121.3,index (base varies),pbs_cpi_historical,monthly
+2019-05-31,UCPI — index,122.1,index (base varies),pbs_cpi_historical,monthly
+2019-06-30,UCPI — index,122.5,index (base varies),pbs_cpi_historical,monthly
+2019-07-31,UCPI — index,125.0,index (base varies),pbs_cpi_historical,monthly
+2019-08-31,UCPI — index,126.8,index (base varies),pbs_cpi_historical,monthly
+2017-06-30,UCPI — index (FY average),104.8,index (base varies),pbs_cpi_historical,monthly
+2017-07-31,WPI Published — index,217.2,index (base varies),pbs_cpi_historical,monthly
+2017-08-31,WPI Published — index,218.0,index (base varies),pbs_cpi_historical,monthly
+2017-09-30,WPI Published — index,218.1,index (base varies),pbs_cpi_historical,monthly
+2017-10-31,WPI Published — index,219.4,index (base varies),pbs_cpi_historical,monthly
+2017-11-30,WPI Published — index,220.2,index (base varies),pbs_cpi_historical,monthly
+2017-12-31,WPI Published — index,221.0,index (base varies),pbs_cpi_historical,monthly
+2018-01-31,WPI Published — index,225.0,index (base varies),pbs_cpi_historical,monthly
+2018-02-28,WPI Published — index,224.7,index (base varies),pbs_cpi_historical,monthly
+2018-03-31,WPI Published — index,225.2,index (base varies),pbs_cpi_historical,monthly
+2018-04-30,WPI Published — index,228.1,index (base varies),pbs_cpi_historical,monthly
+2018-05-31,WPI Published — index,231.0,index (base varies),pbs_cpi_historical,monthly
+2018-06-30,WPI Published — index,234.4,index (base varies),pbs_cpi_historical,monthly
+2018-07-31,WPI Published — index,240.0,index (base varies),pbs_cpi_historical,monthly
+2018-08-31,WPI Published — index,241.9,index (base varies),pbs_cpi_historical,monthly
+2018-09-30,WPI Published — index,238.3,index (base varies),pbs_cpi_historical,monthly
+2018-10-31,WPI Published — index,248.2,index (base varies),pbs_cpi_historical,monthly
+2018-11-30,WPI Published — index,249.9,index (base varies),pbs_cpi_historical,monthly
+2018-12-31,WPI Published — index,247.7,index (base varies),pbs_cpi_historical,monthly
+2019-01-31,WPI Published — index,247.2,index (base varies),pbs_cpi_historical,monthly
+2019-02-28,WPI Published — index,249.4,index (base varies),pbs_cpi_historical,monthly
+2019-03-31,WPI Published — index,253.7,index (base varies),pbs_cpi_historical,monthly
+2019-04-30,WPI Published — index,259.6,index (base varies),pbs_cpi_historical,monthly
+2019-05-31,WPI Published — index,263.3,index (base varies),pbs_cpi_historical,monthly
+2019-06-30,WPI Published — index,264.2,index (base varies),pbs_cpi_historical,monthly
+2019-07-31,WPI Published — index,272.3,index (base varies),pbs_cpi_historical,monthly
+2019-08-31,WPI Published — index,274.7,index (base varies),pbs_cpi_historical,monthly
+2017-06-30,WPI Published — index (FY average),216.0,index (base varies),pbs_cpi_historical,monthly
+2017-07-31,WPI — index,105.3,index (base varies),pbs_cpi_historical,monthly
+2017-08-31,WPI — index,105.5,index (base varies),pbs_cpi_historical,monthly
+2017-09-30,WPI — index,105.7,index (base varies),pbs_cpi_historical,monthly
+2017-10-31,WPI — index,106.7,index (base varies),pbs_cpi_historical,monthly
+2017-11-30,WPI — index,107.8,index (base varies),pbs_cpi_historical,monthly
+2017-12-31,WPI — index,108.3,index (base varies),pbs_cpi_historical,monthly
+2018-01-31,WPI — index,111.1,index (base varies),pbs_cpi_historical,monthly
+2018-02-28,WPI — index,111.6,index (base varies),pbs_cpi_historical,monthly
+2018-03-31,WPI — index,111.5,index (base varies),pbs_cpi_historical,monthly
+2018-04-30,WPI — index,112.9,index (base varies),pbs_cpi_historical,monthly
+2018-05-31,WPI — index,115.2,index (base varies),pbs_cpi_historical,monthly
+2018-06-30,WPI — index,118.1,index (base varies),pbs_cpi_historical,monthly
+2018-07-31,WPI — index,122.4,index (base varies),pbs_cpi_historical,monthly
+2018-08-31,WPI — index,123.1,index (base varies),pbs_cpi_historical,monthly
+2018-09-30,WPI — index,121.2,index (base varies),pbs_cpi_historical,monthly
+2018-10-31,WPI — index,126.6,index (base varies),pbs_cpi_historical,monthly
+2018-11-30,WPI — index,127.9,index (base varies),pbs_cpi_historical,monthly
+2018-12-31,WPI — index,126.2,index (base varies),pbs_cpi_historical,monthly
+2019-01-31,WPI — index,125.1,index (base varies),pbs_cpi_historical,monthly
+2019-02-28,WPI — index,127.2,index (base varies),pbs_cpi_historical,monthly
+2019-03-31,WPI — index,130.0,index (base varies),pbs_cpi_historical,monthly
+2019-04-30,WPI — index,132.3,index (base varies),pbs_cpi_historical,monthly
+2019-05-31,WPI — index,134.2,index (base varies),pbs_cpi_historical,monthly
+2019-06-30,WPI — index,134.6,index (base varies),pbs_cpi_historical,monthly
+2019-07-31,WPI — index,138.7,index (base varies),pbs_cpi_historical,monthly
+2019-08-31,WPI — index,140.4,index (base varies),pbs_cpi_historical,monthly
+2017-06-30,WPI — index (FY average),104.5,index (base varies),pbs_cpi_historical,monthly
+2019-09-30,National — index,126.855255,index (2015-16 = 100),pbs_cpi_historical,monthly
+2019-10-31,National — index,129.164205,index (2015-16 = 100),pbs_cpi_historical,monthly
+2019-11-30,National — index,130.89857,index (2015-16 = 100),pbs_cpi_historical,monthly
+2019-12-31,National — index,130.45443500000002,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-01-31,National — index,133.03699500000002,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-02-29,National — index,131.642785,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-03-31,National — index,131.69323500000002,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-04-30,National — index,130.59203,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-05-31,National — index,131.00594,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-06-30,National — index,132.077295,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-07-31,National — index,135.379555,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-08-31,National — index,136.22647,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-09-30,National — index,138.31903,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-10-31,National — index,140.67272000000003,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-11-30,National — index,141.82573000000002,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-12-31,National — index,140.85753,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-01-31,National — index,140.55783,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-02-28,National — index,143.09218500000003,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-03-31,National — index,143.61166000000003,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-04-30,National — index,145.09331,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-05-31,National — index,145.241805,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-06-30,National — index,144.82496500000002,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-07-31,National — index,146.756695,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-08-31,National — index,147.60617000000002,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-09-30,National — index,150.74151,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-10-31,National — index,153.61016,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-11-30,National — index,158.18339500000002,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-12-31,National — index,158.157375,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-01-31,National — index,158.77940999999998,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-02-28,National — index,160.60806000000002,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-03-31,National — index,161.883175,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-04-30,National — index,164.49498,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-05-31,National — index,165.22611,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-06-30,National — index,175.70866999999998,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-07-31,National — index,183.337015,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-08-31,National — index,187.84002,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-09-30,National — index,185.67778,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-10-31,National — index,194.41568,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-11-30,National — index,195.888845,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-12-31,National — index,196.85569000000004,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-01-31,National — index,202.52931,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-02-28,National — index,211.27788,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-03-31,National — index,219.13833,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-04-30,National — index,224.41052000000002,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-05-31,National — index,227.96142500000002,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-06-30,National — index,227.37247000000002,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-07-31,National — index,235.23254500000002,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-08-31,National — index,239.26909,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-09-30,National — index,244.04767,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-10-31,National — index,246.50391000000002,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-11-30,National — index,253.14989000000003,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-12-31,National — index,255.23485500000004,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-01-31,National — index,259.918315,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-02-29,National — index,260.008235,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-03-31,National — index,264.463205,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-04-30,National — index,263.32064,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-05-31,National — index,254.77950000000004,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-06-30,National — index,255.94258000000002,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-07-31,National — index,261.31574,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-08-31,National — index,262.324615,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-09-30,National — index,260.96055500000006,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-10-31,National — index,264.174695,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-11-30,National — index,265.462665,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-12-31,National — index,265.62710500000003,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-01-31,National — index,266.17094000000003,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-02-28,National — index,263.95086000000003,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-03-31,National — index,266.293645,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-04-30,National — index,264.057175,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-05-31,National — index,263.601605,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-06-30,National — index,264.22003,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-07-31,National — index,271.940845,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-08-31,National — index,270.176035,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-09-30,National — index,275.60477000000003,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-10-31,National — index,280.65553,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-11-30,National — index,281.782895,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-12-31,National — index,280.525825,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-01-31,National — index,281.61816000000005,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-02-28,National — index,282.386055,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-03-31,National — index,285.72748,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-04-30,National — index,292.80597,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-05-31,National — index,294.341605,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-06-30,National — index,293.47168500000004,index (2015-16 = 100),pbs_cpi_historical,monthly
+2019-09-30,RPI — index,125.55,index (2015-16 = 100),pbs_cpi_historical,monthly
+2019-10-31,RPI — index,128.28,index (2015-16 = 100),pbs_cpi_historical,monthly
+2019-11-30,RPI — index,130.67,index (2015-16 = 100),pbs_cpi_historical,monthly
+2019-12-31,RPI — index,130.28,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-01-31,RPI — index,133.44,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-02-29,RPI — index,132.13,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-03-31,RPI — index,132.0,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-04-30,RPI — index,130.58,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-05-31,RPI — index,131.03,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-06-30,RPI — index,132.36,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-07-31,RPI — index,136.36,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-08-31,RPI — index,136.84,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-09-30,RPI — index,139.51,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-10-31,RPI — index,142.79,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-11-30,RPI — index,144.34,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-12-31,RPI — index,142.65,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-01-31,RPI — index,142.23,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-02-28,RPI — index,143.82,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-03-31,RPI — index,144.55,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-04-30,RPI — index,145.37,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-05-31,RPI — index,145.32,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-06-30,RPI — index,145.24,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-07-31,RPI — index,147.28,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-08-31,RPI — index,148.34,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-09-30,RPI — index,151.74,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-10-31,RPI — index,155.15,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-11-30,RPI — index,160.03,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-12-31,RPI — index,159.21,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-01-31,RPI — index,160.62,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-02-28,RPI — index,162.99,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-03-31,RPI — index,164.62,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-04-30,RPI — index,167.31,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-05-31,RPI — index,168.39,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-06-30,RPI — index,179.45,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-07-31,RPI — index,186.94,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-08-31,RPI — index,191.04,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-09-30,RPI — index,191.38,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-10-31,RPI — index,200.96,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-11-30,RPI — index,203.57,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-12-31,RPI — index,205.0,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-01-31,RPI — index,212.43,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-02-28,RPI — index,220.95,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-03-31,RPI — index,228.63,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-04-30,RPI — index,235.43,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-05-31,RPI — index,239.42,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-06-30,RPI — index,237.61,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-07-31,RPI — index,245.44,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-08-31,RPI — index,250.06,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-09-30,RPI — index,256.21,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-10-31,RPI — index,258.57,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-11-30,RPI — index,259.61,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-12-31,RPI — index,262.11,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-01-31,RPI — index,267.01,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-02-29,RPI — index,266.33,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-03-31,RPI — index,272.0,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-04-30,RPI — index,269.48,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-05-31,RPI — index,258.99,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-06-30,RPI — index,259.72,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-07-31,RPI — index,265.43,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-08-31,RPI — index,266.89,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-09-30,RPI — index,265.55,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-10-31,RPI — index,269.51,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-11-30,RPI — index,270.81,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-12-31,RPI — index,271.6,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-01-31,RPI — index,272.21,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-02-28,RPI — index,269.22,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-03-31,RPI — index,272.05,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-04-30,RPI — index,269.2,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-05-31,RPI — index,267.77,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-06-30,RPI — index,269.02,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-07-31,RPI — index,274.81,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-08-31,RPI — index,273.37,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-09-30,RPI — index,280.91,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-10-31,RPI — index,287.26,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-11-30,RPI — index,287.84,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-12-31,RPI — index,286.21,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-01-31,RPI — index,287.97,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-02-28,RPI — index,288.78,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-03-31,RPI — index,291.55,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-04-30,RPI — index,297.63,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-05-31,RPI — index,298.51,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-06-30,RPI — index,298.41,index (2015-16 = 100),pbs_cpi_historical,monthly
+2019-09-30,UCPI — index,127.72,index (2015-16 = 100),pbs_cpi_historical,monthly
+2019-10-31,UCPI — index,129.75,index (2015-16 = 100),pbs_cpi_historical,monthly
+2019-11-30,UCPI — index,131.05,index (2015-16 = 100),pbs_cpi_historical,monthly
+2019-12-31,UCPI — index,130.57,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-01-31,UCPI — index,132.77,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-02-29,UCPI — index,131.32,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-03-31,UCPI — index,131.49,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-04-30,UCPI — index,130.6,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-05-31,UCPI — index,130.99,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-06-30,UCPI — index,131.89,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-07-31,UCPI — index,134.73,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-08-31,UCPI — index,135.82,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-09-30,UCPI — index,137.53,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-10-31,UCPI — index,139.27,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-11-30,UCPI — index,140.16,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-12-31,UCPI — index,139.67,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-01-31,UCPI — index,139.45,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-02-28,UCPI — index,142.61,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-03-31,UCPI — index,142.99,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-04-30,UCPI — index,144.91,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-05-31,UCPI — index,145.19,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-06-30,UCPI — index,144.55,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-07-31,UCPI — index,146.41,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-08-31,UCPI — index,147.12,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-09-30,UCPI — index,150.08,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-10-31,UCPI — index,152.59,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-11-30,UCPI — index,156.96,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-12-31,UCPI — index,157.46,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-01-31,UCPI — index,157.56,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-02-28,UCPI — index,159.03,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-03-31,UCPI — index,160.07,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-04-30,UCPI — index,162.63,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-05-31,UCPI — index,163.13,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-06-30,UCPI — index,173.23,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-07-31,UCPI — index,180.95,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-08-31,UCPI — index,185.72,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-09-30,UCPI — index,181.9,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-10-31,UCPI — index,190.08,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-11-30,UCPI — index,190.8,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-12-31,UCPI — index,191.46,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-01-31,UCPI — index,195.97,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-02-28,UCPI — index,204.87,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-03-31,UCPI — index,212.85,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-04-30,UCPI — index,217.11,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-05-31,UCPI — index,220.37,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-06-30,UCPI — index,220.59,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-07-31,UCPI — index,228.47,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-08-31,UCPI — index,232.12,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-09-30,UCPI — index,235.99,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-10-31,UCPI — index,238.51,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-11-30,UCPI — index,248.87,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-12-31,UCPI — index,250.68,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-01-31,UCPI — index,255.22,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-02-29,UCPI — index,255.82,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-03-31,UCPI — index,259.47,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-04-30,UCPI — index,259.24,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-05-31,UCPI — index,251.99,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-06-30,UCPI — index,253.44,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-07-31,UCPI — index,258.59,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-08-31,UCPI — index,259.3,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-09-30,UCPI — index,257.92,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-10-31,UCPI — index,260.64,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-11-30,UCPI — index,261.92,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-12-31,UCPI — index,261.67,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-01-31,UCPI — index,262.17,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-02-28,UCPI — index,260.46,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-03-31,UCPI — index,262.48,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-04-30,UCPI — index,260.65,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-05-31,UCPI — index,260.84,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-06-30,UCPI — index,261.04,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-07-31,UCPI — index,270.04,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-08-31,UCPI — index,268.06,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-09-30,UCPI — index,272.09,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-10-31,UCPI — index,276.28,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-11-30,UCPI — index,277.77,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-12-31,UCPI — index,276.76,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-01-31,UCPI — index,277.41,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-02-28,UCPI — index,278.15,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-03-31,UCPI — index,281.87,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-04-30,UCPI — index,289.61,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-05-31,UCPI — index,291.58,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-06-30,UCPI — index,290.2,index (2015-16 = 100),pbs_cpi_historical,monthly
+2019-09-30,WPI — index,140.49,index (2015-16 = 100),pbs_cpi_historical,monthly
+2019-10-31,WPI — index,143.34,index (2015-16 = 100),pbs_cpi_historical,monthly
+2019-11-30,WPI — index,142.17,index (2015-16 = 100),pbs_cpi_historical,monthly
+2019-12-31,WPI — index,141.75,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-01-31,WPI — index,144.34,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-02-29,WPI — index,143.27,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-03-31,WPI — index,142.01,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-04-30,WPI — index,139.12,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-05-31,WPI — index,136.23,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-06-30,WPI — index,135.8,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-07-31,WPI — index,143.14,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-08-31,WPI — index,144.96,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-09-30,WPI — index,146.48,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-10-31,WPI — index,150.7,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-11-30,WPI — index,149.28,index (2015-16 = 100),pbs_cpi_historical,monthly
+2020-12-31,WPI — index,149.79,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-01-31,WPI — index,153.53,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-02-28,WPI — index,156.9,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-03-31,WPI — index,162.73,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-04-30,WPI — index,162.15,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-05-31,WPI — index,162.64,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-06-30,WPI — index,164.12,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-07-31,WPI — index,167.86,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-08-31,WPI — index,169.82,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-09-30,WPI — index,175.2,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-10-31,WPI — index,182.62,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-11-30,WPI — index,189.54,index (2015-16 = 100),pbs_cpi_historical,monthly
+2021-12-31,WPI — index,189.09,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-01-31,WPI — index,190.31,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-02-28,WPI — index,193.95,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-03-31,WPI — index,201.43,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-04-30,WPI — index,207.79,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-05-31,WPI — index,210.79,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-06-30,WPI — index,228.03,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-07-31,WPI — index,232.57,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-08-31,WPI — index,239.87,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-09-30,WPI — index,243.3,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-10-31,WPI — index,242.15,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-11-30,WPI — index,242.09,index (2015-16 = 100),pbs_cpi_historical,monthly
+2022-12-31,WPI — index,240.36,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-01-31,WPI — index,244.61,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-02-28,WPI — index,264.64,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-03-31,WPI — index,277.01,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-04-30,WPI — index,277.26,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-05-31,WPI — index,279.91,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-06-30,WPI — index,279.21,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-07-31,WPI — index,286.23,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-08-31,WPI — index,298.13,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-09-30,WPI — index,307.51,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-10-31,WPI — index,301.76,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-11-30,WPI — index,306.1,index (2015-16 = 100),pbs_cpi_historical,monthly
+2023-12-31,WPI — index,306.05,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-01-31,WPI — index,310.54,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-02-29,WPI — index,314.02,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-03-31,WPI — index,317.95,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-04-30,WPI — index,315.74,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-05-31,WPI — index,307.7,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-06-30,WPI — index,308.85,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-07-31,WPI — index,315.88,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-08-31,WPI — index,316.84,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-09-30,WPI — index,313.5,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-10-31,WPI — index,313.5,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-11-30,WPI — index,313.11,index (2015-16 = 100),pbs_cpi_historical,monthly
+2024-12-31,WPI — index,311.95,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-01-31,WPI — index,312.51,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-02-28,WPI — index,311.94,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-03-31,WPI — index,312.85,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-04-30,WPI — index,308.8,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-05-31,WPI — index,308.81,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-06-30,WPI — index,310.63,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-07-31,WPI — index,314.33,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-08-31,WPI — index,313.68,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-09-30,WPI — index,315.34,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-10-31,WPI — index,316.96,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-11-30,WPI — index,316.44,index (2015-16 = 100),pbs_cpi_historical,monthly
+2025-12-31,WPI — index,313.72,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-01-31,WPI — index,313.15,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-02-28,WPI — index,315.21,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-03-31,WPI — index,333.78,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-04-30,WPI — index,350.71,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-05-31,WPI — index,348.07,index (2015-16 = 100),pbs_cpi_historical,monthly
+2026-06-30,WPI — index,343.85,index (2015-16 = 100),pbs_cpi_historical,monthly
+2017-07-31,CPI Published — inflation,2.9,% YoY,pbs_cpi_historical,monthly
+2017-08-31,CPI Published — inflation,3.4,% YoY,pbs_cpi_historical,monthly
+2017-09-30,CPI Published — inflation,3.9,% YoY,pbs_cpi_historical,monthly
+2017-10-31,CPI Published — inflation,3.8,% YoY,pbs_cpi_historical,monthly
+2017-11-30,CPI Published — inflation,4.0,% YoY,pbs_cpi_historical,monthly
+2017-12-31,CPI Published — inflation,4.6,% YoY,pbs_cpi_historical,monthly
+2018-01-31,CPI Published — inflation,4.4,% YoY,pbs_cpi_historical,monthly
+2018-02-28,CPI Published — inflation,3.8,% YoY,pbs_cpi_historical,monthly
+2018-03-31,CPI Published — inflation,3.3,% YoY,pbs_cpi_historical,monthly
+2018-04-30,CPI Published — inflation,3.7,% YoY,pbs_cpi_historical,monthly
+2018-05-31,CPI Published — inflation,4.2,% YoY,pbs_cpi_historical,monthly
+2018-06-30,CPI Published — inflation,5.2,% YoY,pbs_cpi_historical,monthly
+2018-07-31,CPI Published — inflation,5.8,% YoY,pbs_cpi_historical,monthly
+2018-08-31,CPI Published — inflation,5.8,% YoY,pbs_cpi_historical,monthly
+2018-09-30,CPI Published — inflation,5.1,% YoY,pbs_cpi_historical,monthly
+2018-10-31,CPI Published — inflation,6.8,% YoY,pbs_cpi_historical,monthly
+2018-11-30,CPI Published — inflation,6.5,% YoY,pbs_cpi_historical,monthly
+2018-12-31,CPI Published — inflation,6.2,% YoY,pbs_cpi_historical,monthly
+2019-01-31,CPI Published — inflation,7.2,% YoY,pbs_cpi_historical,monthly
+2019-02-28,CPI Published — inflation,8.2,% YoY,pbs_cpi_historical,monthly
+2019-03-31,CPI Published — inflation,9.4,% YoY,pbs_cpi_historical,monthly
+2019-04-30,CPI Published — inflation,8.8,% YoY,pbs_cpi_historical,monthly
+2019-05-31,CPI Published — inflation,9.1,% YoY,pbs_cpi_historical,monthly
+2019-06-30,CPI Published — inflation,8.9,% YoY,pbs_cpi_historical,monthly
+2019-07-31,CPI Published — inflation,10.3,% YoY,pbs_cpi_historical,monthly
+2019-08-31,CPI Published — inflation,11.6,% YoY,pbs_cpi_historical,monthly
+2017-06-30,CPI Published — inflation (FY average),4.2,% YoY,pbs_cpi_historical,monthly
+2017-07-31,National — inflation,3.9,% YoY,pbs_cpi_historical,monthly
+2017-08-31,National — inflation,4.4,% YoY,pbs_cpi_historical,monthly
+2017-09-30,National — inflation,4.7,% YoY,pbs_cpi_historical,monthly
+2017-10-31,National — inflation,4.8,% YoY,pbs_cpi_historical,monthly
+2017-11-30,National — inflation,5.0,% YoY,pbs_cpi_historical,monthly
+2017-12-31,National — inflation,5.6,% YoY,pbs_cpi_historical,monthly
+2018-01-31,National — inflation,5.2,% YoY,pbs_cpi_historical,monthly
+2018-02-28,National — inflation,4.5,% YoY,pbs_cpi_historical,monthly
+2018-03-31,National — inflation,3.6,% YoY,pbs_cpi_historical,monthly
+2018-04-30,National — inflation,4.0,% YoY,pbs_cpi_historical,monthly
+2018-05-31,National — inflation,5.0,% YoY,pbs_cpi_historical,monthly
+2018-06-30,National — inflation,5.7,% YoY,pbs_cpi_historical,monthly
+2018-07-31,National — inflation,6.7,% YoY,pbs_cpi_historical,monthly
+2018-08-31,National — inflation,6.2,% YoY,pbs_cpi_historical,monthly
+2018-09-30,National — inflation,5.4,% YoY,pbs_cpi_historical,monthly
+2018-10-31,National — inflation,6.5,% YoY,pbs_cpi_historical,monthly
+2018-11-30,National — inflation,5.7,% YoY,pbs_cpi_historical,monthly
+2018-12-31,National — inflation,5.4,% YoY,pbs_cpi_historical,monthly
+2019-01-31,National — inflation,5.6,% YoY,pbs_cpi_historical,monthly
+2019-02-28,National — inflation,6.8,% YoY,pbs_cpi_historical,monthly
+2019-03-31,National — inflation,8.6,% YoY,pbs_cpi_historical,monthly
+2019-04-30,National — inflation,8.3,% YoY,pbs_cpi_historical,monthly
+2019-05-31,National — inflation,8.4,% YoY,pbs_cpi_historical,monthly
+2019-06-30,National — inflation,8.0,% YoY,pbs_cpi_historical,monthly
+2019-07-31,National — inflation,8.4,% YoY,pbs_cpi_historical,monthly
+2019-08-31,National — inflation,10.5,% YoY,pbs_cpi_historical,monthly
+2017-06-30,National — inflation (FY average),4.81,% YoY,pbs_cpi_historical,monthly
+2017-07-31,RPI — inflation,3.1,% YoY,pbs_cpi_historical,monthly
+2017-08-31,RPI — inflation,3.4,% YoY,pbs_cpi_historical,monthly
+2017-09-30,RPI — inflation,3.9,% YoY,pbs_cpi_historical,monthly
+2017-10-31,RPI — inflation,4.2,% YoY,pbs_cpi_historical,monthly
+2017-11-30,RPI — inflation,4.4,% YoY,pbs_cpi_historical,monthly
+2017-12-31,RPI — inflation,4.9,% YoY,pbs_cpi_historical,monthly
+2018-01-31,RPI — inflation,4.9,% YoY,pbs_cpi_historical,monthly
+2018-02-28,RPI — inflation,4.0,% YoY,pbs_cpi_historical,monthly
+2018-03-31,RPI — inflation,3.0,% YoY,pbs_cpi_historical,monthly
+2018-04-30,RPI — inflation,3.3,% YoY,pbs_cpi_historical,monthly
+2018-05-31,RPI — inflation,4.5,% YoY,pbs_cpi_historical,monthly
+2018-06-30,RPI — inflation,5.4,% YoY,pbs_cpi_historical,monthly
+2018-07-31,RPI — inflation,6.6,% YoY,pbs_cpi_historical,monthly
+2018-08-31,RPI — inflation,6.2,% YoY,pbs_cpi_historical,monthly
+2018-09-30,RPI — inflation,5.1,% YoY,pbs_cpi_historical,monthly
+2018-10-31,RPI — inflation,5.7,% YoY,pbs_cpi_historical,monthly
+2018-11-30,RPI — inflation,4.7,% YoY,pbs_cpi_historical,monthly
+2018-12-31,RPI — inflation,4.6,% YoY,pbs_cpi_historical,monthly
+2019-01-31,RPI — inflation,4.6,% YoY,pbs_cpi_historical,monthly
+2019-02-28,RPI — inflation,6.0,% YoY,pbs_cpi_historical,monthly
+2019-03-31,RPI — inflation,8.2,% YoY,pbs_cpi_historical,monthly
+2019-04-30,RPI — inflation,8.1,% YoY,pbs_cpi_historical,monthly
+2019-05-31,RPI — inflation,8.3,% YoY,pbs_cpi_historical,monthly
+2019-06-30,RPI — inflation,7.9,% YoY,pbs_cpi_historical,monthly
+2019-07-31,RPI — inflation,7.9,% YoY,pbs_cpi_historical,monthly
+2019-08-31,RPI — inflation,10.3,% YoY,pbs_cpi_historical,monthly
+2017-06-30,RPI — inflation (FY average),4.77,% YoY,pbs_cpi_historical,monthly
+2017-07-31,UCPI — inflation,4.4,% YoY,pbs_cpi_historical,monthly
+2017-08-31,UCPI — inflation,5.1,% YoY,pbs_cpi_historical,monthly
+2017-09-30,UCPI — inflation,5.2,% YoY,pbs_cpi_historical,monthly
+2017-10-31,UCPI — inflation,5.3,% YoY,pbs_cpi_historical,monthly
+2017-11-30,UCPI — inflation,5.4,% YoY,pbs_cpi_historical,monthly
+2017-12-31,UCPI — inflation,6.1,% YoY,pbs_cpi_historical,monthly
+2018-01-31,UCPI — inflation,5.4,% YoY,pbs_cpi_historical,monthly
+2018-02-28,UCPI — inflation,4.8,% YoY,pbs_cpi_historical,monthly
+2018-03-31,UCPI — inflation,4.0,% YoY,pbs_cpi_historical,monthly
+2018-04-30,UCPI — inflation,4.4,% YoY,pbs_cpi_historical,monthly
+2018-05-31,UCPI — inflation,5.3,% YoY,pbs_cpi_historical,monthly
+2018-06-30,UCPI — inflation,5.8,% YoY,pbs_cpi_historical,monthly
+2018-07-31,UCPI — inflation,6.7,% YoY,pbs_cpi_historical,monthly
+2018-08-31,UCPI — inflation,6.2,% YoY,pbs_cpi_historical,monthly
+2018-09-30,UCPI — inflation,5.6,% YoY,pbs_cpi_historical,monthly
+2018-10-31,UCPI — inflation,7.0,% YoY,pbs_cpi_historical,monthly
+2018-11-30,UCPI — inflation,6.3,% YoY,pbs_cpi_historical,monthly
+2018-12-31,UCPI — inflation,5.9,% YoY,pbs_cpi_historical,monthly
+2019-01-31,UCPI — inflation,6.2,% YoY,pbs_cpi_historical,monthly
+2019-02-28,UCPI — inflation,7.2,% YoY,pbs_cpi_historical,monthly
+2019-03-31,UCPI — inflation,8.9,% YoY,pbs_cpi_historical,monthly
+2019-04-30,UCPI — inflation,8.4,% YoY,pbs_cpi_historical,monthly
+2019-05-31,UCPI — inflation,8.5,% YoY,pbs_cpi_historical,monthly
+2019-06-30,UCPI — inflation,8.1,% YoY,pbs_cpi_historical,monthly
+2019-07-31,UCPI — inflation,8.7,% YoY,pbs_cpi_historical,monthly
+2019-08-31,UCPI — inflation,10.6,% YoY,pbs_cpi_historical,monthly
+2017-06-30,UCPI — inflation (FY average),4.83,% YoY,pbs_cpi_historical,monthly
+2017-07-31,WPI Published — inflation,0.7,% YoY,pbs_cpi_historical,monthly
+2017-08-31,WPI Published — inflation,1.0,% YoY,pbs_cpi_historical,monthly
+2017-09-30,WPI Published — inflation,1.6,% YoY,pbs_cpi_historical,monthly
+2017-10-31,WPI Published — inflation,2.3,% YoY,pbs_cpi_historical,monthly
+2017-11-30,WPI Published — inflation,2.9,% YoY,pbs_cpi_historical,monthly
+2017-12-31,WPI Published — inflation,3.4,% YoY,pbs_cpi_historical,monthly
+2018-01-31,WPI Published — inflation,4.7,% YoY,pbs_cpi_historical,monthly
+2018-02-28,WPI Published — inflation,4.1,% YoY,pbs_cpi_historical,monthly
+2018-03-31,WPI Published — inflation,3.7,% YoY,pbs_cpi_historical,monthly
+2018-04-30,WPI Published — inflation,4.0,% YoY,pbs_cpi_historical,monthly
+2018-05-31,WPI Published — inflation,5.6,% YoY,pbs_cpi_historical,monthly
+2018-06-30,WPI Published — inflation,7.6,% YoY,pbs_cpi_historical,monthly
+2018-07-31,WPI Published — inflation,10.5,% YoY,pbs_cpi_historical,monthly
+2018-08-31,WPI Published — inflation,11.0,% YoY,pbs_cpi_historical,monthly
+2018-09-30,WPI Published — inflation,9.3,% YoY,pbs_cpi_historical,monthly
+2018-10-31,WPI Published — inflation,13.1,% YoY,pbs_cpi_historical,monthly
+2018-11-30,WPI Published — inflation,13.5,% YoY,pbs_cpi_historical,monthly
+2018-12-31,WPI Published — inflation,12.1,% YoY,pbs_cpi_historical,monthly
+2019-01-31,WPI Published — inflation,9.9,% YoY,pbs_cpi_historical,monthly
+2019-02-28,WPI Published — inflation,11.0,% YoY,pbs_cpi_historical,monthly
+2019-03-31,WPI Published — inflation,12.6,% YoY,pbs_cpi_historical,monthly
+2019-04-30,WPI Published — inflation,13.8,% YoY,pbs_cpi_historical,monthly
+2019-05-31,WPI Published — inflation,14.0,% YoY,pbs_cpi_historical,monthly
+2019-06-30,WPI Published — inflation,12.7,% YoY,pbs_cpi_historical,monthly
+2019-07-31,WPI Published — inflation,13.5,% YoY,pbs_cpi_historical,monthly
+2019-08-31,WPI Published — inflation,13.6,% YoY,pbs_cpi_historical,monthly
+2017-06-30,WPI Published — inflation (FY average),4.0,% YoY,pbs_cpi_historical,monthly
+2017-07-31,WPI — inflation,1.9,% YoY,pbs_cpi_historical,monthly
+2017-08-31,WPI — inflation,2.0,% YoY,pbs_cpi_historical,monthly
+2017-09-30,WPI — inflation,2.7,% YoY,pbs_cpi_historical,monthly
+2017-10-31,WPI — inflation,3.7,% YoY,pbs_cpi_historical,monthly
+2017-11-30,WPI — inflation,4.2,% YoY,pbs_cpi_historical,monthly
+2017-12-31,WPI — inflation,4.5,% YoY,pbs_cpi_historical,monthly
+2018-01-31,WPI — inflation,6.4,% YoY,pbs_cpi_historical,monthly
+2018-02-28,WPI — inflation,5.9,% YoY,pbs_cpi_historical,monthly
+2018-03-31,WPI — inflation,5.4,% YoY,pbs_cpi_historical,monthly
+2018-04-30,WPI — inflation,6.3,% YoY,pbs_cpi_historical,monthly
+2018-05-31,WPI — inflation,8.6,% YoY,pbs_cpi_historical,monthly
+2018-06-30,WPI — inflation,11.4,% YoY,pbs_cpi_historical,monthly
+2018-07-31,WPI — inflation,16.3,% YoY,pbs_cpi_historical,monthly
+2018-08-31,WPI — inflation,16.7,% YoY,pbs_cpi_historical,monthly
+2018-09-30,WPI — inflation,14.6,% YoY,pbs_cpi_historical,monthly
+2018-10-31,WPI — inflation,18.6,% YoY,pbs_cpi_historical,monthly
+2018-11-30,WPI — inflation,18.6,% YoY,pbs_cpi_historical,monthly
+2018-12-31,WPI — inflation,16.5,% YoY,pbs_cpi_historical,monthly
+2019-01-31,WPI — inflation,12.6,% YoY,pbs_cpi_historical,monthly
+2019-02-28,WPI — inflation,13.9,% YoY,pbs_cpi_historical,monthly
+2019-03-31,WPI — inflation,16.6,% YoY,pbs_cpi_historical,monthly
+2019-04-30,WPI — inflation,17.1,% YoY,pbs_cpi_historical,monthly
+2019-05-31,WPI — inflation,16.5,% YoY,pbs_cpi_historical,monthly
+2019-06-30,WPI — inflation,14.0,% YoY,pbs_cpi_historical,monthly
+2019-07-31,WPI — inflation,13.3,% YoY,pbs_cpi_historical,monthly
+2019-08-31,WPI — inflation,14.1,% YoY,pbs_cpi_historical,monthly
+2017-06-30,WPI — inflation (FY average),4.45,% YoY,pbs_cpi_historical,monthly
+2019-09-30,National — inflation,11.374021051056786,% YoY,pbs_cpi_historical,monthly
+2019-10-31,National — inflation,11.043356178754209,% YoY,pbs_cpi_historical,monthly
+2019-11-30,National — inflation,12.669864695269666,% YoY,pbs_cpi_historical,monthly
+2019-12-31,National — inflation,12.630826358827036,% YoY,pbs_cpi_historical,monthly
+2020-01-31,National — inflation,14.570928253459641,% YoY,pbs_cpi_historical,monthly
+2020-02-29,National — inflation,12.396464077265378,% YoY,pbs_cpi_historical,monthly
+2020-03-31,National — inflation,10.2394109480976,% YoY,pbs_cpi_historical,monthly
+2020-04-30,National — inflation,8.524992188382939,% YoY,pbs_cpi_historical,monthly
+2020-05-31,National — inflation,8.22465991116563,% YoY,pbs_cpi_historical,monthly
+2020-06-30,National — inflation,8.588205614268247,% YoY,pbs_cpi_historical,monthly
+2020-07-31,National — inflation,9.29861552882663,% YoY,pbs_cpi_historical,monthly
+2020-08-31,National — inflation,8.21130450983867,% YoY,pbs_cpi_historical,monthly
+2020-09-30,National — inflation,9.03689405693126,% YoY,pbs_cpi_historical,monthly
+2020-10-31,National — inflation,8.909987871639828,% YoY,pbs_cpi_historical,monthly
+2020-11-30,National — inflation,8.347807008128513,% YoY,pbs_cpi_historical,monthly
+2020-12-31,National — inflation,7.974504661340177,% YoY,pbs_cpi_historical,monthly
+2021-01-31,National — inflation,5.653190678277099,% YoY,pbs_cpi_historical,monthly
+2021-02-28,National — inflation,8.697324353932515,% YoY,pbs_cpi_historical,monthly
+2021-03-31,National — inflation,9.050142173210347,% YoY,pbs_cpi_historical,monthly
+2021-04-30,National — inflation,11.104261109962081,% YoY,pbs_cpi_historical,monthly
+2021-05-31,National — inflation,10.866579790198827,% YoY,pbs_cpi_historical,monthly
+2021-06-30,National — inflation,9.651674044354124,% YoY,pbs_cpi_historical,monthly
+2021-07-31,National — inflation,8.403883437199951,% YoY,pbs_cpi_historical,monthly
+2021-08-31,National — inflation,8.353516023721383,% YoY,pbs_cpi_historical,monthly
+2021-09-30,National — inflation,8.981034641437276,% YoY,pbs_cpi_historical,monthly
+2021-10-31,National — inflation,9.196836458412122,% YoY,pbs_cpi_historical,monthly
+2021-11-30,National — inflation,11.533637091097646,% YoY,pbs_cpi_historical,monthly
+2021-12-31,National — inflation,12.281803464820086,% YoY,pbs_cpi_historical,monthly
+2022-01-31,National — inflation,12.963760183264057,% YoY,pbs_cpi_historical,monthly
+2022-02-28,National — inflation,12.240972489168428,% YoY,pbs_cpi_historical,monthly
+2022-03-31,National — inflation,12.722863171416549,% YoY,pbs_cpi_historical,monthly
+2022-04-30,National — inflation,13.371857048405602,% YoY,pbs_cpi_historical,monthly
+2022-05-31,National — inflation,13.75933396035667,% YoY,pbs_cpi_historical,monthly
+2022-06-30,National — inflation,21.32484893056936,% YoY,pbs_cpi_historical,monthly
+2022-07-31,National — inflation,24.925827063630734,% YoY,pbs_cpi_historical,monthly
+2022-08-31,National — inflation,27.257566536683385,% YoY,pbs_cpi_historical,monthly
+2022-09-30,National — inflation,23.176277058654932,% YoY,pbs_cpi_historical,monthly
+2022-10-31,National — inflation,26.56433662981668,% YoY,pbs_cpi_historical,monthly
+2022-11-30,National — inflation,23.83654112367482,% YoY,pbs_cpi_historical,monthly
+2022-12-31,National — inflation,24.46823298628979,% YoY,pbs_cpi_historical,monthly
+2023-01-31,National — inflation,27.553887497125757,% YoY,pbs_cpi_historical,monthly
+2023-02-28,National — inflation,31.54874045549144,% YoY,pbs_cpi_historical,monthly
+2023-03-31,National — inflation,35.36819376071665,% YoY,pbs_cpi_historical,monthly
+2023-04-30,National — inflation,36.42393220753607,% YoY,pbs_cpi_historical,monthly
+2023-05-31,National — inflation,37.96937118473588,% YoY,pbs_cpi_historical,monthly
+2023-06-30,National — inflation,29.403102305651743,% YoY,pbs_cpi_historical,monthly
+2023-07-31,National — inflation,28.306084289634583,% YoY,pbs_cpi_historical,monthly
+2023-08-31,National — inflation,27.379186820785037,% YoY,pbs_cpi_historical,monthly
+2023-09-30,National — inflation,31.43612014318569,% YoY,pbs_cpi_historical,monthly
+2023-10-31,National — inflation,26.79219597925436,% YoY,pbs_cpi_historical,monthly
+2023-11-30,National — inflation,29.231396509586858,% YoY,pbs_cpi_historical,monthly
+2023-12-31,National — inflation,29.65581792428759,% YoY,pbs_cpi_historical,monthly
+2024-01-31,National — inflation,28.33614798766658,% YoY,pbs_cpi_historical,monthly
+2024-02-29,National — inflation,23.064579690027173,% YoY,pbs_cpi_historical,monthly
+2024-03-31,National — inflation,20.683225522436004,% YoY,pbs_cpi_historical,monthly
+2024-04-30,National — inflation,17.338812815014194,% YoY,pbs_cpi_historical,monthly
+2024-05-31,National — inflation,11.764303982570738,% YoY,pbs_cpi_historical,monthly
+2024-06-30,National — inflation,12.565333877052055,% YoY,pbs_cpi_historical,monthly
+2024-07-31,National — inflation,11.088259492324923,% YoY,pbs_cpi_historical,monthly
+2024-08-31,National — inflation,9.635814220716938,% YoY,pbs_cpi_historical,monthly
+2024-09-30,National — inflation,6.930156309216159,% YoY,pbs_cpi_historical,monthly
+2024-10-31,National — inflation,7.1685617481685995,% YoY,pbs_cpi_historical,monthly
+2024-11-30,National — inflation,4.863827908437955,% YoY,pbs_cpi_historical,monthly
+2024-12-31,National — inflation,4.071642174420106,% YoY,pbs_cpi_historical,monthly
+2025-01-31,National — inflation,2.4056115476125655,% YoY,pbs_cpi_historical,monthly
+2025-02-28,National — inflation,1.516346203419289,% YoY,pbs_cpi_historical,monthly
+2025-03-31,National — inflation,0.6921340910165554,% YoY,pbs_cpi_historical,monthly
+2025-04-30,National — inflation,0.2797103181884779,% YoY,pbs_cpi_historical,monthly
+2025-05-31,National — inflation,3.4626431875405927,% YoY,pbs_cpi_historical,monthly
+2025-06-30,National — inflation,3.2341043057392085,% YoY,pbs_cpi_historical,monthly
+2025-07-31,National — inflation,4.066002683190845,% YoY,pbs_cpi_historical,monthly
+2025-08-31,National — inflation,2.9930168772000343,% YoY,pbs_cpi_historical,monthly
+2025-09-30,National — inflation,5.611658436272094,% YoY,pbs_cpi_historical,monthly
+2025-10-31,National — inflation,6.238612294035221,% YoY,pbs_cpi_historical,monthly
+2025-11-30,National — inflation,6.1478438031954425,% YoY,pbs_cpi_historical,monthly
+2025-12-31,National — inflation,5.608885433585527,% YoY,pbs_cpi_historical,monthly
+2026-01-31,National — inflation,5.803496054077129,% YoY,pbs_cpi_historical,monthly
+2026-02-28,National — inflation,6.984328446590382,% YoY,pbs_cpi_historical,monthly
+2026-03-31,National — inflation,7.297896650894529,% YoY,pbs_cpi_historical,monthly
+2026-04-30,National — inflation,10.88733718369896,% YoY,pbs_cpi_historical,monthly
+2026-05-31,National — inflation,11.661537493294105,% YoY,pbs_cpi_historical,monthly
+2026-06-30,National — inflation,11.07094530267068,% YoY,pbs_cpi_historical,monthly
+2019-09-30,RPI — inflation,11.096363153703209,% YoY,pbs_cpi_historical,monthly
+2019-10-31,RPI — inflation,11.325175735485544,% YoY,pbs_cpi_historical,monthly
+2019-11-30,RPI — inflation,13.596453099191507,% YoY,pbs_cpi_historical,monthly
+2019-12-31,RPI — inflation,13.583260680034883,% YoY,pbs_cpi_historical,monthly
+2020-01-31,RPI — inflation,16.358562957795584,% YoY,pbs_cpi_historical,monthly
+2020-02-29,RPI — inflation,14.220262793914245,% YoY,pbs_cpi_historical,monthly
+2020-03-31,RPI — inflation,11.665679722527699,% YoY,pbs_cpi_historical,monthly
+2020-04-30,RPI — inflation,9.832618386744059,% YoY,pbs_cpi_historical,monthly
+2020-05-31,RPI — inflation,9.694432817078265,% YoY,pbs_cpi_historical,monthly
+2020-06-30,RPI — inflation,10.034084296283979,% YoY,pbs_cpi_historical,monthly
+2020-07-31,RPI — inflation,11.569301260022911,% YoY,pbs_cpi_historical,monthly
+2020-08-31,RPI — inflation,9.858702633269118,% YoY,pbs_cpi_historical,monthly
+2020-09-30,RPI — inflation,11.119076065312612,% YoY,pbs_cpi_historical,monthly
+2020-10-31,RPI — inflation,11.311194262550671,% YoY,pbs_cpi_historical,monthly
+2020-11-30,RPI — inflation,10.461467819698498,% YoY,pbs_cpi_historical,monthly
+2020-12-31,RPI — inflation,9.494933988332832,% YoY,pbs_cpi_historical,monthly
+2021-01-31,RPI — inflation,6.587230215827319,% YoY,pbs_cpi_historical,monthly
+2021-02-28,RPI — inflation,8.84734730946795,% YoY,pbs_cpi_historical,monthly
+2021-03-31,RPI — inflation,9.507575757575765,% YoY,pbs_cpi_historical,monthly
+2021-04-30,RPI — inflation,11.326389952519506,% YoY,pbs_cpi_historical,monthly
+2021-05-31,RPI — inflation,10.905899412348319,% YoY,pbs_cpi_historical,monthly
+2021-06-30,RPI — inflation,9.731036566938656,% YoY,pbs_cpi_historical,monthly
+2021-07-31,RPI — inflation,8.008213552361383,% YoY,pbs_cpi_historical,monthly
+2021-08-31,RPI — inflation,8.403975445776098,% YoY,pbs_cpi_historical,monthly
+2021-09-30,RPI — inflation,8.766396674073548,% YoY,pbs_cpi_historical,monthly
+2021-10-31,RPI — inflation,8.656068352125516,% YoY,pbs_cpi_historical,monthly
+2021-11-30,RPI — inflation,10.870167659692399,% YoY,pbs_cpi_historical,monthly
+2021-12-31,RPI — inflation,11.608832807570991,% YoY,pbs_cpi_historical,monthly
+2022-01-31,RPI — inflation,12.929761653659583,% YoY,pbs_cpi_historical,monthly
+2022-02-28,RPI — inflation,13.32916145181477,% YoY,pbs_cpi_historical,monthly
+2022-03-31,RPI — inflation,13.884469041854032,% YoY,pbs_cpi_historical,monthly
+2022-04-30,RPI — inflation,15.092522528719826,% YoY,pbs_cpi_historical,monthly
+2022-05-31,RPI — inflation,15.875309661436816,% YoY,pbs_cpi_historical,monthly
+2022-06-30,RPI — inflation,23.554117323051486,% YoY,pbs_cpi_historical,monthly
+2022-07-31,RPI — inflation,26.928299837045074,% YoY,pbs_cpi_historical,monthly
+2022-08-31,RPI — inflation,28.78522313603881,% YoY,pbs_cpi_historical,monthly
+2022-09-30,RPI — inflation,26.123632529326485,% YoY,pbs_cpi_historical,monthly
+2022-10-31,RPI — inflation,29.526264904930713,% YoY,pbs_cpi_historical,monthly
+2022-11-30,RPI — inflation,27.207398612760088,% YoY,pbs_cpi_historical,monthly
+2022-12-31,RPI — inflation,28.760756233904914,% YoY,pbs_cpi_historical,monthly
+2023-01-31,RPI — inflation,32.256257004109074,% YoY,pbs_cpi_historical,monthly
+2023-02-28,RPI — inflation,35.560463832136946,% YoY,pbs_cpi_historical,monthly
+2023-03-31,RPI — inflation,38.883489247965,% YoY,pbs_cpi_historical,monthly
+2023-04-30,RPI — inflation,40.71484071484073,% YoY,pbs_cpi_historical,monthly
+2023-05-31,RPI — inflation,42.18183977670884,% YoY,pbs_cpi_historical,monthly
+2023-06-30,RPI — inflation,32.410142100863766,% YoY,pbs_cpi_historical,monthly
+2023-07-31,RPI — inflation,31.293463143254513,% YoY,pbs_cpi_historical,monthly
+2023-08-31,RPI — inflation,30.894053601340033,% YoY,pbs_cpi_historical,monthly
+2023-09-30,RPI — inflation,33.875013063015984,% YoY,pbs_cpi_historical,monthly
+2023-10-31,RPI — inflation,28.667396496815257,% YoY,pbs_cpi_historical,monthly
+2023-11-30,RPI — inflation,27.528614235889393,% YoY,pbs_cpi_historical,monthly
+2023-12-31,RPI — inflation,27.858536585365854,% YoY,pbs_cpi_historical,monthly
+2024-01-31,RPI — inflation,25.69316951466365,% YoY,pbs_cpi_historical,monthly
+2024-02-29,RPI — inflation,20.538583389907217,% YoY,pbs_cpi_historical,monthly
+2024-03-31,RPI — inflation,18.969514062021602,% YoY,pbs_cpi_historical,monthly
+2024-04-30,RPI — inflation,14.462897676591766,% YoY,pbs_cpi_historical,monthly
+2024-05-31,RPI — inflation,8.173920307409574,% YoY,pbs_cpi_historical,monthly
+2024-06-30,RPI — inflation,9.305163924077277,% YoY,pbs_cpi_historical,monthly
+2024-07-31,RPI — inflation,8.14455671447196,% YoY,pbs_cpi_historical,monthly
+2024-08-31,RPI — inflation,6.730384707670154,% YoY,pbs_cpi_historical,monthly
+2024-09-30,RPI — inflation,3.6454470941805823,% YoY,pbs_cpi_historical,monthly
+2024-10-31,RPI — inflation,4.230962602003331,% YoY,pbs_cpi_historical,monthly
+2024-11-30,RPI — inflation,4.314163553021828,% YoY,pbs_cpi_historical,monthly
+2024-12-31,RPI — inflation,3.6206172980809583,% YoY,pbs_cpi_historical,monthly
+2025-01-31,RPI — inflation,1.9474926032732753,% YoY,pbs_cpi_historical,monthly
+2025-02-28,RPI — inflation,1.0851199639545115,% YoY,pbs_cpi_historical,monthly
+2025-03-31,RPI — inflation,0.018382352941188174,% YoY,pbs_cpi_historical,monthly
+2025-04-30,RPI — inflation,-0.10390381475436072,% YoY,pbs_cpi_historical,monthly
+2025-05-31,RPI — inflation,3.390092281555269,% YoY,pbs_cpi_historical,monthly
+2025-06-30,RPI — inflation,3.580779300785437,% YoY,pbs_cpi_historical,monthly
+2025-07-31,RPI — inflation,3.5338884074897408,% YoY,pbs_cpi_historical,monthly
+2025-08-31,RPI — inflation,2.4279665779909294,% YoY,pbs_cpi_historical,monthly
+2025-09-30,RPI — inflation,5.784221427226527,% YoY,pbs_cpi_historical,monthly
+2025-10-31,RPI — inflation,6.586026492523473,% YoY,pbs_cpi_historical,monthly
+2025-11-30,RPI — inflation,6.288541782061216,% YoY,pbs_cpi_historical,monthly
+2025-12-31,RPI — inflation,5.379234167893941,% YoY,pbs_cpi_historical,monthly
+2026-01-31,RPI — inflation,5.789647698468102,% YoY,pbs_cpi_historical,monthly
+2026-02-28,RPI — inflation,7.26543347448181,% YoY,pbs_cpi_historical,monthly
+2026-03-31,RPI — inflation,7.167800036757939,% YoY,pbs_cpi_historical,monthly
+2026-04-30,RPI — inflation,10.560921248142648,% YoY,pbs_cpi_historical,monthly
+2026-05-31,RPI — inflation,11.48000149381933,% YoY,pbs_cpi_historical,monthly
+2026-06-30,RPI — inflation,10.924838301985005,% YoY,pbs_cpi_historical,monthly
+2019-09-30,UCPI — inflation,11.555594375054596,% YoY,pbs_cpi_historical,monthly
+2019-10-31,UCPI — inflation,10.859535201640469,% YoY,pbs_cpi_historical,monthly
+2019-11-30,UCPI — inflation,12.066016760731998,% YoY,pbs_cpi_historical,monthly
+2019-12-31,UCPI — inflation,12.00995110234193,% YoY,pbs_cpi_historical,monthly
+2020-01-31,UCPI — inflation,13.410779875288313,% YoY,pbs_cpi_historical,monthly
+2020-02-29,UCPI — inflation,11.21273712737127,% YoY,pbs_cpi_historical,monthly
+2020-03-31,UCPI — inflation,9.310832155623913,% YoY,pbs_cpi_historical,monthly
+2020-04-30,UCPI — inflation,7.67581828675074,% YoY,pbs_cpi_historical,monthly
+2020-05-31,UCPI — inflation,7.272131684546721,% YoY,pbs_cpi_historical,monthly
+2020-06-30,UCPI — inflation,7.647730982696686,% YoY,pbs_cpi_historical,monthly
+2020-07-31,UCPI — inflation,7.827130852340929,% YoY,pbs_cpi_historical,monthly
+2020-08-31,UCPI — inflation,7.1389129920328145,% YoY,pbs_cpi_historical,monthly
+2020-09-30,UCPI — inflation,7.680864390855007,% YoY,pbs_cpi_historical,monthly
+2020-10-31,UCPI — inflation,7.337186897880542,% YoY,pbs_cpi_historical,monthly
+2020-11-30,UCPI — inflation,6.951545211751238,% YoY,pbs_cpi_historical,monthly
+2020-12-31,UCPI — inflation,6.96944167879299,% YoY,pbs_cpi_historical,monthly
+2021-01-31,UCPI — inflation,5.031257061083053,% YoY,pbs_cpi_historical,monthly
+2021-02-28,UCPI — inflation,8.597319524824883,% YoY,pbs_cpi_historical,monthly
+2021-03-31,UCPI — inflation,8.745912236671984,% YoY,pbs_cpi_historical,monthly
+2021-04-30,UCPI — inflation,10.9571209800919,% YoY,pbs_cpi_historical,monthly
+2021-05-31,UCPI — inflation,10.840522177265427,% YoY,pbs_cpi_historical,monthly
+2021-06-30,UCPI — inflation,9.598908181059997,% YoY,pbs_cpi_historical,monthly
+2021-07-31,UCPI — inflation,8.669190232316495,% YoY,pbs_cpi_historical,monthly
+2021-08-31,UCPI — inflation,8.31983507583567,% YoY,pbs_cpi_historical,monthly
+2021-09-30,UCPI — inflation,9.125281756707636,% YoY,pbs_cpi_historical,monthly
+2021-10-31,UCPI — inflation,9.564155956056581,% YoY,pbs_cpi_historical,monthly
+2021-11-30,UCPI — inflation,11.986301369863028,% YoY,pbs_cpi_historical,monthly
+2021-12-31,UCPI — inflation,12.737166177418231,% YoY,pbs_cpi_historical,monthly
+2022-01-31,UCPI — inflation,12.986733596271065,% YoY,pbs_cpi_historical,monthly
+2022-02-28,UCPI — inflation,11.513919080008407,% YoY,pbs_cpi_historical,monthly
+2022-03-31,UCPI — inflation,11.944891251136426,% YoY,pbs_cpi_historical,monthly
+2022-04-30,UCPI — inflation,12.228279621834233,% YoY,pbs_cpi_historical,monthly
+2022-05-31,UCPI — inflation,12.35622288036366,% YoY,pbs_cpi_historical,monthly
+2022-06-30,UCPI — inflation,19.840885506745053,% YoY,pbs_cpi_historical,monthly
+2022-07-31,UCPI — inflation,23.591284748309533,% YoY,pbs_cpi_historical,monthly
+2022-08-31,UCPI — inflation,26.23708537248504,% YoY,pbs_cpi_historical,monthly
+2022-09-30,UCPI — inflation,21.20202558635394,% YoY,pbs_cpi_historical,monthly
+2022-10-31,UCPI — inflation,24.56910675666819,% YoY,pbs_cpi_historical,monthly
+2022-11-30,UCPI — inflation,21.559633027522935,% YoY,pbs_cpi_historical,monthly
+2022-12-31,UCPI — inflation,21.59278546932555,% YoY,pbs_cpi_historical,monthly
+2023-01-31,UCPI — inflation,24.378014724549374,% YoY,pbs_cpi_historical,monthly
+2023-02-28,UCPI — inflation,28.824750047160933,% YoY,pbs_cpi_historical,monthly
+2023-03-31,UCPI — inflation,32.97307428000249,% YoY,pbs_cpi_historical,monthly
+2023-04-30,UCPI — inflation,33.49935436266372,% YoY,pbs_cpi_historical,monthly
+2023-05-31,UCPI — inflation,35.08857966039355,% YoY,pbs_cpi_historical,monthly
+2023-06-30,UCPI — inflation,27.33937539687122,% YoY,pbs_cpi_historical,monthly
+2023-07-31,UCPI — inflation,26.261398176291806,% YoY,pbs_cpi_historical,monthly
+2023-08-31,UCPI — inflation,24.98384665087228,% YoY,pbs_cpi_historical,monthly
+2023-09-30,UCPI — inflation,29.736118746564046,% YoY,pbs_cpi_historical,monthly
+2023-10-31,UCPI — inflation,25.478745791245785,% YoY,pbs_cpi_historical,monthly
+2023-11-30,UCPI — inflation,30.435010482180303,% YoY,pbs_cpi_historical,monthly
+2023-12-31,UCPI — inflation,30.93074271388278,% YoY,pbs_cpi_historical,monthly
+2024-01-31,UCPI — inflation,30.234219523396433,% YoY,pbs_cpi_historical,monthly
+2024-02-29,UCPI — inflation,24.869429394250005,% YoY,pbs_cpi_historical,monthly
+2024-03-31,UCPI — inflation,21.902748414376333,% YoY,pbs_cpi_historical,monthly
+2024-04-30,UCPI — inflation,19.404909953479816,% YoY,pbs_cpi_historical,monthly
+2024-05-31,UCPI — inflation,14.348595543858053,% YoY,pbs_cpi_historical,monthly
+2024-06-30,UCPI — inflation,14.89188086495308,% YoY,pbs_cpi_historical,monthly
+2024-07-31,UCPI — inflation,13.183350111612029,% YoY,pbs_cpi_historical,monthly
+2024-08-31,UCPI — inflation,11.70946062381526,% YoY,pbs_cpi_historical,monthly
+2024-09-30,UCPI — inflation,9.292766642654342,% YoY,pbs_cpi_historical,monthly
+2024-10-31,UCPI — inflation,9.278436962810787,% YoY,pbs_cpi_historical,monthly
+2024-11-30,UCPI — inflation,5.2437015309197506,% YoY,pbs_cpi_historical,monthly
+2024-12-31,UCPI — inflation,4.384075315142823,% YoY,pbs_cpi_historical,monthly
+2025-01-31,UCPI — inflation,2.7231408196849856,% YoY,pbs_cpi_historical,monthly
+2025-02-28,UCPI — inflation,1.8137753107653793,% YoY,pbs_cpi_historical,monthly
+2025-03-31,UCPI — inflation,1.1600570393494536,% YoY,pbs_cpi_historical,monthly
+2025-04-30,UCPI — inflation,0.5438975466748701,% YoY,pbs_cpi_historical,monthly
+2025-05-31,UCPI — inflation,3.512044128735255,% YoY,pbs_cpi_historical,monthly
+2025-06-30,UCPI — inflation,2.9987373737373986,% YoY,pbs_cpi_historical,monthly
+2025-07-31,UCPI — inflation,4.427858772574368,% YoY,pbs_cpi_historical,monthly
+2025-08-31,UCPI — inflation,3.378326263015822,% YoY,pbs_cpi_historical,monthly
+2025-09-30,UCPI — inflation,5.493951612903203,% YoY,pbs_cpi_historical,monthly
+2025-10-31,UCPI — inflation,6.000613873542051,% YoY,pbs_cpi_historical,monthly
+2025-11-30,UCPI — inflation,6.051466096518013,% YoY,pbs_cpi_historical,monthly
+2025-12-31,UCPI — inflation,5.7668055184010285,% YoY,pbs_cpi_historical,monthly
+2026-01-31,UCPI — inflation,5.813022084906748,% YoY,pbs_cpi_historical,monthly
+2026-02-28,UCPI — inflation,6.7918298395146905,% YoY,pbs_cpi_historical,monthly
+2026-03-31,UCPI — inflation,7.387229503200231,% YoY,pbs_cpi_historical,monthly
+2026-04-30,UCPI — inflation,11.11068482639557,% YoY,pbs_cpi_historical,monthly
+2026-05-31,UCPI — inflation,11.7850023002607,% YoY,pbs_cpi_historical,monthly
+2026-06-30,UCPI — inflation,11.170701808151989,% YoY,pbs_cpi_historical,monthly
+2019-09-30,WPI — inflation,15.896716713413639,% YoY,pbs_cpi_historical,monthly
+2019-10-31,WPI — inflation,13.26748320821811,% YoY,pbs_cpi_historical,monthly
+2019-11-30,WPI — inflation,11.191928671984968,% YoY,pbs_cpi_historical,monthly
+2019-12-31,WPI — inflation,12.366230677764563,% YoY,pbs_cpi_historical,monthly
+2020-01-31,WPI — inflation,15.361253196930932,% YoY,pbs_cpi_historical,monthly
+2020-02-29,WPI — inflation,12.677939441604408,% YoY,pbs_cpi_historical,monthly
+2020-03-31,WPI — inflation,9.255270041544847,% YoY,pbs_cpi_historical,monthly
+2020-04-30,WPI — inflation,4.917043740573163,% YoY,pbs_cpi_historical,monthly
+2020-05-31,WPI — inflation,1.4975413500223311,% YoY,pbs_cpi_historical,monthly
+2020-06-30,WPI — inflation,0.9290226681531095,% YoY,pbs_cpi_historical,monthly
+2020-07-31,WPI — inflation,3.2309245636809436,% YoY,pbs_cpi_historical,monthly
+2020-08-31,WPI — inflation,3.2552176080917548,% YoY,pbs_cpi_historical,monthly
+2020-09-30,WPI — inflation,4.263648658267471,% YoY,pbs_cpi_historical,monthly
+2020-10-31,WPI — inflation,5.134644900237191,% YoY,pbs_cpi_historical,monthly
+2020-11-30,WPI — inflation,5.001055074910326,% YoY,pbs_cpi_historical,monthly
+2020-12-31,WPI — inflation,5.671957671957671,% YoY,pbs_cpi_historical,monthly
+2021-01-31,WPI — inflation,6.366911459055018,% YoY,pbs_cpi_historical,monthly
+2021-02-28,WPI — inflation,9.513505967753204,% YoY,pbs_cpi_historical,monthly
+2021-03-31,WPI — inflation,14.590521794239848,% YoY,pbs_cpi_historical,monthly
+2021-04-30,WPI — inflation,16.554054054054063,% YoY,pbs_cpi_historical,monthly
+2021-05-31,WPI — inflation,19.38633193863319,% YoY,pbs_cpi_historical,monthly
+2021-06-30,WPI — inflation,20.854197349042707,% YoY,pbs_cpi_historical,monthly
+2021-07-31,WPI — inflation,17.26980578454662,% YoY,pbs_cpi_historical,monthly
+2021-08-31,WPI — inflation,17.149558498896226,% YoY,pbs_cpi_historical,monthly
+2021-09-30,WPI — inflation,19.60677225559803,% YoY,pbs_cpi_historical,monthly
+2021-10-31,WPI — inflation,21.181154611811564,% YoY,pbs_cpi_historical,monthly
+2021-11-30,WPI — inflation,26.969453376205777,% YoY,pbs_cpi_historical,monthly
+2021-12-31,WPI — inflation,26.236731423993604,% YoY,pbs_cpi_historical,monthly
+2022-01-31,WPI — inflation,23.956230052758414,% YoY,pbs_cpi_historical,monthly
+2022-02-28,WPI — inflation,23.613766730401522,% YoY,pbs_cpi_historical,monthly
+2022-03-31,WPI — inflation,23.78172432864254,% YoY,pbs_cpi_historical,monthly
+2022-04-30,WPI — inflation,28.14677767499228,% YoY,pbs_cpi_historical,monthly
+2022-05-31,WPI — inflation,29.60526315789474,% YoY,pbs_cpi_historical,monthly
+2022-06-30,WPI — inflation,38.94101876675603,% YoY,pbs_cpi_historical,monthly
+2022-07-31,WPI — inflation,38.54998212796377,% YoY,pbs_cpi_historical,monthly
+2022-08-31,WPI — inflation,41.24955835590626,% YoY,pbs_cpi_historical,monthly
+2022-09-30,WPI — inflation,38.86986301369865,% YoY,pbs_cpi_historical,monthly
+2022-10-31,WPI — inflation,32.59774394918409,% YoY,pbs_cpi_historical,monthly
+2022-11-30,WPI — inflation,27.725018465759206,% YoY,pbs_cpi_historical,monthly
+2022-12-31,WPI — inflation,27.1140726638109,% YoY,pbs_cpi_historical,monthly
+2023-01-31,WPI — inflation,28.53239451421365,% YoY,pbs_cpi_historical,monthly
+2023-02-28,WPI — inflation,36.44753802526424,% YoY,pbs_cpi_historical,monthly
+2023-03-31,WPI — inflation,37.52171970411558,% YoY,pbs_cpi_historical,monthly
+2023-04-30,WPI — inflation,33.432792723422665,% YoY,pbs_cpi_historical,monthly
+2023-05-31,WPI — inflation,32.79092936097538,% YoY,pbs_cpi_historical,monthly
+2023-06-30,WPI — inflation,22.444415208525186,% YoY,pbs_cpi_historical,monthly
+2023-07-31,WPI — inflation,23.072623296211916,% YoY,pbs_cpi_historical,monthly
+2023-08-31,WPI — inflation,24.288156084545804,% YoY,pbs_cpi_historical,monthly
+2023-09-30,WPI — inflation,26.39128647759965,% YoY,pbs_cpi_historical,monthly
+2023-10-31,WPI — inflation,24.61697295065042,% YoY,pbs_cpi_historical,monthly
+2023-11-30,WPI — inflation,26.440579949605535,% YoY,pbs_cpi_historical,monthly
+2023-12-31,WPI — inflation,27.329838575470134,% YoY,pbs_cpi_historical,monthly
+2024-01-31,WPI — inflation,26.95310903070194,% YoY,pbs_cpi_historical,monthly
+2024-02-29,WPI — inflation,18.659310761789598,% YoY,pbs_cpi_historical,monthly
+2024-03-31,WPI — inflation,14.779249846575922,% YoY,pbs_cpi_historical,monthly
+2024-04-30,WPI — inflation,13.878669840582859,% YoY,pbs_cpi_historical,monthly
+2024-05-31,WPI — inflation,9.928191204315652,% YoY,pbs_cpi_historical,monthly
+2024-06-30,WPI — inflation,10.615665628021944,% YoY,pbs_cpi_historical,monthly
+2024-07-31,WPI — inflation,10.358802361737048,% YoY,pbs_cpi_historical,monthly
+2024-08-31,WPI — inflation,6.275785731056914,% YoY,pbs_cpi_historical,monthly
+2024-09-30,WPI — inflation,1.947904133198918,% YoY,pbs_cpi_historical,monthly
+2024-10-31,WPI — inflation,3.8905090137858025,% YoY,pbs_cpi_historical,monthly
+2024-11-30,WPI — inflation,2.2901012740934306,% YoY,pbs_cpi_historical,monthly
+2024-12-31,WPI — inflation,1.9277895768665303,% YoY,pbs_cpi_historical,monthly
+2025-01-31,WPI — inflation,0.6343788239840222,% YoY,pbs_cpi_historical,monthly
+2025-02-28,WPI — inflation,-0.662378192471806,% YoY,pbs_cpi_historical,monthly
+2025-03-31,WPI — inflation,-1.6040257902185715,% YoY,pbs_cpi_historical,monthly
+2025-04-30,WPI — inflation,-2.198011021726728,% YoY,pbs_cpi_historical,monthly
+2025-05-31,WPI — inflation,0.3607409814754732,% YoY,pbs_cpi_historical,monthly
+2025-06-30,WPI — inflation,0.5763315525335884,% YoY,pbs_cpi_historical,monthly
+2025-07-31,WPI — inflation,-0.4906926681018149,% YoY,pbs_cpi_historical,monthly
+2025-08-31,WPI — inflation,-0.9973488195934834,% YoY,pbs_cpi_historical,monthly
+2025-09-30,WPI — inflation,0.5869218500797331,% YoY,pbs_cpi_historical,monthly
+2025-10-31,WPI — inflation,1.1036682615629871,% YoY,pbs_cpi_historical,monthly
+2025-11-30,WPI — inflation,1.0635240011497444,% YoY,pbs_cpi_historical,monthly
+2025-12-31,WPI — inflation,0.5673986215739717,% YoY,pbs_cpi_historical,monthly
+2026-01-31,WPI — inflation,0.20479344660971321,% YoY,pbs_cpi_historical,monthly
+2026-02-28,WPI — inflation,1.0482785150990566,% YoY,pbs_cpi_historical,monthly
+2026-03-31,WPI — inflation,6.690107080070291,% YoY,pbs_cpi_historical,monthly
+2026-04-30,WPI — inflation,13.571891191709824,% YoY,pbs_cpi_historical,monthly
+2026-05-31,WPI — inflation,12.713318869207598,% YoY,pbs_cpi_historical,monthly
+2026-06-30,WPI — inflation,10.6943952612433,% YoY,pbs_cpi_historical,monthly

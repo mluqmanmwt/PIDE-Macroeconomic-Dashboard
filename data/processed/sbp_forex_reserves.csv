@@ -1,0 +1,2239 @@
+date,series,value,unit,source_id,frequency
+2010-10-29 00:00:00,Reserves with SBP,12182.6,million USD,sbp_forex_reserves,weekly
+2011-05-07 00:00:00,Reserves with SBP,13589.9,million USD,sbp_forex_reserves,weekly
+2011-05-14 00:00:00,Reserves with SBP,13556.1,million USD,sbp_forex_reserves,weekly
+2011-05-21 00:00:00,Reserves with SBP,13669.3,million USD,sbp_forex_reserves,weekly
+2011-05-28 00:00:00,Reserves with SBP,13906.9,million USD,sbp_forex_reserves,weekly
+2011-06-04 00:00:00,Reserves with SBP,13726.6,million USD,sbp_forex_reserves,weekly
+2011-06-11 00:00:00,Reserves with SBP,14085.9,million USD,sbp_forex_reserves,weekly
+2011-06-18 00:00:00,Reserves with SBP,14107.4,million USD,sbp_forex_reserves,weekly
+2011-06-25 00:00:00,Reserves with SBP,14022.2,million USD,sbp_forex_reserves,weekly
+2011-07-02 00:00:00,Reserves with SBP,14786.5,million USD,sbp_forex_reserves,weekly
+2011-07-09 00:00:00,Reserves with SBP,14638.6,million USD,sbp_forex_reserves,weekly
+2011-07-16 00:00:00,Reserves with SBP,14711.4,million USD,sbp_forex_reserves,weekly
+2011-07-23 00:00:00,Reserves with SBP,14743.3,million USD,sbp_forex_reserves,weekly
+2011-08-06 00:00:00,Reserves with SBP,14465.3,million USD,sbp_forex_reserves,weekly
+2011-08-13 00:00:00,Reserves with SBP,14555.1,million USD,sbp_forex_reserves,weekly
+2011-08-20 00:00:00,Reserves with SBP,14499.6,million USD,sbp_forex_reserves,weekly
+2011-08-27 00:00:00,Reserves with SBP,14447.6,million USD,sbp_forex_reserves,weekly
+2011-09-03 00:00:00,Reserves with SBP,14602.9,million USD,sbp_forex_reserves,weekly
+2011-09-10 00:00:00,Reserves with SBP,14340.2,million USD,sbp_forex_reserves,weekly
+2011-09-17 00:00:00,Reserves with SBP,14123.1,million USD,sbp_forex_reserves,weekly
+2011-09-24 00:00:00,Reserves with SBP,13737.8,million USD,sbp_forex_reserves,weekly
+2011-10-01 00:00:00,Reserves with SBP,13636.9,million USD,sbp_forex_reserves,weekly
+2011-10-08 00:00:00,Reserves with SBP,13460.6,million USD,sbp_forex_reserves,weekly
+2011-10-14 00:00:00,Reserves with SBP,13462.1,million USD,sbp_forex_reserves,weekly
+2011-10-21 00:00:00,Reserves with SBP,13443.0,million USD,sbp_forex_reserves,weekly
+2011-10-28 00:00:00,Reserves with SBP,13409.3,million USD,sbp_forex_reserves,weekly
+2011-11-04 00:00:00,Reserves with SBP,13280.6,million USD,sbp_forex_reserves,weekly
+2011-11-11 00:00:00,Reserves with SBP,13269.3,million USD,sbp_forex_reserves,weekly
+2011-11-18 00:00:00,Reserves with SBP,13202.5,million USD,sbp_forex_reserves,weekly
+2011-11-25 00:00:00,Reserves with SBP,13122.4,million USD,sbp_forex_reserves,weekly
+2011-12-02 00:00:00,Reserves with SBP,12865.0,million USD,sbp_forex_reserves,weekly
+2011-12-09 00:00:00,Reserves with SBP,12807.9,million USD,sbp_forex_reserves,weekly
+2011-12-16 00:00:00,Reserves with SBP,12757.6,million USD,sbp_forex_reserves,weekly
+2011-12-23 00:00:00,Reserves with SBP,12806.9,million USD,sbp_forex_reserves,weekly
+2011-12-24 00:00:00,Reserves with SBP,13150.9,million USD,sbp_forex_reserves,weekly
+2012-01-06 00:00:00,Reserves with SBP,12821.1,million USD,sbp_forex_reserves,weekly
+2012-01-13 00:00:00,Reserves with SBP,12688.8,million USD,sbp_forex_reserves,weekly
+2012-01-20 00:00:00,Reserves with SBP,12553.4,million USD,sbp_forex_reserves,weekly
+2012-01-27 00:00:00,Reserves with SBP,12523.0,million USD,sbp_forex_reserves,weekly
+2012-02-03 00:00:00,Reserves with SBP,12324.1,million USD,sbp_forex_reserves,weekly
+2012-02-10 00:00:00,Reserves with SBP,12286.5,million USD,sbp_forex_reserves,weekly
+2012-02-17 00:00:00,Reserves with SBP,12212.2,million USD,sbp_forex_reserves,weekly
+2012-02-24 00:00:00,Reserves with SBP,12062.3,million USD,sbp_forex_reserves,weekly
+2012-03-02 00:00:00,Reserves with SBP,11897.6,million USD,sbp_forex_reserves,weekly
+2012-03-09 00:00:00,Reserves with SBP,11862.9,million USD,sbp_forex_reserves,weekly
+2012-03-16 00:00:00,Reserves with SBP,11671.2,million USD,sbp_forex_reserves,weekly
+2012-03-23 00:00:00,Reserves with SBP,11767.7,million USD,sbp_forex_reserves,weekly
+2012-04-06 00:00:00,Reserves with SBP,11865.4,million USD,sbp_forex_reserves,weekly
+2012-04-13 00:00:00,Reserves with SBP,11971.2,million USD,sbp_forex_reserves,weekly
+2012-04-20 00:00:00,Reserves with SBP,11916.6,million USD,sbp_forex_reserves,weekly
+2012-04-27 00:00:00,Reserves with SBP,12069.5,million USD,sbp_forex_reserves,weekly
+2012-05-04 00:00:00,Reserves with SBP,11978.0,million USD,sbp_forex_reserves,weekly
+2012-05-11 00:00:00,Reserves with SBP,11784.1,million USD,sbp_forex_reserves,weekly
+2012-05-18 00:00:00,Reserves with SBP,11935.8,million USD,sbp_forex_reserves,weekly
+2012-05-25 00:00:00,Reserves with SBP,11698.6,million USD,sbp_forex_reserves,weekly
+2012-06-01 00:00:00,Reserves with SBP,11243.7,million USD,sbp_forex_reserves,weekly
+2012-06-08 00:00:00,Reserves with SBP,11117.3,million USD,sbp_forex_reserves,weekly
+2012-06-15 00:00:00,Reserves with SBP,10680.7,million USD,sbp_forex_reserves,weekly
+2012-06-22 00:00:00,Reserves with SBP,10535.5,million USD,sbp_forex_reserves,weekly
+2012-07-06 00:00:00,Reserves with SBP,10496.2,million USD,sbp_forex_reserves,weekly
+2012-07-13 00:00:00,Reserves with SBP,10501.6,million USD,sbp_forex_reserves,weekly
+2012-07-20 00:00:00,Reserves with SBP,10354.4,million USD,sbp_forex_reserves,weekly
+2012-07-27 00:00:00,Reserves with SBP,10139.3,million USD,sbp_forex_reserves,weekly
+2012-08-03 00:00:00,Reserves with SBP,11088.8,million USD,sbp_forex_reserves,weekly
+2012-08-10 00:00:00,Reserves with SBP,10825.2,million USD,sbp_forex_reserves,weekly
+2012-08-17 00:00:00,Reserves with SBP,10740.7,million USD,sbp_forex_reserves,weekly
+2012-08-24 00:00:00,Reserves with SBP,10326.7,million USD,sbp_forex_reserves,weekly
+2012-09-07 00:00:00,Reserves with SBP,10432.3,million USD,sbp_forex_reserves,weekly
+2012-09-14 00:00:00,Reserves with SBP,10383.8,million USD,sbp_forex_reserves,weekly
+2012-09-21 00:00:00,Reserves with SBP,10321.8,million USD,sbp_forex_reserves,weekly
+2012-10-05 00:00:00,Reserves with SBP,9919.4,million USD,sbp_forex_reserves,weekly
+2012-10-12 00:00:00,Reserves with SBP,9814.2,million USD,sbp_forex_reserves,weekly
+2012-10-19 00:00:00,Reserves with SBP,9829.4,million USD,sbp_forex_reserves,weekly
+2012-10-26 00:00:00,Reserves with SBP,9806.1,million USD,sbp_forex_reserves,weekly
+2012-11-02 00:00:00,Reserves with SBP,9547.4,million USD,sbp_forex_reserves,weekly
+2012-11-09 00:00:00,Reserves with SBP,9242.6,million USD,sbp_forex_reserves,weekly
+2012-11-16 00:00:00,Reserves with SBP,9124.6,million USD,sbp_forex_reserves,weekly
+2012-11-23 00:00:00,Reserves with SBP,8860.3,million USD,sbp_forex_reserves,weekly
+2012-12-07 00:00:00,Reserves with SBP,8514.1,million USD,sbp_forex_reserves,weekly
+2012-12-14 00:00:00,Reserves with SBP,8587.1,million USD,sbp_forex_reserves,weekly
+2012-12-21 00:00:00,Reserves with SBP,8625.7,million USD,sbp_forex_reserves,weekly
+2012-12-28 00:00:00,Reserves with SBP,9009.4,million USD,sbp_forex_reserves,weekly
+2013-01-04 00:00:00,Reserves with SBP,8769.699999999999,million USD,sbp_forex_reserves,weekly
+2013-01-11 00:00:00,Reserves with SBP,8950.9,million USD,sbp_forex_reserves,weekly
+2013-01-18 00:00:00,Reserves with SBP,8809.0,million USD,sbp_forex_reserves,weekly
+2013-01-25 00:00:00,Reserves with SBP,8654.4,million USD,sbp_forex_reserves,weekly
+2013-02-01 00:00:00,Reserves with SBP,8586.6,million USD,sbp_forex_reserves,weekly
+2013-02-08 00:00:00,Reserves with SBP,8458.4,million USD,sbp_forex_reserves,weekly
+2013-02-15 00:00:00,Reserves with SBP,8141.2,million USD,sbp_forex_reserves,weekly
+2013-02-22 00:00:00,Reserves with SBP,8227.0,million USD,sbp_forex_reserves,weekly
+2013-03-01 00:00:00,Reserves with SBP,7860.9,million USD,sbp_forex_reserves,weekly
+2013-03-08 00:00:00,Reserves with SBP,7655.0,million USD,sbp_forex_reserves,weekly
+2013-03-15 00:00:00,Reserves with SBP,7450.5,million USD,sbp_forex_reserves,weekly
+2013-03-22 00:00:00,Reserves with SBP,7277.4,million USD,sbp_forex_reserves,weekly
+2013-04-05 00:00:00,Reserves with SBP,6697.4,million USD,sbp_forex_reserves,weekly
+2013-04-12 00:00:00,Reserves with SBP,6640.2,million USD,sbp_forex_reserves,weekly
+2013-04-19 00:00:00,Reserves with SBP,6817.0,million USD,sbp_forex_reserves,weekly
+2013-04-26 00:00:00,Reserves with SBP,6676.9,million USD,sbp_forex_reserves,weekly
+2013-05-03 00:00:00,Reserves with SBP,6772.4,million USD,sbp_forex_reserves,weekly
+2013-05-10 00:00:00,Reserves with SBP,6524.5,million USD,sbp_forex_reserves,weekly
+2013-05-17 00:00:00,Reserves with SBP,6382.9,million USD,sbp_forex_reserves,weekly
+2013-05-24 00:00:00,Reserves with SBP,6564.7,million USD,sbp_forex_reserves,weekly
+2013-06-07 00:00:00,Reserves with SBP,6286.9,million USD,sbp_forex_reserves,weekly
+2013-06-14 00:00:00,Reserves with SBP,6239.0,million USD,sbp_forex_reserves,weekly
+2013-06-21 00:00:00,Reserves with SBP,6256.5,million USD,sbp_forex_reserves,weekly
+2013-07-05 00:00:00,Reserves with SBP,5546.5,million USD,sbp_forex_reserves,weekly
+2013-07-12 00:00:00,Reserves with SBP,5521.1,million USD,sbp_forex_reserves,weekly
+2013-07-19 00:00:00,Reserves with SBP,5153.3,million USD,sbp_forex_reserves,weekly
+2013-07-26 00:00:00,Reserves with SBP,5170.8,million USD,sbp_forex_reserves,weekly
+2013-08-02 00:00:00,Reserves with SBP,5142.7,million USD,sbp_forex_reserves,weekly
+2013-08-07 00:00:00,Reserves with SBP,5228.5,million USD,sbp_forex_reserves,weekly
+2013-08-16 00:00:00,Reserves with SBP,5248.1,million USD,sbp_forex_reserves,weekly
+2013-08-23 00:00:00,Reserves with SBP,5203.6,million USD,sbp_forex_reserves,weekly
+2013-09-06 00:00:00,Reserves with SBP,5162.4,million USD,sbp_forex_reserves,weekly
+2013-09-13 00:00:00,Reserves with SBP,5118.3,million USD,sbp_forex_reserves,weekly
+2013-09-20 00:00:00,Reserves with SBP,4928.4,million USD,sbp_forex_reserves,weekly
+2013-09-27 00:00:00,Reserves with SBP,4602.1,million USD,sbp_forex_reserves,weekly
+2013-10-04 00:00:00,Reserves with SBP,3953.6,million USD,sbp_forex_reserves,weekly
+2013-10-11 00:00:00,Reserves with SBP,4075.4,million USD,sbp_forex_reserves,weekly
+2013-10-14 00:00:00,Reserves with SBP,4086.0,million USD,sbp_forex_reserves,weekly
+2013-10-25 00:00:00,Reserves with SBP,4299.4,million USD,sbp_forex_reserves,weekly
+2013-11-01 00:00:00,Reserves with SBP,4224.5,million USD,sbp_forex_reserves,weekly
+2013-11-08 00:00:00,Reserves with SBP,3845.4,million USD,sbp_forex_reserves,weekly
+2013-11-13 00:00:00,Reserves with SBP,3645.8,million USD,sbp_forex_reserves,weekly
+2013-11-22 00:00:00,Reserves with SBP,3463.7,million USD,sbp_forex_reserves,weekly
+2013-12-06 00:00:00,Reserves with SBP,2963.1,million USD,sbp_forex_reserves,weekly
+2013-12-13 00:00:00,Reserves with SBP,3467.8,million USD,sbp_forex_reserves,weekly
+2013-12-20 00:00:00,Reserves with SBP,3192.9,million USD,sbp_forex_reserves,weekly
+2013-12-27 00:00:00,Reserves with SBP,3657.3,million USD,sbp_forex_reserves,weekly
+2014-01-03 00:00:00,Reserves with SBP,3245.0,million USD,sbp_forex_reserves,weekly
+2014-01-10 00:00:00,Reserves with SBP,3467.2,million USD,sbp_forex_reserves,weekly
+2014-01-17 00:00:00,Reserves with SBP,3322.3,million USD,sbp_forex_reserves,weekly
+2014-01-24 00:00:00,Reserves with SBP,3176.6,million USD,sbp_forex_reserves,weekly
+2014-02-07 00:00:00,Reserves with SBP,2841.3,million USD,sbp_forex_reserves,weekly
+2014-02-14 00:00:00,Reserves with SBP,3196.7,million USD,sbp_forex_reserves,weekly
+2014-02-21 00:00:00,Reserves with SBP,3870.8,million USD,sbp_forex_reserves,weekly
+2014-03-07 00:00:00,Reserves with SBP,4622.6,million USD,sbp_forex_reserves,weekly
+2014-03-14 00:00:00,Reserves with SBP,4808.5,million USD,sbp_forex_reserves,weekly
+2014-03-21 00:00:00,Reserves with SBP,4426.4,million USD,sbp_forex_reserves,weekly
+2014-03-28 00:00:00,Reserves with SBP,5171.6,million USD,sbp_forex_reserves,weekly
+2014-04-04 00:00:00,Reserves with SBP,4943.2,million USD,sbp_forex_reserves,weekly
+2014-04-11 00:00:00,Reserves with SBP,4983.9,million USD,sbp_forex_reserves,weekly
+2014-04-18 00:00:00,Reserves with SBP,7010.0,million USD,sbp_forex_reserves,weekly
+2014-04-25 00:00:00,Reserves with SBP,7041.5,million USD,sbp_forex_reserves,weekly
+2014-05-02 00:00:00,Reserves with SBP,7240.2,million USD,sbp_forex_reserves,weekly
+2014-05-09 00:00:00,Reserves with SBP,8019.8,million USD,sbp_forex_reserves,weekly
+2014-05-16 00:00:00,Reserves with SBP,8320.3,million USD,sbp_forex_reserves,weekly
+2014-05-23 00:00:00,Reserves with SBP,8649.5,million USD,sbp_forex_reserves,weekly
+2014-06-06 00:00:00,Reserves with SBP,8612.9,million USD,sbp_forex_reserves,weekly
+2014-06-13 00:00:00,Reserves with SBP,8669.3,million USD,sbp_forex_reserves,weekly
+2014-06-20 00:00:00,Reserves with SBP,9189.5,million USD,sbp_forex_reserves,weekly
+2014-06-27 00:00:00,Reserves with SBP,9033.2,million USD,sbp_forex_reserves,weekly
+2014-07-04 00:00:00,Reserves with SBP,9602.3,million USD,sbp_forex_reserves,weekly
+2014-07-11 00:00:00,Reserves with SBP,9485.8,million USD,sbp_forex_reserves,weekly
+2014-07-18 00:00:00,Reserves with SBP,9398.8,million USD,sbp_forex_reserves,weekly
+2014-07-25 00:00:00,Reserves with SBP,9275.7,million USD,sbp_forex_reserves,weekly
+2014-08-01 00:00:00,Reserves with SBP,9277.0,million USD,sbp_forex_reserves,weekly
+2014-08-08 00:00:00,Reserves with SBP,9188.0,million USD,sbp_forex_reserves,weekly
+2014-08-15 00:00:00,Reserves with SBP,8902.7,million USD,sbp_forex_reserves,weekly
+2014-08-22 00:00:00,Reserves with SBP,8554.4,million USD,sbp_forex_reserves,weekly
+2014-09-05 00:00:00,Reserves with SBP,8693.4,million USD,sbp_forex_reserves,weekly
+2014-09-12 00:00:00,Reserves with SBP,8795.5,million USD,sbp_forex_reserves,weekly
+2014-09-19 00:00:00,Reserves with SBP,8627.7,million USD,sbp_forex_reserves,weekly
+2014-09-26 00:00:00,Reserves with SBP,8609.8,million USD,sbp_forex_reserves,weekly
+2014-10-03 00:00:00,Reserves with SBP,8857.2,million USD,sbp_forex_reserves,weekly
+2014-10-10 00:00:00,Reserves with SBP,8882.1,million USD,sbp_forex_reserves,weekly
+2014-10-17 00:00:00,Reserves with SBP,8787.3,million USD,sbp_forex_reserves,weekly
+2014-10-24 00:00:00,Reserves with SBP,8568.3,million USD,sbp_forex_reserves,weekly
+2014-11-07 00:00:00,Reserves with SBP,8487.4,million USD,sbp_forex_reserves,weekly
+2014-11-14 00:00:00,Reserves with SBP,8493.7,million USD,sbp_forex_reserves,weekly
+2014-11-21 00:00:00,Reserves with SBP,8506.4,million USD,sbp_forex_reserves,weekly
+2014-12-05 00:00:00,Reserves with SBP,9203.1,million USD,sbp_forex_reserves,weekly
+2014-12-12 00:00:00,Reserves with SBP,9346.5,million USD,sbp_forex_reserves,weekly
+2014-12-19 00:00:00,Reserves with SBP,10364.6,million USD,sbp_forex_reserves,weekly
+2014-12-26 00:00:00,Reserves with SBP,10304.9,million USD,sbp_forex_reserves,weekly
+2015-01-02 00:00:00,Reserves with SBP,10475.8,million USD,sbp_forex_reserves,weekly
+2015-01-09 00:00:00,Reserves with SBP,10365.1,million USD,sbp_forex_reserves,weekly
+2015-01-16 00:00:00,Reserves with SBP,10330.5,million USD,sbp_forex_reserves,weekly
+2015-01-23 00:00:00,Reserves with SBP,10248.7,million USD,sbp_forex_reserves,weekly
+2015-02-06 00:00:00,Reserves with SBP,10416.6,million USD,sbp_forex_reserves,weekly
+2015-02-13 00:00:00,Reserves with SBP,11194.2,million USD,sbp_forex_reserves,weekly
+2015-02-20 00:00:00,Reserves with SBP,11074.9,million USD,sbp_forex_reserves,weekly
+2015-03-06 00:00:00,Reserves with SBP,11271.9,million USD,sbp_forex_reserves,weekly
+2015-03-13 00:00:00,Reserves with SBP,11226.1,million USD,sbp_forex_reserves,weekly
+2015-03-20 00:00:00,Reserves with SBP,11067.3,million USD,sbp_forex_reserves,weekly
+2015-03-27 00:00:00,Reserves with SBP,11123.3,million USD,sbp_forex_reserves,weekly
+2015-04-03 00:00:00,Reserves with SBP,11616.5,million USD,sbp_forex_reserves,weekly
+2015-04-10 00:00:00,Reserves with SBP,11758.7,million USD,sbp_forex_reserves,weekly
+2015-04-17 00:00:00,Reserves with SBP,12364.0,million USD,sbp_forex_reserves,weekly
+2015-04-24 00:00:00,Reserves with SBP,12565.1,million USD,sbp_forex_reserves,weekly
+2015-05-01 00:00:00,Reserves with SBP,12517.3,million USD,sbp_forex_reserves,weekly
+2015-05-08 00:00:00,Reserves with SBP,12549.9,million USD,sbp_forex_reserves,weekly
+2015-05-15 00:00:00,Reserves with SBP,12511.7,million USD,sbp_forex_reserves,weekly
+2015-05-22 00:00:00,Reserves with SBP,12284.4,million USD,sbp_forex_reserves,weekly
+2015-06-05 00:00:00,Reserves with SBP,12312.7,million USD,sbp_forex_reserves,weekly
+2015-06-12 00:00:00,Reserves with SBP,12284.3,million USD,sbp_forex_reserves,weekly
+2015-06-19 00:00:00,Reserves with SBP,12315.6,million USD,sbp_forex_reserves,weekly
+2015-06-26 00:00:00,Reserves with SBP,13088.2,million USD,sbp_forex_reserves,weekly
+2015-07-03 00:00:00,Reserves with SBP,13535.2,million USD,sbp_forex_reserves,weekly
+2015-07-10 00:00:00,Reserves with SBP,13469.4,million USD,sbp_forex_reserves,weekly
+2015-07-17 00:00:00,Reserves with SBP,13543.0,million USD,sbp_forex_reserves,weekly
+2015-07-24 00:00:00,Reserves with SBP,13385.8,million USD,sbp_forex_reserves,weekly
+2015-08-07 00:00:00,Reserves with SBP,13627.8,million USD,sbp_forex_reserves,weekly
+2015-08-14 00:00:00,Reserves with SBP,13615.2,million USD,sbp_forex_reserves,weekly
+2015-08-21 00:00:00,Reserves with SBP,13458.4,million USD,sbp_forex_reserves,weekly
+2015-08-28 00:00:00,Reserves with SBP,13460.5,million USD,sbp_forex_reserves,weekly
+2015-09-04 00:00:00,Reserves with SBP,13555.7,million USD,sbp_forex_reserves,weekly
+2015-09-11 00:00:00,Reserves with SBP,13689.5,million USD,sbp_forex_reserves,weekly
+2015-09-18 00:00:00,Reserves with SBP,13496.2,million USD,sbp_forex_reserves,weekly
+2015-09-25 00:00:00,Reserves with SBP,13408.2,million USD,sbp_forex_reserves,weekly
+2015-10-02 00:00:00,Reserves with SBP,15202.0,million USD,sbp_forex_reserves,weekly
+2015-10-09 00:00:00,Reserves with SBP,15103.6,million USD,sbp_forex_reserves,weekly
+2015-10-16 00:00:00,Reserves with SBP,15019.7,million USD,sbp_forex_reserves,weekly
+2015-10-23 00:00:00,Reserves with SBP,14918.3,million USD,sbp_forex_reserves,weekly
+2015-11-06 00:00:00,Reserves with SBP,14704.2,million USD,sbp_forex_reserves,weekly
+2015-11-13 00:00:00,Reserves with SBP,14588.7,million USD,sbp_forex_reserves,weekly
+2015-11-20 00:00:00,Reserves with SBP,14676.6,million USD,sbp_forex_reserves,weekly
+2015-11-27 00:00:00,Reserves with SBP,14787.3,million USD,sbp_forex_reserves,weekly
+2015-12-04 00:00:00,Reserves with SBP,15441.4,million USD,sbp_forex_reserves,weekly
+2015-12-11 00:00:00,Reserves with SBP,15719.3,million USD,sbp_forex_reserves,weekly
+2015-12-18 00:00:00,Reserves with SBP,15612.8,million USD,sbp_forex_reserves,weekly
+2015-12-25 00:00:00,Reserves with SBP,16171.6,million USD,sbp_forex_reserves,weekly
+2016-01-01 00:00:00,Reserves with SBP,15883.4,million USD,sbp_forex_reserves,weekly
+2016-01-08 00:00:00,Reserves with SBP,15824.0,million USD,sbp_forex_reserves,weekly
+2016-01-15 00:00:00,Reserves with SBP,15752.3,million USD,sbp_forex_reserves,weekly
+2016-01-22 00:00:00,Reserves with SBP,15646.8,million USD,sbp_forex_reserves,weekly
+2016-02-05 00:00:00,Reserves with SBP,15341.0,million USD,sbp_forex_reserves,weekly
+2016-02-12 00:00:00,Reserves with SBP,15514.8,million USD,sbp_forex_reserves,weekly
+2016-02-19 00:00:00,Reserves with SBP,15478.9,million USD,sbp_forex_reserves,weekly
+2016-02-26 00:00:00,Reserves with SBP,15506.5,million USD,sbp_forex_reserves,weekly
+2016-03-04 00:00:00,Reserves with SBP,15663.7,million USD,sbp_forex_reserves,weekly
+2016-03-11 00:00:00,Reserves with SBP,15859.0,million USD,sbp_forex_reserves,weekly
+2016-03-18 00:00:00,Reserves with SBP,15630.4,million USD,sbp_forex_reserves,weekly
+2016-03-25 00:00:00,Reserves with SBP,15588.0,million USD,sbp_forex_reserves,weekly
+2016-04-01 00:00:00,Reserves with SBP,16078.1,million USD,sbp_forex_reserves,weekly
+2016-04-08 00:00:00,Reserves with SBP,16040.8,million USD,sbp_forex_reserves,weekly
+2016-04-15 00:00:00,Reserves with SBP,16027.2,million USD,sbp_forex_reserves,weekly
+2016-04-22 00:00:00,Reserves with SBP,15988.8,million USD,sbp_forex_reserves,weekly
+2016-05-06 00:00:00,Reserves with SBP,16032.7,million USD,sbp_forex_reserves,weekly
+2016-05-13 00:00:00,Reserves with SBP,16517.5,million USD,sbp_forex_reserves,weekly
+2016-05-20 00:00:00,Reserves with SBP,16810.4,million USD,sbp_forex_reserves,weekly
+2016-05-27 00:00:00,Reserves with SBP,16807.2,million USD,sbp_forex_reserves,weekly
+2016-06-03 00:00:00,Reserves with SBP,16462.6,million USD,sbp_forex_reserves,weekly
+2016-06-10 00:00:00,Reserves with SBP,16546.2,million USD,sbp_forex_reserves,weekly
+2016-06-17 00:00:00,Reserves with SBP,16815.5,million USD,sbp_forex_reserves,weekly
+2016-06-24 00:00:00,Reserves with SBP,16819.6,million USD,sbp_forex_reserves,weekly
+2016-07-01 00:00:00,Reserves with SBP,18128.9,million USD,sbp_forex_reserves,weekly
+2016-07-08 00:00:00,Reserves with SBP,18104.4,million USD,sbp_forex_reserves,weekly
+2016-07-15 00:00:00,Reserves with SBP,18077.4,million USD,sbp_forex_reserves,weekly
+2016-07-22 00:00:00,Reserves with SBP,18036.9,million USD,sbp_forex_reserves,weekly
+2016-08-05 00:00:00,Reserves with SBP,17664.2,million USD,sbp_forex_reserves,weekly
+2016-08-12 00:00:00,Reserves with SBP,17719.6,million USD,sbp_forex_reserves,weekly
+2016-08-19 00:00:00,Reserves with SBP,18186.8,million USD,sbp_forex_reserves,weekly
+2016-08-26 00:00:00,Reserves with SBP,18128.8,million USD,sbp_forex_reserves,weekly
+2016-09-02 00:00:00,Reserves with SBP,18065.3,million USD,sbp_forex_reserves,weekly
+2016-09-09 00:00:00,Reserves with SBP,17853.7,million USD,sbp_forex_reserves,weekly
+2016-09-16 00:00:00,Reserves with SBP,17657.2,million USD,sbp_forex_reserves,weekly
+2016-09-23 00:00:00,Reserves with SBP,18395.1,million USD,sbp_forex_reserves,weekly
+2016-10-07 00:00:00,Reserves with SBP,18410.2,million USD,sbp_forex_reserves,weekly
+2016-10-14 00:00:00,Reserves with SBP,19461.7,million USD,sbp_forex_reserves,weekly
+2016-10-21 00:00:00,Reserves with SBP,19320.8,million USD,sbp_forex_reserves,weekly
+2016-10-28 00:00:00,Reserves with SBP,19130.5,million USD,sbp_forex_reserves,weekly
+2016-11-04 00:00:00,Reserves with SBP,19075.9,million USD,sbp_forex_reserves,weekly
+2016-11-11 00:00:00,Reserves with SBP,19027.1,million USD,sbp_forex_reserves,weekly
+2016-11-18 00:00:00,Reserves with SBP,18846.9,million USD,sbp_forex_reserves,weekly
+2016-11-25 00:00:00,Reserves with SBP,18574.8,million USD,sbp_forex_reserves,weekly
+2016-12-02 00:00:00,Reserves with SBP,18353.2,million USD,sbp_forex_reserves,weekly
+2016-12-09 00:00:00,Reserves with SBP,18323.2,million USD,sbp_forex_reserves,weekly
+2016-12-16 00:00:00,Reserves with SBP,18190.4,million USD,sbp_forex_reserves,weekly
+2016-12-23 00:00:00,Reserves with SBP,18299.4,million USD,sbp_forex_reserves,weekly
+2017-01-06 00:00:00,Reserves with SBP,18309.7,million USD,sbp_forex_reserves,weekly
+2017-01-13 00:00:00,Reserves with SBP,18361.0,million USD,sbp_forex_reserves,weekly
+2017-01-20 00:00:00,Reserves with SBP,18383.5,million USD,sbp_forex_reserves,weekly
+2017-01-27 00:00:00,Reserves with SBP,17593.8,million USD,sbp_forex_reserves,weekly
+2017-02-03 00:00:00,Reserves with SBP,17217.8,million USD,sbp_forex_reserves,weekly
+2017-02-10 00:00:00,Reserves with SBP,16993.4,million USD,sbp_forex_reserves,weekly
+2017-02-17 00:00:00,Reserves with SBP,17027.8,million USD,sbp_forex_reserves,weekly
+2017-02-24 00:00:00,Reserves with SBP,16850.8,million USD,sbp_forex_reserves,weekly
+2017-03-03 00:00:00,Reserves with SBP,17139.7,million USD,sbp_forex_reserves,weekly
+2017-03-10 00:00:00,Reserves with SBP,17238.3,million USD,sbp_forex_reserves,weekly
+2017-03-17 00:00:00,Reserves with SBP,16960.5,million USD,sbp_forex_reserves,weekly
+2017-03-24 00:00:00,Reserves with SBP,16730.3,million USD,sbp_forex_reserves,weekly
+2017-04-07 00:00:00,Reserves with SBP,16688.2,million USD,sbp_forex_reserves,weekly
+2017-04-14 00:00:00,Reserves with SBP,16416.1,million USD,sbp_forex_reserves,weekly
+2017-04-21 00:00:00,Reserves with SBP,16050.1,million USD,sbp_forex_reserves,weekly
+2017-05-05 00:00:00,Reserves with SBP,15912.5,million USD,sbp_forex_reserves,weekly
+2017-05-12 00:00:00,Reserves with SBP,15895.9,million USD,sbp_forex_reserves,weekly
+2017-05-19 00:00:00,Reserves with SBP,16212.6,million USD,sbp_forex_reserves,weekly
+2017-05-26 00:00:00,Reserves with SBP,16921.9,million USD,sbp_forex_reserves,weekly
+2017-06-02 00:00:00,Reserves with SBP,15706.6,million USD,sbp_forex_reserves,weekly
+2017-06-09 00:00:00,Reserves with SBP,15296.3,million USD,sbp_forex_reserves,weekly
+2017-06-16 00:00:00,Reserves with SBP,15420.8,million USD,sbp_forex_reserves,weekly
+2017-06-23 00:00:00,Reserves with SBP,16376.0,million USD,sbp_forex_reserves,weekly
+2017-07-07 00:00:00,Reserves with SBP,16197.3,million USD,sbp_forex_reserves,weekly
+2017-07-14 00:00:00,Reserves with SBP,15478.5,million USD,sbp_forex_reserves,weekly
+2017-07-21 00:00:00,Reserves with SBP,15003.1,million USD,sbp_forex_reserves,weekly
+2017-07-28 00:00:00,Reserves with SBP,14698.2,million USD,sbp_forex_reserves,weekly
+2017-08-04 00:00:00,Reserves with SBP,14398.8,million USD,sbp_forex_reserves,weekly
+2017-08-11 00:00:00,Reserves with SBP,14310.5,million USD,sbp_forex_reserves,weekly
+2017-08-18 00:00:00,Reserves with SBP,14375.1,million USD,sbp_forex_reserves,weekly
+2017-08-25 00:00:00,Reserves with SBP,14343.4,million USD,sbp_forex_reserves,weekly
+2017-09-08 00:00:00,Reserves with SBP,14758.4,million USD,sbp_forex_reserves,weekly
+2017-09-15 00:00:00,Reserves with SBP,14283.6,million USD,sbp_forex_reserves,weekly
+2017-09-22 00:00:00,Reserves with SBP,14132.7,million USD,sbp_forex_reserves,weekly
+2017-10-06 00:00:00,Reserves with SBP,13787.9,million USD,sbp_forex_reserves,weekly
+2017-10-13 00:00:00,Reserves with SBP,14157.6,million USD,sbp_forex_reserves,weekly
+2017-10-20 00:00:00,Reserves with SBP,13941.6,million USD,sbp_forex_reserves,weekly
+2017-10-27 00:00:00,Reserves with SBP,13846.7,million USD,sbp_forex_reserves,weekly
+2017-11-03 00:00:00,Reserves with SBP,13861.2,million USD,sbp_forex_reserves,weekly
+2017-11-10 00:00:00,Reserves with SBP,13677.6,million USD,sbp_forex_reserves,weekly
+2017-11-17 00:00:00,Reserves with SBP,13541.1,million USD,sbp_forex_reserves,weekly
+2017-11-24 00:00:00,Reserves with SBP,13547.3,million USD,sbp_forex_reserves,weekly
+2017-12-08 00:00:00,Reserves with SBP,14666.3,million USD,sbp_forex_reserves,weekly
+2017-12-15 00:00:00,Reserves with SBP,14332.2,million USD,sbp_forex_reserves,weekly
+2017-12-22 00:00:00,Reserves with SBP,14133.3,million USD,sbp_forex_reserves,weekly
+2018-01-05 00:00:00,Reserves with SBP,13982.5,million USD,sbp_forex_reserves,weekly
+2018-01-12 00:00:00,Reserves with SBP,13699.0,million USD,sbp_forex_reserves,weekly
+2018-01-19 00:00:00,Reserves with SBP,13532.8,million USD,sbp_forex_reserves,weekly
+2018-01-26 00:00:00,Reserves with SBP,13234.0,million USD,sbp_forex_reserves,weekly
+2018-02-02 00:00:00,Reserves with SBP,13060.6,million USD,sbp_forex_reserves,weekly
+2018-02-09 00:00:00,Reserves with SBP,12833.9,million USD,sbp_forex_reserves,weekly
+2018-02-16 00:00:00,Reserves with SBP,12703.7,million USD,sbp_forex_reserves,weekly
+2018-02-23 00:00:00,Reserves with SBP,12345.6,million USD,sbp_forex_reserves,weekly
+2018-03-02 00:00:00,Reserves with SBP,12233.2,million USD,sbp_forex_reserves,weekly
+2018-03-09 00:00:00,Reserves with SBP,12125.7,million USD,sbp_forex_reserves,weekly
+2018-03-16 00:00:00,Reserves with SBP,11944.0,million USD,sbp_forex_reserves,weekly
+2018-03-30 00:00:00,Reserves with SBP,11602.3,million USD,sbp_forex_reserves,weekly
+2018-04-06 00:00:00,Reserves with SBP,11438.3,million USD,sbp_forex_reserves,weekly
+2018-04-13 00:00:00,Reserves with SBP,11379.6,million USD,sbp_forex_reserves,weekly
+2018-04-20 00:00:00,Reserves with SBP,10917.0,million USD,sbp_forex_reserves,weekly
+2018-04-27 00:00:00,Reserves with SBP,11510.3,million USD,sbp_forex_reserves,weekly
+2018-05-04 00:00:00,Reserves with SBP,11162.7,million USD,sbp_forex_reserves,weekly
+2018-05-11 00:00:00,Reserves with SBP,10798.9,million USD,sbp_forex_reserves,weekly
+2018-05-18 00:00:00,Reserves with SBP,10320.2,million USD,sbp_forex_reserves,weekly
+2018-05-25 00:00:00,Reserves with SBP,10033.8,million USD,sbp_forex_reserves,weekly
+2018-06-01 00:00:00,Reserves with SBP,10041.6,million USD,sbp_forex_reserves,weekly
+2018-06-08 00:00:00,Reserves with SBP,10065.6,million USD,sbp_forex_reserves,weekly
+2018-06-22 00:00:00,Reserves with SBP,9662.5,million USD,sbp_forex_reserves,weekly
+2018-07-06 00:00:00,Reserves with SBP,9479.5,million USD,sbp_forex_reserves,weekly
+2018-07-13 00:00:00,Reserves with SBP,9063.6,million USD,sbp_forex_reserves,weekly
+2018-07-20 00:00:00,Reserves with SBP,9010.7,million USD,sbp_forex_reserves,weekly
+2018-07-27 00:00:00,Reserves with SBP,10349.7,million USD,sbp_forex_reserves,weekly
+2018-08-03 00:00:00,Reserves with SBP,10369.1,million USD,sbp_forex_reserves,weekly
+2018-08-10 00:00:00,Reserves with SBP,10152.6,million USD,sbp_forex_reserves,weekly
+2018-08-17 00:00:00,Reserves with SBP,10234.8,million USD,sbp_forex_reserves,weekly
+2018-08-24 00:00:00,Reserves with SBP,10226.7,million USD,sbp_forex_reserves,weekly
+2018-09-07 00:00:00,Reserves with SBP,9624.4,million USD,sbp_forex_reserves,weekly
+2018-09-14 00:00:00,Reserves with SBP,9328.8,million USD,sbp_forex_reserves,weekly
+2018-10-05 00:00:00,Reserves with SBP,8307.8,million USD,sbp_forex_reserves,weekly
+2018-10-12 00:00:00,Reserves with SBP,8088.9,million USD,sbp_forex_reserves,weekly
+2018-10-19 00:00:00,Reserves with SBP,7825.0,million USD,sbp_forex_reserves,weekly
+2018-10-26 00:00:00,Reserves with SBP,7776.9,million USD,sbp_forex_reserves,weekly
+2018-11-02 00:00:00,Reserves with SBP,7678.9,million USD,sbp_forex_reserves,weekly
+2018-11-09 00:00:00,Reserves with SBP,7482.9,million USD,sbp_forex_reserves,weekly
+2018-11-16 00:00:00,Reserves with SBP,7286.5,million USD,sbp_forex_reserves,weekly
+2018-11-23 00:00:00,Reserves with SBP,8062.4,million USD,sbp_forex_reserves,weekly
+2018-11-30 00:00:00,Reserves with SBP,7502.1,million USD,sbp_forex_reserves,weekly
+2018-12-07 00:00:00,Reserves with SBP,7260.4,million USD,sbp_forex_reserves,weekly
+2018-12-14 00:00:00,Reserves with SBP,8048.4,million USD,sbp_forex_reserves,weekly
+2018-12-21 00:00:00,Reserves with SBP,7457.3,million USD,sbp_forex_reserves,weekly
+2018-12-28 00:00:00,Reserves with SBP,7287.5,million USD,sbp_forex_reserves,weekly
+2019-01-04 00:00:00,Reserves with SBP,7048.7,million USD,sbp_forex_reserves,weekly
+2019-01-11 00:00:00,Reserves with SBP,6901.2,million USD,sbp_forex_reserves,weekly
+2019-01-18 00:00:00,Reserves with SBP,6636.1,million USD,sbp_forex_reserves,weekly
+2019-01-25 00:00:00,Reserves with SBP,8154.3,million USD,sbp_forex_reserves,weekly
+2019-02-01 00:00:00,Reserves with SBP,8192.5,million USD,sbp_forex_reserves,weekly
+2019-02-08 00:00:00,Reserves with SBP,8205.9,million USD,sbp_forex_reserves,weekly
+2019-02-15 00:00:00,Reserves with SBP,8043.0,million USD,sbp_forex_reserves,weekly
+2019-02-22 00:00:00,Reserves with SBP,8036.8,million USD,sbp_forex_reserves,weekly
+2019-03-01 00:00:00,Reserves with SBP,8116.5,million USD,sbp_forex_reserves,weekly
+2019-03-08 00:00:00,Reserves with SBP,8122.9,million USD,sbp_forex_reserves,weekly
+2019-03-15 00:00:00,Reserves with SBP,8838.7,million USD,sbp_forex_reserves,weekly
+2019-03-22 00:00:00,Reserves with SBP,8560.9,million USD,sbp_forex_reserves,weekly
+2019-04-05 00:00:00,Reserves with SBP,10271.9,million USD,sbp_forex_reserves,weekly
+2019-04-12 00:00:00,Reserves with SBP,9243.7,million USD,sbp_forex_reserves,weekly
+2019-04-19 00:00:00,Reserves with SBP,9024.3,million USD,sbp_forex_reserves,weekly
+2019-04-26 00:00:00,Reserves with SBP,8805.2,million USD,sbp_forex_reserves,weekly
+2019-05-03 00:00:00,Reserves with SBP,8984.1,million USD,sbp_forex_reserves,weekly
+2019-05-10 00:00:00,Reserves with SBP,8845.6,million USD,sbp_forex_reserves,weekly
+2019-05-17 00:00:00,Reserves with SBP,8057.599999999999,million USD,sbp_forex_reserves,weekly
+2019-05-24 00:00:00,Reserves with SBP,8010.2,million USD,sbp_forex_reserves,weekly
+2019-06-14 00:00:00,Reserves with SBP,7604.5,million USD,sbp_forex_reserves,weekly
+2019-06-21 00:00:00,Reserves with SBP,7282.1,million USD,sbp_forex_reserves,weekly
+2019-07-05 00:00:00,Reserves with SBP,7083.6,million USD,sbp_forex_reserves,weekly
+2019-07-12 00:00:00,Reserves with SBP,8001.3,million USD,sbp_forex_reserves,weekly
+2019-07-19 00:00:00,Reserves with SBP,7611.9,million USD,sbp_forex_reserves,weekly
+2019-07-26 00:00:00,Reserves with SBP,7767.0,million USD,sbp_forex_reserves,weekly
+2019-08-02 00:00:00,Reserves with SBP,7729.1,million USD,sbp_forex_reserves,weekly
+2019-08-09 00:00:00,Reserves with SBP,8264.4,million USD,sbp_forex_reserves,weekly
+2019-08-17 00:00:00,Reserves with SBP,8238.7,million USD,sbp_forex_reserves,weekly
+2019-08-23 00:00:00,Reserves with SBP,8271.1,million USD,sbp_forex_reserves,weekly
+2019-09-06 00:00:00,Reserves with SBP,8462.3,million USD,sbp_forex_reserves,weekly
+2019-09-13 00:00:00,Reserves with SBP,8600.4,million USD,sbp_forex_reserves,weekly
+2019-09-20 00:00:00,Reserves with SBP,8465.3,million USD,sbp_forex_reserves,weekly
+2019-09-27 00:00:00,Reserves with SBP,7741.6,million USD,sbp_forex_reserves,weekly
+2019-10-04 00:00:00,Reserves with SBP,7757.6,million USD,sbp_forex_reserves,weekly
+2019-10-11 00:00:00,Reserves with SBP,7813.7,million USD,sbp_forex_reserves,weekly
+2019-10-18 00:00:00,Reserves with SBP,7892.7,million USD,sbp_forex_reserves,weekly
+2019-10-25 00:00:00,Reserves with SBP,7914.3,million USD,sbp_forex_reserves,weekly
+2019-11-01 00:00:00,Reserves with SBP,8357.6,million USD,sbp_forex_reserves,weekly
+2019-11-08 00:00:00,Reserves with SBP,8397.3,million USD,sbp_forex_reserves,weekly
+2019-11-15 00:00:00,Reserves with SBP,8442.1,million USD,sbp_forex_reserves,weekly
+2019-11-22 00:00:00,Reserves with SBP,8682.3,million USD,sbp_forex_reserves,weekly
+2019-11-29 00:00:00,Reserves with SBP,9112.4,million USD,sbp_forex_reserves,weekly
+2019-12-06 00:00:00,Reserves with SBP,9233.6,million USD,sbp_forex_reserves,weekly
+2019-12-13 00:00:00,Reserves with SBP,10892.9,million USD,sbp_forex_reserves,weekly
+2019-12-20 00:00:00,Reserves with SBP,10907.3,million USD,sbp_forex_reserves,weekly
+2019-12-27 00:00:00,Reserves with SBP,11489.400000000001,million USD,sbp_forex_reserves,weekly
+2020-01-03 00:00:00,Reserves with SBP,11503.7,million USD,sbp_forex_reserves,weekly
+2020-01-10 00:00:00,Reserves with SBP,11586.0,million USD,sbp_forex_reserves,weekly
+2020-01-17 00:00:00,Reserves with SBP,11731.5,million USD,sbp_forex_reserves,weekly
+2020-01-24 00:00:00,Reserves with SBP,11915.2,million USD,sbp_forex_reserves,weekly
+2020-01-31 00:00:00,Reserves with SBP,12273.8,million USD,sbp_forex_reserves,weekly
+2020-02-07 00:00:00,Reserves with SBP,12430.8,million USD,sbp_forex_reserves,weekly
+2020-02-14 00:00:00,Reserves with SBP,12504.7,million USD,sbp_forex_reserves,weekly
+2020-02-21 00:00:00,Reserves with SBP,12591.5,million USD,sbp_forex_reserves,weekly
+2020-02-28 00:00:00,Reserves with SBP,12757.7,million USD,sbp_forex_reserves,weekly
+2020-03-06 00:00:00,Reserves with SBP,12789.9,million USD,sbp_forex_reserves,weekly
+2020-03-13 00:00:00,Reserves with SBP,12679.6,million USD,sbp_forex_reserves,weekly
+2020-03-20 00:00:00,Reserves with SBP,11989.2,million USD,sbp_forex_reserves,weekly
+2020-03-27 00:00:00,Reserves with SBP,11185.6,million USD,sbp_forex_reserves,weekly
+2020-04-03 00:00:00,Reserves with SBP,10722.5,million USD,sbp_forex_reserves,weekly
+2020-04-10 00:00:00,Reserves with SBP,10974.6,million USD,sbp_forex_reserves,weekly
+2020-04-17 00:00:00,Reserves with SBP,10889.2,million USD,sbp_forex_reserves,weekly
+2020-04-24 00:00:00,Reserves with SBP,12070.3,million USD,sbp_forex_reserves,weekly
+2020-05-08 00:00:00,Reserves with SBP,12270.7,million USD,sbp_forex_reserves,weekly
+2020-05-15 00:00:00,Reserves with SBP,12129.3,million USD,sbp_forex_reserves,weekly
+2020-05-29 00:00:00,Reserves with SBP,10362.1,million USD,sbp_forex_reserves,weekly
+2020-06-05 00:00:00,Reserves with SBP,10095.8,million USD,sbp_forex_reserves,weekly
+2020-06-12 00:00:00,Reserves with SBP,10107.1,million USD,sbp_forex_reserves,weekly
+2020-06-19 00:00:00,Reserves with SBP,9961.2,million USD,sbp_forex_reserves,weekly
+2020-06-26 00:00:00,Reserves with SBP,11231.0,million USD,sbp_forex_reserves,weekly
+2020-07-03 00:00:00,Reserves with SBP,12041.6,million USD,sbp_forex_reserves,weekly
+2020-07-10 00:00:00,Reserves with SBP,12054.9,million USD,sbp_forex_reserves,weekly
+2020-07-17 00:00:00,Reserves with SBP,12121.6,million USD,sbp_forex_reserves,weekly
+2020-07-24 00:00:00,Reserves with SBP,11975.6,million USD,sbp_forex_reserves,weekly
+2020-08-07 00:00:00,Reserves with SBP,12469.3,million USD,sbp_forex_reserves,weekly
+2020-08-21 00:00:00,Reserves with SBP,12640.8,million USD,sbp_forex_reserves,weekly
+2020-08-28 00:00:00,Reserves with SBP,12712.7,million USD,sbp_forex_reserves,weekly
+2020-09-04 00:00:00,Reserves with SBP,12807.8,million USD,sbp_forex_reserves,weekly
+2020-09-11 00:00:00,Reserves with SBP,12820.4,million USD,sbp_forex_reserves,weekly
+2020-09-18 00:00:00,Reserves with SBP,12701.6,million USD,sbp_forex_reserves,weekly
+2020-09-25 00:00:00,Reserves with SBP,12359.7,million USD,sbp_forex_reserves,weekly
+2020-10-02 00:00:00,Reserves with SBP,12154.7,million USD,sbp_forex_reserves,weekly
+2020-10-09 00:00:00,Reserves with SBP,11798.4,million USD,sbp_forex_reserves,weekly
+2020-10-16 00:00:00,Reserves with SBP,12066.6,million USD,sbp_forex_reserves,weekly
+2020-10-23 00:00:00,Reserves with SBP,12121.5,million USD,sbp_forex_reserves,weekly
+2020-11-06 00:00:00,Reserves with SBP,12740.5,million USD,sbp_forex_reserves,weekly
+2020-11-13 00:00:00,Reserves with SBP,12931.2,million USD,sbp_forex_reserves,weekly
+2020-11-20 00:00:00,Reserves with SBP,13415.5,million USD,sbp_forex_reserves,weekly
+2020-11-27 00:00:00,Reserves with SBP,13110.9,million USD,sbp_forex_reserves,weekly
+2020-12-04 00:00:00,Reserves with SBP,13298.5,million USD,sbp_forex_reserves,weekly
+2020-12-11 00:00:00,Reserves with SBP,13298.8,million USD,sbp_forex_reserves,weekly
+2020-12-18 00:00:00,Reserves with SBP,13216.2,million USD,sbp_forex_reserves,weekly
+2021-01-08 00:00:00,Reserves with SBP,13400.0,million USD,sbp_forex_reserves,weekly
+2021-01-15 00:00:00,Reserves with SBP,13013.8,million USD,sbp_forex_reserves,weekly
+2021-01-22 00:00:00,Reserves with SBP,12998.4,million USD,sbp_forex_reserves,weekly
+2021-02-12 00:00:00,Reserves with SBP,12889.7,million USD,sbp_forex_reserves,weekly
+2021-02-19 00:00:00,Reserves with SBP,12908.7,million USD,sbp_forex_reserves,weekly
+2021-02-26 00:00:00,Reserves with SBP,12975.0,million USD,sbp_forex_reserves,weekly
+2021-03-05 00:00:00,Reserves with SBP,13016.1,million USD,sbp_forex_reserves,weekly
+2021-03-12 00:00:00,Reserves with SBP,13019.7,million USD,sbp_forex_reserves,weekly
+2021-03-19 00:00:00,Reserves with SBP,13295.0,million USD,sbp_forex_reserves,weekly
+2021-03-26 00:00:00,Reserves with SBP,13673.0,million USD,sbp_forex_reserves,weekly
+2021-04-02 00:00:00,Reserves with SBP,13527.2,million USD,sbp_forex_reserves,weekly
+2021-04-09 00:00:00,Reserves with SBP,16106.4,million USD,sbp_forex_reserves,weekly
+2021-04-16 00:00:00,Reserves with SBP,16043.9,million USD,sbp_forex_reserves,weekly
+2021-04-23 00:00:00,Reserves with SBP,16427.8,million USD,sbp_forex_reserves,weekly
+2021-05-07 00:00:00,Reserves with SBP,15774.5,million USD,sbp_forex_reserves,weekly
+2021-05-21 00:00:00,Reserves with SBP,15862.0,million USD,sbp_forex_reserves,weekly
+2021-05-28 00:00:00,Reserves with SBP,16133.6,million USD,sbp_forex_reserves,weekly
+2021-06-04 00:00:00,Reserves with SBP,16414.9,million USD,sbp_forex_reserves,weekly
+2021-06-11 00:00:00,Reserves with SBP,16417.3,million USD,sbp_forex_reserves,weekly
+2021-06-18 00:00:00,Reserves with SBP,16106.1,million USD,sbp_forex_reserves,weekly
+2021-06-25 00:00:00,Reserves with SBP,16119.4,million USD,sbp_forex_reserves,weekly
+2021-07-02 00:00:00,Reserves with SBP,17231.1,million USD,sbp_forex_reserves,weekly
+2021-07-09 00:00:00,Reserves with SBP,17205.6,million USD,sbp_forex_reserves,weekly
+2021-07-16 00:00:00,Reserves with SBP,18050.7,million USD,sbp_forex_reserves,weekly
+2021-07-23 00:00:00,Reserves with SBP,17829.8,million USD,sbp_forex_reserves,weekly
+2021-08-06 00:00:00,Reserves with SBP,17622.7,million USD,sbp_forex_reserves,weekly
+2021-08-13 00:00:00,Reserves with SBP,17625.9,million USD,sbp_forex_reserves,weekly
+2021-08-20 00:00:00,Reserves with SBP,17578.9,million USD,sbp_forex_reserves,weekly
+2021-08-27 00:00:00,Reserves with SBP,20145.6,million USD,sbp_forex_reserves,weekly
+2021-09-03 00:00:00,Reserves with SBP,20022.6,million USD,sbp_forex_reserves,weekly
+2021-09-10 00:00:00,Reserves with SBP,20022.7,million USD,sbp_forex_reserves,weekly
+2021-09-17 00:00:00,Reserves with SBP,19543.4,million USD,sbp_forex_reserves,weekly
+2021-09-24 00:00:00,Reserves with SBP,19294.5,million USD,sbp_forex_reserves,weekly
+2021-10-01 00:00:00,Reserves with SBP,19169.1,million USD,sbp_forex_reserves,weekly
+2021-10-08 00:00:00,Reserves with SBP,19138.4,million USD,sbp_forex_reserves,weekly
+2021-10-15 00:00:00,Reserves with SBP,17492.2,million USD,sbp_forex_reserves,weekly
+2021-10-22 00:00:00,Reserves with SBP,17146.7,million USD,sbp_forex_reserves,weekly
+2021-10-29 00:00:00,Reserves with SBP,17199.6,million USD,sbp_forex_reserves,weekly
+2021-11-05 00:00:00,Reserves with SBP,17326.0,million USD,sbp_forex_reserves,weekly
+2021-11-12 00:00:00,Reserves with SBP,16945.4,million USD,sbp_forex_reserves,weekly
+2021-11-19 00:00:00,Reserves with SBP,16254.1,million USD,sbp_forex_reserves,weekly
+2021-11-26 00:00:00,Reserves with SBP,16010.3,million USD,sbp_forex_reserves,weekly
+2021-12-03 00:00:00,Reserves with SBP,18658.2,million USD,sbp_forex_reserves,weekly
+2021-12-10 00:00:00,Reserves with SBP,18568.3,million USD,sbp_forex_reserves,weekly
+2021-12-17 00:00:00,Reserves with SBP,18153.7,million USD,sbp_forex_reserves,weekly
+2021-12-24 00:00:00,Reserves with SBP,17855.3,million USD,sbp_forex_reserves,weekly
+2022-01-07 00:00:00,Reserves with SBP,17597.9,million USD,sbp_forex_reserves,weekly
+2022-01-14 00:00:00,Reserves with SBP,17035.7,million USD,sbp_forex_reserves,weekly
+2022-01-21 00:00:00,Reserves with SBP,16190.1,million USD,sbp_forex_reserves,weekly
+2022-01-28 00:00:00,Reserves with SBP,15727.6,million USD,sbp_forex_reserves,weekly
+2022-02-04 00:00:00,Reserves with SBP,17336.8,million USD,sbp_forex_reserves,weekly
+2022-02-11 00:00:00,Reserves with SBP,17095.8,million USD,sbp_forex_reserves,weekly
+2022-02-18 00:00:00,Reserves with SBP,16806.5,million USD,sbp_forex_reserves,weekly
+2022-02-25 00:00:00,Reserves with SBP,16462.3,million USD,sbp_forex_reserves,weekly
+2022-03-04 00:00:00,Reserves with SBP,16212.2,million USD,sbp_forex_reserves,weekly
+2022-03-11 00:00:00,Reserves with SBP,15831.6,million USD,sbp_forex_reserves,weekly
+2022-03-18 00:00:00,Reserves with SBP,14962.4,million USD,sbp_forex_reserves,weekly
+2022-03-25 00:00:00,Reserves with SBP,12047.3,million USD,sbp_forex_reserves,weekly
+2022-04-01 00:00:00,Reserves with SBP,11319.2,million USD,sbp_forex_reserves,weekly
+2022-04-08 00:00:00,Reserves with SBP,10849.6,million USD,sbp_forex_reserves,weekly
+2022-04-16 00:00:00,Reserves with SBP,10885.7,million USD,sbp_forex_reserves,weekly
+2022-04-23 00:00:00,Reserves with SBP,10558.2,million USD,sbp_forex_reserves,weekly
+2022-04-30 00:00:00,Reserves with SBP,10498.9,million USD,sbp_forex_reserves,weekly
+2022-05-06 00:00:00,Reserves with SBP,10308.7,million USD,sbp_forex_reserves,weekly
+2022-05-13 00:00:00,Reserves with SBP,10163.6,million USD,sbp_forex_reserves,weekly
+2022-05-20 00:00:00,Reserves with SBP,10088.6,million USD,sbp_forex_reserves,weekly
+2022-05-27 00:00:00,Reserves with SBP,9722.9,million USD,sbp_forex_reserves,weekly
+2022-06-03 00:00:00,Reserves with SBP,9226.2,million USD,sbp_forex_reserves,weekly
+2022-06-10 00:00:00,Reserves with SBP,8985.3,million USD,sbp_forex_reserves,weekly
+2022-06-17 00:00:00,Reserves with SBP,8237.7,million USD,sbp_forex_reserves,weekly
+2022-06-24 00:00:00,Reserves with SBP,10309.0,million USD,sbp_forex_reserves,weekly
+2022-07-15 00:00:00,Reserves with SBP,9328.6,million USD,sbp_forex_reserves,weekly
+2022-07-22 00:00:00,Reserves with SBP,8575.1,million USD,sbp_forex_reserves,weekly
+2022-08-05 00:00:00,Reserves with SBP,7830.3,million USD,sbp_forex_reserves,weekly
+2022-08-12 00:00:00,Reserves with SBP,7897.3,million USD,sbp_forex_reserves,weekly
+2022-08-19 00:00:00,Reserves with SBP,7809.9,million USD,sbp_forex_reserves,weekly
+2022-08-26 00:00:00,Reserves with SBP,7697.1,million USD,sbp_forex_reserves,weekly
+2022-09-02 00:00:00,Reserves with SBP,8799.9,million USD,sbp_forex_reserves,weekly
+2022-09-09 00:00:00,Reserves with SBP,8624.0,million USD,sbp_forex_reserves,weekly
+2022-09-16 00:00:00,Reserves with SBP,8346.4,million USD,sbp_forex_reserves,weekly
+2022-09-23 00:00:00,Reserves with SBP,8005.9,million USD,sbp_forex_reserves,weekly
+2022-10-07 00:00:00,Reserves with SBP,7596.9,million USD,sbp_forex_reserves,weekly
+2022-10-14 00:00:00,Reserves with SBP,7597.2,million USD,sbp_forex_reserves,weekly
+2022-10-21 00:00:00,Reserves with SBP,7439.9,million USD,sbp_forex_reserves,weekly
+2022-10-28 00:00:00,Reserves with SBP,8912.9,million USD,sbp_forex_reserves,weekly
+2022-11-04 00:00:00,Reserves with SBP,7957.0,million USD,sbp_forex_reserves,weekly
+2022-11-11 00:00:00,Reserves with SBP,7959.5,million USD,sbp_forex_reserves,weekly
+2022-11-18 00:00:00,Reserves with SBP,7825.7,million USD,sbp_forex_reserves,weekly
+2022-11-25 00:00:00,Reserves with SBP,7498.7,million USD,sbp_forex_reserves,weekly
+2022-12-02 00:00:00,Reserves with SBP,6714.9,million USD,sbp_forex_reserves,weekly
+2022-12-09 00:00:00,Reserves with SBP,6700.0,million USD,sbp_forex_reserves,weekly
+2022-12-16 00:00:00,Reserves with SBP,6116.2,million USD,sbp_forex_reserves,weekly
+2022-12-23 00:00:00,Reserves with SBP,5821.9,million USD,sbp_forex_reserves,weekly
+2023-01-06 00:00:00,Reserves with SBP,4343.2,million USD,sbp_forex_reserves,weekly
+2023-01-13 00:00:00,Reserves with SBP,4601.2,million USD,sbp_forex_reserves,weekly
+2023-01-20 00:00:00,Reserves with SBP,3678.4,million USD,sbp_forex_reserves,weekly
+2023-01-27 00:00:00,Reserves with SBP,3086.2,million USD,sbp_forex_reserves,weekly
+2023-02-03 00:00:00,Reserves with SBP,2916.7,million USD,sbp_forex_reserves,weekly
+2023-02-10 00:00:00,Reserves with SBP,3192.9,million USD,sbp_forex_reserves,weekly
+2023-02-17 00:00:00,Reserves with SBP,3258.5,million USD,sbp_forex_reserves,weekly
+2023-02-24 00:00:00,Reserves with SBP,3814.1,million USD,sbp_forex_reserves,weekly
+2023-03-03 00:00:00,Reserves with SBP,4301.0,million USD,sbp_forex_reserves,weekly
+2023-03-10 00:00:00,Reserves with SBP,4319.1,million USD,sbp_forex_reserves,weekly
+2023-03-17 00:00:00,Reserves with SBP,4598.7,million USD,sbp_forex_reserves,weekly
+2023-03-24 00:00:00,Reserves with SBP,4244.3,million USD,sbp_forex_reserves,weekly
+2023-04-07 00:00:00,Reserves with SBP,4038.3,million USD,sbp_forex_reserves,weekly
+2023-04-14 00:00:00,Reserves with SBP,4432.5,million USD,sbp_forex_reserves,weekly
+2023-05-05 00:00:00,Reserves with SBP,4383.4,million USD,sbp_forex_reserves,weekly
+2023-05-12 00:00:00,Reserves with SBP,4311.9,million USD,sbp_forex_reserves,weekly
+2023-05-19 00:00:00,Reserves with SBP,4193.0,million USD,sbp_forex_reserves,weekly
+2023-05-26 00:00:00,Reserves with SBP,4090.7,million USD,sbp_forex_reserves,weekly
+2023-06-02 00:00:00,Reserves with SBP,3912.2,million USD,sbp_forex_reserves,weekly
+2023-06-09 00:00:00,Reserves with SBP,4018.7,million USD,sbp_forex_reserves,weekly
+2023-06-16 00:00:00,Reserves with SBP,3536.9,million USD,sbp_forex_reserves,weekly
+2023-06-23 00:00:00,Reserves with SBP,4069.9,million USD,sbp_forex_reserves,weekly
+2023-07-07 00:00:00,Reserves with SBP,4524.0,million USD,sbp_forex_reserves,weekly
+2023-07-14 00:00:00,Reserves with SBP,8727.2,million USD,sbp_forex_reserves,weekly
+2023-07-21 00:00:00,Reserves with SBP,8186.1,million USD,sbp_forex_reserves,weekly
+2023-07-27 17:00:00,Reserves with SBP,8153.8,million USD,sbp_forex_reserves,weekly
+2023-08-04 00:00:00,Reserves with SBP,8043.4,million USD,sbp_forex_reserves,weekly
+2023-08-11 00:00:00,Reserves with SBP,8055.3,million USD,sbp_forex_reserves,weekly
+2023-08-18 00:00:00,Reserves with SBP,7930.5,million USD,sbp_forex_reserves,weekly
+2023-08-25 00:00:00,Reserves with SBP,7849.3,million USD,sbp_forex_reserves,weekly
+2023-09-01 00:00:00,Reserves with SBP,7779.3,million USD,sbp_forex_reserves,weekly
+2023-09-08 00:00:00,Reserves with SBP,7638.9,million USD,sbp_forex_reserves,weekly
+2023-09-15 00:00:00,Reserves with SBP,7695.3,million USD,sbp_forex_reserves,weekly
+2023-09-22 00:00:00,Reserves with SBP,7636.7,million USD,sbp_forex_reserves,weekly
+2023-09-28 18:00:00,Reserves with SBP,7615.5,million USD,sbp_forex_reserves,weekly
+2023-10-06 00:00:00,Reserves with SBP,7646.7,million USD,sbp_forex_reserves,weekly
+2023-10-13 00:00:00,Reserves with SBP,7714.0,million USD,sbp_forex_reserves,weekly
+2023-10-20 00:00:00,Reserves with SBP,7494.2,million USD,sbp_forex_reserves,weekly
+2023-10-27 00:00:00,Reserves with SBP,7507.8,million USD,sbp_forex_reserves,weekly
+2023-11-03 00:00:00,Reserves with SBP,7511.5,million USD,sbp_forex_reserves,weekly
+2023-11-10 00:00:00,Reserves with SBP,7396.7,million USD,sbp_forex_reserves,weekly
+2023-11-17 00:00:00,Reserves with SBP,7180.0,million USD,sbp_forex_reserves,weekly
+2023-11-24 00:00:00,Reserves with SBP,7257.0,million USD,sbp_forex_reserves,weekly
+2023-12-01 00:00:00,Reserves with SBP,7020.2,million USD,sbp_forex_reserves,weekly
+2023-12-08 00:00:00,Reserves with SBP,7040.8,million USD,sbp_forex_reserves,weekly
+2023-12-15 00:00:00,Reserves with SBP,6904.8,million USD,sbp_forex_reserves,weekly
+2023-12-22 00:00:00,Reserves with SBP,7757.1,million USD,sbp_forex_reserves,weekly
+2024-01-05 00:00:00,Reserves with SBP,8154.8,million USD,sbp_forex_reserves,weekly
+2024-01-12 00:00:00,Reserves with SBP,8027.4,million USD,sbp_forex_reserves,weekly
+2024-01-19 00:00:00,Reserves with SBP,8270.5,million USD,sbp_forex_reserves,weekly
+2024-01-26 00:00:00,Reserves with SBP,8216.5,million USD,sbp_forex_reserves,weekly
+2024-02-02 00:00:00,Reserves with SBP,8044.0,million USD,sbp_forex_reserves,weekly
+2024-02-09 00:00:00,Reserves with SBP,8056.5,million USD,sbp_forex_reserves,weekly
+2024-02-16 00:00:00,Reserves with SBP,8012.8,million USD,sbp_forex_reserves,weekly
+2024-02-23 00:00:00,Reserves with SBP,7949.6,million USD,sbp_forex_reserves,weekly
+2024-03-01 00:00:00,Reserves with SBP,7895.7,million USD,sbp_forex_reserves,weekly
+2024-03-08 00:00:00,Reserves with SBP,7912.9,million USD,sbp_forex_reserves,weekly
+2024-03-15 00:00:00,Reserves with SBP,8017.9,million USD,sbp_forex_reserves,weekly
+2024-03-22 00:00:00,Reserves with SBP,8021.9,million USD,sbp_forex_reserves,weekly
+2024-03-29 00:00:00,Reserves with SBP,8040.4,million USD,sbp_forex_reserves,weekly
+2024-04-05 00:00:00,Reserves with SBP,8040.3,million USD,sbp_forex_reserves,weekly
+2024-04-12 00:00:00,Reserves with SBP,8054.7,million USD,sbp_forex_reserves,weekly
+2024-04-19 00:00:00,Reserves with SBP,7981.2,million USD,sbp_forex_reserves,weekly
+2024-04-26 00:00:00,Reserves with SBP,8006.0,million USD,sbp_forex_reserves,weekly
+2024-05-03 00:00:00,Reserves with SBP,9120.3,million USD,sbp_forex_reserves,weekly
+2024-05-10 00:00:00,Reserves with SBP,9135.5,million USD,sbp_forex_reserves,weekly
+2024-05-17 00:00:00,Reserves with SBP,9157.0,million USD,sbp_forex_reserves,weekly
+2024-05-24 00:00:00,Reserves with SBP,9093.7,million USD,sbp_forex_reserves,weekly
+2024-05-31 00:00:00,Reserves with SBP,9109.5,million USD,sbp_forex_reserves,weekly
+2024-06-07 00:00:00,Reserves with SBP,9103.3,million USD,sbp_forex_reserves,weekly
+2024-06-14 00:00:00,Reserves with SBP,9134.7,million USD,sbp_forex_reserves,weekly
+2024-06-21 00:00:00,Reserves with SBP,8895.8,million USD,sbp_forex_reserves,weekly
+2024-06-28 00:00:00,Reserves with SBP,9389.6,million USD,sbp_forex_reserves,weekly
+2024-07-05 00:00:00,Reserves with SBP,9405.1,million USD,sbp_forex_reserves,weekly
+2024-07-12 00:00:00,Reserves with SBP,9423.7,million USD,sbp_forex_reserves,weekly
+2024-07-19 00:00:00,Reserves with SBP,9027.2,million USD,sbp_forex_reserves,weekly
+2024-07-26 00:00:00,Reserves with SBP,9102.2,million USD,sbp_forex_reserves,weekly
+2024-08-02 00:00:00,Reserves with SBP,9153.3,million USD,sbp_forex_reserves,weekly
+2024-08-09 00:00:00,Reserves with SBP,9272.6,million USD,sbp_forex_reserves,weekly
+2024-08-16 00:00:00,Reserves with SBP,9291.8,million USD,sbp_forex_reserves,weekly
+2024-08-23 00:00:00,Reserves with SBP,9403.4,million USD,sbp_forex_reserves,weekly
+2024-08-30 00:00:00,Reserves with SBP,9436.9,million USD,sbp_forex_reserves,weekly
+2024-09-06 00:00:00,Reserves with SBP,9466.6,million USD,sbp_forex_reserves,weekly
+2024-09-13 00:00:00,Reserves with SBP,9509.6,million USD,sbp_forex_reserves,weekly
+2024-09-20 00:00:00,Reserves with SBP,9533.6,million USD,sbp_forex_reserves,weekly
+2024-09-27 00:00:00,Reserves with SBP,10701.7,million USD,sbp_forex_reserves,weekly
+2024-10-04 00:00:00,Reserves with SBP,10808.0,million USD,sbp_forex_reserves,weekly
+2024-10-11 00:00:00,Reserves with SBP,11022.7,million USD,sbp_forex_reserves,weekly
+2024-10-18 00:00:00,Reserves with SBP,11040.7,million USD,sbp_forex_reserves,weekly
+2024-10-25 00:00:00,Reserves with SBP,11156.4,million USD,sbp_forex_reserves,weekly
+2024-11-01 00:00:00,Reserves with SBP,11174.6,million USD,sbp_forex_reserves,weekly
+2024-11-08 00:00:00,Reserves with SBP,11258.6,million USD,sbp_forex_reserves,weekly
+2024-11-15 00:00:00,Reserves with SBP,11288.0,million USD,sbp_forex_reserves,weekly
+2024-11-22 00:00:00,Reserves with SBP,11418.5,million USD,sbp_forex_reserves,weekly
+2024-11-29 00:00:00,Reserves with SBP,12037.9,million USD,sbp_forex_reserves,weekly
+2024-12-06 00:00:00,Reserves with SBP,12050.8,million USD,sbp_forex_reserves,weekly
+2024-12-13 00:00:00,Reserves with SBP,12081.5,million USD,sbp_forex_reserves,weekly
+2024-12-20 00:00:00,Reserves with SBP,11853.5,million USD,sbp_forex_reserves,weekly
+2024-12-27 00:00:00,Reserves with SBP,11710.5,million USD,sbp_forex_reserves,weekly
+2025-01-03 00:00:00,Reserves with SBP,11695.2,million USD,sbp_forex_reserves,weekly
+2025-01-10 00:00:00,Reserves with SBP,11725.0,million USD,sbp_forex_reserves,weekly
+2025-01-17 00:00:00,Reserves with SBP,11448.7,million USD,sbp_forex_reserves,weekly
+2025-01-24 00:00:00,Reserves with SBP,11372.4,million USD,sbp_forex_reserves,weekly
+2025-01-31 00:00:00,Reserves with SBP,11418.2,million USD,sbp_forex_reserves,weekly
+2025-02-07 00:00:00,Reserves with SBP,11166.6,million USD,sbp_forex_reserves,weekly
+2025-02-14 00:00:00,Reserves with SBP,11201.5,million USD,sbp_forex_reserves,weekly
+2025-02-21 00:00:00,Reserves with SBP,11222.4,million USD,sbp_forex_reserves,weekly
+2025-02-28 00:00:00,Reserves with SBP,11249.5,million USD,sbp_forex_reserves,weekly
+2025-03-07 00:00:00,Reserves with SBP,11097.9,million USD,sbp_forex_reserves,weekly
+2025-03-14 00:00:00,Reserves with SBP,11146.8,million USD,sbp_forex_reserves,weekly
+2025-03-21 00:00:00,Reserves with SBP,10606.8,million USD,sbp_forex_reserves,weekly
+2025-03-28 00:00:00,Reserves with SBP,10676.3,million USD,sbp_forex_reserves,weekly
+2025-04-04 00:00:00,Reserves with SBP,10699.4,million USD,sbp_forex_reserves,weekly
+2025-04-11 00:00:00,Reserves with SBP,10572.4,million USD,sbp_forex_reserves,weekly
+2025-04-18 00:00:00,Reserves with SBP,10205.9,million USD,sbp_forex_reserves,weekly
+2025-04-25 00:00:00,Reserves with SBP,10214.4,million USD,sbp_forex_reserves,weekly
+2025-05-02 00:00:00,Reserves with SBP,10332.5,million USD,sbp_forex_reserves,weekly
+2025-05-09 00:00:00,Reserves with SBP,10403.1,million USD,sbp_forex_reserves,weekly
+2025-05-16 00:00:00,Reserves with SBP,11446.5,million USD,sbp_forex_reserves,weekly
+2025-05-23 00:00:00,Reserves with SBP,11516.0,million USD,sbp_forex_reserves,weekly
+2025-05-30 00:00:00,Reserves with SBP,11516.9,million USD,sbp_forex_reserves,weekly
+2025-06-06 00:00:00,Reserves with SBP,11675.6,million USD,sbp_forex_reserves,weekly
+2025-06-13 00:00:00,Reserves with SBP,11721.9,million USD,sbp_forex_reserves,weekly
+2025-06-20 00:00:00,Reserves with SBP,9064.5,million USD,sbp_forex_reserves,weekly
+2025-06-27 00:00:00,Reserves with SBP,12727.8,million USD,sbp_forex_reserves,weekly
+2025-07-04 00:00:00,Reserves with SBP,14502.2,million USD,sbp_forex_reserves,weekly
+2025-07-11 00:00:00,Reserves with SBP,14525.6,million USD,sbp_forex_reserves,weekly
+2025-07-18 00:00:00,Reserves with SBP,14456.6,million USD,sbp_forex_reserves,weekly
+2025-07-25 00:00:00,Reserves with SBP,14303.9,million USD,sbp_forex_reserves,weekly
+2025-08-01 00:00:00,Reserves with SBP,14231.9,million USD,sbp_forex_reserves,weekly
+2025-08-08 00:00:00,Reserves with SBP,14243.2,million USD,sbp_forex_reserves,weekly
+2025-08-15 00:00:00,Reserves with SBP,14256.2,million USD,sbp_forex_reserves,weekly
+2025-08-22 00:00:00,Reserves with SBP,14274.3,million USD,sbp_forex_reserves,weekly
+2025-09-05 00:00:00,Reserves with SBP,14336.3,million USD,sbp_forex_reserves,weekly
+2025-09-12 00:00:00,Reserves with SBP,14357.2,million USD,sbp_forex_reserves,weekly
+2025-09-19 00:00:00,Reserves with SBP,14379.5,million USD,sbp_forex_reserves,weekly
+2025-09-26 00:00:00,Reserves with SBP,14400.4,million USD,sbp_forex_reserves,weekly
+2025-10-03 00:00:00,Reserves with SBP,14420.1,million USD,sbp_forex_reserves,weekly
+2025-10-10 00:00:00,Reserves with SBP,14440.8,million USD,sbp_forex_reserves,weekly
+2025-10-17 00:00:00,Reserves with SBP,14455.2,million USD,sbp_forex_reserves,weekly
+2025-10-24 00:00:00,Reserves with SBP,14471.6,million USD,sbp_forex_reserves,weekly
+2025-11-07 00:00:00,Reserves with SBP,14524.632895018494,million USD,sbp_forex_reserves,weekly
+2025-11-14 00:00:00,Reserves with SBP,14551.5,million USD,sbp_forex_reserves,weekly
+2025-11-21 00:00:00,Reserves with SBP,14560.673168828442,million USD,sbp_forex_reserves,weekly
+2025-11-28 00:00:00,Reserves with SBP,14574.8,million USD,sbp_forex_reserves,weekly
+2025-12-05 00:00:00,Reserves with SBP,14586.494532177958,million USD,sbp_forex_reserves,weekly
+2025-12-12 00:00:00,Reserves with SBP,15886.8,million USD,sbp_forex_reserves,weekly
+2025-12-19 00:00:00,Reserves with SBP,15902.483156818369,million USD,sbp_forex_reserves,weekly
+2025-12-26 00:00:00,Reserves with SBP,15915.1,million USD,sbp_forex_reserves,weekly
+2026-01-02 00:00:00,Reserves with SBP,16055.741748724224,million USD,sbp_forex_reserves,weekly
+2026-01-09 00:00:00,Reserves with SBP,16071.8,million USD,sbp_forex_reserves,weekly
+2026-01-16 00:00:00,Reserves with SBP,16087.71721028495,million USD,sbp_forex_reserves,weekly
+2026-01-23 00:00:00,Reserves with SBP,16101.1,million USD,sbp_forex_reserves,weekly
+2026-01-30 00:00:00,Reserves with SBP,16157.2,million USD,sbp_forex_reserves,weekly
+2026-02-06 00:00:00,Reserves with SBP,16177.8,million USD,sbp_forex_reserves,weekly
+2026-02-13 00:00:00,Reserves with SBP,16196.9,million USD,sbp_forex_reserves,weekly
+2026-02-20 00:00:00,Reserves with SBP,16212.9,million USD,sbp_forex_reserves,weekly
+2026-03-06 00:00:00,Reserves with SBP,16341.105657833528,million USD,sbp_forex_reserves,weekly
+2026-03-13 00:00:00,Reserves with SBP,16353.7,million USD,sbp_forex_reserves,weekly
+2026-03-19 19:00:00,Reserves with SBP,16375.8,million USD,sbp_forex_reserves,weekly
+2026-03-27 00:00:00,Reserves with SBP,16381.7,million USD,sbp_forex_reserves,weekly
+2026-04-03 00:00:00,Reserves with SBP,16400.3,million USD,sbp_forex_reserves,weekly
+2026-04-10 00:00:00,Reserves with SBP,15079.5,million USD,sbp_forex_reserves,weekly
+2026-04-17 00:00:00,Reserves with SBP,15097.6,million USD,sbp_forex_reserves,weekly
+2026-04-24 00:00:00,Reserves with SBP,15827.943011132335,million USD,sbp_forex_reserves,weekly
+2026-05-08 00:00:00,Reserves with SBP,15867.4,million USD,sbp_forex_reserves,weekly
+2026-05-15 00:00:00,Reserves with SBP,17081.0,million USD,sbp_forex_reserves,weekly
+2026-05-22 00:00:00,Reserves with SBP,17147.0,million USD,sbp_forex_reserves,weekly
+2026-05-29 00:00:00,Reserves with SBP,17190.4,million USD,sbp_forex_reserves,weekly
+2026-06-05 00:00:00,Reserves with SBP,17215.2,million USD,sbp_forex_reserves,weekly
+2026-06-12 00:00:00,Reserves with SBP,17221.0,million USD,sbp_forex_reserves,weekly
+2026-06-19 00:00:00,Reserves with SBP,15916.4,million USD,sbp_forex_reserves,weekly
+2026-06-24 21:00:00,Reserves with SBP,16527.2,million USD,sbp_forex_reserves,weekly
+2026-07-03 00:00:00,Reserves with SBP,18471.0,million USD,sbp_forex_reserves,weekly
+2026-07-10 00:00:00,Reserves with SBP,17225.8,million USD,sbp_forex_reserves,weekly
+2026-07-17 00:00:00,Reserves with SBP,17258.6,million USD,sbp_forex_reserves,weekly
+2026-07-24 00:00:00,Reserves with SBP,17029.9,million USD,sbp_forex_reserves,weekly
+2026-07-31 00:00:00,Reserves with SBP,17043.0,million USD,sbp_forex_reserves,weekly
+2010-10-29 00:00:00,Reserves with banks,7207.1,million USD,sbp_forex_reserves,weekly
+2011-05-07 00:00:00,Reserves with banks,3419.0,million USD,sbp_forex_reserves,weekly
+2011-05-14 00:00:00,Reserves with banks,3410.5,million USD,sbp_forex_reserves,weekly
+2011-05-21 00:00:00,Reserves with banks,3396.5,million USD,sbp_forex_reserves,weekly
+2011-05-28 00:00:00,Reserves with banks,3432.7,million USD,sbp_forex_reserves,weekly
+2011-06-04 00:00:00,Reserves with banks,3437.9,million USD,sbp_forex_reserves,weekly
+2011-06-11 00:00:00,Reserves with banks,3432.0,million USD,sbp_forex_reserves,weekly
+2011-06-18 00:00:00,Reserves with banks,3415.7,million USD,sbp_forex_reserves,weekly
+2011-06-25 00:00:00,Reserves with banks,3448.4,million USD,sbp_forex_reserves,weekly
+2011-07-02 00:00:00,Reserves with banks,3460.6,million USD,sbp_forex_reserves,weekly
+2011-07-09 00:00:00,Reserves with banks,3469.1,million USD,sbp_forex_reserves,weekly
+2011-07-16 00:00:00,Reserves with banks,3523.9,million USD,sbp_forex_reserves,weekly
+2011-07-23 00:00:00,Reserves with banks,3559.8,million USD,sbp_forex_reserves,weekly
+2011-08-06 00:00:00,Reserves with banks,3510.0,million USD,sbp_forex_reserves,weekly
+2011-08-13 00:00:00,Reserves with banks,3487.2,million USD,sbp_forex_reserves,weekly
+2011-08-20 00:00:00,Reserves with banks,3459.0,million USD,sbp_forex_reserves,weekly
+2011-08-27 00:00:00,Reserves with banks,3451.1,million USD,sbp_forex_reserves,weekly
+2011-09-03 00:00:00,Reserves with banks,3460.2,million USD,sbp_forex_reserves,weekly
+2011-09-10 00:00:00,Reserves with banks,3453.9,million USD,sbp_forex_reserves,weekly
+2011-09-17 00:00:00,Reserves with banks,3515.9,million USD,sbp_forex_reserves,weekly
+2011-09-24 00:00:00,Reserves with banks,3641.6,million USD,sbp_forex_reserves,weekly
+2011-10-01 00:00:00,Reserves with banks,3708.8,million USD,sbp_forex_reserves,weekly
+2011-10-08 00:00:00,Reserves with banks,3711.3,million USD,sbp_forex_reserves,weekly
+2011-10-14 00:00:00,Reserves with banks,3740.4,million USD,sbp_forex_reserves,weekly
+2011-10-21 00:00:00,Reserves with banks,3766.3,million USD,sbp_forex_reserves,weekly
+2011-10-28 00:00:00,Reserves with banks,3737.0,million USD,sbp_forex_reserves,weekly
+2011-11-04 00:00:00,Reserves with banks,3748.2,million USD,sbp_forex_reserves,weekly
+2011-11-11 00:00:00,Reserves with banks,3762.2,million USD,sbp_forex_reserves,weekly
+2011-11-18 00:00:00,Reserves with banks,3758.9,million USD,sbp_forex_reserves,weekly
+2011-11-25 00:00:00,Reserves with banks,3762.4,million USD,sbp_forex_reserves,weekly
+2011-12-02 00:00:00,Reserves with banks,3813.9,million USD,sbp_forex_reserves,weekly
+2011-12-09 00:00:00,Reserves with banks,3881.5,million USD,sbp_forex_reserves,weekly
+2011-12-16 00:00:00,Reserves with banks,3900.4,million USD,sbp_forex_reserves,weekly
+2011-12-23 00:00:00,Reserves with banks,3962.3,million USD,sbp_forex_reserves,weekly
+2011-12-24 00:00:00,Reserves with banks,7103.1,million USD,sbp_forex_reserves,weekly
+2012-01-06 00:00:00,Reserves with banks,4080.3,million USD,sbp_forex_reserves,weekly
+2012-01-13 00:00:00,Reserves with banks,4213.9,million USD,sbp_forex_reserves,weekly
+2012-01-20 00:00:00,Reserves with banks,4248.6,million USD,sbp_forex_reserves,weekly
+2012-01-27 00:00:00,Reserves with banks,4347.1,million USD,sbp_forex_reserves,weekly
+2012-02-03 00:00:00,Reserves with banks,4365.8,million USD,sbp_forex_reserves,weekly
+2012-02-10 00:00:00,Reserves with banks,4482.2,million USD,sbp_forex_reserves,weekly
+2012-02-17 00:00:00,Reserves with banks,4433.0,million USD,sbp_forex_reserves,weekly
+2012-02-24 00:00:00,Reserves with banks,4362.2,million USD,sbp_forex_reserves,weekly
+2012-03-02 00:00:00,Reserves with banks,4438.6,million USD,sbp_forex_reserves,weekly
+2012-03-09 00:00:00,Reserves with banks,4527.4,million USD,sbp_forex_reserves,weekly
+2012-03-16 00:00:00,Reserves with banks,4724.1,million USD,sbp_forex_reserves,weekly
+2012-03-23 00:00:00,Reserves with banks,4673.9,million USD,sbp_forex_reserves,weekly
+2012-04-06 00:00:00,Reserves with banks,4657.0,million USD,sbp_forex_reserves,weekly
+2012-04-13 00:00:00,Reserves with banks,4631.0,million USD,sbp_forex_reserves,weekly
+2012-04-20 00:00:00,Reserves with banks,4505.9,million USD,sbp_forex_reserves,weekly
+2012-04-27 00:00:00,Reserves with banks,4365.4,million USD,sbp_forex_reserves,weekly
+2012-05-04 00:00:00,Reserves with banks,4438.1,million USD,sbp_forex_reserves,weekly
+2012-05-11 00:00:00,Reserves with banks,4319.5,million USD,sbp_forex_reserves,weekly
+2012-05-18 00:00:00,Reserves with banks,4375.3,million USD,sbp_forex_reserves,weekly
+2012-05-25 00:00:00,Reserves with banks,4307.2,million USD,sbp_forex_reserves,weekly
+2012-06-01 00:00:00,Reserves with banks,4292.7,million USD,sbp_forex_reserves,weekly
+2012-06-08 00:00:00,Reserves with banks,4300.0,million USD,sbp_forex_reserves,weekly
+2012-06-15 00:00:00,Reserves with banks,4365.8,million USD,sbp_forex_reserves,weekly
+2012-06-22 00:00:00,Reserves with banks,4428.7,million USD,sbp_forex_reserves,weekly
+2012-07-06 00:00:00,Reserves with banks,4412.6,million USD,sbp_forex_reserves,weekly
+2012-07-13 00:00:00,Reserves with banks,4437.9,million USD,sbp_forex_reserves,weekly
+2012-07-20 00:00:00,Reserves with banks,4418.1,million USD,sbp_forex_reserves,weekly
+2012-07-27 00:00:00,Reserves with banks,4435.2,million USD,sbp_forex_reserves,weekly
+2012-08-03 00:00:00,Reserves with banks,4453.4,million USD,sbp_forex_reserves,weekly
+2012-08-10 00:00:00,Reserves with banks,4473.2,million USD,sbp_forex_reserves,weekly
+2012-08-17 00:00:00,Reserves with banks,4442.0,million USD,sbp_forex_reserves,weekly
+2012-08-24 00:00:00,Reserves with banks,4437.5,million USD,sbp_forex_reserves,weekly
+2012-09-07 00:00:00,Reserves with banks,4396.1,million USD,sbp_forex_reserves,weekly
+2012-09-14 00:00:00,Reserves with banks,4480.5,million USD,sbp_forex_reserves,weekly
+2012-09-21 00:00:00,Reserves with banks,4519.7,million USD,sbp_forex_reserves,weekly
+2012-10-05 00:00:00,Reserves with banks,4487.3,million USD,sbp_forex_reserves,weekly
+2012-10-12 00:00:00,Reserves with banks,4505.1,million USD,sbp_forex_reserves,weekly
+2012-10-19 00:00:00,Reserves with banks,4560.4,million USD,sbp_forex_reserves,weekly
+2012-10-26 00:00:00,Reserves with banks,4527.1,million USD,sbp_forex_reserves,weekly
+2012-11-02 00:00:00,Reserves with banks,4553.1,million USD,sbp_forex_reserves,weekly
+2012-11-09 00:00:00,Reserves with banks,4602.9,million USD,sbp_forex_reserves,weekly
+2012-11-16 00:00:00,Reserves with banks,4689.6,million USD,sbp_forex_reserves,weekly
+2012-11-23 00:00:00,Reserves with banks,4715.4,million USD,sbp_forex_reserves,weekly
+2012-12-07 00:00:00,Reserves with banks,4860.4,million USD,sbp_forex_reserves,weekly
+2012-12-14 00:00:00,Reserves with banks,4621.3,million USD,sbp_forex_reserves,weekly
+2012-12-21 00:00:00,Reserves with banks,4752.4,million USD,sbp_forex_reserves,weekly
+2012-12-28 00:00:00,Reserves with banks,4798.7,million USD,sbp_forex_reserves,weekly
+2013-01-04 00:00:00,Reserves with banks,4789.1,million USD,sbp_forex_reserves,weekly
+2013-01-11 00:00:00,Reserves with banks,4831.5,million USD,sbp_forex_reserves,weekly
+2013-01-18 00:00:00,Reserves with banks,4896.3,million USD,sbp_forex_reserves,weekly
+2013-01-25 00:00:00,Reserves with banks,4894.7,million USD,sbp_forex_reserves,weekly
+2013-02-01 00:00:00,Reserves with banks,4887.6,million USD,sbp_forex_reserves,weekly
+2013-02-08 00:00:00,Reserves with banks,4937.2,million USD,sbp_forex_reserves,weekly
+2013-02-15 00:00:00,Reserves with banks,4917.4,million USD,sbp_forex_reserves,weekly
+2013-02-22 00:00:00,Reserves with banks,4958.0,million USD,sbp_forex_reserves,weekly
+2013-03-01 00:00:00,Reserves with banks,4943.8,million USD,sbp_forex_reserves,weekly
+2013-03-08 00:00:00,Reserves with banks,4910.5,million USD,sbp_forex_reserves,weekly
+2013-03-15 00:00:00,Reserves with banks,4985.6,million USD,sbp_forex_reserves,weekly
+2013-03-22 00:00:00,Reserves with banks,5092.6,million USD,sbp_forex_reserves,weekly
+2013-04-05 00:00:00,Reserves with banks,5061.1,million USD,sbp_forex_reserves,weekly
+2013-04-12 00:00:00,Reserves with banks,5049.8,million USD,sbp_forex_reserves,weekly
+2013-04-19 00:00:00,Reserves with banks,5121.0,million USD,sbp_forex_reserves,weekly
+2013-04-26 00:00:00,Reserves with banks,5087.5,million USD,sbp_forex_reserves,weekly
+2013-05-03 00:00:00,Reserves with banks,5090.7,million USD,sbp_forex_reserves,weekly
+2013-05-10 00:00:00,Reserves with banks,5076.5,million USD,sbp_forex_reserves,weekly
+2013-05-17 00:00:00,Reserves with banks,5050.1,million USD,sbp_forex_reserves,weekly
+2013-05-24 00:00:00,Reserves with banks,5059.1,million USD,sbp_forex_reserves,weekly
+2013-06-07 00:00:00,Reserves with banks,5159.1,million USD,sbp_forex_reserves,weekly
+2013-06-14 00:00:00,Reserves with banks,5101.6,million USD,sbp_forex_reserves,weekly
+2013-06-21 00:00:00,Reserves with banks,5088.3,million USD,sbp_forex_reserves,weekly
+2013-07-05 00:00:00,Reserves with banks,4997.0,million USD,sbp_forex_reserves,weekly
+2013-07-12 00:00:00,Reserves with banks,4980.8,million USD,sbp_forex_reserves,weekly
+2013-07-19 00:00:00,Reserves with banks,5049.4,million USD,sbp_forex_reserves,weekly
+2013-07-26 00:00:00,Reserves with banks,5053.8,million USD,sbp_forex_reserves,weekly
+2013-08-02 00:00:00,Reserves with banks,5088.0,million USD,sbp_forex_reserves,weekly
+2013-08-07 00:00:00,Reserves with banks,5098.3,million USD,sbp_forex_reserves,weekly
+2013-08-16 00:00:00,Reserves with banks,5151.0,million USD,sbp_forex_reserves,weekly
+2013-08-23 00:00:00,Reserves with banks,5186.9,million USD,sbp_forex_reserves,weekly
+2013-09-06 00:00:00,Reserves with banks,5210.8,million USD,sbp_forex_reserves,weekly
+2013-09-13 00:00:00,Reserves with banks,5256.2,million USD,sbp_forex_reserves,weekly
+2013-09-20 00:00:00,Reserves with banks,5282.3,million USD,sbp_forex_reserves,weekly
+2013-09-27 00:00:00,Reserves with banks,5321.3,million USD,sbp_forex_reserves,weekly
+2013-10-04 00:00:00,Reserves with banks,5174.0,million USD,sbp_forex_reserves,weekly
+2013-10-11 00:00:00,Reserves with banks,5131.9,million USD,sbp_forex_reserves,weekly
+2013-10-14 00:00:00,Reserves with banks,5144.3,million USD,sbp_forex_reserves,weekly
+2013-10-25 00:00:00,Reserves with banks,5197.8,million USD,sbp_forex_reserves,weekly
+2013-11-01 00:00:00,Reserves with banks,5285.3,million USD,sbp_forex_reserves,weekly
+2013-11-08 00:00:00,Reserves with banks,5232.3,million USD,sbp_forex_reserves,weekly
+2013-11-13 00:00:00,Reserves with banks,5219.4,million USD,sbp_forex_reserves,weekly
+2013-11-22 00:00:00,Reserves with banks,5332.3,million USD,sbp_forex_reserves,weekly
+2013-12-06 00:00:00,Reserves with banks,5097.3,million USD,sbp_forex_reserves,weekly
+2013-12-13 00:00:00,Reserves with banks,5058.5,million USD,sbp_forex_reserves,weekly
+2013-12-20 00:00:00,Reserves with banks,4897.3,million USD,sbp_forex_reserves,weekly
+2013-12-27 00:00:00,Reserves with banks,4864.1,million USD,sbp_forex_reserves,weekly
+2014-01-03 00:00:00,Reserves with banks,4804.3,million USD,sbp_forex_reserves,weekly
+2014-01-10 00:00:00,Reserves with banks,4849.7,million USD,sbp_forex_reserves,weekly
+2014-01-17 00:00:00,Reserves with banks,4846.1,million USD,sbp_forex_reserves,weekly
+2014-01-24 00:00:00,Reserves with banks,4817.3,million USD,sbp_forex_reserves,weekly
+2014-02-07 00:00:00,Reserves with banks,4748.3,million USD,sbp_forex_reserves,weekly
+2014-02-14 00:00:00,Reserves with banks,4797.5,million USD,sbp_forex_reserves,weekly
+2014-02-21 00:00:00,Reserves with banks,4783.8,million USD,sbp_forex_reserves,weekly
+2014-03-07 00:00:00,Reserves with banks,4753.1,million USD,sbp_forex_reserves,weekly
+2014-03-14 00:00:00,Reserves with banks,4840.4,million USD,sbp_forex_reserves,weekly
+2014-03-21 00:00:00,Reserves with banks,4717.4,million USD,sbp_forex_reserves,weekly
+2014-03-28 00:00:00,Reserves with banks,4692.6,million USD,sbp_forex_reserves,weekly
+2014-04-04 00:00:00,Reserves with banks,4770.3,million USD,sbp_forex_reserves,weekly
+2014-04-11 00:00:00,Reserves with banks,4865.7,million USD,sbp_forex_reserves,weekly
+2014-04-18 00:00:00,Reserves with banks,4743.8,million USD,sbp_forex_reserves,weekly
+2014-04-25 00:00:00,Reserves with banks,4699.2,million USD,sbp_forex_reserves,weekly
+2014-05-02 00:00:00,Reserves with banks,4804.1,million USD,sbp_forex_reserves,weekly
+2014-05-09 00:00:00,Reserves with banks,4865.0,million USD,sbp_forex_reserves,weekly
+2014-05-16 00:00:00,Reserves with banks,4812.5,million USD,sbp_forex_reserves,weekly
+2014-05-23 00:00:00,Reserves with banks,4790.0,million USD,sbp_forex_reserves,weekly
+2014-06-06 00:00:00,Reserves with banks,4844.0,million USD,sbp_forex_reserves,weekly
+2014-06-13 00:00:00,Reserves with banks,4901.9,million USD,sbp_forex_reserves,weekly
+2014-06-20 00:00:00,Reserves with banks,5074.0,million USD,sbp_forex_reserves,weekly
+2014-06-27 00:00:00,Reserves with banks,4956.9,million USD,sbp_forex_reserves,weekly
+2014-07-04 00:00:00,Reserves with banks,5035.4,million USD,sbp_forex_reserves,weekly
+2014-07-11 00:00:00,Reserves with banks,5027.8,million USD,sbp_forex_reserves,weekly
+2014-07-18 00:00:00,Reserves with banks,5051.4,million USD,sbp_forex_reserves,weekly
+2014-07-25 00:00:00,Reserves with banks,5064.9,million USD,sbp_forex_reserves,weekly
+2014-08-01 00:00:00,Reserves with banks,5029.9,million USD,sbp_forex_reserves,weekly
+2014-08-08 00:00:00,Reserves with banks,5076.1,million USD,sbp_forex_reserves,weekly
+2014-08-15 00:00:00,Reserves with banks,5023.1,million USD,sbp_forex_reserves,weekly
+2014-08-22 00:00:00,Reserves with banks,5027.2,million USD,sbp_forex_reserves,weekly
+2014-09-05 00:00:00,Reserves with banks,4721.4,million USD,sbp_forex_reserves,weekly
+2014-09-12 00:00:00,Reserves with banks,4729.7,million USD,sbp_forex_reserves,weekly
+2014-09-19 00:00:00,Reserves with banks,4677.3,million USD,sbp_forex_reserves,weekly
+2014-09-26 00:00:00,Reserves with banks,4600.7,million USD,sbp_forex_reserves,weekly
+2014-10-03 00:00:00,Reserves with banks,4543.6,million USD,sbp_forex_reserves,weekly
+2014-10-10 00:00:00,Reserves with banks,4553.8,million USD,sbp_forex_reserves,weekly
+2014-10-17 00:00:00,Reserves with banks,4677.6,million USD,sbp_forex_reserves,weekly
+2014-10-24 00:00:00,Reserves with banks,4631.7,million USD,sbp_forex_reserves,weekly
+2014-11-07 00:00:00,Reserves with banks,4780.4,million USD,sbp_forex_reserves,weekly
+2014-11-14 00:00:00,Reserves with banks,4734.4,million USD,sbp_forex_reserves,weekly
+2014-11-21 00:00:00,Reserves with banks,4713.5,million USD,sbp_forex_reserves,weekly
+2014-12-05 00:00:00,Reserves with banks,4719.3,million USD,sbp_forex_reserves,weekly
+2014-12-12 00:00:00,Reserves with banks,4695.9,million USD,sbp_forex_reserves,weekly
+2014-12-19 00:00:00,Reserves with banks,4733.9,million USD,sbp_forex_reserves,weekly
+2014-12-26 00:00:00,Reserves with banks,4639.8,million USD,sbp_forex_reserves,weekly
+2015-01-02 00:00:00,Reserves with banks,4736.9,million USD,sbp_forex_reserves,weekly
+2015-01-09 00:00:00,Reserves with banks,4695.1,million USD,sbp_forex_reserves,weekly
+2015-01-16 00:00:00,Reserves with banks,4689.3,million USD,sbp_forex_reserves,weekly
+2015-01-23 00:00:00,Reserves with banks,4815.2,million USD,sbp_forex_reserves,weekly
+2015-02-06 00:00:00,Reserves with banks,4821.6,million USD,sbp_forex_reserves,weekly
+2015-02-13 00:00:00,Reserves with banks,4842.5,million USD,sbp_forex_reserves,weekly
+2015-02-20 00:00:00,Reserves with banks,4868.8,million USD,sbp_forex_reserves,weekly
+2015-03-06 00:00:00,Reserves with banks,5012.3,million USD,sbp_forex_reserves,weekly
+2015-03-13 00:00:00,Reserves with banks,5047.6,million USD,sbp_forex_reserves,weekly
+2015-03-20 00:00:00,Reserves with banks,5064.6,million USD,sbp_forex_reserves,weekly
+2015-03-27 00:00:00,Reserves with banks,5070.9,million USD,sbp_forex_reserves,weekly
+2015-04-03 00:00:00,Reserves with banks,5089.8,million USD,sbp_forex_reserves,weekly
+2015-04-10 00:00:00,Reserves with banks,5059.7,million USD,sbp_forex_reserves,weekly
+2015-04-17 00:00:00,Reserves with banks,5127.0,million USD,sbp_forex_reserves,weekly
+2015-04-24 00:00:00,Reserves with banks,5152.5,million USD,sbp_forex_reserves,weekly
+2015-05-01 00:00:00,Reserves with banks,5172.8,million USD,sbp_forex_reserves,weekly
+2015-05-08 00:00:00,Reserves with banks,5189.4,million USD,sbp_forex_reserves,weekly
+2015-05-15 00:00:00,Reserves with banks,5237.4,million USD,sbp_forex_reserves,weekly
+2015-05-22 00:00:00,Reserves with banks,5209.8,million USD,sbp_forex_reserves,weekly
+2015-06-05 00:00:00,Reserves with banks,5134.2,million USD,sbp_forex_reserves,weekly
+2015-06-12 00:00:00,Reserves with banks,5164.2,million USD,sbp_forex_reserves,weekly
+2015-06-19 00:00:00,Reserves with banks,5141.5,million USD,sbp_forex_reserves,weekly
+2015-06-26 00:00:00,Reserves with banks,5113.3,million USD,sbp_forex_reserves,weekly
+2015-07-03 00:00:00,Reserves with banks,5179.4,million USD,sbp_forex_reserves,weekly
+2015-07-10 00:00:00,Reserves with banks,5120.5,million USD,sbp_forex_reserves,weekly
+2015-07-17 00:00:00,Reserves with banks,5134.4,million USD,sbp_forex_reserves,weekly
+2015-07-24 00:00:00,Reserves with banks,5150.2,million USD,sbp_forex_reserves,weekly
+2015-08-07 00:00:00,Reserves with banks,5051.0,million USD,sbp_forex_reserves,weekly
+2015-08-14 00:00:00,Reserves with banks,5039.8,million USD,sbp_forex_reserves,weekly
+2015-08-21 00:00:00,Reserves with banks,5050.3,million USD,sbp_forex_reserves,weekly
+2015-08-28 00:00:00,Reserves with banks,5036.5,million USD,sbp_forex_reserves,weekly
+2015-09-04 00:00:00,Reserves with banks,5042.3,million USD,sbp_forex_reserves,weekly
+2015-09-11 00:00:00,Reserves with banks,5036.6,million USD,sbp_forex_reserves,weekly
+2015-09-18 00:00:00,Reserves with banks,5004.6,million USD,sbp_forex_reserves,weekly
+2015-09-25 00:00:00,Reserves with banks,4940.9,million USD,sbp_forex_reserves,weekly
+2015-10-02 00:00:00,Reserves with banks,4852.2,million USD,sbp_forex_reserves,weekly
+2015-10-09 00:00:00,Reserves with banks,4889.5,million USD,sbp_forex_reserves,weekly
+2015-10-16 00:00:00,Reserves with banks,4901.1,million USD,sbp_forex_reserves,weekly
+2015-10-23 00:00:00,Reserves with banks,4900.4,million USD,sbp_forex_reserves,weekly
+2015-11-06 00:00:00,Reserves with banks,5042.1,million USD,sbp_forex_reserves,weekly
+2015-11-13 00:00:00,Reserves with banks,5124.3,million USD,sbp_forex_reserves,weekly
+2015-11-20 00:00:00,Reserves with banks,5151.6,million USD,sbp_forex_reserves,weekly
+2015-11-27 00:00:00,Reserves with banks,5032.0,million USD,sbp_forex_reserves,weekly
+2015-12-04 00:00:00,Reserves with banks,5009.5,million USD,sbp_forex_reserves,weekly
+2015-12-11 00:00:00,Reserves with banks,4990.0,million USD,sbp_forex_reserves,weekly
+2015-12-18 00:00:00,Reserves with banks,4961.5,million USD,sbp_forex_reserves,weekly
+2015-12-25 00:00:00,Reserves with banks,4902.3,million USD,sbp_forex_reserves,weekly
+2016-01-01 00:00:00,Reserves with banks,4926.7,million USD,sbp_forex_reserves,weekly
+2016-01-08 00:00:00,Reserves with banks,4935.6,million USD,sbp_forex_reserves,weekly
+2016-01-15 00:00:00,Reserves with banks,4937.4,million USD,sbp_forex_reserves,weekly
+2016-01-22 00:00:00,Reserves with banks,4855.3,million USD,sbp_forex_reserves,weekly
+2016-02-05 00:00:00,Reserves with banks,4854.8,million USD,sbp_forex_reserves,weekly
+2016-02-12 00:00:00,Reserves with banks,4873.1,million USD,sbp_forex_reserves,weekly
+2016-02-19 00:00:00,Reserves with banks,4854.0,million USD,sbp_forex_reserves,weekly
+2016-02-26 00:00:00,Reserves with banks,4845.8,million USD,sbp_forex_reserves,weekly
+2016-03-04 00:00:00,Reserves with banks,4858.3,million USD,sbp_forex_reserves,weekly
+2016-03-11 00:00:00,Reserves with banks,4859.4,million USD,sbp_forex_reserves,weekly
+2016-03-18 00:00:00,Reserves with banks,4891.1,million USD,sbp_forex_reserves,weekly
+2016-03-25 00:00:00,Reserves with banks,4835.6,million USD,sbp_forex_reserves,weekly
+2016-04-01 00:00:00,Reserves with banks,4806.8,million USD,sbp_forex_reserves,weekly
+2016-04-08 00:00:00,Reserves with banks,4793.5,million USD,sbp_forex_reserves,weekly
+2016-04-15 00:00:00,Reserves with banks,4752.6,million USD,sbp_forex_reserves,weekly
+2016-04-22 00:00:00,Reserves with banks,4801.2,million USD,sbp_forex_reserves,weekly
+2016-05-06 00:00:00,Reserves with banks,4801.5,million USD,sbp_forex_reserves,weekly
+2016-05-13 00:00:00,Reserves with banks,4801.9,million USD,sbp_forex_reserves,weekly
+2016-05-20 00:00:00,Reserves with banks,4801.3,million USD,sbp_forex_reserves,weekly
+2016-05-27 00:00:00,Reserves with banks,4794.5,million USD,sbp_forex_reserves,weekly
+2016-06-03 00:00:00,Reserves with banks,4804.0,million USD,sbp_forex_reserves,weekly
+2016-06-10 00:00:00,Reserves with banks,4868.9,million USD,sbp_forex_reserves,weekly
+2016-06-17 00:00:00,Reserves with banks,4955.0,million USD,sbp_forex_reserves,weekly
+2016-06-24 00:00:00,Reserves with banks,4946.2,million USD,sbp_forex_reserves,weekly
+2016-07-01 00:00:00,Reserves with banks,4956.0,million USD,sbp_forex_reserves,weekly
+2016-07-08 00:00:00,Reserves with banks,4958.5,million USD,sbp_forex_reserves,weekly
+2016-07-15 00:00:00,Reserves with banks,5014.0,million USD,sbp_forex_reserves,weekly
+2016-07-22 00:00:00,Reserves with banks,4959.7,million USD,sbp_forex_reserves,weekly
+2016-08-05 00:00:00,Reserves with banks,4930.9,million USD,sbp_forex_reserves,weekly
+2016-08-12 00:00:00,Reserves with banks,4903.6,million USD,sbp_forex_reserves,weekly
+2016-08-19 00:00:00,Reserves with banks,4894.4,million USD,sbp_forex_reserves,weekly
+2016-08-26 00:00:00,Reserves with banks,4909.9,million USD,sbp_forex_reserves,weekly
+2016-09-02 00:00:00,Reserves with banks,4918.4,million USD,sbp_forex_reserves,weekly
+2016-09-09 00:00:00,Reserves with banks,5004.7,million USD,sbp_forex_reserves,weekly
+2016-09-16 00:00:00,Reserves with banks,5040.7,million USD,sbp_forex_reserves,weekly
+2016-09-23 00:00:00,Reserves with banks,5022.9,million USD,sbp_forex_reserves,weekly
+2016-10-07 00:00:00,Reserves with banks,5081.9,million USD,sbp_forex_reserves,weekly
+2016-10-14 00:00:00,Reserves with banks,4999.7,million USD,sbp_forex_reserves,weekly
+2016-10-21 00:00:00,Reserves with banks,5005.7,million USD,sbp_forex_reserves,weekly
+2016-10-28 00:00:00,Reserves with banks,5058.8,million USD,sbp_forex_reserves,weekly
+2016-11-04 00:00:00,Reserves with banks,5077.5,million USD,sbp_forex_reserves,weekly
+2016-11-11 00:00:00,Reserves with banks,5068.7,million USD,sbp_forex_reserves,weekly
+2016-11-18 00:00:00,Reserves with banks,5018.3,million USD,sbp_forex_reserves,weekly
+2016-11-25 00:00:00,Reserves with banks,5040.0,million USD,sbp_forex_reserves,weekly
+2016-12-02 00:00:00,Reserves with banks,4991.2,million USD,sbp_forex_reserves,weekly
+2016-12-09 00:00:00,Reserves with banks,4971.6,million USD,sbp_forex_reserves,weekly
+2016-12-16 00:00:00,Reserves with banks,4941.6,million USD,sbp_forex_reserves,weekly
+2016-12-23 00:00:00,Reserves with banks,4986.6,million USD,sbp_forex_reserves,weekly
+2017-01-06 00:00:00,Reserves with banks,4890.5,million USD,sbp_forex_reserves,weekly
+2017-01-13 00:00:00,Reserves with banks,4830.5,million USD,sbp_forex_reserves,weekly
+2017-01-20 00:00:00,Reserves with banks,4862.7,million USD,sbp_forex_reserves,weekly
+2017-01-27 00:00:00,Reserves with banks,4841.1,million USD,sbp_forex_reserves,weekly
+2017-02-03 00:00:00,Reserves with banks,4813.5,million USD,sbp_forex_reserves,weekly
+2017-02-10 00:00:00,Reserves with banks,4831.1,million USD,sbp_forex_reserves,weekly
+2017-02-17 00:00:00,Reserves with banks,4902.0,million USD,sbp_forex_reserves,weekly
+2017-02-24 00:00:00,Reserves with banks,4971.8,million USD,sbp_forex_reserves,weekly
+2017-03-03 00:00:00,Reserves with banks,5012.1,million USD,sbp_forex_reserves,weekly
+2017-03-10 00:00:00,Reserves with banks,5035.7,million USD,sbp_forex_reserves,weekly
+2017-03-17 00:00:00,Reserves with banks,5089.7,million USD,sbp_forex_reserves,weekly
+2017-03-24 00:00:00,Reserves with banks,5065.6,million USD,sbp_forex_reserves,weekly
+2017-04-07 00:00:00,Reserves with banks,5055.9,million USD,sbp_forex_reserves,weekly
+2017-04-14 00:00:00,Reserves with banks,5152.0,million USD,sbp_forex_reserves,weekly
+2017-04-21 00:00:00,Reserves with banks,5100.7,million USD,sbp_forex_reserves,weekly
+2017-05-05 00:00:00,Reserves with banks,4878.0,million USD,sbp_forex_reserves,weekly
+2017-05-12 00:00:00,Reserves with banks,4782.7,million USD,sbp_forex_reserves,weekly
+2017-05-19 00:00:00,Reserves with banks,4795.2,million USD,sbp_forex_reserves,weekly
+2017-05-26 00:00:00,Reserves with banks,4848.5,million USD,sbp_forex_reserves,weekly
+2017-06-02 00:00:00,Reserves with banks,4809.1,million USD,sbp_forex_reserves,weekly
+2017-06-09 00:00:00,Reserves with banks,4861.5,million USD,sbp_forex_reserves,weekly
+2017-06-16 00:00:00,Reserves with banks,4940.2,million USD,sbp_forex_reserves,weekly
+2017-06-23 00:00:00,Reserves with banks,4982.0,million USD,sbp_forex_reserves,weekly
+2017-07-07 00:00:00,Reserves with banks,5250.3,million USD,sbp_forex_reserves,weekly
+2017-07-14 00:00:00,Reserves with banks,5351.5,million USD,sbp_forex_reserves,weekly
+2017-07-21 00:00:00,Reserves with banks,5433.1,million USD,sbp_forex_reserves,weekly
+2017-07-28 00:00:00,Reserves with banks,5584.9,million USD,sbp_forex_reserves,weekly
+2017-08-04 00:00:00,Reserves with banks,5604.9,million USD,sbp_forex_reserves,weekly
+2017-08-11 00:00:00,Reserves with banks,5631.3,million USD,sbp_forex_reserves,weekly
+2017-08-18 00:00:00,Reserves with banks,5671.2,million USD,sbp_forex_reserves,weekly
+2017-08-25 00:00:00,Reserves with banks,5657.7,million USD,sbp_forex_reserves,weekly
+2017-09-08 00:00:00,Reserves with banks,5826.8,million USD,sbp_forex_reserves,weekly
+2017-09-15 00:00:00,Reserves with banks,5816.1,million USD,sbp_forex_reserves,weekly
+2017-09-22 00:00:00,Reserves with banks,5918.9,million USD,sbp_forex_reserves,weekly
+2017-10-06 00:00:00,Reserves with banks,5884.1,million USD,sbp_forex_reserves,weekly
+2017-10-13 00:00:00,Reserves with banks,5895.3,million USD,sbp_forex_reserves,weekly
+2017-10-20 00:00:00,Reserves with banks,5960.5,million USD,sbp_forex_reserves,weekly
+2017-10-27 00:00:00,Reserves with banks,5996.1,million USD,sbp_forex_reserves,weekly
+2017-11-03 00:00:00,Reserves with banks,6050.9,million USD,sbp_forex_reserves,weekly
+2017-11-10 00:00:00,Reserves with banks,6017.4,million USD,sbp_forex_reserves,weekly
+2017-11-17 00:00:00,Reserves with banks,6169.6,million USD,sbp_forex_reserves,weekly
+2017-11-24 00:00:00,Reserves with banks,6145.9,million USD,sbp_forex_reserves,weekly
+2017-12-08 00:00:00,Reserves with banks,6020.4,million USD,sbp_forex_reserves,weekly
+2017-12-15 00:00:00,Reserves with banks,6051.2,million USD,sbp_forex_reserves,weekly
+2017-12-22 00:00:00,Reserves with banks,6055.7,million USD,sbp_forex_reserves,weekly
+2018-01-05 00:00:00,Reserves with banks,6037.5,million USD,sbp_forex_reserves,weekly
+2018-01-12 00:00:00,Reserves with banks,6072.5,million USD,sbp_forex_reserves,weekly
+2018-01-19 00:00:00,Reserves with banks,6107.6,million USD,sbp_forex_reserves,weekly
+2018-01-26 00:00:00,Reserves with banks,6120.5,million USD,sbp_forex_reserves,weekly
+2018-02-02 00:00:00,Reserves with banks,6122.3,million USD,sbp_forex_reserves,weekly
+2018-02-09 00:00:00,Reserves with banks,6134.2,million USD,sbp_forex_reserves,weekly
+2018-02-16 00:00:00,Reserves with banks,6125.0,million USD,sbp_forex_reserves,weekly
+2018-02-23 00:00:00,Reserves with banks,6067.7,million USD,sbp_forex_reserves,weekly
+2018-03-02 00:00:00,Reserves with banks,6096.0,million USD,sbp_forex_reserves,weekly
+2018-03-09 00:00:00,Reserves with banks,6114.7,million USD,sbp_forex_reserves,weekly
+2018-03-16 00:00:00,Reserves with banks,6135.0,million USD,sbp_forex_reserves,weekly
+2018-03-30 00:00:00,Reserves with banks,6210.5,million USD,sbp_forex_reserves,weekly
+2018-04-06 00:00:00,Reserves with banks,6201.5,million USD,sbp_forex_reserves,weekly
+2018-04-13 00:00:00,Reserves with banks,6165.9,million USD,sbp_forex_reserves,weekly
+2018-04-20 00:00:00,Reserves with banks,6213.6,million USD,sbp_forex_reserves,weekly
+2018-04-27 00:00:00,Reserves with banks,6202.6,million USD,sbp_forex_reserves,weekly
+2018-05-04 00:00:00,Reserves with banks,6123.7,million USD,sbp_forex_reserves,weekly
+2018-05-11 00:00:00,Reserves with banks,6268.1,million USD,sbp_forex_reserves,weekly
+2018-05-18 00:00:00,Reserves with banks,6332.0,million USD,sbp_forex_reserves,weekly
+2018-05-25 00:00:00,Reserves with banks,6373.0,million USD,sbp_forex_reserves,weekly
+2018-06-01 00:00:00,Reserves with banks,6378.0,million USD,sbp_forex_reserves,weekly
+2018-06-08 00:00:00,Reserves with banks,6391.5,million USD,sbp_forex_reserves,weekly
+2018-06-22 00:00:00,Reserves with banks,6581.4,million USD,sbp_forex_reserves,weekly
+2018-07-06 00:00:00,Reserves with banks,6604.8,million USD,sbp_forex_reserves,weekly
+2018-07-13 00:00:00,Reserves with banks,6618.9,million USD,sbp_forex_reserves,weekly
+2018-07-20 00:00:00,Reserves with banks,6718.1,million USD,sbp_forex_reserves,weekly
+2018-07-27 00:00:00,Reserves with banks,6730.0,million USD,sbp_forex_reserves,weekly
+2018-08-03 00:00:00,Reserves with banks,6635.9,million USD,sbp_forex_reserves,weekly
+2018-08-10 00:00:00,Reserves with banks,6560.2,million USD,sbp_forex_reserves,weekly
+2018-08-17 00:00:00,Reserves with banks,6488.0,million USD,sbp_forex_reserves,weekly
+2018-08-24 00:00:00,Reserves with banks,6458.4,million USD,sbp_forex_reserves,weekly
+2018-09-07 00:00:00,Reserves with banks,6445.5,million USD,sbp_forex_reserves,weekly
+2018-09-14 00:00:00,Reserves with banks,6461.3,million USD,sbp_forex_reserves,weekly
+2018-10-05 00:00:00,Reserves with banks,6544.3,million USD,sbp_forex_reserves,weekly
+2018-10-12 00:00:00,Reserves with banks,6525.0,million USD,sbp_forex_reserves,weekly
+2018-10-19 00:00:00,Reserves with banks,6470.8,million USD,sbp_forex_reserves,weekly
+2018-10-26 00:00:00,Reserves with banks,6407.6,million USD,sbp_forex_reserves,weekly
+2018-11-02 00:00:00,Reserves with banks,6389.2,million USD,sbp_forex_reserves,weekly
+2018-11-09 00:00:00,Reserves with banks,6349.1,million USD,sbp_forex_reserves,weekly
+2018-11-16 00:00:00,Reserves with banks,6428.5,million USD,sbp_forex_reserves,weekly
+2018-11-23 00:00:00,Reserves with banks,6510.2,million USD,sbp_forex_reserves,weekly
+2018-11-30 00:00:00,Reserves with banks,6509.3,million USD,sbp_forex_reserves,weekly
+2018-12-07 00:00:00,Reserves with banks,6493.5,million USD,sbp_forex_reserves,weekly
+2018-12-14 00:00:00,Reserves with banks,6536.2,million USD,sbp_forex_reserves,weekly
+2018-12-21 00:00:00,Reserves with banks,6560.5,million USD,sbp_forex_reserves,weekly
+2018-12-28 00:00:00,Reserves with banks,6550.3,million USD,sbp_forex_reserves,weekly
+2019-01-04 00:00:00,Reserves with banks,6548.3,million USD,sbp_forex_reserves,weekly
+2019-01-11 00:00:00,Reserves with banks,6588.0,million USD,sbp_forex_reserves,weekly
+2019-01-18 00:00:00,Reserves with banks,6621.1,million USD,sbp_forex_reserves,weekly
+2019-01-25 00:00:00,Reserves with banks,6648.2,million USD,sbp_forex_reserves,weekly
+2019-02-01 00:00:00,Reserves with banks,6692.6,million USD,sbp_forex_reserves,weekly
+2019-02-08 00:00:00,Reserves with banks,6689.9,million USD,sbp_forex_reserves,weekly
+2019-02-15 00:00:00,Reserves with banks,6751.6,million USD,sbp_forex_reserves,weekly
+2019-02-22 00:00:00,Reserves with banks,6779.0,million USD,sbp_forex_reserves,weekly
+2019-03-01 00:00:00,Reserves with banks,6839.7,million USD,sbp_forex_reserves,weekly
+2019-03-08 00:00:00,Reserves with banks,6843.0,million USD,sbp_forex_reserves,weekly
+2019-03-15 00:00:00,Reserves with banks,6870.9,million USD,sbp_forex_reserves,weekly
+2019-03-22 00:00:00,Reserves with banks,6913.0,million USD,sbp_forex_reserves,weekly
+2019-04-05 00:00:00,Reserves with banks,6956.4,million USD,sbp_forex_reserves,weekly
+2019-04-12 00:00:00,Reserves with banks,6952.2,million USD,sbp_forex_reserves,weekly
+2019-04-19 00:00:00,Reserves with banks,6970.0,million USD,sbp_forex_reserves,weekly
+2019-04-26 00:00:00,Reserves with banks,6937.6,million USD,sbp_forex_reserves,weekly
+2019-05-03 00:00:00,Reserves with banks,6988.5,million USD,sbp_forex_reserves,weekly
+2019-05-10 00:00:00,Reserves with banks,7048.8,million USD,sbp_forex_reserves,weekly
+2019-05-17 00:00:00,Reserves with banks,7068.9,million USD,sbp_forex_reserves,weekly
+2019-05-24 00:00:00,Reserves with banks,7079.6,million USD,sbp_forex_reserves,weekly
+2019-06-14 00:00:00,Reserves with banks,7034.6,million USD,sbp_forex_reserves,weekly
+2019-06-21 00:00:00,Reserves with banks,7069.2,million USD,sbp_forex_reserves,weekly
+2019-07-05 00:00:00,Reserves with banks,7175.7,million USD,sbp_forex_reserves,weekly
+2019-07-12 00:00:00,Reserves with banks,7247.9,million USD,sbp_forex_reserves,weekly
+2019-07-19 00:00:00,Reserves with banks,7250.5,million USD,sbp_forex_reserves,weekly
+2019-07-26 00:00:00,Reserves with banks,7294.8,million USD,sbp_forex_reserves,weekly
+2019-08-02 00:00:00,Reserves with banks,7291.1,million USD,sbp_forex_reserves,weekly
+2019-08-09 00:00:00,Reserves with banks,7313.1,million USD,sbp_forex_reserves,weekly
+2019-08-17 00:00:00,Reserves with banks,7366.0,million USD,sbp_forex_reserves,weekly
+2019-08-23 00:00:00,Reserves with banks,7358.6,million USD,sbp_forex_reserves,weekly
+2019-09-06 00:00:00,Reserves with banks,7289.4,million USD,sbp_forex_reserves,weekly
+2019-09-13 00:00:00,Reserves with banks,7297.7,million USD,sbp_forex_reserves,weekly
+2019-09-20 00:00:00,Reserves with banks,7307.3,million USD,sbp_forex_reserves,weekly
+2019-09-27 00:00:00,Reserves with banks,7262.1,million USD,sbp_forex_reserves,weekly
+2019-10-04 00:00:00,Reserves with banks,7235.3,million USD,sbp_forex_reserves,weekly
+2019-10-11 00:00:00,Reserves with banks,7328.9,million USD,sbp_forex_reserves,weekly
+2019-10-18 00:00:00,Reserves with banks,7293.8,million USD,sbp_forex_reserves,weekly
+2019-10-25 00:00:00,Reserves with banks,7175.4,million USD,sbp_forex_reserves,weekly
+2019-11-01 00:00:00,Reserves with banks,7160.3,million USD,sbp_forex_reserves,weekly
+2019-11-08 00:00:00,Reserves with banks,7105.1,million USD,sbp_forex_reserves,weekly
+2019-11-15 00:00:00,Reserves with banks,7020.2,million USD,sbp_forex_reserves,weekly
+2019-11-22 00:00:00,Reserves with banks,6895.4,million USD,sbp_forex_reserves,weekly
+2019-11-29 00:00:00,Reserves with banks,6891.0,million USD,sbp_forex_reserves,weekly
+2019-12-06 00:00:00,Reserves with banks,6814.5,million USD,sbp_forex_reserves,weekly
+2019-12-13 00:00:00,Reserves with banks,6762.6,million USD,sbp_forex_reserves,weekly
+2019-12-20 00:00:00,Reserves with banks,6687.9,million USD,sbp_forex_reserves,weekly
+2019-12-27 00:00:00,Reserves with banks,6592.0,million USD,sbp_forex_reserves,weekly
+2020-01-03 00:00:00,Reserves with banks,6581.1,million USD,sbp_forex_reserves,weekly
+2020-01-10 00:00:00,Reserves with banks,6537.6,million USD,sbp_forex_reserves,weekly
+2020-01-17 00:00:00,Reserves with banks,6539.5,million USD,sbp_forex_reserves,weekly
+2020-01-24 00:00:00,Reserves with banks,6447.5,million USD,sbp_forex_reserves,weekly
+2020-01-31 00:00:00,Reserves with banks,6384.3,million USD,sbp_forex_reserves,weekly
+2020-02-07 00:00:00,Reserves with banks,6304.6,million USD,sbp_forex_reserves,weekly
+2020-02-14 00:00:00,Reserves with banks,6242.4,million USD,sbp_forex_reserves,weekly
+2020-02-21 00:00:00,Reserves with banks,6151.3,million USD,sbp_forex_reserves,weekly
+2020-02-28 00:00:00,Reserves with banks,6123.3,million USD,sbp_forex_reserves,weekly
+2020-03-06 00:00:00,Reserves with banks,6114.7,million USD,sbp_forex_reserves,weekly
+2020-03-13 00:00:00,Reserves with banks,6063.4,million USD,sbp_forex_reserves,weekly
+2020-03-20 00:00:00,Reserves with banks,6115.9,million USD,sbp_forex_reserves,weekly
+2020-03-27 00:00:00,Reserves with banks,6201.9,million USD,sbp_forex_reserves,weekly
+2020-04-03 00:00:00,Reserves with banks,6265.7,million USD,sbp_forex_reserves,weekly
+2020-04-10 00:00:00,Reserves with banks,6320.9,million USD,sbp_forex_reserves,weekly
+2020-04-17 00:00:00,Reserves with banks,6411.1,million USD,sbp_forex_reserves,weekly
+2020-04-24 00:00:00,Reserves with banks,6392.7,million USD,sbp_forex_reserves,weekly
+2020-05-08 00:00:00,Reserves with banks,6473.8,million USD,sbp_forex_reserves,weekly
+2020-05-15 00:00:00,Reserves with banks,6489.0,million USD,sbp_forex_reserves,weekly
+2020-05-29 00:00:00,Reserves with banks,6580.8,million USD,sbp_forex_reserves,weekly
+2020-06-05 00:00:00,Reserves with banks,6609.5,million USD,sbp_forex_reserves,weekly
+2020-06-12 00:00:00,Reserves with banks,6668.2,million USD,sbp_forex_reserves,weekly
+2020-06-19 00:00:00,Reserves with banks,6768.9,million USD,sbp_forex_reserves,weekly
+2020-06-26 00:00:00,Reserves with banks,6740.0,million USD,sbp_forex_reserves,weekly
+2020-07-03 00:00:00,Reserves with banks,6748.5,million USD,sbp_forex_reserves,weekly
+2020-07-10 00:00:00,Reserves with banks,6897.7,million USD,sbp_forex_reserves,weekly
+2020-07-17 00:00:00,Reserves with banks,6925.7,million USD,sbp_forex_reserves,weekly
+2020-07-24 00:00:00,Reserves with banks,6936.6,million USD,sbp_forex_reserves,weekly
+2020-08-07 00:00:00,Reserves with banks,7049.0,million USD,sbp_forex_reserves,weekly
+2020-08-21 00:00:00,Reserves with banks,7081.6,million USD,sbp_forex_reserves,weekly
+2020-08-28 00:00:00,Reserves with banks,7130.1,million USD,sbp_forex_reserves,weekly
+2020-09-04 00:00:00,Reserves with banks,7153.5,million USD,sbp_forex_reserves,weekly
+2020-09-11 00:00:00,Reserves with banks,7138.6,million USD,sbp_forex_reserves,weekly
+2020-09-18 00:00:00,Reserves with banks,7202.1,million USD,sbp_forex_reserves,weekly
+2020-09-25 00:00:00,Reserves with banks,7175.1,million USD,sbp_forex_reserves,weekly
+2020-10-02 00:00:00,Reserves with banks,7196.3,million USD,sbp_forex_reserves,weekly
+2020-10-09 00:00:00,Reserves with banks,7217.1,million USD,sbp_forex_reserves,weekly
+2020-10-16 00:00:00,Reserves with banks,7235.0,million USD,sbp_forex_reserves,weekly
+2020-10-23 00:00:00,Reserves with banks,7175.0,million USD,sbp_forex_reserves,weekly
+2020-11-06 00:00:00,Reserves with banks,7166.4,million USD,sbp_forex_reserves,weekly
+2020-11-13 00:00:00,Reserves with banks,7154.4,million USD,sbp_forex_reserves,weekly
+2020-11-20 00:00:00,Reserves with banks,7136.9,million USD,sbp_forex_reserves,weekly
+2020-11-27 00:00:00,Reserves with banks,7130.9,million USD,sbp_forex_reserves,weekly
+2020-12-04 00:00:00,Reserves with banks,7103.9,million USD,sbp_forex_reserves,weekly
+2020-12-11 00:00:00,Reserves with banks,7080.8,million USD,sbp_forex_reserves,weekly
+2020-12-18 00:00:00,Reserves with banks,7096.9,million USD,sbp_forex_reserves,weekly
+2021-01-08 00:00:00,Reserves with banks,7119.0,million USD,sbp_forex_reserves,weekly
+2021-01-15 00:00:00,Reserves with banks,7106.5,million USD,sbp_forex_reserves,weekly
+2021-01-22 00:00:00,Reserves with banks,7108.1,million USD,sbp_forex_reserves,weekly
+2021-02-12 00:00:00,Reserves with banks,7168.9,million USD,sbp_forex_reserves,weekly
+2021-02-19 00:00:00,Reserves with banks,7132.9,million USD,sbp_forex_reserves,weekly
+2021-02-26 00:00:00,Reserves with banks,7129.8,million USD,sbp_forex_reserves,weekly
+2021-03-05 00:00:00,Reserves with banks,7141.8,million USD,sbp_forex_reserves,weekly
+2021-03-12 00:00:00,Reserves with banks,7139.4,million USD,sbp_forex_reserves,weekly
+2021-03-19 00:00:00,Reserves with banks,7139.6,million USD,sbp_forex_reserves,weekly
+2021-03-26 00:00:00,Reserves with banks,7163.4,million USD,sbp_forex_reserves,weekly
+2021-04-02 00:00:00,Reserves with banks,7152.199999999999,million USD,sbp_forex_reserves,weekly
+2021-04-09 00:00:00,Reserves with banks,7113.9,million USD,sbp_forex_reserves,weekly
+2021-04-16 00:00:00,Reserves with banks,7168.9,million USD,sbp_forex_reserves,weekly
+2021-04-23 00:00:00,Reserves with banks,7092.4,million USD,sbp_forex_reserves,weekly
+2021-05-07 00:00:00,Reserves with banks,7135.8,million USD,sbp_forex_reserves,weekly
+2021-05-21 00:00:00,Reserves with banks,7153.9,million USD,sbp_forex_reserves,weekly
+2021-05-28 00:00:00,Reserves with banks,7160.5,million USD,sbp_forex_reserves,weekly
+2021-06-04 00:00:00,Reserves with banks,7163.0,million USD,sbp_forex_reserves,weekly
+2021-06-11 00:00:00,Reserves with banks,7169.2,million USD,sbp_forex_reserves,weekly
+2021-06-18 00:00:00,Reserves with banks,7150.8,million USD,sbp_forex_reserves,weekly
+2021-06-25 00:00:00,Reserves with banks,7178.0,million USD,sbp_forex_reserves,weekly
+2021-07-02 00:00:00,Reserves with banks,7183.8,million USD,sbp_forex_reserves,weekly
+2021-07-09 00:00:00,Reserves with banks,7106.5,million USD,sbp_forex_reserves,weekly
+2021-07-16 00:00:00,Reserves with banks,7077.299999999999,million USD,sbp_forex_reserves,weekly
+2021-07-23 00:00:00,Reserves with banks,7045.7,million USD,sbp_forex_reserves,weekly
+2021-08-06 00:00:00,Reserves with banks,7021.3,million USD,sbp_forex_reserves,weekly
+2021-08-13 00:00:00,Reserves with banks,7042.200000000001,million USD,sbp_forex_reserves,weekly
+2021-08-20 00:00:00,Reserves with banks,7040.4,million USD,sbp_forex_reserves,weekly
+2021-08-27 00:00:00,Reserves with banks,7082.1,million USD,sbp_forex_reserves,weekly
+2021-09-03 00:00:00,Reserves with banks,7080.0,million USD,sbp_forex_reserves,weekly
+2021-09-10 00:00:00,Reserves with banks,7042.2,million USD,sbp_forex_reserves,weekly
+2021-09-17 00:00:00,Reserves with banks,6859.2,million USD,sbp_forex_reserves,weekly
+2021-09-24 00:00:00,Reserves with banks,6856.3,million USD,sbp_forex_reserves,weekly
+2021-10-01 00:00:00,Reserves with banks,6830.8,million USD,sbp_forex_reserves,weekly
+2021-10-08 00:00:00,Reserves with banks,6831.0,million USD,sbp_forex_reserves,weekly
+2021-10-15 00:00:00,Reserves with banks,6835.2,million USD,sbp_forex_reserves,weekly
+2021-10-22 00:00:00,Reserves with banks,6787.1,million USD,sbp_forex_reserves,weekly
+2021-10-29 00:00:00,Reserves with banks,6629.7,million USD,sbp_forex_reserves,weekly
+2021-11-05 00:00:00,Reserves with banks,6699.5,million USD,sbp_forex_reserves,weekly
+2021-11-12 00:00:00,Reserves with banks,6605.2,million USD,sbp_forex_reserves,weekly
+2021-11-19 00:00:00,Reserves with banks,6519.7,million USD,sbp_forex_reserves,weekly
+2021-11-26 00:00:00,Reserves with banks,6488.5,million USD,sbp_forex_reserves,weekly
+2021-12-03 00:00:00,Reserves with banks,6492.5,million USD,sbp_forex_reserves,weekly
+2021-12-10 00:00:00,Reserves with banks,6459.5,million USD,sbp_forex_reserves,weekly
+2021-12-17 00:00:00,Reserves with banks,6479.3,million USD,sbp_forex_reserves,weekly
+2021-12-24 00:00:00,Reserves with banks,6418.3,million USD,sbp_forex_reserves,weekly
+2022-01-07 00:00:00,Reserves with banks,6303.5,million USD,sbp_forex_reserves,weekly
+2022-01-14 00:00:00,Reserves with banks,6314.0,million USD,sbp_forex_reserves,weekly
+2022-01-21 00:00:00,Reserves with banks,6292.0,million USD,sbp_forex_reserves,weekly
+2022-01-28 00:00:00,Reserves with banks,6356.9,million USD,sbp_forex_reserves,weekly
+2022-02-04 00:00:00,Reserves with banks,6384.1,million USD,sbp_forex_reserves,weekly
+2022-02-11 00:00:00,Reserves with banks,6394.4,million USD,sbp_forex_reserves,weekly
+2022-02-18 00:00:00,Reserves with banks,6419.5,million USD,sbp_forex_reserves,weekly
+2022-02-25 00:00:00,Reserves with banks,6412.8,million USD,sbp_forex_reserves,weekly
+2022-03-04 00:00:00,Reserves with banks,6456.5,million USD,sbp_forex_reserves,weekly
+2022-03-11 00:00:00,Reserves with banks,6451.8,million USD,sbp_forex_reserves,weekly
+2022-03-18 00:00:00,Reserves with banks,6477.3,million USD,sbp_forex_reserves,weekly
+2022-03-25 00:00:00,Reserves with banks,6507.2,million USD,sbp_forex_reserves,weekly
+2022-04-01 00:00:00,Reserves with banks,6157.7,million USD,sbp_forex_reserves,weekly
+2022-04-08 00:00:00,Reserves with banks,6178.5,million USD,sbp_forex_reserves,weekly
+2022-04-16 00:00:00,Reserves with banks,6159.3,million USD,sbp_forex_reserves,weekly
+2022-04-23 00:00:00,Reserves with banks,6110.0,million USD,sbp_forex_reserves,weekly
+2022-04-30 00:00:00,Reserves with banks,5907.1,million USD,sbp_forex_reserves,weekly
+2022-05-06 00:00:00,Reserves with banks,6067.0,million USD,sbp_forex_reserves,weekly
+2022-05-13 00:00:00,Reserves with banks,5997.4,million USD,sbp_forex_reserves,weekly
+2022-05-20 00:00:00,Reserves with banks,6061.2,million USD,sbp_forex_reserves,weekly
+2022-05-27 00:00:00,Reserves with banks,6048.5,million USD,sbp_forex_reserves,weekly
+2022-06-03 00:00:00,Reserves with banks,5950.3,million USD,sbp_forex_reserves,weekly
+2022-06-10 00:00:00,Reserves with banks,5957.7,million USD,sbp_forex_reserves,weekly
+2022-06-17 00:00:00,Reserves with banks,5972.7,million USD,sbp_forex_reserves,weekly
+2022-06-24 00:00:00,Reserves with banks,5886.6,million USD,sbp_forex_reserves,weekly
+2022-07-15 00:00:00,Reserves with banks,5912.9,million USD,sbp_forex_reserves,weekly
+2022-07-22 00:00:00,Reserves with banks,5839.5,million USD,sbp_forex_reserves,weekly
+2022-08-05 00:00:00,Reserves with banks,5730.8,million USD,sbp_forex_reserves,weekly
+2022-08-12 00:00:00,Reserves with banks,5716.0,million USD,sbp_forex_reserves,weekly
+2022-08-19 00:00:00,Reserves with banks,5711.7,million USD,sbp_forex_reserves,weekly
+2022-08-26 00:00:00,Reserves with banks,5706.4,million USD,sbp_forex_reserves,weekly
+2022-09-02 00:00:00,Reserves with banks,5673.6,million USD,sbp_forex_reserves,weekly
+2022-09-09 00:00:00,Reserves with banks,5693.4,million USD,sbp_forex_reserves,weekly
+2022-09-16 00:00:00,Reserves with banks,5723.5,million USD,sbp_forex_reserves,weekly
+2022-09-23 00:00:00,Reserves with banks,5756.0,million USD,sbp_forex_reserves,weekly
+2022-10-07 00:00:00,Reserves with banks,5649.9,million USD,sbp_forex_reserves,weekly
+2022-10-14 00:00:00,Reserves with banks,5653.7,million USD,sbp_forex_reserves,weekly
+2022-10-21 00:00:00,Reserves with banks,5722.3,million USD,sbp_forex_reserves,weekly
+2022-10-28 00:00:00,Reserves with banks,5766.0,million USD,sbp_forex_reserves,weekly
+2022-11-04 00:00:00,Reserves with banks,5764.0,million USD,sbp_forex_reserves,weekly
+2022-11-11 00:00:00,Reserves with banks,5836.7,million USD,sbp_forex_reserves,weekly
+2022-11-18 00:00:00,Reserves with banks,5819.3,million USD,sbp_forex_reserves,weekly
+2022-11-25 00:00:00,Reserves with banks,5879.5,million USD,sbp_forex_reserves,weekly
+2022-12-02 00:00:00,Reserves with banks,5866.8,million USD,sbp_forex_reserves,weekly
+2022-12-09 00:00:00,Reserves with banks,5870.2,million USD,sbp_forex_reserves,weekly
+2022-12-16 00:00:00,Reserves with banks,5883.9,million USD,sbp_forex_reserves,weekly
+2022-12-23 00:00:00,Reserves with banks,5885.3,million USD,sbp_forex_reserves,weekly
+2023-01-06 00:00:00,Reserves with banks,5844.6,million USD,sbp_forex_reserves,weekly
+2023-01-13 00:00:00,Reserves with banks,5842.4,million USD,sbp_forex_reserves,weekly
+2023-01-20 00:00:00,Reserves with banks,5774.8,million USD,sbp_forex_reserves,weekly
+2023-01-27 00:00:00,Reserves with banks,5655.5,million USD,sbp_forex_reserves,weekly
+2023-02-03 00:00:00,Reserves with banks,5622.9,million USD,sbp_forex_reserves,weekly
+2023-02-10 00:00:00,Reserves with banks,5509.3,million USD,sbp_forex_reserves,weekly
+2023-02-17 00:00:00,Reserves with banks,5468.0,million USD,sbp_forex_reserves,weekly
+2023-02-24 00:00:00,Reserves with banks,5453.8,million USD,sbp_forex_reserves,weekly
+2023-03-03 00:00:00,Reserves with banks,5453.0,million USD,sbp_forex_reserves,weekly
+2023-03-10 00:00:00,Reserves with banks,5527.7,million USD,sbp_forex_reserves,weekly
+2023-03-17 00:00:00,Reserves with banks,5540.5,million USD,sbp_forex_reserves,weekly
+2023-03-24 00:00:00,Reserves with banks,5571.6,million USD,sbp_forex_reserves,weekly
+2023-04-07 00:00:00,Reserves with banks,5526.2,million USD,sbp_forex_reserves,weekly
+2023-04-14 00:00:00,Reserves with banks,5532.4,million USD,sbp_forex_reserves,weekly
+2023-05-05 00:00:00,Reserves with banks,5607.0,million USD,sbp_forex_reserves,weekly
+2023-05-12 00:00:00,Reserves with banks,5625.6,million USD,sbp_forex_reserves,weekly
+2023-05-19 00:00:00,Reserves with banks,5538.1,million USD,sbp_forex_reserves,weekly
+2023-05-26 00:00:00,Reserves with banks,5422.3,million USD,sbp_forex_reserves,weekly
+2023-06-02 00:00:00,Reserves with banks,5422.6,million USD,sbp_forex_reserves,weekly
+2023-06-09 00:00:00,Reserves with banks,5359.5,million USD,sbp_forex_reserves,weekly
+2023-06-16 00:00:00,Reserves with banks,5326.9,million USD,sbp_forex_reserves,weekly
+2023-06-23 00:00:00,Reserves with banks,5270.9,million USD,sbp_forex_reserves,weekly
+2023-07-07 00:00:00,Reserves with banks,5314.5,million USD,sbp_forex_reserves,weekly
+2023-07-14 00:00:00,Reserves with banks,5338.1,million USD,sbp_forex_reserves,weekly
+2023-07-21 00:00:00,Reserves with banks,5348.0,million USD,sbp_forex_reserves,weekly
+2023-07-27 17:00:00,Reserves with banks,5309.9,million USD,sbp_forex_reserves,weekly
+2023-08-04 00:00:00,Reserves with banks,5295.7,million USD,sbp_forex_reserves,weekly
+2023-08-11 00:00:00,Reserves with banks,5323.7,million USD,sbp_forex_reserves,weekly
+2023-08-18 00:00:00,Reserves with banks,5317.9,million USD,sbp_forex_reserves,weekly
+2023-08-25 00:00:00,Reserves with banks,5321.8,million USD,sbp_forex_reserves,weekly
+2023-09-01 00:00:00,Reserves with banks,5347.4,million USD,sbp_forex_reserves,weekly
+2023-09-08 00:00:00,Reserves with banks,5440.2,million USD,sbp_forex_reserves,weekly
+2023-09-15 00:00:00,Reserves with banks,5491.3,million USD,sbp_forex_reserves,weekly
+2023-09-22 00:00:00,Reserves with banks,5525.1,million USD,sbp_forex_reserves,weekly
+2023-09-28 18:00:00,Reserves with banks,4777.3,million USD,sbp_forex_reserves,weekly
+2023-10-06 00:00:00,Reserves with banks,5383.4,million USD,sbp_forex_reserves,weekly
+2023-10-13 00:00:00,Reserves with banks,5198.9,million USD,sbp_forex_reserves,weekly
+2023-10-20 00:00:00,Reserves with banks,5161.4,million USD,sbp_forex_reserves,weekly
+2023-10-27 00:00:00,Reserves with banks,5068.8,million USD,sbp_forex_reserves,weekly
+2023-11-03 00:00:00,Reserves with banks,5102.7,million USD,sbp_forex_reserves,weekly
+2023-11-10 00:00:00,Reserves with banks,5138.8,million USD,sbp_forex_reserves,weekly
+2023-11-17 00:00:00,Reserves with banks,5122.3,million USD,sbp_forex_reserves,weekly
+2023-11-24 00:00:00,Reserves with banks,5135.8,million USD,sbp_forex_reserves,weekly
+2023-12-01 00:00:00,Reserves with banks,5086.9,million USD,sbp_forex_reserves,weekly
+2023-12-08 00:00:00,Reserves with banks,5165.6,million USD,sbp_forex_reserves,weekly
+2023-12-15 00:00:00,Reserves with banks,5163.6,million USD,sbp_forex_reserves,weekly
+2023-12-22 00:00:00,Reserves with banks,5098.6,million USD,sbp_forex_reserves,weekly
+2024-01-05 00:00:00,Reserves with banks,5101.8,million USD,sbp_forex_reserves,weekly
+2024-01-12 00:00:00,Reserves with banks,5117.7,million USD,sbp_forex_reserves,weekly
+2024-01-19 00:00:00,Reserves with banks,5070.9,million USD,sbp_forex_reserves,weekly
+2024-01-26 00:00:00,Reserves with banks,5046.0,million USD,sbp_forex_reserves,weekly
+2024-02-02 00:00:00,Reserves with banks,5053.6,million USD,sbp_forex_reserves,weekly
+2024-02-09 00:00:00,Reserves with banks,5092.6,million USD,sbp_forex_reserves,weekly
+2024-02-16 00:00:00,Reserves with banks,5085.0,million USD,sbp_forex_reserves,weekly
+2024-02-23 00:00:00,Reserves with banks,5088.9,million USD,sbp_forex_reserves,weekly
+2024-03-01 00:00:00,Reserves with banks,5124.3,million USD,sbp_forex_reserves,weekly
+2024-03-08 00:00:00,Reserves with banks,5238.4,million USD,sbp_forex_reserves,weekly
+2024-03-15 00:00:00,Reserves with banks,5372.8,million USD,sbp_forex_reserves,weekly
+2024-03-22 00:00:00,Reserves with banks,5405.7,million USD,sbp_forex_reserves,weekly
+2024-03-29 00:00:00,Reserves with banks,4718.9,million USD,sbp_forex_reserves,weekly
+2024-04-05 00:00:00,Reserves with banks,5401.4,million USD,sbp_forex_reserves,weekly
+2024-04-12 00:00:00,Reserves with banks,5319.0,million USD,sbp_forex_reserves,weekly
+2024-04-19 00:00:00,Reserves with banks,5299.3,million USD,sbp_forex_reserves,weekly
+2024-04-26 00:00:00,Reserves with banks,5310.0,million USD,sbp_forex_reserves,weekly
+2024-05-03 00:00:00,Reserves with banks,5338.6,million USD,sbp_forex_reserves,weekly
+2024-05-10 00:00:00,Reserves with banks,5490.9,million USD,sbp_forex_reserves,weekly
+2024-05-17 00:00:00,Reserves with banks,5428.4,million USD,sbp_forex_reserves,weekly
+2024-05-24 00:00:00,Reserves with banks,5221.7,million USD,sbp_forex_reserves,weekly
+2024-05-31 00:00:00,Reserves with banks,4541.3,million USD,sbp_forex_reserves,weekly
+2024-06-07 00:00:00,Reserves with banks,5280.5,million USD,sbp_forex_reserves,weekly
+2024-06-14 00:00:00,Reserves with banks,5279.9,million USD,sbp_forex_reserves,weekly
+2024-06-21 00:00:00,Reserves with banks,5311.5,million USD,sbp_forex_reserves,weekly
+2024-06-28 00:00:00,Reserves with banks,4606.7,million USD,sbp_forex_reserves,weekly
+2024-07-05 00:00:00,Reserves with banks,5239.6,million USD,sbp_forex_reserves,weekly
+2024-07-12 00:00:00,Reserves with banks,5279.8,million USD,sbp_forex_reserves,weekly
+2024-07-19 00:00:00,Reserves with banks,5308.2,million USD,sbp_forex_reserves,weekly
+2024-07-26 00:00:00,Reserves with banks,5289.5,million USD,sbp_forex_reserves,weekly
+2024-08-02 00:00:00,Reserves with banks,5318.6,million USD,sbp_forex_reserves,weekly
+2024-08-09 00:00:00,Reserves with banks,5372.6,million USD,sbp_forex_reserves,weekly
+2024-08-16 00:00:00,Reserves with banks,5375.6,million USD,sbp_forex_reserves,weekly
+2024-08-23 00:00:00,Reserves with banks,5372.9,million USD,sbp_forex_reserves,weekly
+2024-08-30 00:00:00,Reserves with banks,4737.3,million USD,sbp_forex_reserves,weekly
+2024-09-06 00:00:00,Reserves with banks,5329.5,million USD,sbp_forex_reserves,weekly
+2024-09-13 00:00:00,Reserves with banks,5316.9,million USD,sbp_forex_reserves,weekly
+2024-09-20 00:00:00,Reserves with banks,5339.5,million USD,sbp_forex_reserves,weekly
+2024-09-27 00:00:00,Reserves with banks,5281.2,million USD,sbp_forex_reserves,weekly
+2024-10-04 00:00:00,Reserves with banks,5239.0,million USD,sbp_forex_reserves,weekly
+2024-10-11 00:00:00,Reserves with banks,5088.6,million USD,sbp_forex_reserves,weekly
+2024-10-18 00:00:00,Reserves with banks,4976.4,million USD,sbp_forex_reserves,weekly
+2024-10-25 00:00:00,Reserves with banks,4892.6,million USD,sbp_forex_reserves,weekly
+2024-11-01 00:00:00,Reserves with banks,4757.2,million USD,sbp_forex_reserves,weekly
+2024-11-08 00:00:00,Reserves with banks,4706.9,million USD,sbp_forex_reserves,weekly
+2024-11-15 00:00:00,Reserves with banks,4679.7,million USD,sbp_forex_reserves,weekly
+2024-11-22 00:00:00,Reserves with banks,4657.7,million USD,sbp_forex_reserves,weekly
+2024-11-29 00:00:00,Reserves with banks,4090.6,million USD,sbp_forex_reserves,weekly
+2024-12-06 00:00:00,Reserves with banks,4550.1,million USD,sbp_forex_reserves,weekly
+2024-12-13 00:00:00,Reserves with banks,4551.2,million USD,sbp_forex_reserves,weekly
+2024-12-20 00:00:00,Reserves with banks,4518.0,million USD,sbp_forex_reserves,weekly
+2024-12-27 00:00:00,Reserves with banks,4698.2,million USD,sbp_forex_reserves,weekly
+2025-01-03 00:00:00,Reserves with banks,4682.6,million USD,sbp_forex_reserves,weekly
+2025-01-10 00:00:00,Reserves with banks,4725.9,million USD,sbp_forex_reserves,weekly
+2025-01-17 00:00:00,Reserves with banks,4740.6,million USD,sbp_forex_reserves,weekly
+2025-01-24 00:00:00,Reserves with banks,4679.7,million USD,sbp_forex_reserves,weekly
+2025-01-31 00:00:00,Reserves with banks,4180.5,million USD,sbp_forex_reserves,weekly
+2025-02-07 00:00:00,Reserves with banks,4696.0,million USD,sbp_forex_reserves,weekly
+2025-02-14 00:00:00,Reserves with banks,4746.4,million USD,sbp_forex_reserves,weekly
+2025-02-21 00:00:00,Reserves with banks,4703.3,million USD,sbp_forex_reserves,weekly
+2025-02-28 00:00:00,Reserves with banks,4147.8,million USD,sbp_forex_reserves,weekly
+2025-03-07 00:00:00,Reserves with banks,4831.0,million USD,sbp_forex_reserves,weekly
+2025-03-14 00:00:00,Reserves with banks,4869.0,million USD,sbp_forex_reserves,weekly
+2025-03-21 00:00:00,Reserves with banks,4944.2,million USD,sbp_forex_reserves,weekly
+2025-03-28 00:00:00,Reserves with banks,4903.4,million USD,sbp_forex_reserves,weekly
+2025-04-04 00:00:00,Reserves with banks,5053.3,million USD,sbp_forex_reserves,weekly
+2025-04-11 00:00:00,Reserves with banks,5089.6,million USD,sbp_forex_reserves,weekly
+2025-04-18 00:00:00,Reserves with banks,5230.1,million USD,sbp_forex_reserves,weekly
+2025-04-25 00:00:00,Reserves with banks,5037.4,million USD,sbp_forex_reserves,weekly
+2025-05-02 00:00:00,Reserves with banks,5150.1,million USD,sbp_forex_reserves,weekly
+2025-05-09 00:00:00,Reserves with banks,5210.7,million USD,sbp_forex_reserves,weekly
+2025-05-16 00:00:00,Reserves with banks,5202.0,million USD,sbp_forex_reserves,weekly
+2025-05-23 00:00:00,Reserves with banks,5120.7,million USD,sbp_forex_reserves,weekly
+2025-05-30 00:00:00,Reserves with banks,4559.6,million USD,sbp_forex_reserves,weekly
+2025-06-06 00:00:00,Reserves with banks,5199.4,million USD,sbp_forex_reserves,weekly
+2025-06-13 00:00:00,Reserves with banks,5282.6,million USD,sbp_forex_reserves,weekly
+2025-06-20 00:00:00,Reserves with banks,5332.9,million USD,sbp_forex_reserves,weekly
+2025-06-27 00:00:00,Reserves with banks,5363.3,million USD,sbp_forex_reserves,weekly
+2025-07-04 00:00:00,Reserves with banks,5526.5,million USD,sbp_forex_reserves,weekly
+2025-07-11 00:00:00,Reserves with banks,5431.5,million USD,sbp_forex_reserves,weekly
+2025-07-18 00:00:00,Reserves with banks,5460.9,million USD,sbp_forex_reserves,weekly
+2025-07-25 00:00:00,Reserves with banks,5303.1,million USD,sbp_forex_reserves,weekly
+2025-08-01 00:00:00,Reserves with banks,5263.7,million USD,sbp_forex_reserves,weekly
+2025-08-08 00:00:00,Reserves with banks,5253.5,million USD,sbp_forex_reserves,weekly
+2025-08-15 00:00:00,Reserves with banks,5314.6,million USD,sbp_forex_reserves,weekly
+2025-08-22 00:00:00,Reserves with banks,5343.5,million USD,sbp_forex_reserves,weekly
+2025-09-05 00:00:00,Reserves with banks,5344.6,million USD,sbp_forex_reserves,weekly
+2025-09-12 00:00:00,Reserves with banks,5378.5,million USD,sbp_forex_reserves,weekly
+2025-09-19 00:00:00,Reserves with banks,5413.8,million USD,sbp_forex_reserves,weekly
+2025-09-26 00:00:00,Reserves with banks,5396.3,million USD,sbp_forex_reserves,weekly
+2025-10-03 00:00:00,Reserves with banks,5390.3,million USD,sbp_forex_reserves,weekly
+2025-10-10 00:00:00,Reserves with banks,5369.7,million USD,sbp_forex_reserves,weekly
+2025-10-17 00:00:00,Reserves with banks,5398.3,million USD,sbp_forex_reserves,weekly
+2025-10-24 00:00:00,Reserves with banks,5216.0,million USD,sbp_forex_reserves,weekly
+2025-11-07 00:00:00,Reserves with banks,5199.3,million USD,sbp_forex_reserves,weekly
+2025-11-14 00:00:00,Reserves with banks,5186.7,million USD,sbp_forex_reserves,weekly
+2025-11-21 00:00:00,Reserves with banks,5044.3,million USD,sbp_forex_reserves,weekly
+2025-11-28 00:00:00,Reserves with banks,5013.7,million USD,sbp_forex_reserves,weekly
+2025-12-05 00:00:00,Reserves with banks,5025.7,million USD,sbp_forex_reserves,weekly
+2025-12-12 00:00:00,Reserves with banks,5202.2,million USD,sbp_forex_reserves,weekly
+2025-12-19 00:00:00,Reserves with banks,5120.1,million USD,sbp_forex_reserves,weekly
+2025-12-26 00:00:00,Reserves with banks,5097.1,million USD,sbp_forex_reserves,weekly
+2026-01-02 00:00:00,Reserves with banks,5136.7,million USD,sbp_forex_reserves,weekly
+2026-01-09 00:00:00,Reserves with banks,5176.6,million USD,sbp_forex_reserves,weekly
+2026-01-16 00:00:00,Reserves with banks,5170.5,million USD,sbp_forex_reserves,weekly
+2026-01-23 00:00:00,Reserves with banks,5192.2,million USD,sbp_forex_reserves,weekly
+2026-01-30 00:00:00,Reserves with banks,4814.5,million USD,sbp_forex_reserves,weekly
+2026-02-06 00:00:00,Reserves with banks,5196.9,million USD,sbp_forex_reserves,weekly
+2026-02-13 00:00:00,Reserves with banks,5104.6,million USD,sbp_forex_reserves,weekly
+2026-02-20 00:00:00,Reserves with banks,5194.8,million USD,sbp_forex_reserves,weekly
+2026-03-06 00:00:00,Reserves with banks,5257.2,million USD,sbp_forex_reserves,weekly
+2026-03-13 00:00:00,Reserves with banks,5350.5,million USD,sbp_forex_reserves,weekly
+2026-03-19 19:00:00,Reserves with banks,5360.2,million USD,sbp_forex_reserves,weekly
+2026-03-27 00:00:00,Reserves with banks,5407.9,million USD,sbp_forex_reserves,weekly
+2026-04-03 00:00:00,Reserves with banks,5494.6,million USD,sbp_forex_reserves,weekly
+2026-04-10 00:00:00,Reserves with banks,5445.0,million USD,sbp_forex_reserves,weekly
+2026-04-17 00:00:00,Reserves with banks,5530.9,million USD,sbp_forex_reserves,weekly
+2026-04-24 00:00:00,Reserves with banks,5441.1,million USD,sbp_forex_reserves,weekly
+2026-05-08 00:00:00,Reserves with banks,5469.3,million USD,sbp_forex_reserves,weekly
+2026-05-15 00:00:00,Reserves with banks,5507.5,million USD,sbp_forex_reserves,weekly
+2026-05-22 00:00:00,Reserves with banks,5499.5,million USD,sbp_forex_reserves,weekly
+2026-05-29 00:00:00,Reserves with banks,5445.6,million USD,sbp_forex_reserves,weekly
+2026-06-05 00:00:00,Reserves with banks,5456.5,million USD,sbp_forex_reserves,weekly
+2026-06-12 00:00:00,Reserves with banks,5520.7,million USD,sbp_forex_reserves,weekly
+2026-06-19 00:00:00,Reserves with banks,5568.3,million USD,sbp_forex_reserves,weekly
+2026-06-24 21:00:00,Reserves with banks,5517.4,million USD,sbp_forex_reserves,weekly
+2026-07-03 00:00:00,Reserves with banks,5517.7,million USD,sbp_forex_reserves,weekly
+2026-07-10 00:00:00,Reserves with banks,5449.7,million USD,sbp_forex_reserves,weekly
+2026-07-17 00:00:00,Reserves with banks,5411.0,million USD,sbp_forex_reserves,weekly
+2026-07-24 00:00:00,Reserves with banks,5412.2,million USD,sbp_forex_reserves,weekly
+2026-07-31 00:00:00,Reserves with banks,5431.6,million USD,sbp_forex_reserves,weekly
+2010-10-29 00:00:00,Total liquid FX reserves,19389.7,million USD,sbp_forex_reserves,weekly
+2011-05-07 00:00:00,Total liquid FX reserves,17008.9,million USD,sbp_forex_reserves,weekly
+2011-05-14 00:00:00,Total liquid FX reserves,16966.6,million USD,sbp_forex_reserves,weekly
+2011-05-21 00:00:00,Total liquid FX reserves,17065.8,million USD,sbp_forex_reserves,weekly
+2011-05-28 00:00:00,Total liquid FX reserves,17339.6,million USD,sbp_forex_reserves,weekly
+2011-06-04 00:00:00,Total liquid FX reserves,17164.5,million USD,sbp_forex_reserves,weekly
+2011-06-11 00:00:00,Total liquid FX reserves,17517.9,million USD,sbp_forex_reserves,weekly
+2011-06-18 00:00:00,Total liquid FX reserves,17523.1,million USD,sbp_forex_reserves,weekly
+2011-06-25 00:00:00,Total liquid FX reserves,17470.600000000002,million USD,sbp_forex_reserves,weekly
+2011-07-02 00:00:00,Total liquid FX reserves,18247.1,million USD,sbp_forex_reserves,weekly
+2011-07-09 00:00:00,Total liquid FX reserves,18107.7,million USD,sbp_forex_reserves,weekly
+2011-07-16 00:00:00,Total liquid FX reserves,18235.3,million USD,sbp_forex_reserves,weekly
+2011-07-23 00:00:00,Total liquid FX reserves,18303.1,million USD,sbp_forex_reserves,weekly
+2011-08-06 00:00:00,Total liquid FX reserves,17975.3,million USD,sbp_forex_reserves,weekly
+2011-08-13 00:00:00,Total liquid FX reserves,18042.3,million USD,sbp_forex_reserves,weekly
+2011-08-20 00:00:00,Total liquid FX reserves,17958.6,million USD,sbp_forex_reserves,weekly
+2011-08-27 00:00:00,Total liquid FX reserves,17898.7,million USD,sbp_forex_reserves,weekly
+2011-09-03 00:00:00,Total liquid FX reserves,18063.1,million USD,sbp_forex_reserves,weekly
+2011-09-10 00:00:00,Total liquid FX reserves,17794.100000000002,million USD,sbp_forex_reserves,weekly
+2011-09-17 00:00:00,Total liquid FX reserves,17639.0,million USD,sbp_forex_reserves,weekly
+2011-09-24 00:00:00,Total liquid FX reserves,17379.399999999998,million USD,sbp_forex_reserves,weekly
+2011-10-01 00:00:00,Total liquid FX reserves,17345.7,million USD,sbp_forex_reserves,weekly
+2011-10-08 00:00:00,Total liquid FX reserves,17171.9,million USD,sbp_forex_reserves,weekly
+2011-10-14 00:00:00,Total liquid FX reserves,17202.5,million USD,sbp_forex_reserves,weekly
+2011-10-21 00:00:00,Total liquid FX reserves,17209.3,million USD,sbp_forex_reserves,weekly
+2011-10-28 00:00:00,Total liquid FX reserves,17146.3,million USD,sbp_forex_reserves,weekly
+2011-11-04 00:00:00,Total liquid FX reserves,17028.8,million USD,sbp_forex_reserves,weekly
+2011-11-11 00:00:00,Total liquid FX reserves,17031.5,million USD,sbp_forex_reserves,weekly
+2011-11-18 00:00:00,Total liquid FX reserves,16961.4,million USD,sbp_forex_reserves,weekly
+2011-11-25 00:00:00,Total liquid FX reserves,16884.8,million USD,sbp_forex_reserves,weekly
+2011-12-02 00:00:00,Total liquid FX reserves,16678.9,million USD,sbp_forex_reserves,weekly
+2011-12-09 00:00:00,Total liquid FX reserves,16689.4,million USD,sbp_forex_reserves,weekly
+2011-12-16 00:00:00,Total liquid FX reserves,16658.0,million USD,sbp_forex_reserves,weekly
+2011-12-23 00:00:00,Total liquid FX reserves,16769.2,million USD,sbp_forex_reserves,weekly
+2011-12-24 00:00:00,Total liquid FX reserves,20254.0,million USD,sbp_forex_reserves,weekly
+2012-01-06 00:00:00,Total liquid FX reserves,16901.4,million USD,sbp_forex_reserves,weekly
+2012-01-13 00:00:00,Total liquid FX reserves,16902.699999999997,million USD,sbp_forex_reserves,weekly
+2012-01-20 00:00:00,Total liquid FX reserves,16802.0,million USD,sbp_forex_reserves,weekly
+2012-01-27 00:00:00,Total liquid FX reserves,16870.1,million USD,sbp_forex_reserves,weekly
+2012-02-03 00:00:00,Total liquid FX reserves,16689.9,million USD,sbp_forex_reserves,weekly
+2012-02-10 00:00:00,Total liquid FX reserves,16768.7,million USD,sbp_forex_reserves,weekly
+2012-02-17 00:00:00,Total liquid FX reserves,16645.2,million USD,sbp_forex_reserves,weekly
+2012-02-24 00:00:00,Total liquid FX reserves,16424.5,million USD,sbp_forex_reserves,weekly
+2012-03-02 00:00:00,Total liquid FX reserves,16336.2,million USD,sbp_forex_reserves,weekly
+2012-03-09 00:00:00,Total liquid FX reserves,16390.3,million USD,sbp_forex_reserves,weekly
+2012-03-16 00:00:00,Total liquid FX reserves,16395.300000000003,million USD,sbp_forex_reserves,weekly
+2012-03-23 00:00:00,Total liquid FX reserves,16441.6,million USD,sbp_forex_reserves,weekly
+2012-04-06 00:00:00,Total liquid FX reserves,16522.4,million USD,sbp_forex_reserves,weekly
+2012-04-13 00:00:00,Total liquid FX reserves,16602.2,million USD,sbp_forex_reserves,weekly
+2012-04-20 00:00:00,Total liquid FX reserves,16422.5,million USD,sbp_forex_reserves,weekly
+2012-04-27 00:00:00,Total liquid FX reserves,16434.9,million USD,sbp_forex_reserves,weekly
+2012-05-04 00:00:00,Total liquid FX reserves,16416.1,million USD,sbp_forex_reserves,weekly
+2012-05-11 00:00:00,Total liquid FX reserves,16103.6,million USD,sbp_forex_reserves,weekly
+2012-05-18 00:00:00,Total liquid FX reserves,16311.099999999999,million USD,sbp_forex_reserves,weekly
+2012-05-25 00:00:00,Total liquid FX reserves,16005.8,million USD,sbp_forex_reserves,weekly
+2012-06-01 00:00:00,Total liquid FX reserves,15536.400000000001,million USD,sbp_forex_reserves,weekly
+2012-06-08 00:00:00,Total liquid FX reserves,15417.3,million USD,sbp_forex_reserves,weekly
+2012-06-15 00:00:00,Total liquid FX reserves,15046.5,million USD,sbp_forex_reserves,weekly
+2012-06-22 00:00:00,Total liquid FX reserves,14964.2,million USD,sbp_forex_reserves,weekly
+2012-07-06 00:00:00,Total liquid FX reserves,14908.800000000001,million USD,sbp_forex_reserves,weekly
+2012-07-13 00:00:00,Total liquid FX reserves,14939.5,million USD,sbp_forex_reserves,weekly
+2012-07-20 00:00:00,Total liquid FX reserves,14772.5,million USD,sbp_forex_reserves,weekly
+2012-07-27 00:00:00,Total liquid FX reserves,14574.5,million USD,sbp_forex_reserves,weekly
+2012-08-03 00:00:00,Total liquid FX reserves,15542.199999999999,million USD,sbp_forex_reserves,weekly
+2012-08-10 00:00:00,Total liquid FX reserves,15298.400000000001,million USD,sbp_forex_reserves,weekly
+2012-08-17 00:00:00,Total liquid FX reserves,15182.7,million USD,sbp_forex_reserves,weekly
+2012-08-24 00:00:00,Total liquid FX reserves,14764.2,million USD,sbp_forex_reserves,weekly
+2012-09-07 00:00:00,Total liquid FX reserves,14828.4,million USD,sbp_forex_reserves,weekly
+2012-09-14 00:00:00,Total liquid FX reserves,14864.3,million USD,sbp_forex_reserves,weekly
+2012-09-21 00:00:00,Total liquid FX reserves,14841.5,million USD,sbp_forex_reserves,weekly
+2012-10-05 00:00:00,Total liquid FX reserves,14406.7,million USD,sbp_forex_reserves,weekly
+2012-10-12 00:00:00,Total liquid FX reserves,14319.300000000001,million USD,sbp_forex_reserves,weekly
+2012-10-19 00:00:00,Total liquid FX reserves,14389.8,million USD,sbp_forex_reserves,weekly
+2012-10-26 00:00:00,Total liquid FX reserves,14333.2,million USD,sbp_forex_reserves,weekly
+2012-11-02 00:00:00,Total liquid FX reserves,14100.5,million USD,sbp_forex_reserves,weekly
+2012-11-09 00:00:00,Total liquid FX reserves,13845.5,million USD,sbp_forex_reserves,weekly
+2012-11-16 00:00:00,Total liquid FX reserves,13814.2,million USD,sbp_forex_reserves,weekly
+2012-11-23 00:00:00,Total liquid FX reserves,13575.699999999999,million USD,sbp_forex_reserves,weekly
+2012-12-07 00:00:00,Total liquid FX reserves,13374.5,million USD,sbp_forex_reserves,weekly
+2012-12-14 00:00:00,Total liquid FX reserves,13208.400000000001,million USD,sbp_forex_reserves,weekly
+2012-12-21 00:00:00,Total liquid FX reserves,13378.1,million USD,sbp_forex_reserves,weekly
+2012-12-28 00:00:00,Total liquid FX reserves,13808.099999999999,million USD,sbp_forex_reserves,weekly
+2013-01-04 00:00:00,Total liquid FX reserves,13558.8,million USD,sbp_forex_reserves,weekly
+2013-01-11 00:00:00,Total liquid FX reserves,13782.4,million USD,sbp_forex_reserves,weekly
+2013-01-18 00:00:00,Total liquid FX reserves,13705.3,million USD,sbp_forex_reserves,weekly
+2013-01-25 00:00:00,Total liquid FX reserves,13549.099999999999,million USD,sbp_forex_reserves,weekly
+2013-02-01 00:00:00,Total liquid FX reserves,13474.2,million USD,sbp_forex_reserves,weekly
+2013-02-08 00:00:00,Total liquid FX reserves,13395.599999999999,million USD,sbp_forex_reserves,weekly
+2013-02-15 00:00:00,Total liquid FX reserves,13058.599999999999,million USD,sbp_forex_reserves,weekly
+2013-02-22 00:00:00,Total liquid FX reserves,13185.0,million USD,sbp_forex_reserves,weekly
+2013-03-01 00:00:00,Total liquid FX reserves,12804.7,million USD,sbp_forex_reserves,weekly
+2013-03-08 00:00:00,Total liquid FX reserves,12565.5,million USD,sbp_forex_reserves,weekly
+2013-03-15 00:00:00,Total liquid FX reserves,12436.1,million USD,sbp_forex_reserves,weekly
+2013-03-22 00:00:00,Total liquid FX reserves,12370.0,million USD,sbp_forex_reserves,weekly
+2013-04-05 00:00:00,Total liquid FX reserves,11758.5,million USD,sbp_forex_reserves,weekly
+2013-04-12 00:00:00,Total liquid FX reserves,11690.0,million USD,sbp_forex_reserves,weekly
+2013-04-19 00:00:00,Total liquid FX reserves,11938.0,million USD,sbp_forex_reserves,weekly
+2013-04-26 00:00:00,Total liquid FX reserves,11764.4,million USD,sbp_forex_reserves,weekly
+2013-05-03 00:00:00,Total liquid FX reserves,11863.099999999999,million USD,sbp_forex_reserves,weekly
+2013-05-10 00:00:00,Total liquid FX reserves,11601.0,million USD,sbp_forex_reserves,weekly
+2013-05-17 00:00:00,Total liquid FX reserves,11433.0,million USD,sbp_forex_reserves,weekly
+2013-05-24 00:00:00,Total liquid FX reserves,11623.8,million USD,sbp_forex_reserves,weekly
+2013-06-07 00:00:00,Total liquid FX reserves,11446.0,million USD,sbp_forex_reserves,weekly
+2013-06-14 00:00:00,Total liquid FX reserves,11340.6,million USD,sbp_forex_reserves,weekly
+2013-06-21 00:00:00,Total liquid FX reserves,11344.8,million USD,sbp_forex_reserves,weekly
+2013-07-05 00:00:00,Total liquid FX reserves,10543.5,million USD,sbp_forex_reserves,weekly
+2013-07-12 00:00:00,Total liquid FX reserves,10501.900000000001,million USD,sbp_forex_reserves,weekly
+2013-07-19 00:00:00,Total liquid FX reserves,10202.7,million USD,sbp_forex_reserves,weekly
+2013-07-26 00:00:00,Total liquid FX reserves,10224.6,million USD,sbp_forex_reserves,weekly
+2013-08-02 00:00:00,Total liquid FX reserves,10230.7,million USD,sbp_forex_reserves,weekly
+2013-08-07 00:00:00,Total liquid FX reserves,10326.8,million USD,sbp_forex_reserves,weekly
+2013-08-16 00:00:00,Total liquid FX reserves,10399.1,million USD,sbp_forex_reserves,weekly
+2013-08-23 00:00:00,Total liquid FX reserves,10390.5,million USD,sbp_forex_reserves,weekly
+2013-09-06 00:00:00,Total liquid FX reserves,10373.2,million USD,sbp_forex_reserves,weekly
+2013-09-13 00:00:00,Total liquid FX reserves,10374.5,million USD,sbp_forex_reserves,weekly
+2013-09-20 00:00:00,Total liquid FX reserves,10210.7,million USD,sbp_forex_reserves,weekly
+2013-09-27 00:00:00,Total liquid FX reserves,9923.400000000001,million USD,sbp_forex_reserves,weekly
+2013-10-04 00:00:00,Total liquid FX reserves,9127.6,million USD,sbp_forex_reserves,weekly
+2013-10-11 00:00:00,Total liquid FX reserves,9207.3,million USD,sbp_forex_reserves,weekly
+2013-10-14 00:00:00,Total liquid FX reserves,9230.3,million USD,sbp_forex_reserves,weekly
+2013-10-25 00:00:00,Total liquid FX reserves,9497.2,million USD,sbp_forex_reserves,weekly
+2013-11-01 00:00:00,Total liquid FX reserves,9509.8,million USD,sbp_forex_reserves,weekly
+2013-11-08 00:00:00,Total liquid FX reserves,9077.7,million USD,sbp_forex_reserves,weekly
+2013-11-13 00:00:00,Total liquid FX reserves,8865.2,million USD,sbp_forex_reserves,weekly
+2013-11-22 00:00:00,Total liquid FX reserves,8796.0,million USD,sbp_forex_reserves,weekly
+2013-12-06 00:00:00,Total liquid FX reserves,8060.4,million USD,sbp_forex_reserves,weekly
+2013-12-13 00:00:00,Total liquid FX reserves,8526.3,million USD,sbp_forex_reserves,weekly
+2013-12-20 00:00:00,Total liquid FX reserves,8090.200000000001,million USD,sbp_forex_reserves,weekly
+2013-12-27 00:00:00,Total liquid FX reserves,8521.400000000001,million USD,sbp_forex_reserves,weekly
+2014-01-03 00:00:00,Total liquid FX reserves,8049.3,million USD,sbp_forex_reserves,weekly
+2014-01-10 00:00:00,Total liquid FX reserves,8316.9,million USD,sbp_forex_reserves,weekly
+2014-01-17 00:00:00,Total liquid FX reserves,8168.400000000001,million USD,sbp_forex_reserves,weekly
+2014-01-24 00:00:00,Total liquid FX reserves,7993.9,million USD,sbp_forex_reserves,weekly
+2014-02-07 00:00:00,Total liquid FX reserves,7589.6,million USD,sbp_forex_reserves,weekly
+2014-02-14 00:00:00,Total liquid FX reserves,7994.2,million USD,sbp_forex_reserves,weekly
+2014-02-21 00:00:00,Total liquid FX reserves,8654.6,million USD,sbp_forex_reserves,weekly
+2014-03-07 00:00:00,Total liquid FX reserves,9375.7,million USD,sbp_forex_reserves,weekly
+2014-03-14 00:00:00,Total liquid FX reserves,9648.9,million USD,sbp_forex_reserves,weekly
+2014-03-21 00:00:00,Total liquid FX reserves,9143.8,million USD,sbp_forex_reserves,weekly
+2014-03-28 00:00:00,Total liquid FX reserves,9864.2,million USD,sbp_forex_reserves,weekly
+2014-04-04 00:00:00,Total liquid FX reserves,9713.5,million USD,sbp_forex_reserves,weekly
+2014-04-11 00:00:00,Total liquid FX reserves,9849.599999999999,million USD,sbp_forex_reserves,weekly
+2014-04-18 00:00:00,Total liquid FX reserves,11753.8,million USD,sbp_forex_reserves,weekly
+2014-04-25 00:00:00,Total liquid FX reserves,11740.7,million USD,sbp_forex_reserves,weekly
+2014-05-02 00:00:00,Total liquid FX reserves,12044.3,million USD,sbp_forex_reserves,weekly
+2014-05-09 00:00:00,Total liquid FX reserves,12884.8,million USD,sbp_forex_reserves,weekly
+2014-05-16 00:00:00,Total liquid FX reserves,13132.8,million USD,sbp_forex_reserves,weekly
+2014-05-23 00:00:00,Total liquid FX reserves,13439.5,million USD,sbp_forex_reserves,weekly
+2014-06-06 00:00:00,Total liquid FX reserves,13456.9,million USD,sbp_forex_reserves,weekly
+2014-06-13 00:00:00,Total liquid FX reserves,13571.199999999999,million USD,sbp_forex_reserves,weekly
+2014-06-20 00:00:00,Total liquid FX reserves,14263.5,million USD,sbp_forex_reserves,weekly
+2014-06-27 00:00:00,Total liquid FX reserves,13990.1,million USD,sbp_forex_reserves,weekly
+2014-07-04 00:00:00,Total liquid FX reserves,14637.699999999999,million USD,sbp_forex_reserves,weekly
+2014-07-11 00:00:00,Total liquid FX reserves,14513.599999999999,million USD,sbp_forex_reserves,weekly
+2014-07-18 00:00:00,Total liquid FX reserves,14450.199999999999,million USD,sbp_forex_reserves,weekly
+2014-07-25 00:00:00,Total liquid FX reserves,14340.6,million USD,sbp_forex_reserves,weekly
+2014-08-01 00:00:00,Total liquid FX reserves,14306.9,million USD,sbp_forex_reserves,weekly
+2014-08-08 00:00:00,Total liquid FX reserves,14264.1,million USD,sbp_forex_reserves,weekly
+2014-08-15 00:00:00,Total liquid FX reserves,13925.800000000001,million USD,sbp_forex_reserves,weekly
+2014-08-22 00:00:00,Total liquid FX reserves,13581.599999999999,million USD,sbp_forex_reserves,weekly
+2014-09-05 00:00:00,Total liquid FX reserves,13414.8,million USD,sbp_forex_reserves,weekly
+2014-09-12 00:00:00,Total liquid FX reserves,13525.2,million USD,sbp_forex_reserves,weekly
+2014-09-19 00:00:00,Total liquid FX reserves,13305.0,million USD,sbp_forex_reserves,weekly
+2014-09-26 00:00:00,Total liquid FX reserves,13210.5,million USD,sbp_forex_reserves,weekly
+2014-10-03 00:00:00,Total liquid FX reserves,13400.800000000001,million USD,sbp_forex_reserves,weekly
+2014-10-10 00:00:00,Total liquid FX reserves,13435.900000000001,million USD,sbp_forex_reserves,weekly
+2014-10-17 00:00:00,Total liquid FX reserves,13464.9,million USD,sbp_forex_reserves,weekly
+2014-10-24 00:00:00,Total liquid FX reserves,13200.0,million USD,sbp_forex_reserves,weekly
+2014-11-07 00:00:00,Total liquid FX reserves,13267.8,million USD,sbp_forex_reserves,weekly
+2014-11-14 00:00:00,Total liquid FX reserves,13228.1,million USD,sbp_forex_reserves,weekly
+2014-11-21 00:00:00,Total liquid FX reserves,13219.9,million USD,sbp_forex_reserves,weekly
+2014-12-05 00:00:00,Total liquid FX reserves,13922.400000000001,million USD,sbp_forex_reserves,weekly
+2014-12-12 00:00:00,Total liquid FX reserves,14042.4,million USD,sbp_forex_reserves,weekly
+2014-12-19 00:00:00,Total liquid FX reserves,15098.5,million USD,sbp_forex_reserves,weekly
+2014-12-26 00:00:00,Total liquid FX reserves,14944.7,million USD,sbp_forex_reserves,weekly
+2015-01-02 00:00:00,Total liquid FX reserves,15212.699999999999,million USD,sbp_forex_reserves,weekly
+2015-01-09 00:00:00,Total liquid FX reserves,15060.2,million USD,sbp_forex_reserves,weekly
+2015-01-16 00:00:00,Total liquid FX reserves,15019.8,million USD,sbp_forex_reserves,weekly
+2015-01-23 00:00:00,Total liquid FX reserves,15063.900000000001,million USD,sbp_forex_reserves,weekly
+2015-02-06 00:00:00,Total liquid FX reserves,15238.2,million USD,sbp_forex_reserves,weekly
+2015-02-13 00:00:00,Total liquid FX reserves,16036.7,million USD,sbp_forex_reserves,weekly
+2015-02-20 00:00:00,Total liquid FX reserves,15943.7,million USD,sbp_forex_reserves,weekly
+2015-03-06 00:00:00,Total liquid FX reserves,16284.2,million USD,sbp_forex_reserves,weekly
+2015-03-13 00:00:00,Total liquid FX reserves,16273.7,million USD,sbp_forex_reserves,weekly
+2015-03-20 00:00:00,Total liquid FX reserves,16131.9,million USD,sbp_forex_reserves,weekly
+2015-03-27 00:00:00,Total liquid FX reserves,16194.199999999999,million USD,sbp_forex_reserves,weekly
+2015-04-03 00:00:00,Total liquid FX reserves,16706.3,million USD,sbp_forex_reserves,weekly
+2015-04-10 00:00:00,Total liquid FX reserves,16818.4,million USD,sbp_forex_reserves,weekly
+2015-04-17 00:00:00,Total liquid FX reserves,17491.0,million USD,sbp_forex_reserves,weekly
+2015-04-24 00:00:00,Total liquid FX reserves,17717.6,million USD,sbp_forex_reserves,weekly
+2015-05-01 00:00:00,Total liquid FX reserves,17690.1,million USD,sbp_forex_reserves,weekly
+2015-05-08 00:00:00,Total liquid FX reserves,17739.3,million USD,sbp_forex_reserves,weekly
+2015-05-15 00:00:00,Total liquid FX reserves,17749.1,million USD,sbp_forex_reserves,weekly
+2015-05-22 00:00:00,Total liquid FX reserves,17494.2,million USD,sbp_forex_reserves,weekly
+2015-06-05 00:00:00,Total liquid FX reserves,17446.9,million USD,sbp_forex_reserves,weekly
+2015-06-12 00:00:00,Total liquid FX reserves,17448.5,million USD,sbp_forex_reserves,weekly
+2015-06-19 00:00:00,Total liquid FX reserves,17457.1,million USD,sbp_forex_reserves,weekly
+2015-06-26 00:00:00,Total liquid FX reserves,18201.5,million USD,sbp_forex_reserves,weekly
+2015-07-03 00:00:00,Total liquid FX reserves,18714.6,million USD,sbp_forex_reserves,weekly
+2015-07-10 00:00:00,Total liquid FX reserves,18589.9,million USD,sbp_forex_reserves,weekly
+2015-07-17 00:00:00,Total liquid FX reserves,18677.4,million USD,sbp_forex_reserves,weekly
+2015-07-24 00:00:00,Total liquid FX reserves,18536.0,million USD,sbp_forex_reserves,weekly
+2015-08-07 00:00:00,Total liquid FX reserves,18678.8,million USD,sbp_forex_reserves,weekly
+2015-08-14 00:00:00,Total liquid FX reserves,18655.0,million USD,sbp_forex_reserves,weekly
+2015-08-21 00:00:00,Total liquid FX reserves,18508.7,million USD,sbp_forex_reserves,weekly
+2015-08-28 00:00:00,Total liquid FX reserves,18497.0,million USD,sbp_forex_reserves,weekly
+2015-09-04 00:00:00,Total liquid FX reserves,18598.0,million USD,sbp_forex_reserves,weekly
+2015-09-11 00:00:00,Total liquid FX reserves,18726.1,million USD,sbp_forex_reserves,weekly
+2015-09-18 00:00:00,Total liquid FX reserves,18500.800000000003,million USD,sbp_forex_reserves,weekly
+2015-09-25 00:00:00,Total liquid FX reserves,18349.1,million USD,sbp_forex_reserves,weekly
+2015-10-02 00:00:00,Total liquid FX reserves,20054.2,million USD,sbp_forex_reserves,weekly
+2015-10-09 00:00:00,Total liquid FX reserves,19993.1,million USD,sbp_forex_reserves,weekly
+2015-10-16 00:00:00,Total liquid FX reserves,19920.800000000003,million USD,sbp_forex_reserves,weekly
+2015-10-23 00:00:00,Total liquid FX reserves,19818.699999999997,million USD,sbp_forex_reserves,weekly
+2015-11-06 00:00:00,Total liquid FX reserves,19746.300000000003,million USD,sbp_forex_reserves,weekly
+2015-11-13 00:00:00,Total liquid FX reserves,19713.0,million USD,sbp_forex_reserves,weekly
+2015-11-20 00:00:00,Total liquid FX reserves,19828.2,million USD,sbp_forex_reserves,weekly
+2015-11-27 00:00:00,Total liquid FX reserves,19819.3,million USD,sbp_forex_reserves,weekly
+2015-12-04 00:00:00,Total liquid FX reserves,20450.9,million USD,sbp_forex_reserves,weekly
+2015-12-11 00:00:00,Total liquid FX reserves,20709.3,million USD,sbp_forex_reserves,weekly
+2015-12-18 00:00:00,Total liquid FX reserves,20574.3,million USD,sbp_forex_reserves,weekly
+2015-12-25 00:00:00,Total liquid FX reserves,21073.9,million USD,sbp_forex_reserves,weekly
+2016-01-01 00:00:00,Total liquid FX reserves,20810.1,million USD,sbp_forex_reserves,weekly
+2016-01-08 00:00:00,Total liquid FX reserves,20759.6,million USD,sbp_forex_reserves,weekly
+2016-01-15 00:00:00,Total liquid FX reserves,20689.699999999997,million USD,sbp_forex_reserves,weekly
+2016-01-22 00:00:00,Total liquid FX reserves,20502.1,million USD,sbp_forex_reserves,weekly
+2016-02-05 00:00:00,Total liquid FX reserves,20195.8,million USD,sbp_forex_reserves,weekly
+2016-02-12 00:00:00,Total liquid FX reserves,20387.9,million USD,sbp_forex_reserves,weekly
+2016-02-19 00:00:00,Total liquid FX reserves,20332.9,million USD,sbp_forex_reserves,weekly
+2016-02-26 00:00:00,Total liquid FX reserves,20352.3,million USD,sbp_forex_reserves,weekly
+2016-03-04 00:00:00,Total liquid FX reserves,20522.0,million USD,sbp_forex_reserves,weekly
+2016-03-11 00:00:00,Total liquid FX reserves,20718.4,million USD,sbp_forex_reserves,weekly
+2016-03-18 00:00:00,Total liquid FX reserves,20521.5,million USD,sbp_forex_reserves,weekly
+2016-03-25 00:00:00,Total liquid FX reserves,20423.6,million USD,sbp_forex_reserves,weekly
+2016-04-01 00:00:00,Total liquid FX reserves,20884.9,million USD,sbp_forex_reserves,weekly
+2016-04-08 00:00:00,Total liquid FX reserves,20834.3,million USD,sbp_forex_reserves,weekly
+2016-04-15 00:00:00,Total liquid FX reserves,20779.800000000003,million USD,sbp_forex_reserves,weekly
+2016-04-22 00:00:00,Total liquid FX reserves,20790.0,million USD,sbp_forex_reserves,weekly
+2016-05-06 00:00:00,Total liquid FX reserves,20834.2,million USD,sbp_forex_reserves,weekly
+2016-05-13 00:00:00,Total liquid FX reserves,21319.4,million USD,sbp_forex_reserves,weekly
+2016-05-20 00:00:00,Total liquid FX reserves,21611.7,million USD,sbp_forex_reserves,weekly
+2016-05-27 00:00:00,Total liquid FX reserves,21601.7,million USD,sbp_forex_reserves,weekly
+2016-06-03 00:00:00,Total liquid FX reserves,21266.6,million USD,sbp_forex_reserves,weekly
+2016-06-10 00:00:00,Total liquid FX reserves,21415.1,million USD,sbp_forex_reserves,weekly
+2016-06-17 00:00:00,Total liquid FX reserves,21770.5,million USD,sbp_forex_reserves,weekly
+2016-06-24 00:00:00,Total liquid FX reserves,21765.8,million USD,sbp_forex_reserves,weekly
+2016-07-01 00:00:00,Total liquid FX reserves,23084.9,million USD,sbp_forex_reserves,weekly
+2016-07-08 00:00:00,Total liquid FX reserves,23062.9,million USD,sbp_forex_reserves,weekly
+2016-07-15 00:00:00,Total liquid FX reserves,23091.4,million USD,sbp_forex_reserves,weekly
+2016-07-22 00:00:00,Total liquid FX reserves,22996.600000000002,million USD,sbp_forex_reserves,weekly
+2016-08-05 00:00:00,Total liquid FX reserves,22595.1,million USD,sbp_forex_reserves,weekly
+2016-08-12 00:00:00,Total liquid FX reserves,22623.199999999997,million USD,sbp_forex_reserves,weekly
+2016-08-19 00:00:00,Total liquid FX reserves,23081.199999999997,million USD,sbp_forex_reserves,weekly
+2016-08-26 00:00:00,Total liquid FX reserves,23038.699999999997,million USD,sbp_forex_reserves,weekly
+2016-09-02 00:00:00,Total liquid FX reserves,22983.699999999997,million USD,sbp_forex_reserves,weekly
+2016-09-09 00:00:00,Total liquid FX reserves,22858.4,million USD,sbp_forex_reserves,weekly
+2016-09-16 00:00:00,Total liquid FX reserves,22697.9,million USD,sbp_forex_reserves,weekly
+2016-09-23 00:00:00,Total liquid FX reserves,23418.0,million USD,sbp_forex_reserves,weekly
+2016-10-07 00:00:00,Total liquid FX reserves,23492.1,million USD,sbp_forex_reserves,weekly
+2016-10-14 00:00:00,Total liquid FX reserves,24461.4,million USD,sbp_forex_reserves,weekly
+2016-10-21 00:00:00,Total liquid FX reserves,24326.5,million USD,sbp_forex_reserves,weekly
+2016-10-28 00:00:00,Total liquid FX reserves,24189.3,million USD,sbp_forex_reserves,weekly
+2016-11-04 00:00:00,Total liquid FX reserves,24153.4,million USD,sbp_forex_reserves,weekly
+2016-11-11 00:00:00,Total liquid FX reserves,24095.8,million USD,sbp_forex_reserves,weekly
+2016-11-18 00:00:00,Total liquid FX reserves,23865.2,million USD,sbp_forex_reserves,weekly
+2016-11-25 00:00:00,Total liquid FX reserves,23614.8,million USD,sbp_forex_reserves,weekly
+2016-12-02 00:00:00,Total liquid FX reserves,23344.4,million USD,sbp_forex_reserves,weekly
+2016-12-09 00:00:00,Total liquid FX reserves,23294.800000000003,million USD,sbp_forex_reserves,weekly
+2016-12-16 00:00:00,Total liquid FX reserves,23132.0,million USD,sbp_forex_reserves,weekly
+2016-12-23 00:00:00,Total liquid FX reserves,23286.0,million USD,sbp_forex_reserves,weekly
+2017-01-06 00:00:00,Total liquid FX reserves,23200.2,million USD,sbp_forex_reserves,weekly
+2017-01-13 00:00:00,Total liquid FX reserves,23191.5,million USD,sbp_forex_reserves,weekly
+2017-01-20 00:00:00,Total liquid FX reserves,23246.2,million USD,sbp_forex_reserves,weekly
+2017-01-27 00:00:00,Total liquid FX reserves,22434.9,million USD,sbp_forex_reserves,weekly
+2017-02-03 00:00:00,Total liquid FX reserves,22031.3,million USD,sbp_forex_reserves,weekly
+2017-02-10 00:00:00,Total liquid FX reserves,21824.5,million USD,sbp_forex_reserves,weekly
+2017-02-17 00:00:00,Total liquid FX reserves,21929.8,million USD,sbp_forex_reserves,weekly
+2017-02-24 00:00:00,Total liquid FX reserves,21822.6,million USD,sbp_forex_reserves,weekly
+2017-03-03 00:00:00,Total liquid FX reserves,22151.800000000003,million USD,sbp_forex_reserves,weekly
+2017-03-10 00:00:00,Total liquid FX reserves,22274.0,million USD,sbp_forex_reserves,weekly
+2017-03-17 00:00:00,Total liquid FX reserves,22050.2,million USD,sbp_forex_reserves,weekly
+2017-03-24 00:00:00,Total liquid FX reserves,21795.9,million USD,sbp_forex_reserves,weekly
+2017-04-07 00:00:00,Total liquid FX reserves,21744.1,million USD,sbp_forex_reserves,weekly
+2017-04-14 00:00:00,Total liquid FX reserves,21568.1,million USD,sbp_forex_reserves,weekly
+2017-04-21 00:00:00,Total liquid FX reserves,21150.8,million USD,sbp_forex_reserves,weekly
+2017-05-05 00:00:00,Total liquid FX reserves,20790.5,million USD,sbp_forex_reserves,weekly
+2017-05-12 00:00:00,Total liquid FX reserves,20678.6,million USD,sbp_forex_reserves,weekly
+2017-05-19 00:00:00,Total liquid FX reserves,21007.8,million USD,sbp_forex_reserves,weekly
+2017-05-26 00:00:00,Total liquid FX reserves,21770.4,million USD,sbp_forex_reserves,weekly
+2017-06-02 00:00:00,Total liquid FX reserves,20515.7,million USD,sbp_forex_reserves,weekly
+2017-06-09 00:00:00,Total liquid FX reserves,20157.8,million USD,sbp_forex_reserves,weekly
+2017-06-16 00:00:00,Total liquid FX reserves,20361.0,million USD,sbp_forex_reserves,weekly
+2017-06-23 00:00:00,Total liquid FX reserves,21358.0,million USD,sbp_forex_reserves,weekly
+2017-07-07 00:00:00,Total liquid FX reserves,21447.6,million USD,sbp_forex_reserves,weekly
+2017-07-14 00:00:00,Total liquid FX reserves,20830.0,million USD,sbp_forex_reserves,weekly
+2017-07-21 00:00:00,Total liquid FX reserves,20436.2,million USD,sbp_forex_reserves,weekly
+2017-07-28 00:00:00,Total liquid FX reserves,20283.1,million USD,sbp_forex_reserves,weekly
+2017-08-04 00:00:00,Total liquid FX reserves,20003.699999999997,million USD,sbp_forex_reserves,weekly
+2017-08-11 00:00:00,Total liquid FX reserves,19941.8,million USD,sbp_forex_reserves,weekly
+2017-08-18 00:00:00,Total liquid FX reserves,20046.3,million USD,sbp_forex_reserves,weekly
+2017-08-25 00:00:00,Total liquid FX reserves,20001.1,million USD,sbp_forex_reserves,weekly
+2017-09-08 00:00:00,Total liquid FX reserves,20585.2,million USD,sbp_forex_reserves,weekly
+2017-09-15 00:00:00,Total liquid FX reserves,20099.7,million USD,sbp_forex_reserves,weekly
+2017-09-22 00:00:00,Total liquid FX reserves,20051.6,million USD,sbp_forex_reserves,weekly
+2017-10-06 00:00:00,Total liquid FX reserves,19672.0,million USD,sbp_forex_reserves,weekly
+2017-10-13 00:00:00,Total liquid FX reserves,20052.9,million USD,sbp_forex_reserves,weekly
+2017-10-20 00:00:00,Total liquid FX reserves,19902.1,million USD,sbp_forex_reserves,weekly
+2017-10-27 00:00:00,Total liquid FX reserves,19842.800000000003,million USD,sbp_forex_reserves,weekly
+2017-11-03 00:00:00,Total liquid FX reserves,19912.1,million USD,sbp_forex_reserves,weekly
+2017-11-10 00:00:00,Total liquid FX reserves,19695.0,million USD,sbp_forex_reserves,weekly
+2017-11-17 00:00:00,Total liquid FX reserves,19710.7,million USD,sbp_forex_reserves,weekly
+2017-11-24 00:00:00,Total liquid FX reserves,19693.199999999997,million USD,sbp_forex_reserves,weekly
+2017-12-08 00:00:00,Total liquid FX reserves,20686.699999999997,million USD,sbp_forex_reserves,weekly
+2017-12-15 00:00:00,Total liquid FX reserves,20383.4,million USD,sbp_forex_reserves,weekly
+2017-12-22 00:00:00,Total liquid FX reserves,20189.0,million USD,sbp_forex_reserves,weekly
+2018-01-05 00:00:00,Total liquid FX reserves,20020.0,million USD,sbp_forex_reserves,weekly
+2018-01-12 00:00:00,Total liquid FX reserves,19771.5,million USD,sbp_forex_reserves,weekly
+2018-01-19 00:00:00,Total liquid FX reserves,19640.4,million USD,sbp_forex_reserves,weekly
+2018-01-26 00:00:00,Total liquid FX reserves,19354.5,million USD,sbp_forex_reserves,weekly
+2018-02-02 00:00:00,Total liquid FX reserves,19182.9,million USD,sbp_forex_reserves,weekly
+2018-02-09 00:00:00,Total liquid FX reserves,18968.1,million USD,sbp_forex_reserves,weekly
+2018-02-16 00:00:00,Total liquid FX reserves,18828.7,million USD,sbp_forex_reserves,weekly
+2018-02-23 00:00:00,Total liquid FX reserves,18413.3,million USD,sbp_forex_reserves,weekly
+2018-03-02 00:00:00,Total liquid FX reserves,18329.2,million USD,sbp_forex_reserves,weekly
+2018-03-09 00:00:00,Total liquid FX reserves,18240.4,million USD,sbp_forex_reserves,weekly
+2018-03-16 00:00:00,Total liquid FX reserves,18079.0,million USD,sbp_forex_reserves,weekly
+2018-03-30 00:00:00,Total liquid FX reserves,17812.8,million USD,sbp_forex_reserves,weekly
+2018-04-06 00:00:00,Total liquid FX reserves,17639.8,million USD,sbp_forex_reserves,weekly
+2018-04-13 00:00:00,Total liquid FX reserves,17545.5,million USD,sbp_forex_reserves,weekly
+2018-04-20 00:00:00,Total liquid FX reserves,17130.6,million USD,sbp_forex_reserves,weekly
+2018-04-27 00:00:00,Total liquid FX reserves,17712.9,million USD,sbp_forex_reserves,weekly
+2018-05-04 00:00:00,Total liquid FX reserves,17286.4,million USD,sbp_forex_reserves,weekly
+2018-05-11 00:00:00,Total liquid FX reserves,17067.0,million USD,sbp_forex_reserves,weekly
+2018-05-18 00:00:00,Total liquid FX reserves,16652.2,million USD,sbp_forex_reserves,weekly
+2018-05-25 00:00:00,Total liquid FX reserves,16406.8,million USD,sbp_forex_reserves,weekly
+2018-06-01 00:00:00,Total liquid FX reserves,16419.6,million USD,sbp_forex_reserves,weekly
+2018-06-08 00:00:00,Total liquid FX reserves,16457.1,million USD,sbp_forex_reserves,weekly
+2018-06-22 00:00:00,Total liquid FX reserves,16243.9,million USD,sbp_forex_reserves,weekly
+2018-07-06 00:00:00,Total liquid FX reserves,16084.3,million USD,sbp_forex_reserves,weekly
+2018-07-13 00:00:00,Total liquid FX reserves,15682.5,million USD,sbp_forex_reserves,weekly
+2018-07-20 00:00:00,Total liquid FX reserves,15728.800000000001,million USD,sbp_forex_reserves,weekly
+2018-07-27 00:00:00,Total liquid FX reserves,17079.7,million USD,sbp_forex_reserves,weekly
+2018-08-03 00:00:00,Total liquid FX reserves,17005.0,million USD,sbp_forex_reserves,weekly
+2018-08-10 00:00:00,Total liquid FX reserves,16712.8,million USD,sbp_forex_reserves,weekly
+2018-08-17 00:00:00,Total liquid FX reserves,16722.8,million USD,sbp_forex_reserves,weekly
+2018-08-24 00:00:00,Total liquid FX reserves,16685.1,million USD,sbp_forex_reserves,weekly
+2018-09-07 00:00:00,Total liquid FX reserves,16069.9,million USD,sbp_forex_reserves,weekly
+2018-09-14 00:00:00,Total liquid FX reserves,15790.099999999999,million USD,sbp_forex_reserves,weekly
+2018-10-05 00:00:00,Total liquid FX reserves,14852.099999999999,million USD,sbp_forex_reserves,weekly
+2018-10-12 00:00:00,Total liquid FX reserves,14613.9,million USD,sbp_forex_reserves,weekly
+2018-10-19 00:00:00,Total liquid FX reserves,14295.8,million USD,sbp_forex_reserves,weekly
+2018-10-26 00:00:00,Total liquid FX reserves,14184.5,million USD,sbp_forex_reserves,weekly
+2018-11-02 00:00:00,Total liquid FX reserves,14068.099999999999,million USD,sbp_forex_reserves,weekly
+2018-11-09 00:00:00,Total liquid FX reserves,13832.0,million USD,sbp_forex_reserves,weekly
+2018-11-16 00:00:00,Total liquid FX reserves,13715.0,million USD,sbp_forex_reserves,weekly
+2018-11-23 00:00:00,Total liquid FX reserves,14572.599999999999,million USD,sbp_forex_reserves,weekly
+2018-11-30 00:00:00,Total liquid FX reserves,14011.400000000001,million USD,sbp_forex_reserves,weekly
+2018-12-07 00:00:00,Total liquid FX reserves,13753.9,million USD,sbp_forex_reserves,weekly
+2018-12-14 00:00:00,Total liquid FX reserves,14584.599999999999,million USD,sbp_forex_reserves,weekly
+2018-12-21 00:00:00,Total liquid FX reserves,14017.8,million USD,sbp_forex_reserves,weekly
+2018-12-28 00:00:00,Total liquid FX reserves,13837.8,million USD,sbp_forex_reserves,weekly
+2019-01-04 00:00:00,Total liquid FX reserves,13597.0,million USD,sbp_forex_reserves,weekly
+2019-01-11 00:00:00,Total liquid FX reserves,13489.2,million USD,sbp_forex_reserves,weekly
+2019-01-18 00:00:00,Total liquid FX reserves,13257.2,million USD,sbp_forex_reserves,weekly
+2019-01-25 00:00:00,Total liquid FX reserves,14802.5,million USD,sbp_forex_reserves,weekly
+2019-02-01 00:00:00,Total liquid FX reserves,14885.1,million USD,sbp_forex_reserves,weekly
+2019-02-08 00:00:00,Total liquid FX reserves,14895.8,million USD,sbp_forex_reserves,weekly
+2019-02-15 00:00:00,Total liquid FX reserves,14794.6,million USD,sbp_forex_reserves,weekly
+2019-02-22 00:00:00,Total liquid FX reserves,14815.8,million USD,sbp_forex_reserves,weekly
+2019-03-01 00:00:00,Total liquid FX reserves,14956.2,million USD,sbp_forex_reserves,weekly
+2019-03-08 00:00:00,Total liquid FX reserves,14965.9,million USD,sbp_forex_reserves,weekly
+2019-03-15 00:00:00,Total liquid FX reserves,15709.6,million USD,sbp_forex_reserves,weekly
+2019-03-22 00:00:00,Total liquid FX reserves,15473.9,million USD,sbp_forex_reserves,weekly
+2019-04-05 00:00:00,Total liquid FX reserves,17228.3,million USD,sbp_forex_reserves,weekly
+2019-04-12 00:00:00,Total liquid FX reserves,16195.900000000001,million USD,sbp_forex_reserves,weekly
+2019-04-19 00:00:00,Total liquid FX reserves,15994.3,million USD,sbp_forex_reserves,weekly
+2019-04-26 00:00:00,Total liquid FX reserves,15742.800000000001,million USD,sbp_forex_reserves,weekly
+2019-05-03 00:00:00,Total liquid FX reserves,15972.6,million USD,sbp_forex_reserves,weekly
+2019-05-10 00:00:00,Total liquid FX reserves,15894.400000000001,million USD,sbp_forex_reserves,weekly
+2019-05-17 00:00:00,Total liquid FX reserves,15126.5,million USD,sbp_forex_reserves,weekly
+2019-05-24 00:00:00,Total liquid FX reserves,15089.8,million USD,sbp_forex_reserves,weekly
+2019-06-14 00:00:00,Total liquid FX reserves,14639.1,million USD,sbp_forex_reserves,weekly
+2019-06-21 00:00:00,Total liquid FX reserves,14351.3,million USD,sbp_forex_reserves,weekly
+2019-07-05 00:00:00,Total liquid FX reserves,14259.3,million USD,sbp_forex_reserves,weekly
+2019-07-12 00:00:00,Total liquid FX reserves,15249.2,million USD,sbp_forex_reserves,weekly
+2019-07-19 00:00:00,Total liquid FX reserves,14862.4,million USD,sbp_forex_reserves,weekly
+2019-07-26 00:00:00,Total liquid FX reserves,15061.8,million USD,sbp_forex_reserves,weekly
+2019-08-02 00:00:00,Total liquid FX reserves,15020.2,million USD,sbp_forex_reserves,weekly
+2019-08-09 00:00:00,Total liquid FX reserves,15577.5,million USD,sbp_forex_reserves,weekly
+2019-08-17 00:00:00,Total liquid FX reserves,15604.7,million USD,sbp_forex_reserves,weekly
+2019-08-23 00:00:00,Total liquid FX reserves,15629.7,million USD,sbp_forex_reserves,weekly
+2019-09-06 00:00:00,Total liquid FX reserves,15751.699999999999,million USD,sbp_forex_reserves,weekly
+2019-09-13 00:00:00,Total liquid FX reserves,15898.099999999999,million USD,sbp_forex_reserves,weekly
+2019-09-20 00:00:00,Total liquid FX reserves,15772.599999999999,million USD,sbp_forex_reserves,weekly
+2019-09-27 00:00:00,Total liquid FX reserves,15003.7,million USD,sbp_forex_reserves,weekly
+2019-10-04 00:00:00,Total liquid FX reserves,14992.900000000001,million USD,sbp_forex_reserves,weekly
+2019-10-11 00:00:00,Total liquid FX reserves,15142.599999999999,million USD,sbp_forex_reserves,weekly
+2019-10-18 00:00:00,Total liquid FX reserves,15186.5,million USD,sbp_forex_reserves,weekly
+2019-10-25 00:00:00,Total liquid FX reserves,15089.7,million USD,sbp_forex_reserves,weekly
+2019-11-01 00:00:00,Total liquid FX reserves,15517.900000000001,million USD,sbp_forex_reserves,weekly
+2019-11-08 00:00:00,Total liquid FX reserves,15502.4,million USD,sbp_forex_reserves,weekly
+2019-11-15 00:00:00,Total liquid FX reserves,15462.3,million USD,sbp_forex_reserves,weekly
+2019-11-22 00:00:00,Total liquid FX reserves,15577.699999999999,million USD,sbp_forex_reserves,weekly
+2019-11-29 00:00:00,Total liquid FX reserves,16003.4,million USD,sbp_forex_reserves,weekly
+2019-12-06 00:00:00,Total liquid FX reserves,16048.1,million USD,sbp_forex_reserves,weekly
+2019-12-13 00:00:00,Total liquid FX reserves,17655.5,million USD,sbp_forex_reserves,weekly
+2019-12-20 00:00:00,Total liquid FX reserves,17595.199999999997,million USD,sbp_forex_reserves,weekly
+2019-12-27 00:00:00,Total liquid FX reserves,18081.4,million USD,sbp_forex_reserves,weekly
+2020-01-03 00:00:00,Total liquid FX reserves,18084.800000000003,million USD,sbp_forex_reserves,weekly
+2020-01-10 00:00:00,Total liquid FX reserves,18123.6,million USD,sbp_forex_reserves,weekly
+2020-01-17 00:00:00,Total liquid FX reserves,18271.0,million USD,sbp_forex_reserves,weekly
+2020-01-24 00:00:00,Total liquid FX reserves,18362.7,million USD,sbp_forex_reserves,weekly
+2020-01-31 00:00:00,Total liquid FX reserves,18658.1,million USD,sbp_forex_reserves,weekly
+2020-02-07 00:00:00,Total liquid FX reserves,18735.4,million USD,sbp_forex_reserves,weekly
+2020-02-14 00:00:00,Total liquid FX reserves,18747.1,million USD,sbp_forex_reserves,weekly
+2020-02-21 00:00:00,Total liquid FX reserves,18742.8,million USD,sbp_forex_reserves,weekly
+2020-02-28 00:00:00,Total liquid FX reserves,18881.0,million USD,sbp_forex_reserves,weekly
+2020-03-06 00:00:00,Total liquid FX reserves,18904.6,million USD,sbp_forex_reserves,weekly
+2020-03-13 00:00:00,Total liquid FX reserves,18743.0,million USD,sbp_forex_reserves,weekly
+2020-03-20 00:00:00,Total liquid FX reserves,18105.1,million USD,sbp_forex_reserves,weekly
+2020-03-27 00:00:00,Total liquid FX reserves,17387.5,million USD,sbp_forex_reserves,weekly
+2020-04-03 00:00:00,Total liquid FX reserves,16988.2,million USD,sbp_forex_reserves,weekly
+2020-04-10 00:00:00,Total liquid FX reserves,17295.5,million USD,sbp_forex_reserves,weekly
+2020-04-17 00:00:00,Total liquid FX reserves,17300.300000000003,million USD,sbp_forex_reserves,weekly
+2020-04-24 00:00:00,Total liquid FX reserves,18463.0,million USD,sbp_forex_reserves,weekly
+2020-05-08 00:00:00,Total liquid FX reserves,18744.5,million USD,sbp_forex_reserves,weekly
+2020-05-15 00:00:00,Total liquid FX reserves,18618.3,million USD,sbp_forex_reserves,weekly
+2020-05-29 00:00:00,Total liquid FX reserves,16942.9,million USD,sbp_forex_reserves,weekly
+2020-06-05 00:00:00,Total liquid FX reserves,16705.3,million USD,sbp_forex_reserves,weekly
+2020-06-12 00:00:00,Total liquid FX reserves,16775.3,million USD,sbp_forex_reserves,weekly
+2020-06-19 00:00:00,Total liquid FX reserves,16730.1,million USD,sbp_forex_reserves,weekly
+2020-06-26 00:00:00,Total liquid FX reserves,17971.0,million USD,sbp_forex_reserves,weekly
+2020-07-03 00:00:00,Total liquid FX reserves,18790.1,million USD,sbp_forex_reserves,weekly
+2020-07-10 00:00:00,Total liquid FX reserves,18952.6,million USD,sbp_forex_reserves,weekly
+2020-07-17 00:00:00,Total liquid FX reserves,19047.3,million USD,sbp_forex_reserves,weekly
+2020-07-24 00:00:00,Total liquid FX reserves,18912.2,million USD,sbp_forex_reserves,weekly
+2020-08-07 00:00:00,Total liquid FX reserves,19518.3,million USD,sbp_forex_reserves,weekly
+2020-08-21 00:00:00,Total liquid FX reserves,19722.4,million USD,sbp_forex_reserves,weekly
+2020-08-28 00:00:00,Total liquid FX reserves,19842.800000000003,million USD,sbp_forex_reserves,weekly
+2020-09-04 00:00:00,Total liquid FX reserves,19961.3,million USD,sbp_forex_reserves,weekly
+2020-09-11 00:00:00,Total liquid FX reserves,19959.0,million USD,sbp_forex_reserves,weekly
+2020-09-18 00:00:00,Total liquid FX reserves,19903.7,million USD,sbp_forex_reserves,weekly
+2020-09-25 00:00:00,Total liquid FX reserves,19534.800000000003,million USD,sbp_forex_reserves,weekly
+2020-10-02 00:00:00,Total liquid FX reserves,19351.0,million USD,sbp_forex_reserves,weekly
+2020-10-09 00:00:00,Total liquid FX reserves,19015.5,million USD,sbp_forex_reserves,weekly
+2020-10-16 00:00:00,Total liquid FX reserves,19301.6,million USD,sbp_forex_reserves,weekly
+2020-10-23 00:00:00,Total liquid FX reserves,19296.5,million USD,sbp_forex_reserves,weekly
+2020-11-06 00:00:00,Total liquid FX reserves,19906.9,million USD,sbp_forex_reserves,weekly
+2020-11-13 00:00:00,Total liquid FX reserves,20085.6,million USD,sbp_forex_reserves,weekly
+2020-11-20 00:00:00,Total liquid FX reserves,20552.4,million USD,sbp_forex_reserves,weekly
+2020-11-27 00:00:00,Total liquid FX reserves,20241.8,million USD,sbp_forex_reserves,weekly
+2020-12-04 00:00:00,Total liquid FX reserves,20402.4,million USD,sbp_forex_reserves,weekly
+2020-12-11 00:00:00,Total liquid FX reserves,20379.6,million USD,sbp_forex_reserves,weekly
+2020-12-18 00:00:00,Total liquid FX reserves,20313.1,million USD,sbp_forex_reserves,weekly
+2021-01-08 00:00:00,Total liquid FX reserves,20519.0,million USD,sbp_forex_reserves,weekly
+2021-01-15 00:00:00,Total liquid FX reserves,20120.3,million USD,sbp_forex_reserves,weekly
+2021-01-22 00:00:00,Total liquid FX reserves,20106.5,million USD,sbp_forex_reserves,weekly
+2021-02-12 00:00:00,Total liquid FX reserves,20058.6,million USD,sbp_forex_reserves,weekly
+2021-02-19 00:00:00,Total liquid FX reserves,20041.6,million USD,sbp_forex_reserves,weekly
+2021-02-26 00:00:00,Total liquid FX reserves,20104.8,million USD,sbp_forex_reserves,weekly
+2021-03-05 00:00:00,Total liquid FX reserves,20157.9,million USD,sbp_forex_reserves,weekly
+2021-03-12 00:00:00,Total liquid FX reserves,20159.1,million USD,sbp_forex_reserves,weekly
+2021-03-19 00:00:00,Total liquid FX reserves,20434.6,million USD,sbp_forex_reserves,weekly
+2021-03-26 00:00:00,Total liquid FX reserves,20836.4,million USD,sbp_forex_reserves,weekly
+2021-04-02 00:00:00,Total liquid FX reserves,20679.4,million USD,sbp_forex_reserves,weekly
+2021-04-09 00:00:00,Total liquid FX reserves,23220.3,million USD,sbp_forex_reserves,weekly
+2021-04-16 00:00:00,Total liquid FX reserves,23212.8,million USD,sbp_forex_reserves,weekly
+2021-04-23 00:00:00,Total liquid FX reserves,23520.199999999997,million USD,sbp_forex_reserves,weekly
+2021-05-07 00:00:00,Total liquid FX reserves,22910.3,million USD,sbp_forex_reserves,weekly
+2021-05-21 00:00:00,Total liquid FX reserves,23015.9,million USD,sbp_forex_reserves,weekly
+2021-05-28 00:00:00,Total liquid FX reserves,23294.1,million USD,sbp_forex_reserves,weekly
+2021-06-04 00:00:00,Total liquid FX reserves,23577.9,million USD,sbp_forex_reserves,weekly
+2021-06-11 00:00:00,Total liquid FX reserves,23586.5,million USD,sbp_forex_reserves,weekly
+2021-06-18 00:00:00,Total liquid FX reserves,23256.9,million USD,sbp_forex_reserves,weekly
+2021-06-25 00:00:00,Total liquid FX reserves,23297.4,million USD,sbp_forex_reserves,weekly
+2021-07-02 00:00:00,Total liquid FX reserves,24414.899999999998,million USD,sbp_forex_reserves,weekly
+2021-07-09 00:00:00,Total liquid FX reserves,24312.1,million USD,sbp_forex_reserves,weekly
+2021-07-16 00:00:00,Total liquid FX reserves,25128.0,million USD,sbp_forex_reserves,weekly
+2021-07-23 00:00:00,Total liquid FX reserves,24875.5,million USD,sbp_forex_reserves,weekly
+2021-08-06 00:00:00,Total liquid FX reserves,24644.0,million USD,sbp_forex_reserves,weekly
+2021-08-13 00:00:00,Total liquid FX reserves,24668.100000000002,million USD,sbp_forex_reserves,weekly
+2021-08-20 00:00:00,Total liquid FX reserves,24619.300000000003,million USD,sbp_forex_reserves,weekly
+2021-08-27 00:00:00,Total liquid FX reserves,27227.699999999997,million USD,sbp_forex_reserves,weekly
+2021-09-03 00:00:00,Total liquid FX reserves,27102.6,million USD,sbp_forex_reserves,weekly
+2021-09-10 00:00:00,Total liquid FX reserves,27064.9,million USD,sbp_forex_reserves,weekly
+2021-09-17 00:00:00,Total liquid FX reserves,26402.600000000002,million USD,sbp_forex_reserves,weekly
+2021-09-24 00:00:00,Total liquid FX reserves,26150.8,million USD,sbp_forex_reserves,weekly
+2021-10-01 00:00:00,Total liquid FX reserves,25999.899999999998,million USD,sbp_forex_reserves,weekly
+2021-10-08 00:00:00,Total liquid FX reserves,25969.4,million USD,sbp_forex_reserves,weekly
+2021-10-15 00:00:00,Total liquid FX reserves,24327.4,million USD,sbp_forex_reserves,weekly
+2021-10-22 00:00:00,Total liquid FX reserves,23933.800000000003,million USD,sbp_forex_reserves,weekly
+2021-10-29 00:00:00,Total liquid FX reserves,23829.3,million USD,sbp_forex_reserves,weekly
+2021-11-05 00:00:00,Total liquid FX reserves,24025.5,million USD,sbp_forex_reserves,weekly
+2021-11-12 00:00:00,Total liquid FX reserves,23550.600000000002,million USD,sbp_forex_reserves,weekly
+2021-11-19 00:00:00,Total liquid FX reserves,22773.8,million USD,sbp_forex_reserves,weekly
+2021-11-26 00:00:00,Total liquid FX reserves,22498.8,million USD,sbp_forex_reserves,weekly
+2021-12-03 00:00:00,Total liquid FX reserves,25150.7,million USD,sbp_forex_reserves,weekly
+2021-12-10 00:00:00,Total liquid FX reserves,25027.8,million USD,sbp_forex_reserves,weekly
+2021-12-17 00:00:00,Total liquid FX reserves,24633.0,million USD,sbp_forex_reserves,weekly
+2021-12-24 00:00:00,Total liquid FX reserves,24273.6,million USD,sbp_forex_reserves,weekly
+2022-01-07 00:00:00,Total liquid FX reserves,23901.4,million USD,sbp_forex_reserves,weekly
+2022-01-14 00:00:00,Total liquid FX reserves,23349.7,million USD,sbp_forex_reserves,weekly
+2022-01-21 00:00:00,Total liquid FX reserves,22482.1,million USD,sbp_forex_reserves,weekly
+2022-01-28 00:00:00,Total liquid FX reserves,22084.5,million USD,sbp_forex_reserves,weekly
+2022-02-04 00:00:00,Total liquid FX reserves,23720.9,million USD,sbp_forex_reserves,weekly
+2022-02-11 00:00:00,Total liquid FX reserves,23490.199999999997,million USD,sbp_forex_reserves,weekly
+2022-02-18 00:00:00,Total liquid FX reserves,23226.0,million USD,sbp_forex_reserves,weekly
+2022-02-25 00:00:00,Total liquid FX reserves,22875.1,million USD,sbp_forex_reserves,weekly
+2022-03-04 00:00:00,Total liquid FX reserves,22668.7,million USD,sbp_forex_reserves,weekly
+2022-03-11 00:00:00,Total liquid FX reserves,22283.4,million USD,sbp_forex_reserves,weekly
+2022-03-18 00:00:00,Total liquid FX reserves,21439.7,million USD,sbp_forex_reserves,weekly
+2022-03-25 00:00:00,Total liquid FX reserves,18554.5,million USD,sbp_forex_reserves,weekly
+2022-04-01 00:00:00,Total liquid FX reserves,17476.9,million USD,sbp_forex_reserves,weekly
+2022-04-08 00:00:00,Total liquid FX reserves,17028.1,million USD,sbp_forex_reserves,weekly
+2022-04-16 00:00:00,Total liquid FX reserves,17045.0,million USD,sbp_forex_reserves,weekly
+2022-04-23 00:00:00,Total liquid FX reserves,16668.2,million USD,sbp_forex_reserves,weekly
+2022-04-30 00:00:00,Total liquid FX reserves,16406.0,million USD,sbp_forex_reserves,weekly
+2022-05-06 00:00:00,Total liquid FX reserves,16375.7,million USD,sbp_forex_reserves,weekly
+2022-05-13 00:00:00,Total liquid FX reserves,16161.0,million USD,sbp_forex_reserves,weekly
+2022-05-20 00:00:00,Total liquid FX reserves,16149.8,million USD,sbp_forex_reserves,weekly
+2022-05-27 00:00:00,Total liquid FX reserves,15771.4,million USD,sbp_forex_reserves,weekly
+2022-06-03 00:00:00,Total liquid FX reserves,15176.5,million USD,sbp_forex_reserves,weekly
+2022-06-10 00:00:00,Total liquid FX reserves,14943.0,million USD,sbp_forex_reserves,weekly
+2022-06-17 00:00:00,Total liquid FX reserves,14210.400000000001,million USD,sbp_forex_reserves,weekly
+2022-06-24 00:00:00,Total liquid FX reserves,16195.6,million USD,sbp_forex_reserves,weekly
+2022-07-15 00:00:00,Total liquid FX reserves,15241.5,million USD,sbp_forex_reserves,weekly
+2022-07-22 00:00:00,Total liquid FX reserves,14414.6,million USD,sbp_forex_reserves,weekly
+2022-08-05 00:00:00,Total liquid FX reserves,13561.1,million USD,sbp_forex_reserves,weekly
+2022-08-12 00:00:00,Total liquid FX reserves,13613.3,million USD,sbp_forex_reserves,weekly
+2022-08-19 00:00:00,Total liquid FX reserves,13521.599999999999,million USD,sbp_forex_reserves,weekly
+2022-08-26 00:00:00,Total liquid FX reserves,13403.5,million USD,sbp_forex_reserves,weekly
+2022-09-02 00:00:00,Total liquid FX reserves,14473.5,million USD,sbp_forex_reserves,weekly
+2022-09-09 00:00:00,Total liquid FX reserves,14317.4,million USD,sbp_forex_reserves,weekly
+2022-09-16 00:00:00,Total liquid FX reserves,14069.9,million USD,sbp_forex_reserves,weekly
+2022-09-23 00:00:00,Total liquid FX reserves,13761.9,million USD,sbp_forex_reserves,weekly
+2022-10-07 00:00:00,Total liquid FX reserves,13246.8,million USD,sbp_forex_reserves,weekly
+2022-10-14 00:00:00,Total liquid FX reserves,13250.9,million USD,sbp_forex_reserves,weekly
+2022-10-21 00:00:00,Total liquid FX reserves,13162.2,million USD,sbp_forex_reserves,weekly
+2022-10-28 00:00:00,Total liquid FX reserves,14678.9,million USD,sbp_forex_reserves,weekly
+2022-11-04 00:00:00,Total liquid FX reserves,13721.0,million USD,sbp_forex_reserves,weekly
+2022-11-11 00:00:00,Total liquid FX reserves,13796.2,million USD,sbp_forex_reserves,weekly
+2022-11-18 00:00:00,Total liquid FX reserves,13645.0,million USD,sbp_forex_reserves,weekly
+2022-11-25 00:00:00,Total liquid FX reserves,13378.2,million USD,sbp_forex_reserves,weekly
+2022-12-02 00:00:00,Total liquid FX reserves,12581.7,million USD,sbp_forex_reserves,weekly
+2022-12-09 00:00:00,Total liquid FX reserves,12570.2,million USD,sbp_forex_reserves,weekly
+2022-12-16 00:00:00,Total liquid FX reserves,12000.099999999999,million USD,sbp_forex_reserves,weekly
+2022-12-23 00:00:00,Total liquid FX reserves,11707.2,million USD,sbp_forex_reserves,weekly
+2023-01-06 00:00:00,Total liquid FX reserves,10187.8,million USD,sbp_forex_reserves,weekly
+2023-01-13 00:00:00,Total liquid FX reserves,10443.599999999999,million USD,sbp_forex_reserves,weekly
+2023-01-20 00:00:00,Total liquid FX reserves,9453.2,million USD,sbp_forex_reserves,weekly
+2023-01-27 00:00:00,Total liquid FX reserves,8741.7,million USD,sbp_forex_reserves,weekly
+2023-02-03 00:00:00,Total liquid FX reserves,8539.599999999999,million USD,sbp_forex_reserves,weekly
+2023-02-10 00:00:00,Total liquid FX reserves,8702.2,million USD,sbp_forex_reserves,weekly
+2023-02-17 00:00:00,Total liquid FX reserves,8726.5,million USD,sbp_forex_reserves,weekly
+2023-02-24 00:00:00,Total liquid FX reserves,9267.9,million USD,sbp_forex_reserves,weekly
+2023-03-03 00:00:00,Total liquid FX reserves,9754.0,million USD,sbp_forex_reserves,weekly
+2023-03-10 00:00:00,Total liquid FX reserves,9846.8,million USD,sbp_forex_reserves,weekly
+2023-03-17 00:00:00,Total liquid FX reserves,10139.2,million USD,sbp_forex_reserves,weekly
+2023-03-24 00:00:00,Total liquid FX reserves,9815.900000000001,million USD,sbp_forex_reserves,weekly
+2023-04-07 00:00:00,Total liquid FX reserves,9564.5,million USD,sbp_forex_reserves,weekly
+2023-04-14 00:00:00,Total liquid FX reserves,9964.9,million USD,sbp_forex_reserves,weekly
+2023-05-05 00:00:00,Total liquid FX reserves,9990.4,million USD,sbp_forex_reserves,weekly
+2023-05-12 00:00:00,Total liquid FX reserves,9937.5,million USD,sbp_forex_reserves,weekly
+2023-05-19 00:00:00,Total liquid FX reserves,9731.1,million USD,sbp_forex_reserves,weekly
+2023-05-26 00:00:00,Total liquid FX reserves,9513.0,million USD,sbp_forex_reserves,weekly
+2023-06-02 00:00:00,Total liquid FX reserves,9334.8,million USD,sbp_forex_reserves,weekly
+2023-06-09 00:00:00,Total liquid FX reserves,9378.2,million USD,sbp_forex_reserves,weekly
+2023-06-16 00:00:00,Total liquid FX reserves,8863.8,million USD,sbp_forex_reserves,weekly
+2023-06-23 00:00:00,Total liquid FX reserves,9340.8,million USD,sbp_forex_reserves,weekly
+2023-07-07 00:00:00,Total liquid FX reserves,9838.5,million USD,sbp_forex_reserves,weekly
+2023-07-14 00:00:00,Total liquid FX reserves,14065.300000000001,million USD,sbp_forex_reserves,weekly
+2023-07-21 00:00:00,Total liquid FX reserves,13534.1,million USD,sbp_forex_reserves,weekly
+2023-07-27 17:00:00,Total liquid FX reserves,13463.7,million USD,sbp_forex_reserves,weekly
+2023-08-04 00:00:00,Total liquid FX reserves,13339.099999999999,million USD,sbp_forex_reserves,weekly
+2023-08-11 00:00:00,Total liquid FX reserves,13379.0,million USD,sbp_forex_reserves,weekly
+2023-08-18 00:00:00,Total liquid FX reserves,13248.4,million USD,sbp_forex_reserves,weekly
+2023-08-25 00:00:00,Total liquid FX reserves,13171.1,million USD,sbp_forex_reserves,weekly
+2023-09-01 00:00:00,Total liquid FX reserves,13126.7,million USD,sbp_forex_reserves,weekly
+2023-09-08 00:00:00,Total liquid FX reserves,13079.099999999999,million USD,sbp_forex_reserves,weekly
+2023-09-15 00:00:00,Total liquid FX reserves,13186.6,million USD,sbp_forex_reserves,weekly
+2023-09-22 00:00:00,Total liquid FX reserves,13161.8,million USD,sbp_forex_reserves,weekly
+2023-09-28 18:00:00,Total liquid FX reserves,12392.8,million USD,sbp_forex_reserves,weekly
+2023-10-06 00:00:00,Total liquid FX reserves,13030.099999999999,million USD,sbp_forex_reserves,weekly
+2023-10-13 00:00:00,Total liquid FX reserves,12912.9,million USD,sbp_forex_reserves,weekly
+2023-10-20 00:00:00,Total liquid FX reserves,12655.599999999999,million USD,sbp_forex_reserves,weekly
+2023-10-27 00:00:00,Total liquid FX reserves,12576.6,million USD,sbp_forex_reserves,weekly
+2023-11-03 00:00:00,Total liquid FX reserves,12614.2,million USD,sbp_forex_reserves,weekly
+2023-11-10 00:00:00,Total liquid FX reserves,12535.5,million USD,sbp_forex_reserves,weekly
+2023-11-17 00:00:00,Total liquid FX reserves,12302.3,million USD,sbp_forex_reserves,weekly
+2023-11-24 00:00:00,Total liquid FX reserves,12392.8,million USD,sbp_forex_reserves,weekly
+2023-12-01 00:00:00,Total liquid FX reserves,12107.099999999999,million USD,sbp_forex_reserves,weekly
+2023-12-08 00:00:00,Total liquid FX reserves,12206.400000000001,million USD,sbp_forex_reserves,weekly
+2023-12-15 00:00:00,Total liquid FX reserves,12068.400000000001,million USD,sbp_forex_reserves,weekly
+2023-12-22 00:00:00,Total liquid FX reserves,12855.7,million USD,sbp_forex_reserves,weekly
+2024-01-05 00:00:00,Total liquid FX reserves,13256.6,million USD,sbp_forex_reserves,weekly
+2024-01-12 00:00:00,Total liquid FX reserves,13145.099999999999,million USD,sbp_forex_reserves,weekly
+2024-01-19 00:00:00,Total liquid FX reserves,13341.4,million USD,sbp_forex_reserves,weekly
+2024-01-26 00:00:00,Total liquid FX reserves,13262.5,million USD,sbp_forex_reserves,weekly
+2024-02-02 00:00:00,Total liquid FX reserves,13097.6,million USD,sbp_forex_reserves,weekly
+2024-02-09 00:00:00,Total liquid FX reserves,13149.1,million USD,sbp_forex_reserves,weekly
+2024-02-16 00:00:00,Total liquid FX reserves,13097.8,million USD,sbp_forex_reserves,weekly
+2024-02-23 00:00:00,Total liquid FX reserves,13038.5,million USD,sbp_forex_reserves,weekly
+2024-03-01 00:00:00,Total liquid FX reserves,13020.0,million USD,sbp_forex_reserves,weekly
+2024-03-08 00:00:00,Total liquid FX reserves,13151.3,million USD,sbp_forex_reserves,weekly
+2024-03-15 00:00:00,Total liquid FX reserves,13390.7,million USD,sbp_forex_reserves,weekly
+2024-03-22 00:00:00,Total liquid FX reserves,13427.599999999999,million USD,sbp_forex_reserves,weekly
+2024-03-29 00:00:00,Total liquid FX reserves,12759.3,million USD,sbp_forex_reserves,weekly
+2024-04-05 00:00:00,Total liquid FX reserves,13441.7,million USD,sbp_forex_reserves,weekly
+2024-04-12 00:00:00,Total liquid FX reserves,13373.7,million USD,sbp_forex_reserves,weekly
+2024-04-19 00:00:00,Total liquid FX reserves,13280.5,million USD,sbp_forex_reserves,weekly
+2024-04-26 00:00:00,Total liquid FX reserves,13316.0,million USD,sbp_forex_reserves,weekly
+2024-05-03 00:00:00,Total liquid FX reserves,14458.9,million USD,sbp_forex_reserves,weekly
+2024-05-10 00:00:00,Total liquid FX reserves,14626.4,million USD,sbp_forex_reserves,weekly
+2024-05-17 00:00:00,Total liquid FX reserves,14585.4,million USD,sbp_forex_reserves,weekly
+2024-05-24 00:00:00,Total liquid FX reserves,14315.400000000001,million USD,sbp_forex_reserves,weekly
+2024-05-31 00:00:00,Total liquid FX reserves,13650.8,million USD,sbp_forex_reserves,weekly
+2024-06-07 00:00:00,Total liquid FX reserves,14383.8,million USD,sbp_forex_reserves,weekly
+2024-06-14 00:00:00,Total liquid FX reserves,14414.6,million USD,sbp_forex_reserves,weekly
+2024-06-21 00:00:00,Total liquid FX reserves,14207.3,million USD,sbp_forex_reserves,weekly
+2024-06-28 00:00:00,Total liquid FX reserves,13996.3,million USD,sbp_forex_reserves,weekly
+2024-07-05 00:00:00,Total liquid FX reserves,14644.7,million USD,sbp_forex_reserves,weekly
+2024-07-12 00:00:00,Total liquid FX reserves,14703.5,million USD,sbp_forex_reserves,weekly
+2024-07-19 00:00:00,Total liquid FX reserves,14335.400000000001,million USD,sbp_forex_reserves,weekly
+2024-07-26 00:00:00,Total liquid FX reserves,14391.7,million USD,sbp_forex_reserves,weekly
+2024-08-02 00:00:00,Total liquid FX reserves,14471.9,million USD,sbp_forex_reserves,weekly
+2024-08-09 00:00:00,Total liquid FX reserves,14645.2,million USD,sbp_forex_reserves,weekly
+2024-08-16 00:00:00,Total liquid FX reserves,14667.4,million USD,sbp_forex_reserves,weekly
+2024-08-23 00:00:00,Total liquid FX reserves,14776.3,million USD,sbp_forex_reserves,weekly
+2024-08-30 00:00:00,Total liquid FX reserves,14174.2,million USD,sbp_forex_reserves,weekly
+2024-09-06 00:00:00,Total liquid FX reserves,14796.1,million USD,sbp_forex_reserves,weekly
+2024-09-13 00:00:00,Total liquid FX reserves,14826.5,million USD,sbp_forex_reserves,weekly
+2024-09-20 00:00:00,Total liquid FX reserves,14873.1,million USD,sbp_forex_reserves,weekly
+2024-09-27 00:00:00,Total liquid FX reserves,15982.900000000001,million USD,sbp_forex_reserves,weekly
+2024-10-04 00:00:00,Total liquid FX reserves,16047.0,million USD,sbp_forex_reserves,weekly
+2024-10-11 00:00:00,Total liquid FX reserves,16111.300000000001,million USD,sbp_forex_reserves,weekly
+2024-10-18 00:00:00,Total liquid FX reserves,16017.1,million USD,sbp_forex_reserves,weekly
+2024-10-25 00:00:00,Total liquid FX reserves,16049.0,million USD,sbp_forex_reserves,weekly
+2024-11-01 00:00:00,Total liquid FX reserves,15931.8,million USD,sbp_forex_reserves,weekly
+2024-11-08 00:00:00,Total liquid FX reserves,15965.5,million USD,sbp_forex_reserves,weekly
+2024-11-15 00:00:00,Total liquid FX reserves,15967.7,million USD,sbp_forex_reserves,weekly
+2024-11-22 00:00:00,Total liquid FX reserves,16076.2,million USD,sbp_forex_reserves,weekly
+2024-11-29 00:00:00,Total liquid FX reserves,16128.5,million USD,sbp_forex_reserves,weekly
+2024-12-06 00:00:00,Total liquid FX reserves,16600.9,million USD,sbp_forex_reserves,weekly
+2024-12-13 00:00:00,Total liquid FX reserves,16632.7,million USD,sbp_forex_reserves,weekly
+2024-12-20 00:00:00,Total liquid FX reserves,16371.5,million USD,sbp_forex_reserves,weekly
+2024-12-27 00:00:00,Total liquid FX reserves,16408.7,million USD,sbp_forex_reserves,weekly
+2025-01-03 00:00:00,Total liquid FX reserves,16377.800000000001,million USD,sbp_forex_reserves,weekly
+2025-01-10 00:00:00,Total liquid FX reserves,16450.9,million USD,sbp_forex_reserves,weekly
+2025-01-17 00:00:00,Total liquid FX reserves,16189.300000000001,million USD,sbp_forex_reserves,weekly
+2025-01-24 00:00:00,Total liquid FX reserves,16052.099999999999,million USD,sbp_forex_reserves,weekly
+2025-01-31 00:00:00,Total liquid FX reserves,15598.7,million USD,sbp_forex_reserves,weekly
+2025-02-07 00:00:00,Total liquid FX reserves,15862.6,million USD,sbp_forex_reserves,weekly
+2025-02-14 00:00:00,Total liquid FX reserves,15947.9,million USD,sbp_forex_reserves,weekly
+2025-02-21 00:00:00,Total liquid FX reserves,15925.7,million USD,sbp_forex_reserves,weekly
+2025-02-28 00:00:00,Total liquid FX reserves,15397.3,million USD,sbp_forex_reserves,weekly
+2025-03-07 00:00:00,Total liquid FX reserves,15928.9,million USD,sbp_forex_reserves,weekly
+2025-03-14 00:00:00,Total liquid FX reserves,16015.8,million USD,sbp_forex_reserves,weekly
+2025-03-21 00:00:00,Total liquid FX reserves,15551.0,million USD,sbp_forex_reserves,weekly
+2025-03-28 00:00:00,Total liquid FX reserves,15579.699999999999,million USD,sbp_forex_reserves,weekly
+2025-04-04 00:00:00,Total liquid FX reserves,15752.7,million USD,sbp_forex_reserves,weekly
+2025-04-11 00:00:00,Total liquid FX reserves,15662.0,million USD,sbp_forex_reserves,weekly
+2025-04-18 00:00:00,Total liquid FX reserves,15436.0,million USD,sbp_forex_reserves,weekly
+2025-04-25 00:00:00,Total liquid FX reserves,15251.8,million USD,sbp_forex_reserves,weekly
+2025-05-02 00:00:00,Total liquid FX reserves,15482.6,million USD,sbp_forex_reserves,weekly
+2025-05-09 00:00:00,Total liquid FX reserves,15613.8,million USD,sbp_forex_reserves,weekly
+2025-05-16 00:00:00,Total liquid FX reserves,16648.5,million USD,sbp_forex_reserves,weekly
+2025-05-23 00:00:00,Total liquid FX reserves,16636.7,million USD,sbp_forex_reserves,weekly
+2025-05-30 00:00:00,Total liquid FX reserves,16076.5,million USD,sbp_forex_reserves,weekly
+2025-06-06 00:00:00,Total liquid FX reserves,16875.0,million USD,sbp_forex_reserves,weekly
+2025-06-13 00:00:00,Total liquid FX reserves,17004.5,million USD,sbp_forex_reserves,weekly
+2025-06-20 00:00:00,Total liquid FX reserves,14397.4,million USD,sbp_forex_reserves,weekly
+2025-06-27 00:00:00,Total liquid FX reserves,18091.1,million USD,sbp_forex_reserves,weekly
+2025-07-04 00:00:00,Total liquid FX reserves,20028.7,million USD,sbp_forex_reserves,weekly
+2025-07-11 00:00:00,Total liquid FX reserves,19957.1,million USD,sbp_forex_reserves,weekly
+2025-07-18 00:00:00,Total liquid FX reserves,19917.5,million USD,sbp_forex_reserves,weekly
+2025-07-25 00:00:00,Total liquid FX reserves,19607.0,million USD,sbp_forex_reserves,weekly
+2025-08-01 00:00:00,Total liquid FX reserves,19495.6,million USD,sbp_forex_reserves,weekly
+2025-08-08 00:00:00,Total liquid FX reserves,19496.7,million USD,sbp_forex_reserves,weekly
+2025-08-15 00:00:00,Total liquid FX reserves,19570.800000000003,million USD,sbp_forex_reserves,weekly
+2025-08-22 00:00:00,Total liquid FX reserves,19617.8,million USD,sbp_forex_reserves,weekly
+2025-09-05 00:00:00,Total liquid FX reserves,19680.9,million USD,sbp_forex_reserves,weekly
+2025-09-12 00:00:00,Total liquid FX reserves,19735.7,million USD,sbp_forex_reserves,weekly
+2025-09-19 00:00:00,Total liquid FX reserves,19793.3,million USD,sbp_forex_reserves,weekly
+2025-09-26 00:00:00,Total liquid FX reserves,19796.7,million USD,sbp_forex_reserves,weekly
+2025-10-03 00:00:00,Total liquid FX reserves,19810.4,million USD,sbp_forex_reserves,weekly
+2025-10-10 00:00:00,Total liquid FX reserves,19810.5,million USD,sbp_forex_reserves,weekly
+2025-10-17 00:00:00,Total liquid FX reserves,19853.5,million USD,sbp_forex_reserves,weekly
+2025-10-24 00:00:00,Total liquid FX reserves,19687.6,million USD,sbp_forex_reserves,weekly
+2025-11-07 00:00:00,Total liquid FX reserves,19723.932895018494,million USD,sbp_forex_reserves,weekly
+2025-11-14 00:00:00,Total liquid FX reserves,19738.2,million USD,sbp_forex_reserves,weekly
+2025-11-21 00:00:00,Total liquid FX reserves,19604.97316882844,million USD,sbp_forex_reserves,weekly
+2025-11-28 00:00:00,Total liquid FX reserves,19588.5,million USD,sbp_forex_reserves,weekly
+2025-12-05 00:00:00,Total liquid FX reserves,19612.194532177957,million USD,sbp_forex_reserves,weekly
+2025-12-12 00:00:00,Total liquid FX reserves,21089.0,million USD,sbp_forex_reserves,weekly
+2025-12-19 00:00:00,Total liquid FX reserves,21022.58315681837,million USD,sbp_forex_reserves,weekly
+2025-12-26 00:00:00,Total liquid FX reserves,21012.2,million USD,sbp_forex_reserves,weekly
+2026-01-02 00:00:00,Total liquid FX reserves,21192.441748724224,million USD,sbp_forex_reserves,weekly
+2026-01-09 00:00:00,Total liquid FX reserves,21248.4,million USD,sbp_forex_reserves,weekly
+2026-01-16 00:00:00,Total liquid FX reserves,21258.21721028495,million USD,sbp_forex_reserves,weekly
+2026-01-23 00:00:00,Total liquid FX reserves,21293.3,million USD,sbp_forex_reserves,weekly
+2026-01-30 00:00:00,Total liquid FX reserves,20971.7,million USD,sbp_forex_reserves,weekly
+2026-02-06 00:00:00,Total liquid FX reserves,21374.699999999997,million USD,sbp_forex_reserves,weekly
+2026-02-13 00:00:00,Total liquid FX reserves,21301.5,million USD,sbp_forex_reserves,weekly
+2026-02-20 00:00:00,Total liquid FX reserves,21407.7,million USD,sbp_forex_reserves,weekly
+2026-03-06 00:00:00,Total liquid FX reserves,21598.305657833527,million USD,sbp_forex_reserves,weekly
+2026-03-13 00:00:00,Total liquid FX reserves,21704.2,million USD,sbp_forex_reserves,weekly
+2026-03-19 19:00:00,Total liquid FX reserves,21736.0,million USD,sbp_forex_reserves,weekly
+2026-03-27 00:00:00,Total liquid FX reserves,21789.6,million USD,sbp_forex_reserves,weekly
+2026-04-03 00:00:00,Total liquid FX reserves,21894.9,million USD,sbp_forex_reserves,weekly
+2026-04-10 00:00:00,Total liquid FX reserves,20524.5,million USD,sbp_forex_reserves,weekly
+2026-04-17 00:00:00,Total liquid FX reserves,20628.5,million USD,sbp_forex_reserves,weekly
+2026-04-24 00:00:00,Total liquid FX reserves,21269.043011132337,million USD,sbp_forex_reserves,weekly
+2026-05-08 00:00:00,Total liquid FX reserves,21336.7,million USD,sbp_forex_reserves,weekly
+2026-05-15 00:00:00,Total liquid FX reserves,22588.5,million USD,sbp_forex_reserves,weekly
+2026-05-22 00:00:00,Total liquid FX reserves,22646.5,million USD,sbp_forex_reserves,weekly
+2026-05-29 00:00:00,Total liquid FX reserves,22636.0,million USD,sbp_forex_reserves,weekly
+2026-06-05 00:00:00,Total liquid FX reserves,22671.7,million USD,sbp_forex_reserves,weekly
+2026-06-12 00:00:00,Total liquid FX reserves,22741.7,million USD,sbp_forex_reserves,weekly
+2026-06-19 00:00:00,Total liquid FX reserves,21484.7,million USD,sbp_forex_reserves,weekly
+2026-06-24 21:00:00,Total liquid FX reserves,22044.6,million USD,sbp_forex_reserves,weekly
+2026-07-03 00:00:00,Total liquid FX reserves,23988.7,million USD,sbp_forex_reserves,weekly
+2026-07-10 00:00:00,Total liquid FX reserves,22675.5,million USD,sbp_forex_reserves,weekly
+2026-07-17 00:00:00,Total liquid FX reserves,22669.6,million USD,sbp_forex_reserves,weekly
+2026-07-24 00:00:00,Total liquid FX reserves,22442.100000000002,million USD,sbp_forex_reserves,weekly
+2026-07-31 00:00:00,Total liquid FX reserves,22474.6,million USD,sbp_forex_reserves,weekly
+2001-02-24 00:00:00,Reserves with SBP,7953.0,million USD,sbp_forex_reserves,monthly
+2001-02-24 00:00:00,Reserves with banks,4495.4,million USD,sbp_forex_reserves,monthly
+2001-02-24 00:00:00,Total liquid FX reserves,12448.4,million USD,sbp_forex_reserves,monthly
+1999-06-30 00:00:00,Reserves with SBP,1672.7,million USD,sbp_forex_reserves,annual
+2000-01-01 00:00:00,Reserves with SBP,1688.9,million USD,sbp_forex_reserves,annual
+2000-06-30 00:00:00,Reserves with SBP,997.0,million USD,sbp_forex_reserves,annual
+2001-02-01 00:00:00,Reserves with SBP,4337.4,million USD,sbp_forex_reserves,annual
+2002-03-01 00:00:00,Reserves with SBP,9529.1,million USD,sbp_forex_reserves,annual
+2003-04-01 00:00:00,Reserves with SBP,10563.9,million USD,sbp_forex_reserves,annual
+2004-05-01 00:00:00,Reserves with SBP,9804.7,million USD,sbp_forex_reserves,annual
+2005-06-01 00:00:00,Reserves with SBP,10765.2,million USD,sbp_forex_reserves,annual
+2006-07-01 00:00:00,Reserves with SBP,13345.4,million USD,sbp_forex_reserves,annual
+2007-08-01 00:00:00,Reserves with SBP,8577.0,million USD,sbp_forex_reserves,annual
+2008-09-01 00:00:00,Reserves with SBP,9117.9,million USD,sbp_forex_reserves,annual
+2009-10-01 00:00:00,Reserves with SBP,12958.2,million USD,sbp_forex_reserves,annual
+2010-11-01 00:00:00,Reserves with SBP,14784.0,million USD,sbp_forex_reserves,annual
+2011-12-01 00:00:00,Reserves with SBP,10803.3,million USD,sbp_forex_reserves,annual
+2013-06-30 00:00:00,Reserves with SBP,6008.4,million USD,sbp_forex_reserves,annual
+2014-06-30 00:00:00,Reserves with SBP,9097.5,million USD,sbp_forex_reserves,annual
+2015-06-30 00:00:00,Reserves with SBP,13525.7,million USD,sbp_forex_reserves,annual
+2016-06-30 00:00:00,Reserves with SBP,18142.6,million USD,sbp_forex_reserves,annual
+2017-06-30 00:00:00,Reserves with SBP,16144.8,million USD,sbp_forex_reserves,annual
+2023-06-30 00:00:00,Reserves with SBP,4445.1,million USD,sbp_forex_reserves,annual
+1999-06-30 00:00:00,Reserves with banks,616.5,million USD,sbp_forex_reserves,annual
+2000-01-01 00:00:00,Reserves with banks,1542.6,million USD,sbp_forex_reserves,annual
+2000-06-30 00:00:00,Reserves with banks,976.6,million USD,sbp_forex_reserves,annual
+2001-02-01 00:00:00,Reserves with banks,2098.2,million USD,sbp_forex_reserves,annual
+2002-03-01 00:00:00,Reserves with banks,1240.6,million USD,sbp_forex_reserves,annual
+2003-04-01 00:00:00,Reserves with banks,1825.4,million USD,sbp_forex_reserves,annual
+2004-05-01 00:00:00,Reserves with banks,2792.9,million USD,sbp_forex_reserves,annual
+2005-06-01 00:00:00,Reserves with banks,2357.2,million USD,sbp_forex_reserves,annual
+2006-07-01 00:00:00,Reserves with banks,2301.8,million USD,sbp_forex_reserves,annual
+2007-08-01 00:00:00,Reserves with banks,2821.7,million USD,sbp_forex_reserves,annual
+2008-09-01 00:00:00,Reserves with banks,3307.3,million USD,sbp_forex_reserves,annual
+2009-10-01 00:00:00,Reserves with banks,3792.2,million USD,sbp_forex_reserves,annual
+2010-11-01 00:00:00,Reserves with banks,3460.0,million USD,sbp_forex_reserves,annual
+2011-12-01 00:00:00,Reserves with banks,4485.4,million USD,sbp_forex_reserves,annual
+2013-06-30 00:00:00,Reserves with banks,5011.1,million USD,sbp_forex_reserves,annual
+2014-06-30 00:00:00,Reserves with banks,5043.6,million USD,sbp_forex_reserves,annual
+2015-06-30 00:00:00,Reserves with banks,5173.5,million USD,sbp_forex_reserves,annual
+2016-06-30 00:00:00,Reserves with banks,4955.9,million USD,sbp_forex_reserves,annual
+2017-06-30 00:00:00,Reserves with banks,5258.1,million USD,sbp_forex_reserves,annual
+2023-06-30 00:00:00,Reserves with banks,4714.9,million USD,sbp_forex_reserves,annual
+1999-06-30 00:00:00,Total liquid FX reserves,2289.2,million USD,sbp_forex_reserves,annual
+2000-01-01 00:00:00,Total liquid FX reserves,3231.5,million USD,sbp_forex_reserves,annual
+2000-06-30 00:00:00,Total liquid FX reserves,1973.6,million USD,sbp_forex_reserves,annual
+2001-02-01 00:00:00,Total liquid FX reserves,6435.599999999999,million USD,sbp_forex_reserves,annual
+2002-03-01 00:00:00,Total liquid FX reserves,10769.7,million USD,sbp_forex_reserves,annual
+2003-04-01 00:00:00,Total liquid FX reserves,12389.3,million USD,sbp_forex_reserves,annual
+2004-05-01 00:00:00,Total liquid FX reserves,12597.6,million USD,sbp_forex_reserves,annual
+2005-06-01 00:00:00,Total liquid FX reserves,13122.400000000001,million USD,sbp_forex_reserves,annual
+2006-07-01 00:00:00,Total liquid FX reserves,15647.2,million USD,sbp_forex_reserves,annual
+2007-08-01 00:00:00,Total liquid FX reserves,11398.7,million USD,sbp_forex_reserves,annual
+2008-09-01 00:00:00,Total liquid FX reserves,12425.2,million USD,sbp_forex_reserves,annual
+2009-10-01 00:00:00,Total liquid FX reserves,16750.4,million USD,sbp_forex_reserves,annual
+2010-11-01 00:00:00,Total liquid FX reserves,18244.0,million USD,sbp_forex_reserves,annual
+2011-12-01 00:00:00,Total liquid FX reserves,15288.699999999999,million USD,sbp_forex_reserves,annual
+2013-06-30 00:00:00,Total liquid FX reserves,11019.5,million USD,sbp_forex_reserves,annual
+2014-06-30 00:00:00,Total liquid FX reserves,14141.1,million USD,sbp_forex_reserves,annual
+2015-06-30 00:00:00,Total liquid FX reserves,18699.2,million USD,sbp_forex_reserves,annual
+2016-06-30 00:00:00,Total liquid FX reserves,23098.5,million USD,sbp_forex_reserves,annual
+2017-06-30 00:00:00,Total liquid FX reserves,21402.9,million USD,sbp_forex_reserves,annual
+2023-06-30 00:00:00,Total liquid FX reserves,9160.0,million USD,sbp_forex_reserves,annual

@@ -1,0 +1,26 @@
+# Local Python environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local tooling / operating-system artifacts
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Runtime-only artifacts and credentials
+logs/
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Downloaded publisher inputs can be large and are reproducible from the registry.
+data/raw/
+
+# Intentionally tracked: processed outputs and metadata are supervisor-readable deliverables.
+# Do not ignore data/processed/, data/metadata/, or config/.

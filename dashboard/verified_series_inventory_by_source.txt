@@ -1,0 +1,1263 @@
+Master rows: 144647
+Index rows: 1212
+Unique literal series: 1209
+Sources: 23
+
+## mof_central_govt_operations_sdmx (64 indexed series)
+PAK_CGO_NR_GR_TR_S_CL_XDC
+PAK_CGO_NR_GR_TR_S_NAL_XDC
+PAK_CGO_NR_GR_TR_S_OTG_XDC
+PAK_CGO_NR_GR_TR_S_XDC
+Pakistan Definition,Central Government Operations, Expenditure, Current Expenditure, Defense, National Currency [PAK_CGO_E_CE_D_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, Current Expenditure, Grants, National Currency [PAK_CGO_E_CE_G_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, Current Expenditure, Grants, of which: provinces, National Currency [PAK_CGO_E_CE_G_P_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, Current Expenditure, Interest payments, Domestic, National Currency [PAK_CGO_E_CE_IP_D_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, Current Expenditure, Interest payments, External, National Currency [PAK_CGO_E_CE_IP_E_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, Current Expenditure, Interest payments, National Currency [PAK_CGO_E_CE_IP_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, Current Expenditure, National Currency [PAK_CGO_E_CE_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, Current Expenditure, Pensions (civil and defense), National Currency [PAK_CGO_E_CE_P_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, Current Expenditure, Running of civil government, National Currency [PAK_CGO_E_CE_RCG_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, Current Expenditure, Subsidies, National Currency [PAK_CGO_E_CE_S_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, Current Expenditure, Unidentified (statistical descrepency), National Currency [PAK_CGO_E_CE_U_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, National Currency [PAK_CGO_E_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, Net lending, Investment and loans, National Currency [PAK_CGO_E_NL_IL_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, Net lending, National Currency [PAK_CGO_E_NL_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, Net lending, Net to provinces, National Currency [PAK_CGO_E_NL_NP_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, Net lending, Overall balance (excluding grants), National Currency [PAK_CGO_OBEG_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, Net lending, Recovery of principal, National Currency [PAK_CGO_E_NL_RP_XDC]
+Pakistan Definition,Central Government Operations, Expenditure, PSDP, National Currency [PAK_CGO_E_PDSP_XDC]
+Pakistan Definition,Central Government Operations, Financing, Domestic, Bank, National Currency [PAK_CGO_F_D_B_XDC]
+Pakistan Definition,Central Government Operations, Financing, Domestic, National Currency [PAK_CGO_F_D_XDC]
+Pakistan Definition,Central Government Operations, Financing, Domestic, Nonbank, National Currency [PAK_CGO_F_D_NB_XDC]
+Pakistan Definition,Central Government Operations, Financing, External (incl. privatization), National Currency [PAK_CGO_F_E_XDC]
+Pakistan Definition,Central Government Operations, Financing, National Currency [PAK_CGO_F_XDC]
+Pakistan Definition,Central Government Operations, Financing, Privatization, National Currency [PAK_CGO_F_P_XDC]
+Pakistan Definition,Central Government Operations, Memorandum items: Net external receipts, Gross external receipts, Grants, National Currency [PAK_CGO_MI_NER_GER_G_XDC]
+Pakistan Definition,Central Government Operations, Memorandum items: Net external receipts, Gross external receipts, Loans, Commodity aid (non-food)/programme loans, National Currency [PAK_CGO_MI_NER_GER_L_CA_XDC]
+Pakistan Definition,Central Government Operations, Memorandum items: Net external receipts, Gross external receipts, Loans, Other aid, National Currency [PAK_CGO_MI_NER_GER_L_OA_XDC]
+Pakistan Definition,Central Government Operations, Memorandum items: Net external receipts, Gross external receipts, Loans, Project aid, National Currency [PAK_CGO_MI_NER_GER_L_PA_XDC]
+Pakistan Definition,Central Government Operations, Memorandum items: Net external receipts, Gross external receipts, National Currency [PAK_CGO_MI_NER_GER_XDC]
+Pakistan Definition,Central Government Operations, Memorandum items: Net external receipts, Gross external receipts, Others, National Currency [PAK_CGO_MI_NER_GER_O_XDC]
+Pakistan Definition,Central Government Operations, Memorandum items: Net external receipts, National Currency [PAK_CGO_MI_NER_XDC]
+Pakistan Definition,Central Government Operations, Memorandum items: Net external receipts, Repayments, National Currency [PAK_CGO_MI_NER_R_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross Revenue, National Currency [PAK_CGO_NR_GR_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross Revenue, Tax revenue, National Currency [PAK_CGO_NR_GR_TR_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Nontax Revenue, Civil Administration, Defense receipts, National Currency [PAK_CGO_NR_GR_NTR_CA_DR_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Nontax Revenue, Civil Administration, National Currency [PAK_CGO_NR_GR_NTR_CA_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Nontax Revenue, Civil Administration, Others, National Currency [PAK_CGO_NR_GR_NTR_CA_O_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Nontax Revenue, Civil Administration, Profit of SBP, National Currency [PAK_CGO_NR_GR_NTR_CA_PSBP_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Nontax Revenue, Miscellaneous receipts, Airport tax, National Currency [PAK_CGO_NR_GR_NTR_MR_AT_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Nontax Revenue, Miscellaneous receipts, National Currency [PAK_CGO_NR_GR_NTR_MR_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Nontax Revenue, Miscellaneous receipts, Others, National Currency [PAK_CGO_NR_GR_NTR_MR_O_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Nontax Revenue, Miscellaneous receipts, Passport fee, National Currency [PAK_CGO_NR_GR_NTR_MR_PF_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Nontax Revenue, Miscellaneous receipts, Royalty on oil/gas, National Currency [PAK_CGO_NR_GR_NTR_MR_ROG_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Nontax Revenue, National Currency [PAK_CGO_NR_GR_NTR_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Nontax Revenue, Property and enterprises, Dividends, National Currency [PAK_CGO_NR_GR_NTR_PE_D_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Nontax Revenue, Property and enterprises, Interest from PSEs, National Currency [PAK_CGO_NR_GR_NTR_PE_IFPS_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Nontax Revenue, Property and enterprises, Interest from provinces, National Currency [PAK_CGO_NR_GR_NTR_PE_IFP_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Nontax Revenue, Property and enterprises, National Currency [PAK_CGO_NR_GR_NTR_PE_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Nontax Revenue, Property and enterprises, Profits from Post Office/PTA, National Currency [PAK_CGO_NR_GR_NTR_PE_PFPO_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Tax Revenue, FBR revenue, Direct Taxes, National Currency [PAK_CGO_NR_GR_TR_CBRR_DT_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Tax Revenue, FBR revenue, Indirect Taxes, Customs duty, National Currency [PAK_CGO_NR_GR_TR_CBRR_IT_CD_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Tax Revenue, FBR revenue, Indirect Taxes, National Currency [PAK_CGO_NR_GR_TR_CBRR_IT_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Tax Revenue, FBR revenue, Indirect taxes, Customs duty, Federal excise, National Currency [PAK_CGO_NR_GR_TR_CBRR_IT_FE_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Tax Revenue, FBR revenue, Indirect taxes, Customs duty, Sales tax, National Currency [PAK_CGO_NR_GR_TR_CBRR_IT_ST_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Tax Revenue, FBR revenue, National Currency [PAK_CGO_NR_GR_TR_CBRR_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Tax Revenue, Surcharges, Natural gas, National Currency [PAK_CGO_NR_GR_TR_S_NG_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Gross revenue , Tax Revenue, Surcharges, Petroleum, National Currency [PAK_CGO_NR_GR_TR_S_P_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, National Currency [PAK_CGO_NR_XDC]
+Pakistan Definition,Central Government Operations, Net Revenue, Provincial tax share, National Currency [PAK_CGO_NR_PTS_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Development expenditure and net lending, Public Sector Development Program (PSDP) 2/ ,Other development expenditure, National Currency [PAK_GGO_E_DENL_PSDP_ODE_XDC]
+
+## mof_general_govt_operations_sdmx (59 indexed series)
+PAK_GGO_NR_GR_TR_S_CL_XDC
+PAK_GGO_NR_GR_TR_S_NAL_XDC
+PAK_GGO_NR_GR_TR_S_OTG_XDC
+Pakistan Definition,General Government Operations, Budget balance (excluding grants), National Currency [PAK_GGO_BBEG_XDC]
+Pakistan Definition,General Government Operations, Budget balance (including grants), Accrual budget balance (incl. IDP grants) 4/, National Currency [PAK_GGO_BBIG_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Current expenditure, Federal, Civil government 1/Domestic Currency [PAK_GGO_E_CE_F_CG_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Current expenditure, Federal, Defense 1/Domestic Currency [PAK_GGO_E_CE_F_D_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Current expenditure, Federal, Grants, National Currency [PAK_GGO_E_CE_F_G_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Current expenditure, Federal, Interest payments, Domestic, National Currency [PAK_GGO_E_CE_F_IP_D_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Current expenditure, Federal, Interest payments, Foreign, National Currency [PAK_GGO_E_CE_F_IP_F_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Current expenditure, Federal, Interest payments, National Currency [PAK_GGO_E_CE_F_IP_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Current expenditure, Federal, National Currency [PAK_GGO_E_CE_F_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Current expenditure, Federal, Pension (civil and military), National Currency [PAK_GGO_E_CE_F_P_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Current expenditure, Federal, Subsidies, National Currency [PAK_GGO_E_CE_F_S_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Current expenditure, National Currency [PAK_GGO_E_CE_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Current expenditure, Provincial, National Currency [PAK_GGO_E_CE_P_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Development expenditure and net lending, National Currency [PAK_GGO_E_DENL_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Development expenditure and net lending, Net lending, National Currency [PAK_GGO_E_DENL_NL_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Development expenditure and net lending, Public Sector Development Program (PSDP) 2/ ,Domestic Currency [PAK_GGO_E_DENL_PDSP_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Development expenditure and net lending, Public Sector Development Program (PSDP) 2/ ,Federal 2/ Domestic Currency [PAK_GGO_E_DENL_PSDP_F_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Development expenditure and net lending, Public Sector Development Program (PSDP) 2/ ,Other development expenditure, National Currency [PAK_GGO_E_DENL_PSDP_ODE_XDC]
+Pakistan Definition,General Government Operations, Expenditure, Development expenditure and net lending, Public Sector Development Program (PSDP) 2/ ,Provincial, National Currency [PAK_GGO_E_DENL_PSDP_P_XDC]
+Pakistan Definition,General Government Operations, Expenditure, National Currency [PAK_GGO_E_XDC]
+Pakistan Definition,General Government Operations, Financing, Bank, National Currency [PAK_GGO_F_B_XDC]
+Pakistan Definition,General Government Operations, Financing, Domestic, National Currency [PAK_GGO_F_D_XDC]
+Pakistan Definition,General Government Operations, Financing, External, National Currency [PAK_GGO_F_E_XDC]
+Pakistan Definition,General Government Operations, Financing, National Currency [PAK_GGO_F_XDC]
+Pakistan Definition,General Government Operations, Financing, Nonbank, National Currency [PAK_GGO_F_NB_XDC]
+Pakistan Definition,General Government Operations, Financing, Privatization proceeds, National Currency [PAK_GGO_F_PP_XDC]
+Pakistan Definition,General Government Operations, Memorandum items:, Primary balance (excluding grants), National Currency [PAK_GGO_MI_PBEG_XDC]
+Pakistan Definition,General Government Operations, Memorandum items:, Primary balance (including grants), National Currency [PAK_GGO_MI_PBIG_XDC]
+Pakistan Definition,General Government Operations, Statistical discrepancy, National Currency [PAK_GGO_SD_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, National Currency [PAK_GGO_RG_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, National Currency [PAK_GGO_RG_R_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Nontax revenue, Federal, Defense receipts, National Currency [PAK_GGO_RG_R_NTR_F_DR_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Nontax revenue, Federal, Defense receipts, Other, National Currency [PAK_GGO_RG_R_NTR_F_DR_O_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Nontax revenue, Federal, National Currency [PAK_GGO_RG_R_NTR_F_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Nontax revenue, Federal, Oil and gas royalties, National Currency [PAK_GGO_RG_R_NTR_F_OGR_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Nontax revenue, Federal, Other, Crude and other, National Currency [PAK_GGO_RG_R_NTR_F_O_CO_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Nontax revenue, Federal, Other, Mark-up  (interest revenue) excluding provinces, National Currency [PAK_GGO_RG_R_NTR_F_O_MUEP_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Nontax revenue, Federal, Other, PTA, National Currency [PAK_GGO_RG_R_NTR_F_O_PTA_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Nontax revenue, Federal, Other, passport fees, National Currency [PAK_GGO_RG_R_NTR_F_O_PF_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Nontax revenue, Federal, SBP profits, National Currency [PAK_GGO_RG_R_NTR_F_SBPP_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Nontax revenue, Federal, SOE dividends, National Currency [PAK_GGO_RG_R_NTR_F_SOED_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Nontax revenue, National Currency [PAK_GGO_RG_R_NTR_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Nontax revenue, Provincial, National Currency [PAK_GGO_RG_R_NTR_P_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Tax Revenue, Federal, FBR revenue, Customs duties, National Currency [PAK_GGO_RG_R_TR_F_FBR_CD_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Tax Revenue, Federal, FBR revenue, Direct tax, National Currency [PAK_GGO_RG_R_TR_F_FBR_D_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Tax Revenue, Federal, FBR revenue, Excise duty, National Currency [PAK_GGO_RG_R_TR_F_FBR_ED_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Tax Revenue, Federal, FBR revenue, National Currency [PAK_GGO_RG_R_TR_F_FBR_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Tax Revenue, Federal, FBR revenue, Sales tax, National Currency [PAK_GGO_RG_R_TR_F_FBR_ST_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Tax Revenue, Federal, GIDC, National Currency [PAK_GGO_RG_R_TR_F_GIDC_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Tax Revenue, Federal, Gas surcharge, National Currency [PAK_GGO_RG_R_TR_F_GS_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Tax Revenue, Federal, National Currency [PAK_GGO_RG_R_TR_F_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Tax Revenue, Federal, Other (ICT), National Currency [PAK_GGO_RG_R_TR_F_O_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Tax Revenue, Federal, Petroleum levy, National Currency [PAK_GGO_RG_R_TR_F_PL_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Tax Revenue, National Currency [PAK_GGO_RG_R_TR_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, Revenue, Tax Revenue, Provincial, National Currency [PAK_GGO_RG_R_TR_P_XDC]
+Pakistan Definition,General Government Operations,Revenue and grants, grants, National Currency [PAK_GGO_RG_G_XDC]
+
+## pbs_cpi_historical (24 indexed series)
+CPI Published — index
+CPI Published — index (FY average)
+CPI Published — inflation
+CPI Published — inflation (FY average)
+National — index
+National — index (FY average)
+National — inflation
+National — inflation (FY average)
+RPI — index
+RPI — index (FY average)
+RPI — inflation
+RPI — inflation (FY average)
+UCPI — index
+UCPI — index (FY average)
+UCPI — inflation
+UCPI — inflation (FY average)
+WPI Published — index
+WPI Published — index (FY average)
+WPI Published — inflation
+WPI Published — inflation (FY average)
+WPI — index
+WPI — index (FY average)
+WPI — inflation
+WPI — inflation (FY average)
+
+## pbs_cpi_sdmx (26 indexed series)
+Prices, Consumer Price,  All items, Index [PCPI_IX] (BASE_PER=2015/2016)
+Prices, Consumer Prices, All Items, Weight [PCPI_WT] (BASE_PER=_Z)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Alcoholic beverages, tobacco and narcotics, Index [PCPI_CP_02_IX] (BASE_PER=2015/2016)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Alcoholic beverages, tobacco and narcotics, Weight [PCPI_CP_02_WT] (BASE_PER=_Z)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Clothing and footwear, Index [PCPI_CP_03_IX] (BASE_PER=2015/2016)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Clothing and footwear, Weight [PCPI_CP_03_WT] (BASE_PER=_Z)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Communication, Index [PCPI_CP_08_IX] (BASE_PER=2015/2016)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Communication, Weight [PCPI_CP_08_WT] (BASE_PER=_Z)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Education, Index [PCPI_CP_10_IX] (BASE_PER=2015/2016)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Education, Weight [PCPI_CP_10_WT] (BASE_PER=_Z)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Food and non-alcoholic beverages, Index [PCPI_CP_01_IX] (BASE_PER=2015/2016)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Food and non-alcoholic beverages, Weight [PCPI_CP_01_WT] (BASE_PER=_Z)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Furnishings, household equipment and routine household maintenance, Index [PCPI_CP_05_IX] (BASE_PER=2015/2016)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Furnishings, household equipment and routine household maintenance, Weight [PCPI_CP_05_WT] (BASE_PER=_Z)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Health, Index [PCPI_CP_06_IX] (BASE_PER=2015/2016)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Health, Weight [PCPI_CP_06_WT] (BASE_PER=_Z)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Housing, water, electricity, gas and other fuels, Index [PCPI_CP_04_IX] (BASE_PER=2015/2016)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Housing, water, electricity, gas and other fuels, Weight [PCPI_CP_04_WT] (BASE_PER=_Z)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Miscellaneous goods and services, Index [PCPI_CP_12_IX] (BASE_PER=2015/2016)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Miscellaneous goods and services, Weight [PCPI_CP_12_WT] (BASE_PER=_Z)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Recreation and culture, Index [PCPI_CP_09_IX] (BASE_PER=2015/2016)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Recreation and culture, Weight [PCPI_CP_09_WT] (BASE_PER=_Z)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Restaurants and hotels, Index [PCPI_CP_11_IX] (BASE_PER=2015/2016)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Restaurants and hotels, Weight [PCPI_CP_11_WT] (BASE_PER=_Z)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Transport, Index [PCPI_CP_07_IX] (BASE_PER=2015/2016)
+Prices, Consumer Prices, By Classification of Individual Consumption According to Purpose (COICOP), Expenditure of Households, Transport, Weight [PCPI_CP_07_WT] (BASE_PER=_Z)
+
+## pbs_energy_sdmx (7 indexed series)
+Economic Activity, Oil Production, Crude, Barrels [AOMPC_BBL]
+Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Alternate Energy, Gigawatt Hours [PAK_ORSI_AE_GWH]
+Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Hydel, Gigawatt Hours [PAK_ORSI_H_GWH]
+Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Natural Gas (MCFT), Thousand Cubic Feet [PAK_ORSI_NG_1000FC]
+Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Nuclear, Gigawatt Hours [PAK_ORSI_N_GWH]
+Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Thermal, Gigawatt Hours [PAK_ORSI_T_GWH]
+Pakistan Definition, Industrial Production, Production of Crude Oil, Natural Gas and Electricity, Total ( Elec. Gen. in (GWH)), Gigawatt Hours [PAK_ORSI_EG_GWH]
+
+## pbs_labour_sdmx (3 indexed series)
+Labor Markets, Employment, Persons, Number of, Fiscal Year [LE_PE_FY_NUM]
+Labor Markets, Labor Force, Persons, Number of, Fiscal Year [LLF_PE_FY_NUM]
+Labor Markets, Unemployment, Persons, Number of, Fiscal Year [LU_PE_FY_NUM]
+
+## pbs_merchandise_trade_sdmx (63 indexed series)
+External Trade, Exports, Goods, Value, By Central Product Classification (CPC) Version 2.1, Agriculture, forestry and fishery products, Fish and other fishing products, Free on Board, National Currency [TXG_CPC21_04_FOB_XDC]
+External Trade, Exports, Goods, Value, By Central Product Classification (CPC) Version 2.1, Agriculture, forestry and fishery products, Free on Board, National Currency [TXG_CPC21_0_FOB_XDC]
+External Trade, Exports, Goods, Value, By Central Product Classification (CPC) Version 2.1, Food products, beverages and tobacco; textiles, apparel and leather products, Free on Board, National Currency [TXG_CPC21_2_FOB_XDC]
+External Trade, Exports, Goods, Value, By Central Product Classification (CPC) Version 2.1, Food products, beverages and tobacco; textiles, apparel and leather products, Yarn and thread; woven and tufted textile fabrics, Natural textile fibres prepared for spinning, Cotton, carded or combed, Free on Board, National Currency [TXG_CPC21_2616_FOB_XDC]
+External Trade, Exports, Goods, Value, Free on Board, National Currency [TXG_FOB_XDC]
+External Trade, Imports, Goods, Value, By Central Product Classification (CPC) Version 2.1, Metal products, machinery and equipment, Transport equipment, Cost Insurance Freight (CIF) adjustment, National Currency [TMG_CPC21_49_CIF_XDC]
+External Trade, Imports, Goods, Value, Cost, Insurance, Freight, National Currency [TMG_CIF_XDC]
+MET
+Merchandise Trade,  Total imports, Miscellaneous Group, Paper & paper products, National Currency [TMG_CPC21_32_CIF_XDC]
+Merchandise Trade,  Total imports, Miscellaneous Group, Tyres & tubes, National Currency [TMG_CPC21_361_CIF_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Other Manufactures, Carpets, carpeting, rugs & mats, National Currency [TXG_CPC21_272_FOB_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Other Manufactures, Footwear, National Currency [TXG_CPC21_29_FOB_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Other Manufactures, Leather, National Currency [TXG_CPC21_2824_FOB_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Other Manufactures, Petroleum products, National Currency [TXG_CPC21_33_FOB_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Other Manufactures, Sports goods (excl. toys), National Currency [TXG_CPC21_384_FOB_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Other Manufactures, Surgical instruments, National Currency [TXG_CPC21_35290_FOB_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Primary Commodities  Fruits,vegetables & preparation thereof, National Currency [TXG_CPC21_012T001990_FOB_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Primary Commodities  Raw wool, National Currency [TXG_CPC21_2613_FOB_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Primary Commodities  Tobacco un-manufactured, National Currency [TXG_CPC21_2501_FOB_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Textile Manufactures, Articles of apparel and clothing accessories (excl. knitwear), National Currency [TXG_CPC21_26_FOB_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Textile Manufactures, Cotton yarn, National Currency [TXG_CPC21_2636_FOB_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Textile Manufactures, Knitwear, National Currency [TXG_CPC21_281_FOB_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Textile Manufactures, National Currency [TXG_CPC21_27_FOB_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Textile Manufactures, Synthetic textile fabrics, National Currency [TXG_CPC21_2621_FOB_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Textile Manufactures, Synthetic textile fabrics, Tarpaulin &other canvas goods, National Currency [TXG_CPC21_2716_FOB_XDC]
+Merchandise Trade, Total Exports, by Group/Commodities, Textile Manufactures, Textile made up (excl. towels & bed wear, National Currency [PAK_MET_TXG_FOB_TM_TMU_XDC]
+Merchandise Trade, Total Imports, by Group/Commodities,  Food Group, National Currency [TMG_CPC21_2_CIF_XDC]
+Merchandise Trade, Total Imports, by Group/Commodities,  Milk & milk food for infants, National Currency [TMG_CPC21_2221T22229_CIF_XDC]
+Merchandise Trade, Total Imports, by Group/Commodities,  Palm oil, National Currency [TMG_CPC21_2165_CIF_XDC]
+Merchandise Trade, Total Imports, by Group/Commodities,  Pulses, National Currency [TMG_CPC21_213_CIF_XDC]
+Merchandise Trade, Total Imports, by Group/Commodities,  Soyabean oil, National Currency [TMG_CPC21_2161_CIF_XDC]
+Merchandise Trade, Total Imports, by Group/Commodities,  Tea, National Currency [TMG_CPC21_0162_CIF_XDC]
+Merchandise Trade, Total exports, by Group/Commodities, Primary Commodities, Rice, National Currency [TXG_CPC21_0113_FOB_XDC]
+Merchandise Trade, Total imports, Chemical Group, Fertilizer manufactured, National Currency [TMG_CPC21_161_CIF_XDC]
+Merchandise Trade, Total imports, Chemical Group, Insecticide, National Currency [TMG_CPC21_3466_CIF_XDC]
+Merchandise Trade, Total imports, Chemical Group, Medicinal products, National Currency [TMG_CPC21_352_CIF_XDC]
+Merchandise Trade, Total imports, Chemical Group, National Currency [TMG_CPC21_34_CIF_XDC]
+Merchandise Trade, Total imports, Machinery & Trans. Group, Machinery, National Currency [TMG_CPC21_43T47_CIF_XDC]
+Merchandise Trade, Total imports, Machinery & Trans. Group, National Currency [TMG_CPC21_3_CIF_XDC]
+Merchandise Trade, Total imports, Metal Group, Iron & steel scrap, National Currency [TMG_CPC21_3931_CIF_XDC]
+Merchandise Trade, Total imports, Metal Group, Iron & steel, National Currency [TMG_CPC21_412_CIF_XDC]
+Merchandise Trade, Total imports, Metal Group, National Currency [TMG_CPC21_14_CIF_XDC]
+Merchandise Trade, Total imports, Petroleum Group, Petroleum crude, National Currency [TMG_CPC21_1201_CIF_XDC]
+Merchandise Trade, Total imports, by Economic Category, Capital Goods, National Currency [TMGK_CIF_XDC]
+Merchandise Trade, Total imports, by Economic Category, Consumer Goods, National Currency [TMGC_CIF_XDC]
+Merchandise Trade, Total imports,Textile Group, National Currency [TMG_CPC21_26_CIF_XDC]
+Merchandise Trade, Total imports,Textile GroupSynthetic fibre, National Currency [TMG_CPC21_2643_CIF_XDC]
+Pakistan Definition, Merchandise Trade,  Total Exports, by Economic Category, Manufactured Goods, National Currency [PAK_MET_TXG_FOB_EC_MG_XDC]
+Pakistan Definition, Merchandise Trade,  Total Exports, by Economic Category, Primary Commodities, National Currency [PAK_MET_TXG_FOB_EC_PC_XDC]
+Pakistan Definition, Merchandise Trade,  Total Exports, by Economic Category, Semi-Manufactures, National Currency [PAK_MET_TXG_FOB_EC_SM_XDC]
+Pakistan Definition, Merchandise Trade,  Total Exports, by Group/Commodities, Others, National Currency [PAK_MET_TXG_FOB_O_XDC]
+Pakistan Definition, Merchandise Trade, Total Exports, by Group/Commodities, Other Manufactures, National Currency [PAK_MET_TXG_FOB_OM_XDC]
+Pakistan Definition, Merchandise Trade, Total Exports, by Group/Commodities, Primary Commodities  Fish & fish preparation, Raw cotton (excl. linters), National Currency [PAK_MET_TXG_FOB_PC_RC_XDC]
+Pakistan Definition, Merchandise Trade, Total Exports, by Group/Commodities, Textile Manufactures, Bedwear, National Currency [PAK_MET_TXG_FOB_TM_B_XDC]
+Pakistan Definition, Merchandise Trade, Total Exports, by Group/Commodities, Textile Manufactures, Towels, National Currency [PAK_MET_TXG_FOB_TM_T_XDC]
+Pakistan Definition, Merchandise Trade, Total imports, Chemical Group, Chemicals (excl. 2, 3 & 4), National Currency [PAK_MET_TMG_CIF_CG_C_XDC]
+Pakistan Definition, Merchandise Trade, Total imports, Miscellaneous Group, National Currency [PAK_MET_TMG_CIF_MIG_XDC]
+Pakistan Definition, Merchandise Trade, Total imports, Others, National Currency [PAK_MET_TMG_CIF_MIG_O_XDC]
+Pakistan Definition, Merchandise Trade, Total imports, Petroleum Group, National Currency [PAK_MET_TMG_CIF_PG_XDC]
+Pakistan Definition, Merchandise Trade, Total imports, Petroleum Group, Petroleum products, National Currency [PAK_MET_TMG_CIF_PG_PP_XDC]
+Pakistan Definition, Merchandise Trade, Total imports, by Economic Category, Raw Material For Capital Goods, National Currency [PAK_MET_TMG_CIF_EC_RMKG_XDC]
+Pakistan Definition, Merchandise Trade, Total imports, by Economic Category, Raw Material For Consumer Goods, National Currency [PAK_MET_TMG_CIF_EC_RMCG_XDC]
+Pakistan Definition, Merchandise Trade, Total imports,Textile Group, Synthetic & artificial silk yarn, National Currency [PAK_MET_TMG_CIF_TG_SASY_XDC]
+
+## pbs_producer_prices_sdmx (6 indexed series)
+Prices, Wholesale Price Index, All Items, Index [PWPI_IX]
+Producer Price Index, Wholesale Prices, By Central Product Classification (CPC) Version 2.1, Agriculture, forestry and fishery products, Index [PWPI_CPC21_0_IX]
+Producer Price Index, Wholesale Prices, By Central Product Classification (CPC) Version 2.1, Food products, beverages and tobacco; textiles, apparel and leather products, Index [PWPI_CPC21_2_IX]
+Producer Price Index, Wholesale Prices, By Central Product Classification (CPC) Version 2.1, Metal products, machinery and equipment, Index [PWPI_CPC21_4_IX]
+Producer Price Index, Wholesale Prices, By Central Product Classification (CPC) Version 2.1, Ores and minerals; electricity, gas and water, Index [PWPI_CPC21_1_IX]
+Producer Price Index, Wholesale Prices, By Central Product Classification (CPC) Version 2.1, Other transportable goods, except metal products, machinery and equipment, Index [PWPI_CPC21_3_IX]
+
+## pbs_quarterly_national_accounts_sdmx (84 indexed series)
+National Accounts, Activity, Gross Domestic Product, Production Approach, By Industrial Sector, Industry (Secondary), Services (Tertiary), Nominal, National Currency [NGDPS_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Gross Domestic Product, Production Approach, Nominal, National Currency [NGDP_PA_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Gross Domestic Product, Production Approach, Real, National Currency [NGDP_PA_R_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Industry and Construction, ISIC Rev. 4, National Currency [NGDPVA_ISIC4_BTF_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Accommodation and food service activities, National Currency [NGDPVA_ISIC4_I_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Agriculture, National Currency [NGDPVA_ISIC4_A011T013_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Agriculture, forestry and fishing, Crop and animal production, hunting and hunting and related service activities, Animal Production and Hunting, trapping and related service activities, National Currency [NGDPVA_ISIC4_A014T017_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Agriculture, forestry and fishing, Fishing and aquaculture, National Currency [NGDPVA_ISIC4_A03_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Agriculture, forestry and fishing, Forestry and logging, National Currency [NGDPVA_ISIC4_A02_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Agriculture, forestry and fishing, National Currency [NGDPVA_ISIC4_A_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Construction, National Currency [NGDPVA_ISIC4_F_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Education, National Currency [NGDPVA_ISIC4_P_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Electricity, gas, steam and air conditioning supply, National Currency [NGDPVA_ISIC4_D_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Financial and insurance activities, National Currency [NGDPVA_ISIC4_K_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Human health and social work activities, National Currency [NGDPVA_ISIC4_Q_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Information and communication, National Currency [NGDPVA_ISIC4_J_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Manufacturing, National Currency [NGDPVA_ISIC4_C_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Mining and quarrying, National Currency [NGDPVA_ISIC4_B_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, National Currency [NGDPVA_ISIC4_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Other service activities, National Currency [NGDPVA_ISIC4_S_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Public administration and defense; compulsory social security, National Currency [NGDPVA_ISIC4_O_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Real estate activities, National Currency [NGDPVA_ISIC4_L_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Transportation and storage, National Currency [NGDPVA_ISIC4_H_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Nominal, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Wholesale and retail trade; repair of motor vehicles and motorcycles, National Currency [NGDPVA_ISIC4_G_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Accommodation and food service activities, National Currency [NGDPVA_R_ISIC4_I_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Agriculture, National Currency [NGDPVA_R_ISIC4_A011T013_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Agriculture, forestry and fishing, Crop and animal production, hunting and hunting and related service activities, Animal Production and Hunting, trapping and related service activities, National Currency [NGDPVA_R_ISIC4_A014T017_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Agriculture, forestry and fishing, Fishing and aquaculture, National Currency [NGDPVA_R_ISIC4_A03_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Agriculture, forestry and fishing, Forestry and logging, National Currency [NGDPVA_R_ISIC4_A02_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Agriculture, forestry and fishing, National Currency [NGDPVA_R_ISIC4_A_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Construction, National Currency [NGDPVA_R_ISIC4_F_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Education, National Currency [NGDPVA_R_ISIC4_P_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Electricity, gas, steam and air conditioning supply, National Currency [NGDPVA_R_ISIC4_D_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Financial and insurance activities, National Currency [NGDPVA_R_ISIC4_K_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Human health and social work activities, National Currency [NGDPVA_R_ISIC4_Q_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Information and communication, National Currency [NGDPVA_R_ISIC4_J_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Manufacturing, National Currency [NGDPVA_R_ISIC4_C_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Mining and quarrying, National Currency [NGDPVA_R_ISIC4_B_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Other service activities, National Currency [NGDPVA_R_ISIC4_S_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Public administration and defense; compulsory social security, National Currency [NGDPVA_R_ISIC4_O_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Real estate activities, National Currency [NGDPVA_R_ISIC4_L_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Transportation and storage, National Currency [NGDPVA_R_ISIC4_H_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, By International Standard Industrial Classification of All Economic Activities (ISIC) Rev. 4, Wholesale and retail trade; repair of motor vehicles and motorcycles, National Currency [NGDPVA_R_ISIC4_G_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Gross Value Added, Real, National Currency (base 2015-16) [NGDPVA_R_BY2015-2016_XDC] (BASE_PER=2015-16)
+National Accounts, Activity, Memorandum Items, Taxes on Products, Nominal, National Currency [NGDPT_XDC] (BASE_PER=_Z)
+National Accounts, Activity, Memorandum Items, Taxes on Products, Real, National Currency (base 2015-16) [NGDPT_R_BY2015-2016_XDC] (BASE_PER=2015-16)
+National Accounts, Expenditure, Gross Domestic Product, External Balance of Goods and Services, Exports of Goods and Services, Nominal, Fiscal Year, National Currency [NX_FY_XDC] (BASE_PER=_Z)
+National Accounts, Expenditure, Gross Domestic Product, External Balance of Goods and Services, Exports of Goods and Services, Real, Fiscal Year, National Currency [NX_R_FY_XDC] (BASE_PER=2015-16)
+National Accounts, Expenditure, Gross Domestic Product, External Balance of Goods and Services, Imports of Goods and Services, Nominal, Fiscal Year, National Currency [NM_FY_XDC] (BASE_PER=_Z)
+National Accounts, Expenditure, Gross Domestic Product, External Balance of Goods and Services, Imports of Goods and Services, Real, Fiscal Year, National Currency [NM_R_FY_XDC] (BASE_PER=2015-16)
+National Accounts, Expenditure, Gross Domestic Product, Final Consumption Expenditure, Private Sector (Households and Non-profit Institutions Serving Households), Households (Individual), Nominal, Fiscal Year, National Currency [NCPHI_FY_XDC] (BASE_PER=_Z)
+National Accounts, Expenditure, Gross Domestic Product, Final Consumption Expenditure, Private Sector (Households and Non-profit Institutions Serving Households), Households (Individual), Real, Fiscal Year, National Currency [NCPHI_R_FY_XDC] (BASE_PER=2015-16)
+National Accounts, Expenditure, Gross Domestic Product, Final Consumption Expenditure, Private Sector (Households and Non-profit Institutions Serving Households), Non-profit Institutions Serving Households (NPISHs) (Individual), Nominal, Fiscal Year, National Currency [NCPHN_FY_XDC] (BASE_PER=_Z)
+National Accounts, Expenditure, Gross Domestic Product, Final Consumption Expenditure, Private Sector (Households and Non-profit Institutions Serving Households), Non-profit Institutions Serving Households (NPISHs) (Individual), Real, Fiscal Year, National Currency [NCPHN_R_FY_XDC] (BASE_PER=2015-16)
+National Accounts, Expenditure, Gross Domestic Product, Final Consumption Expenditure, Public Sector (General Government and Public Corporations), General Government, Nominal, Fiscal Year, National Currency [NCGG_FY_XDC] (BASE_PER=_Z)
+National Accounts, Expenditure, Gross Domestic Product, Final Consumption Expenditure, Public Sector (General Government and Public Corporations), General Government, Real, Fiscal Year, National Currency [NCGG_R_FY_XDC] (BASE_PER=2015-16)
+National Accounts, Expenditure, Gross Domestic Product, Gross Capital Formation, Acquisitions less Disposals of Valuables, Nominal, Fiscal Year, National Currency [NFG_FY_XDC] (BASE_PER=_Z)
+National Accounts, Expenditure, Gross Domestic Product, Gross Capital Formation, Acquisitions less Disposals of Valuables, Real, Fiscal Year, National Currency [NFG_R_FY_XDC] (BASE_PER=2015-16)
+National Accounts, Expenditure, Gross Domestic Product, Gross Capital Formation, Changes in Inventories, Nominal, Fiscal Year, National Currency [NINV_FY_XDC] (BASE_PER=_Z)
+National Accounts, Expenditure, Gross Domestic Product, Gross Capital Formation, Changes in Inventories, Real, Fiscal Year, National Currency [NINV_R_FY_XDC] (BASE_PER=2015-16)
+National Accounts, Expenditure, Gross Domestic Product, Gross Capital Formation, Nominal, Fiscal Year, National Currency [NI_FY_XDC] (BASE_PER=_Z)
+National Accounts, Expenditure, Gross Domestic Product, Gross Capital Formation, Real, Fiscal Year, National Currency [NI_R_FY_XDC] (BASE_PER=2015-16)
+National Accounts, Expenditure, Gross Domestic Product, Nominal, Fiscal Year, National Currency [NGDP_FY_XDC] (BASE_PER=_Z)
+National Accounts, Expenditure, Gross Domestic Product, Real, Fiscal Year, National Currency [NGDP_R_FY_XDC] (BASE_PER=2015-16)
+National Accounts, GDP-GNP Relation, Net Primary Income from Abroad, Nominal, National Currency (base 2015-16) [NGDPNPI_BY2015-2016_XDC] (BASE_PER=2015-16)
+National Accounts, GDP-GNP Relation, Net Primary Income from Abroad, Nominal, National Currency [NGDPNPI_XDC] (BASE_PER=_Z)
+National Accounts, Income, Savings, and Investment, Gross Domestic Product (Income Generated by Resident Producers), National Income, Gross, Nominal, National Currency (base 2015-16) [NYG_BY2015-2016_XDC] (BASE_PER=2015-16)
+National Accounts, Income, Savings, and Investment, Gross Domestic Product (Income Generated by Resident Producers), National Income, Gross, Nominal, National Currency [NYG_XDC] (BASE_PER=_Z)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, A. Agricultural Sector ( 1 to 4 ), 1. Crops ( i+ii+iii), i) Important Crops, Nominal, National Currency [PAK_NAG_ISIC4_A011T013_IC_XDC] (BASE_PER=_Z)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, A. Agricultural Sector ( 1 to 4 ), 1. Crops ( i+ii+iii), i) Important Crops, Real, National Currency [PAK_NAG_R_ISIC4_A011T013_IC_XDC] (BASE_PER=2015-16)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, A. Agricultural Sector ( 1 to 4 ), 1. Crops ( i+ii+iii), ii) Other Crops, Nominal, National Currency [PAK_NAG_ISIC4_A011T013_OC_XDC] (BASE_PER=_Z)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, A. Agricultural Sector ( 1 to 4 ), 1. Crops ( i+ii+iii), ii) Other Crops, Real, National Currency [PAK_NAG_R_ISIC4_A011T013_OC_XDC] (BASE_PER=2015-16)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, A. Agricultural Sector ( 1 to 4 ), 1. Crops ( i+ii+iii), iii) Cotton Ginning, Nominal, National Currency [PAK_NAG_ISIC4_A011T013_CG_XDC] (BASE_PER=_Z)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, A. Agricultural Sector ( 1 to 4 ), 1. Crops ( i+ii+iii), iii) Cotton Ginning, Real, National Currency [PAK_NAG_R_ISIC4_A011T013_CG_XDC] (BASE_PER=2015-16)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, Commodity Producing Sectors, Nominal, National Currency [PAK_NAG_ISIC4_NGDPIA_XDC] (BASE_PER=_Z)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, Commodity Producing Sectors, Real, National Currency [PAK_NAG_R_ISIC4_NGDPIA_XDC] (BASE_PER=2015-16)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, Industrical Activities, Real, National Currency [PAK_NAG_R_ISIC4_NGDPI_XDC] (BASE_PER=2015-16)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, Manufacturing, Large Scale, Nominal, National Currency [PAK_NGA_NGDPVA_ISIC4_C_LS_XDC] (BASE_PER=_Z)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, Manufacturing, Large Scale, Real, National Currency [PAK_NGA_NGDPVA_R_ISIC4_C_LS_XDC] (BASE_PER=2015-16)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, Manufacturing, Slaughtering Scale, Nominal, National Currency [PAK_NGA_NGDPVA_ISIC4_C_S_XDC] (BASE_PER=_Z)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, Manufacturing, Slaughtering Scale, Real, National Currency [PAK_NGA_NGDPVA_R_ISIC4_C_S_XDC] (BASE_PER=2015-16)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, Manufacturing, Smale Scale, Nominal, National Currency [PAK_NGA_NGDPVA_ISIC4_C_SS_XDC] (BASE_PER=_Z)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, Manufacturing, Smale Scale, Real, National Currency [PAK_NGA_NGDPVA_R_ISIC4_C_SS_XDC] (BASE_PER=2015-16)
+Pakistan Definition, National Accounts, Gross Value Added, by Activity, Services, Nominal, National Currency [PAK_NAG_ISIC4_NGDPS_XDC] (BASE_PER=_Z)
+
+## pbs_spi_weekly (30 indexed series)
+SPI Combined — % change WoW
+SPI Combined — % change YoY
+SPI Combined — index
+SPI Combined — index previous week
+SPI Combined — index year ago
+SPI Q1 (Upto Rs. 17,732) — % change WoW
+SPI Q1 (Upto Rs. 17,732) — % change YoY
+SPI Q1 (Upto Rs. 17,732) — index
+SPI Q1 (Upto Rs. 17,732) — index previous week
+SPI Q1 (Upto Rs. 17,732) — index year ago
+SPI Q2 (Rs. 17,733 - 22,888) — % change WoW
+SPI Q2 (Rs. 17,733 - 22,888) — % change YoY
+SPI Q2 (Rs. 17,733 - 22,888) — index
+SPI Q2 (Rs. 17,733 - 22,888) — index previous week
+SPI Q2 (Rs. 17,733 - 22,888) — index year ago
+SPI Q3 (Rs. 22,889 - 29,517) — % change WoW
+SPI Q3 (Rs. 22,889 - 29,517) — % change YoY
+SPI Q3 (Rs. 22,889 - 29,517) — index
+SPI Q3 (Rs. 22,889 - 29,517) — index previous week
+SPI Q3 (Rs. 22,889 - 29,517) — index year ago
+SPI Q4 (Rs. 29,518 - 44,175) — % change WoW
+SPI Q4 (Rs. 29,518 - 44,175) — % change YoY
+SPI Q4 (Rs. 29,518 - 44,175) — index
+SPI Q4 (Rs. 29,518 - 44,175) — index previous week
+SPI Q4 (Rs. 29,518 - 44,175) — index year ago
+SPI Q5 (Above Rs. 44,175) — % change WoW
+SPI Q5 (Above Rs. 44,175) — % change YoY
+SPI Q5 (Above Rs. 44,175) — index
+SPI Q5 (Above Rs. 44,175) — index previous week
+SPI Q5 (Above Rs. 44,175) — index year ago
+
+## pbs_trade_services_summary (6 indexed series)
+Balance of Trade (services)
+Balance of Trade (services) (cumulative Jul-to-date)
+Exports (services)
+Exports (services) (cumulative Jul-to-date)
+Imports (services)
+Imports (services) (cumulative Jul-to-date)
+
+## pbs_trade_summary_monthly (6 indexed series)
+Balance of Trade (goods)
+Balance of Trade (goods) (cumulative Jul-to-date)
+Exports (goods)
+Exports (goods) (cumulative Jul-to-date)
+Imports (goods)
+Imports (goods) (cumulative Jul-to-date)
+
+## sbp_balance_of_trade (15 indexed series)
+Balance of Trade [a-c]
+Balance of Trade [a-c] (annual)
+Balance of Trade [b-d]
+Exports (BOP) Cumulative [b]
+Exports (BOP) Growth Rate [Monthly]
+Exports (BOP) Growth Rate [Period to Period]
+Exports (BOP) Growth Rate [Period to Period] (annual)
+Exports (BOP) Value [a]
+Exports (BOP) Value [a] (annual)
+Imports (BOP) Cumulative [d]
+Imports (BOP) Growth Rate [Monthly]
+Imports (BOP) Growth Rate [Period to Period]
+Imports (BOP) Growth Rate [Period to Period] (annual)
+Imports (BOP) Value [c]
+Imports (BOP) Value [c] (annual)
+
+## sbp_broad_money_m2 (60 indexed series)
+(i) Demand Deposits
+(i) From SBP
+(i) State Bank of Pakistan
+(i) State Bank of Pakistan2
+(ii) From Scheduled Banks
+(ii) From Scheduled banks
+(ii) Scheduled Banks
+(ii) Time Deposits
+(ii) Time Deposits7
+(iii) Residents Foreign Currency Deposits (RFCDs)
+Accrued profit on SBP holdings of MRTBs/MTBs
+Accrued profit on SBP holdings of government securities/ Charges/ Revaluation
+Balochistan Government
+Broad Money (M2) (A+B)
+Broad Money (M2) (A+B+C)
+Commercial Banks
+Conventional Banking Branches
+Credit to Non-Government Sector (a+b+c+d)
+Currency in Circulation
+Demand Deposit
+From SBP
+From Scheduled Banks
+Islamic Banking Branches of Conventional Banks
+Islamic Banking Branches of Conventional Banks5
+Islamic Banks
+Khyber Pakhtunkhwa Government
+Net Domestic Assets of the Banking System (1+2+3)
+Net Domestic Assets of the Banking System (1+2+3)=(i)+(ii)
+Net Domestic Assets of the Banking System =(i)+(ii)
+Net Foreign Assets of the Banking System
+Net Government Budgetary Borrowings (cash basis)
+Net Government Sector Borrowings (a+b+c)
+Other Deposits with SBP
+Other Items (net)
+Outstanding amout of MTBs (realized value in auctuions)
+Punjab Government
+Residents Foreign Currency Deposits (RFCDs)
+Sindh Government
+Specialized Banks
+Time Deposits
+Total Deposits with Banks
+Total Deposits with Banks 1/
+Total Deposits with Banks1
+a) Federal Government
+a. Borrowings for Budgetary Support
+a. Borrowings for Budgetary Support3
+a. Credit to Private Sector
+a. Credit to Private Sector*
+b) Provincial Government
+b) Provincial Governments
+b. Commodity Operations
+b. Credit to Public Sectors Enterprises (PSEs)
+c) AJK Government
+c. Others
+c. PSEs Special Account-Debt Repayment with SBP
+d) Gilgit-Baltistan
+d. Credit to NBFIs
+d. Credit to NBFIs6
+of which deposits with SBP
+of which deposits with banks4
+
+## sbp_credit_loans_by_borrower (519 indexed series)
+- Carpets and rugs
+- Knit wear
+- Made-up textile articles
+- Other textiles n.e.c.
+- Spinning, weaving, finishing of textiles
+02 - Forestry and logging (ISIC rev. 4 basis)
+03 - Fishing and aquaculture (ISIC rev. 4 basis)
+05 - Mining of coal and lignite (ISIC rev. 4 basis)
+06 - Extraction of crude petroleum and natural gas (ISIC rev. 4 basis)
+07 - Mining of metal ores (ISIC rev. 4 basis)
+08-Other mining and quarrying (ISIC rev. 4 basis)
+1) For house building (ISIC rev. 4 basis)
+1. Cotton (ISIC rev. 4 basis)
+1. Credit to Government Sector (A+B)
+1. Credit to Government Sector (A+B) (ISIC rev. 4 basis)
+1. Crop and animal production, hunting and related service activities (ISIC rev. 4 basis)
+1. Loans to Private Sector Business
+1. PRIVATE SECTOR (BUSINESS) (ISIC rev. 4 basis)
+10 - Manufacture of food products (ISIC rev. 4 basis)
+11 - Manufacture of beverages (ISIC rev. 4 basis)
+12 - Manufacture of tobacco products (ISIC rev. 4 basis)
+13 - Manufacture of textiles (ISIC rev. 4 basis)
+14 - Manufacture of wearing apparel (ISIC rev. 4 basis)
+15 - Manufacture of leather and related products (ISIC rev. 4 basis)
+16 - Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (ISIC rev. 4 basis)
+17 - Manufacture of paper and paper products (ISIC rev. 4 basis)
+18 - Printing and reproduction of recorded media (ISIC rev. 4 basis)
+19 - Manufacture of coke and refined petroleum products (ISIC rev. 4 basis)
+2) For transport i.e. purchase of car etc (ISIC rev. 4 basis)
+2) For transport i.e. purchase of car etc. (ISIC rev. 4 basis)
+2. Credit to Non Government Sector (A+B) (ISIC rev. 4 basis)
+2. Credit to Non Governmnet Sector (A+B)
+2. TRUST FUNDS AND NON PROFIT ORGANIZATIONS (ISIC rev. 4 basis)
+2. Trust Funds & NPOs
+2. Woolen (ISIC rev. 4 basis)
+20 - Manufacture of chemicals and chemical products (ISIC rev. 4 basis)
+21 - Manufacture of basic pharmaceutical products and pharmaceutical preparations (ISIC rev. 4 basis)
+22 - Manufacture of rubber and plastics products (ISIC rev. 4 basis)
+23 - Manufacture of other non-metallic mineral products (ISIC rev. 4 basis)
+24 - Manufacture of basic metals (ISIC rev. 4 basis)
+25.Manufacture of fabricated metal products, except machinery and equipment (ISIC rev. 4 basis)
+26 - Manufacture of computer, electronic and optical products (ISIC rev. 4 basis)
+27 - Manufacture of electrical equipment (ISIC rev. 4 basis)
+28 - Manufacture of machinery and equipment (ISIC rev. 4 basis)
+29 - Manufacture of motor vehicles, trailers and semi-trailers (ISIC rev. 4 basis)
+3) Credit cards (ISIC rev. 4 basis)
+3) Other purposes (ISIC rev. 4 basis)
+3. PERSONAL (ISIC rev. 4 basis)
+3. Personal
+3. Synthetic fibre (ISIC rev. 4 basis)
+3. Synthetic textile (ISIC rev. 4 basis)
+30 - Manufacture of other transport equipment (ISIC rev. 4 basis)
+31 - Manufacture of furniture (ISIC rev. 4 basis)
+32. Other manufacturing (ISIC rev. 4 basis)
+33 - Repair and installation of machinery and equipment (ISIC rev. 4 basis)
+36 - Water collection, treatment and supply (ISIC rev. 4 basis)
+37 - Sewerage (ISIC rev. 4 basis)
+38 - Waste collection, treatment and disposal activities; materials recovery (ISIC rev. 4 basis)
+39 - Remediation activities and other waste management services (ISIC rev. 4 basis)
+4) Consumers durable (ISIC rev. 4 basis)
+4. OTHER (ISIC rev. 4 basis)
+4. Other
+4. Others (ISIC rev. 4 basis)
+41 - Construction of buildings (ISIC rev. 4 basis)
+42 - Civil engineering (ISIC rev. 4 basis)
+43 - Specialized construction activities (ISIC rev. 4 basis)
+45 - Wholesale and retail trade and repair of motor vehicles and motorcycles (ISIC rev. 4 basis)
+46 - Wholesale trade, except of motor vehicles and motorcycles (ISIC rev. 4 basis)
+47 - Retail trade, except of motor vehicles and motorcycles (ISIC rev. 4 basis)
+49 - Land transport and transport via pipelines (ISIC rev. 4 basis)
+5) Personal loans (ISIC rev. 4 basis)
+50 - Water transport (ISIC rev. 4 basis)
+51 - Air transport (ISIC rev. 4 basis)
+52 - Warehousing and support activities for transportation (ISIC rev. 4 basis)
+53 - Courier activities other than national post activities (ISIC rev. 4 basis)
+55 - Accommodation (ISIC rev. 4 basis)
+56-Food and beverage service activities (ISIC rev. 4 basis)
+58 - Publishing activities (ISIC rev. 4 basis)
+59 - Motion picture, video and television programme production, sound recording and music publishing activities (ISIC rev. 4 basis)
+60 - Programming and broadcasting activities (ISIC rev. 4 basis)
+61 - Telecommunications (ISIC rev. 4 basis)
+62 - Computer programming, consultancy and related activities (ISIC rev. 4 basis)
+63 - Information service activities (ISIC rev. 4 basis)
+69 - Legal and accounting activities (ISIC rev. 4 basis)
+70 - Activities of head offices; management consultancy activities (ISIC rev. 4 basis)
+71 - Architectural and engineering activities; technical testing and analysis (ISIC rev. 4 basis)
+72 - Scientific research and development (ISIC rev. 4 basis)
+73 - Advertising and market research (ISIC rev. 4 basis)
+74 - Other professional, scientific and technical activities (ISIC rev. 4 basis)
+75 - Veterinary activities (ISIC rev. 4 basis)
+77 - Rental and leasing activities (ISIC rev. 4 basis)
+78 - Employment activities (ISIC rev. 4 basis)
+79 - Travel agency, tour operator, reservation service and related activities (ISIC rev. 4 basis)
+80 - Security and investigation activities (ISIC rev. 4 basis)
+81. Services to buildings and landscape activities (ISIC rev. 4 basis)
+82 - Office administrative, office support and other business support activities (ISIC rev. 4 basis)
+86 - Human health activities (ISIC rev. 4 basis)
+87 - Residential care activities (ISIC rev. 4 basis)
+88. Social work activities with and without accommodation (ISIC rev. 4 basis)
+9 - Mining support service activities (ISIC rev. 4 basis)
+90 - Creative, arts and entertainment activities (ISIC rev. 4 basis)
+91 - Libraries, archives, museums and other cultural activities (ISIC rev. 4 basis)
+92 - Sports activities and amusement and recreation activities (ISIC rev. 4 basis)
+93-Activities of membership organizations (ISIC rev. 4 basis)
+94-Repair of computers and personal and household goods (ISIC rev. 4 basis)
+95-Other personal service activities (ISIC rev. 4 basis)
+96-Activities of households as employers of domestic personnel (ISIC rev. 4 basis)
+97-Undifferentiated goods- and services-producing activities of private households for own use (ISIC rev. 4 basis)
+A. Agriculture, forestry and fishing (ISIC rev. 4 basis)
+A. Bank Employees (ISIC rev. 4 basis)
+A. Government Trusts and Non-profit Organizations (ISIC rev. 4 basis)
+A. Investment in Securities & Shares of Private Sector
+A. Investment in Securities & Shares of Private Sector (ISIC rev. 4 basis)
+A. SBP Credit to Government Sector (Net)
+A. SBP Credit to Government Sector (Net) (ISIC rev. 4 basis)
+A. SBP Credit to Non Govt. Sector
+A. SBP Credit to Non Govt. Sector (ISIC rev. 4 basis)
+Accounting, bookkeeping and auditing activities; tax consultancy (ISIC rev. 4 basis)
+Agricultural and animal husbandry services
+Agricultural machinery and equipments
+Agricultural machinery and equipments and related services (ISIC rev. 4 basis)
+Agriculture, hunting and forestry
+B. Consumer Financing (ISIC rev. 4 basis)
+B. Loans to Private Sector
+B. Loans to Private Sector (1-4)
+B. Loans to Private Sector (1-4) (ISIC rev. 4 basis)
+B. Mining and quarrying (ISIC rev. 4 basis)
+B. Private Trusts and Non-profit Organizations (ISIC rev. 4 basis)
+B. Scheduled Banks Credit to Government Sector (Net)
+B. Scheduled Banks Credit to Government Sector (Net) (ISIC rev. 4 basis)
+B. Scheduled Banks Credit to Non Govt. Sector (I+II+III) (ISIC rev. 4 basis)
+B. Scheduled Banks Credit to Non Govt.Sector (I+II+III)
+Bank Employees
+Basic metals
+Book publishing (ISIC rev. 4 basis)
+Building
+Building of ships, floating structures and boats (ISIC rev. 4 basis)
+C) Other (ISIC rev. 4 basis)
+C. Manufacturing (ISIC rev. 4 basis)
+C. Non-government Organizations (NGOs)/ Community Based Organizations (CBOs) (ISIC rev. 4 basis)
+Cargo handling (ISIC rev. 4 basis)
+Casting of iron and steel (ISIC rev. 4 basis)
+Casting of non-ferrous metals (ISIC rev. 4 basis)
+Chemical, fertilizer, salt etc
+Chemicals and chemical products
+Coke, refined petroleum products
+Commerce and Trade
+Computer consultancy and computer facilities management activities (ISIC rev. 4 basis)
+Computer programming activities (ISIC rev. 4 basis)
+Construction
+Construction of other civil engineering projects (ISIC rev. 4 basis)
+Construction of roads and railways (ISIC rev. 4 basis)
+Construction of utility projects (ISIC rev. 4 basis)
+Consumer Financing
+Consumers durable
+Credit cards
+Credit to Private Sector (A+B)
+Cultural education (ISIC rev. 4 basis)
+Cutting, shaping and finishing of stone (ISIC rev. 4 basis)
+D. Electricity, gas, steam and air conditioning supply (ISIC rev. 4 basis)
+Data processing, hosting and related activities (ISIC rev. 4 basis)
+E. Water supply; sewerage, waste management and remediation activities (ISIC rev. 4 basis)
+Education
+Educational support activities (ISIC rev. 4 basis)
+Electric power generation, transmission and distribution (ISIC rev. 4 basis)
+Electrical machinery and apparatus
+Electricity, gas and water supply
+Extraction of crude petroleum & Natural gas
+Extraction of crude petroleum (ISIC rev. 4 basis)
+Extraction of natural gas (ISIC rev. 4 basis)
+Extraction of peat (ISIC rev. 4 basis)
+Extraction of salt (ISIC rev. 4 basis)
+F. Construction (ISIC rev. 4 basis)
+Fabricated metal products
+Farming of animals (Livestock)
+Finishing of textiles (ISIC rev. 4 basis)
+Fishing, fish farming
+Food products and beverages
+Footwear
+For house building
+For transport i.e. purchase of car etc
+Forging, pressing, stamping and roll-forming of metal; powder metallurgy (ISIC rev. 4 basis)
+Freight air transport (ISIC rev. 4 basis)
+Freight rail transport (ISIC rev. 4 basis)
+Freight transport by road (ISIC rev. 4 basis)
+Freshwater aquaculture (ISIC rev. 4 basis)
+Freshwater fishing (ISIC rev. 4 basis)
+Furniture and fixture
+G. Wholesale and retail trade; repair of motor vehicles and motorcycles (ISIC rev. 4 basis)
+General secondary education (ISIC rev. 4 basis)
+Growing of Apples (ISIC rev. 4 basis)
+Growing of Cotton (ISIC rev. 4 basis)
+Growing of Mangoes (ISIC rev. 4 basis)
+Growing of Oranges (ISIC rev. 4 basis)
+Growing of Wheat (ISIC rev. 4 basis)
+Growing of cereals , leguminous crops and oil seeds (ISIC rev. 4 basis)
+Growing of cereals , leguminous crops and oil seeds excluding wheat (ISIC rev. 4 basis)
+Growing of citrus fruits (ISIC rev. 4 basis)
+Growing of citrus fruits excluding oranges (ISIC rev. 4 basis)
+Growing of crops
+Growing of fibre crops (ISIC rev. 4 basis)
+Growing of fibre crops excluding cotton (ISIC rev. 4 basis)
+Growing of other crops and plant propagation (ISIC rev. 4 basis)
+Growing of other tree and bush fruits and nuts (ISIC rev. 4 basis)
+Growing of pome fruits and stone fruits (ISIC rev. 4 basis)
+Growing of pome fruits and stone fruits excluding apples (ISIC rev. 4 basis)
+Growing of rice (ISIC rev. 4 basis)
+Growing of spices, aromatic, drug and pharmaceutical crops (ISIC rev. 4 basis)
+Growing of sugar cane (ISIC rev. 4 basis)
+Growing of tobacco (ISIC rev. 4 basis)
+Growing of tropical and subtropical fruits (ISIC rev. 4 basis)
+Growing of tropical and subtropical fruits excluding mangoes (ISIC rev. 4 basis)
+Growing of vegetables and melons, roots and tubers (ISIC rev. 4 basis)
+H. Transportation and storage (ISIC rev. 4 basis)
+Handicrafts
+Health and social work
+Higher education (ISIC rev. 4 basis)
+Hospital activities (ISIC rev. 4 basis)
+Hotels, restaurants and clubs etc
+Hunting, trapping and related service activities (ISIC rev. 4 basis)
+Hunting, trapping, forestry & logging
+I. Accommodation and food service activities (ISIC rev. 4 basis)
+I. Credit to PSEs
+I. Credit to PSEs (ISIC rev. 4 basis)
+II. Credit to NBFCs
+II. Credit to NBFIs (ISIC rev. 4 basis)
+III. Credit to Private Sector (A+B)
+III. Credit to Private Sector (A+B) (ISIC rev. 4 basis)
+Infrastructure
+Inland freight water transport (ISIC rev. 4 basis)
+Inland passenger water transport (ISIC rev. 4 basis)
+Investment in Govt. Securities
+Investment in Govt. Securities (ISIC rev. 4 basis)
+Investment in NBFIs
+Investment in NBFIs (ISIC rev. 4 basis)
+Investment in Non-financial PSEs
+Investment in Non-financial PSEs (ISIC rev. 4 basis)
+Iron ores & non ferous metals
+J. Information and communication (ISIC rev. 4 basis)
+Jewellery and related articles
+K. Real estate activities (ISIC rev. 4 basis)
+L. Professional, scientific and technical activities (ISIC rev. 4 basis)
+Legal activities (ISIC rev. 4 basis)
+Less: Govt. Deposits
+Less: Govt. Deposits (ISIC rev. 4 basis)
+Loans to Government
+Loans to Government (ISIC rev. 4 basis)
+Loans to NBFIs
+Loans to NBFIs (ISIC rev. 4 basis)
+Loans to Non-financial PSEs
+Loans to Non-financial PSEs (ISIC rev. 4 basis)
+M. Administrative and support service activities (ISIC rev. 4 basis)
+Machinery and equipment
+Maintenance and repair of motor vehicles (ISIC rev. 4 basis)
+Manufacture of Fans (ISIC rev. 4 basis)
+Manufacture of Handicrafts (ISIC rev. 4 basis)
+Manufacture of Precious non-metallic mineral products (pearls and Precious) (ISIC rev. 4 basis)
+Manufacture of Ready made garments (ISIC rev. 4 basis)
+Manufacture of Refrigrators and Freezers (ISIC rev. 4 basis)
+Manufacture of Washing and drying Machines (ISIC rev. 4 basis)
+Manufacture of agricultural and forestry machinery (ISIC rev. 4 basis)
+Manufacture of articles of concrete, cement and plaster (ISIC rev. 4 basis)
+Manufacture of articles of fur (ISIC rev. 4 basis)
+Manufacture of bakery products (ISIC rev. 4 basis)
+Manufacture of basic chemicals (ISIC rev. 4 basis)
+Manufacture of basic iron and steel (ISIC rev. 4 basis)
+Manufacture of basic precious and other non-ferrous metals (ISIC rev. 4 basis)
+Manufacture of batteries and accumulators (ISIC rev. 4 basis)
+Manufacture of bearings, gears, gearing and driving elements (ISIC rev. 4 basis)
+Manufacture of bicycles and invalid carriages (ISIC rev. 4 basis)
+Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers (ISIC rev. 4 basis)
+Manufacture of carpets and rugs (ISIC rev. 4 basis)
+Manufacture of cement, lime and plaster (ISIC rev. 4 basis)
+Manufacture of clay building materials (ISIC rev. 4 basis)
+Manufacture of cocoa, chocolate and sugar confectionery (ISIC rev. 4 basis)
+Manufacture of coke oven products (ISIC rev. 4 basis)
+Manufacture of communication equipment (ISIC rev. 4 basis)
+Manufacture of computers and peripheral equipment (ISIC rev. 4 basis)
+Manufacture of consumer electronics (ISIC rev. 4 basis)
+Manufacture of cutlery (ISIC rev. 4 basis)
+Manufacture of cutlery, hand tools and general hardware (ISIC rev. 4 basis)
+Manufacture of dairy products (ISIC rev. 4 basis)
+Manufacture of domestic appliances (ISIC rev. 4 basis)
+Manufacture of electric lighting equipment (ISIC rev. 4 basis)
+Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus (ISIC rev. 4 basis)
+Manufacture of electronic components and boards (ISIC rev. 4 basis)
+Manufacture of engines and turbines, except aircraft, vehicle and cycle engines (ISIC rev. 4 basis)
+Manufacture of fertilizers and nitrogen compounds (ISIC rev. 4 basis)
+Manufacture of fibre optic cables (ISIC rev. 4 basis)
+Manufacture of footwear (ISIC rev. 4 basis)
+Manufacture of games and toys (ISIC rev. 4 basis)
+Manufacture of gas; distribution of gaseous fuels through mains (ISIC rev. 4 basis)
+Manufacture of glass and glass products (ISIC rev. 4 basis)
+Manufacture of grain mill products (ISIC rev. 4 basis)
+Manufacture of hand tools & general hardware (ISIC rev. 4 basis)
+Manufacture of imitation jewellery and related articles (ISIC rev. 4 basis)
+Manufacture of irradiation, electromedical and electrotherapeutic equipment (ISIC rev. 4 basis)
+Manufacture of jewellery and related articles (ISIC rev. 4 basis)
+Manufacture of knitted and crocheted apparel (ISIC rev. 4 basis)
+Manufacture of knitted and crocheted fabrics (ISIC rev. 4 basis)
+Manufacture of luggage, handbags and the like, saddlery and harness (ISIC rev. 4 basis)
+Manufacture of macaroni, noodles, couscous and similar farinaceous products (ISIC rev. 4 basis)
+Manufacture of machinery for food, beverage and tobacco processing (ISIC rev. 4 basis)
+Manufacture of machinery for mining, quarrying and construction (ISIC rev. 4 basis)
+Manufacture of machinery for textile, apparel and leather production (ISIC rev. 4 basis)
+Manufacture of made-up textile articles, except apparel (ISIC rev. 4 basis)
+Manufacture of magnetic and optical media (ISIC rev. 4 basis)
+Manufacture of man-made fibres (ISIC rev. 4 basis)
+Manufacture of measuring, testing, navigating and control equipment (ISIC rev. 4 basis)
+Manufacture of medical and dental instruments and supplies (ISIC rev. 4 basis)
+Manufacture of metal-forming machinery, machine tools and metallurgy (ISIC rev. 4 basis)
+Manufacture of motor vehicles (ISIC rev. 4 basis)
+Manufacture of motorcycles (ISIC rev. 4 basis)
+Manufacture of musical instruments (ISIC rev. 4 basis)
+Manufacture of office machinery and equipment (except computers and peripheral equipment) (ISIC rev. 4 basis)
+Manufacture of optical instruments and photographic equipment (ISIC rev. 4 basis)
+Manufacture of other beverages n.e.c (ISIC rev. 4 basis)
+Manufacture of other chemical products n.e.c. (ISIC rev. 4 basis)
+Manufacture of other domestic appliances (ISIC rev. 4 basis)
+Manufacture of other electrical equipment n.e.c (ISIC rev. 4 basis)
+Manufacture of other electronic and electric wires and cables (ISIC rev. 4 basis)
+Manufacture of other fabricated metal products n.e.c. (ISIC rev. 4 basis)
+Manufacture of other food products n.e.c., (ISIC rev. 4 basis)
+Manufacture of other general-purpose machinery (ISIC rev. 4 basis)
+Manufacture of other non-metallic mineral products n.e.c. (ISIC rev. 4 basis)
+Manufacture of other porcelain and ceramic products (ISIC rev. 4 basis)
+Manufacture of other rubber products (ISIC rev. 4 basis)
+Manufacture of other special-purpose machinery (ISIC rev. 4 basis)
+Manufacture of other textiles n.e.c. (ISIC rev. 4 basis)
+Manufacture of other transport equipment n.e.c. (ISIC rev. 4 basis)
+Manufacture of ovens, furnaces and furnace burners (ISIC rev. 4 basis)
+Manufacture of paints, varnishes and similar coatings, printing ink and mastics (ISIC rev. 4 basis)
+Manufacture of parts and accessories for motor vehicles (ISIC rev. 4 basis)
+Manufacture of pesticides and other agrochemical products (ISIC rev. 4 basis)
+Manufacture of plastics and synthetic rubber in primary forms (ISIC rev. 4 basis)
+Manufacture of plastics products (ISIC rev. 4 basis)
+Manufacture of prepared animal feeds (ISIC rev. 4 basis)
+Manufacture of pumps, compressors, taps and valves (ISIC rev. 4 basis)
+Manufacture of railway locomotives and rolling stock (ISIC rev. 4 basis)
+Manufacture of refined petroleum products (ISIC rev. 4 basis)
+Manufacture of refractory products (ISIC rev. 4 basis)
+Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres (ISIC rev. 4 basis)
+Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations (ISIC rev. 4 basis)
+Manufacture of soft drinks and other bottled waters (ISIC rev. 4 basis)
+Manufacture of soft drinks; production of mineral waters and other bottled waters (ISIC rev. 4 basis)
+Manufacture of sports goods (ISIC rev. 4 basis)
+Manufacture of starches and starch products (ISIC rev. 4 basis)
+Manufacture of structural metal products (ISIC rev. 4 basis)
+Manufacture of sugar (ISIC rev. 4 basis)
+Manufacture of tanks, reservoirs and containers of metal (ISIC rev. 4 basis)
+Manufacture of vegetable and animal oils and fats (ISIC rev. 4 basis)
+Manufacture of watches and clocks (ISIC rev. 4 basis)
+Manufacture of wearing apparel, (ISIC rev. 4 basis)
+Manufacture of wiring devices (ISIC rev. 4 basis)
+Manufacturing
+Marine aquaculture (ISIC rev. 4 basis)
+Marine fishing (ISIC rev. 4 basis)
+Medical and dental practice activities (ISIC rev. 4 basis)
+Medical, precision and optical instruments, watches and clocks
+Mining and Quarrying
+Mining of chemical and fertilizer minerals (ISIC rev. 4 basis)
+Mining of coal, lignite and extraction of peat
+Mining of iron ores (ISIC rev. 4 basis)
+Mining of other metal ores n.e.c (ISIC rev. 4 basis)
+Motor vehicles, trailers and semi-trailers
+N. Education (ISIC rev. 4 basis)
+News agency activities (ISIC rev. 4 basis)
+Non residential (ISIC rev. 4 basis)
+Non-specialized wholesale trade (ISIC rev. 4 basis)
+O. Human health and social work activities (ISIC rev. 4 basis)
+Office, accounting and computing machinery
+Other
+Other accommodation n.e.c (ISIC rev. 4 basis)
+Other community, social and personal service activities
+Other education n.e.c. (ISIC rev. 4 basis)
+Other human health activities (ISIC rev. 4 basis)
+Other information service activities n.e.c. (ISIC rev. 4 basis)
+Other information technology and computer service activities (ISIC rev. 4 basis)
+Other manufacturing n.e.c.
+Other manufacturing n.e.c. (ISIC rev. 4 basis)
+Other mining and quarrying n.e.c. (ISIC rev. 4 basis)
+Other non-metallic mineral products
+Other passenger land transport (ISIC rev. 4 basis)
+Other private business n.e.c
+Other publishing activities n.e.c (ISIC rev. 4 basis)
+Other retail sale in non-specialized stores (ISIC rev. 4 basis)
+Other retail sale of new goods in specialized stores (ISIC rev. 4 basis)
+Other telecommunications activities n.e.c (ISIC rev. 4 basis)
+Other transport equipment
+Other transportation support activities n.e.c (ISIC rev. 4 basis)
+Others
+Others (ISIC rev. 4 basis)
+Others retail sale n.e.c (ISIC rev. 4 basis)
+P. Arts, entertainment and recreation (ISIC rev. 4 basis)
+Paper, paperboard and products
+Passenger air transport (ISIC rev. 4 basis)
+Passenger rail transport, interurban (ISIC rev. 4 basis)
+Personal loans
+Post-harvest crop activities (ISIC rev. 4 basis)
+Pre-primary and primary education (ISIC rev. 4 basis)
+Preparation and spinning of textile fibres (ISIC rev. 4 basis)
+Printing (ISIC rev. 4 basis)
+Printing, publishing and allied industries
+Processing and preserving of fish, crustaceans and molluscs (ISIC rev. 4 basis)
+Processing and preserving of fruit and vegetables (ISIC rev. 4 basis)
+Processing and preserving of meat (ISIC rev. 4 basis)
+Processing/blending of spices, tea, coffee etc. (ISIC rev. 4 basis)
+Production of mineral waters (ISIC rev. 4 basis)
+Publishing of newspapers, journals and periodicals (ISIC rev. 4 basis)
+Q. Other service activities (ISIC rev. 4 basis)
+Quarrying of stone, sand and clay
+Quarrying of stone, sand and clay (ISIC rev. 4 basis)
+Radio, television and communication equipment and apparatus
+Raising of cattle and buffaloes (ISIC rev. 4 basis)
+Raising of other animals and mixed farming (ISIC rev. 4 basis)
+Raising of poultry (ISIC rev. 4 basis)
+Raising of sheep and goats (ISIC rev. 4 basis)
+Real estate, renting and business activities
+Renting and leasing of motor vehicles (ISIC rev. 4 basis)
+Renting and leasing of other machinery, equipment and tangible goods n.e.c (ISIC rev. 4 basis)
+Renting and leasing of recreational and sports goods (ISIC rev. 4 basis)
+Reproduction of recorded media (ISIC rev. 4 basis)
+Residential (ISIC rev. 4 basis)
+Retail sale in non-specialized stores with food, beverages or tobacco predominating (ISIC rev. 4 basis)
+Retail sale of audio and video equipment in specialized stores (ISIC rev. 4 basis)
+Retail sale of automotive fuel in specialized stores/pumps (ISIC rev. 4 basis)
+Retail sale of beverages in specialized stores (ISIC rev. 4 basis)
+Retail sale of books, newspapers and stationary in specialized stores (ISIC rev. 4 basis)
+Retail sale of carpets, rugs, wall and floor coverings in specialized stores (ISIC rev. 4 basis)
+Retail sale of clothing, footwear and leather articles in specialized stores (ISIC rev. 4 basis)
+Retail sale of computers, peripheral units, software and telecommunications equipment in specialized stores (ISIC rev. 4 basis)
+Retail sale of electrical household appliances, furniture, lighting equipment and other household articles in specialized stores (ISIC rev. 4 basis)
+Retail sale of food in specialized stores (ISIC rev. 4 basis)
+Retail sale of games and toys in specialized stores (ISIC rev. 4 basis)
+Retail sale of hardware, paints and glass in specialized stores (ISIC rev. 4 basis)
+Retail sale of music and video recordings in specialized stores (ISIC rev. 4 basis)
+Retail sale of pharmaceutical and medical goods, cosmetic and toilet articles in specialized stores (ISIC rev. 4 basis)
+Retail sale of second-hand goods (ISIC rev. 4 basis)
+Retail sale of sporting equipment in specialized stores (ISIC rev. 4 basis)
+Retail sale of textiles in specialized stores (ISIC rev. 4 basis)
+Retail sale of tobacco products in specialized stores (ISIC rev. 4 basis)
+Retail trade
+Rubber and plastics products
+Sale of motor vehicle parts and accessories (ISIC rev. 4 basis)
+Sale of motor vehicles (ISIC rev. 4 basis)
+Sale, maintenance and repair of motor vehicles and motorcycles
+Sale, maintenance and repair of motorcycles and related parts and accessories (ISIC rev. 4 basis)
+Sea and coastal freight water transport (ISIC rev. 4 basis)
+Sea and coastal passenger water transport (ISIC rev. 4 basis)
+Seed processing for propagation (ISIC rev. 4 basis)
+Service activities related to printing (ISIC rev. 4 basis)
+Ship Breaking and materials recovery (ISIC rev. 4 basis)
+Ship breaking and waste / scrape (junk) etc.
+Short term accommodation activities (Hotels etc) (ISIC rev. 4 basis)
+Software publishing (ISIC rev. 4 basis)
+Sports and recreation education (ISIC rev. 4 basis)
+Sports goods
+Steam and air conditioning supply (ISIC rev. 4 basis)
+Support activities for animal production (ISIC rev. 4 basis)
+Support activities for crop production (ISIC rev. 4 basis)
+Support activities for crop production excluding Agr. Machinery and Equip. (ISIC rev. 4 basis)
+Tanning and dressing of leather
+Tanning and dressing of leather; dressing and dyeing of fur (ISIC rev. 4 basis)
+Tanning and dressing of leather; manufacture of luggage and footwear
+Technical and vocational secondary education (ISIC rev. 4 basis)
+Textiles
+Tobacco products
+Total Credit (1+2)
+Total Credit (1+2) (ISIC rev. 4 basis)
+Transport via pipeline (ISIC rev. 4 basis)
+Transport, storage and communications
+Urban and suburban passenger land transport (ISIC rev. 4 basis)
+Warehousing and storage (ISIC rev. 4 basis)
+Waste Collection, treatment and disposal activities (ISIC rev. 4 basis)
+Waste Collection, treatment and disposal activities n.e.c (ISIC rev. 4 basis)
+Wearing apparel, readymade garments
+Weaving of textiles (ISIC rev. 4 basis)
+Web portals (ISIC rev. 4 basis)
+Wholesale and commission trade
+Wholesale of agricultural machinery, equipment and supplies (ISIC rev. 4 basis)
+Wholesale of agricultural raw materials and live animals (ISIC rev. 4 basis)
+Wholesale of computers, computer peripheral equipment and software (ISIC rev. 4 basis)
+Wholesale of construction materials, hardware, plumbing and heating equipment and supplies (ISIC rev. 4 basis)
+Wholesale of electronic and telecommunications equipment and parts (ISIC rev. 4 basis)
+Wholesale of fertilizers and agrochemical products (ISIC rev. 4 basis)
+Wholesale of food, beverages and tobacco (ISIC rev. 4 basis)
+Wholesale of metals and metal ores (ISIC rev. 4 basis)
+Wholesale of other household goods (ISIC rev. 4 basis)
+Wholesale of other machinery and equipment (ISIC rev. 4 basis)
+Wholesale of paper in bulk (ISIC rev. 4 basis)
+Wholesale of plastic materials in primary forms (ISIC rev. 4 basis)
+Wholesale of solid, liquid and gaseous fuels and related products (ISIC rev. 4 basis)
+Wholesale of textiles, clothing and footwear (ISIC rev. 4 basis)
+Wholesale of waste and scrap and other products n.e.c. (ISIC rev. 4 basis)
+Wholesale on a fee or contract basis (ISIC rev. 4 basis)
+Wired telecommunications activities (ISIC rev. 4 basis)
+Wireless telecommunications activities (ISIC rev. 4 basis)
+Wood and of products of wood and cork,
+a) Hydal (ISIC rev. 4 basis)
+a- Wheat Processing (ISIC rev. 4 basis)
+a. Exports
+a. Leather wear (ISIC rev. 4 basis)
+a. Manufacture of bed wear (ISIC rev. 4 basis)
+a. Spinning of fibres
+b) Thermal (ISIC rev. 4 basis)
+b- Rice Processing (ISIC rev. 4 basis)
+b. Imports
+b. Manufacture of other made up textile articles (ISIC rev. 4 basis)
+b. Rubber and Plastic wear (ISIC rev. 4 basis)
+b. Weaving of textiles
+c) Coal Based (ISIC rev. 4 basis)
+c- Others (ISIC rev. 4 basis)
+c. Domestic whole sales
+c. Finishing of textilesá
+d) Wind (ISIC rev. 4 basis)
+e) Solar (ISIC rev. 4 basis)
+f) Other (ISIC rev. 4 basis)
+i. Printing of books, brochures and other related (ISIC rev. 4 basis)
+ii. Printing of newspapers, journals, periodicals and related printing (ISIC rev. 4 basis)
+
+## sbp_domestic_debt (69 indexed series)
+1. Market Loans
+2. Federal Government Bonds
+3. Prize Bonds
+3. Prize Bonds1
+3. Prize Bonds3
+3.00 % 1971 (Permanent)
+4. SBP’s on-lending to GOP against SDRs allocation7
+4. SBP’s on-lending to GOP against SDRs allocation9
+5.00 % Income Tax Bonds
+Bai Muajjal2
+Bai Muajjal4
+Bai-Muajjal of Sukuk
+Bearer National Fund Bonds2
+Compensation Bonds1
+Domestic Debt (I+II+III+IV)
+Domestic Debt (I+II+III+IV+V)
+FCBC 3 Years
+FCBC 5 Years
+Federal Government
+Federal Investment Bonds
+Foreign Exchange Bearer Certificate
+GOP Ijara Sukuk
+GOP Ijara Sukuk 3 Years
+GOP Ijara Sukuk 3 Years and 5 Years
+GP Fund
+GP Fund*
+Government Domestic Debt and Liabilites
+Government Domestic Liabilities5
+Government Domestic Liabilities7
+Govt. Bond issued to HBL for settlement of CBR Refund
+Govt. Bonds issued to SLIC (Capitalisation)
+Gross Government Domestic Debt (I+II+III+IV+V)
+Gross Government Domestic Debt and Liabilites
+Heavy Mechanical Complex
+I. Permanent Debt (1+2+3)
+I. Permanent Debt (1+2+3+4)
+II. Floating Debt
+III. Unfunded Debt
+IV. Foreign Currency Loans4
+IV. Foreign Currency Loans6
+Issued at Low Yield Bonds
+Issued to DFIs
+Loans matured but not encashed
+Long Term (>1 year)
+MTBs for Replenishment of Cash3
+MTBs for Replenishment of Cash5
+Market Treasury Bills
+Others
+Outright Sale of MRTBs to Banks
+Pakistan Engineering Company
+Pakistan Investment Bonds (PIBs)
+Pakistan Investment Bonds (PIBs)8
+Postal Life Insurance
+Provincial Governments
+Public Sector
+Punjab Government Loans
+Saving Schemes (Net of Prize Bonds)
+Shah Nawaz Bhutto Sugar Mills
+Shahdad Kot Textile
+Short Term (1 Year)
+Special Govt. Bonds issued to SLIC (Original)
+Special National Fund Bonds
+Special US Dollar Bonds
+Treasury Bills
+US Dollar Bearer Certificates
+Under E.R.O. 1972
+Under Land Reforms 1977
+V. Naya Pakistan Certificates6
+V. Naya Pakistan Certificates8
+
+## sbp_forex_reserves (3 indexed series)
+Reserves with SBP
+Reserves with banks
+Total liquid FX reserves
+
+## sbp_gdp_annual (36 indexed series)
+1. Crops ( i+ii+iii)
+1. Mining and Quarrying
+1. Wholesale & Retail trade
+10. Other Private Services
+2. Livestock
+2. Manufacturing ( i+ii+iii)
+2. Transportation & Storage
+3 Electricity, Gas and Water supply
+3. Accommodation and Food Services Activities (Hotels & Restaurants)
+3. Forestry
+4. Construction
+4. Fishing
+4. Information and Communication
+5. Financial and Insurance Activities
+6. Real Estate Activities (OD)
+7. Public Administration and Social Security (General Government)
+8. Education
+9. Human Health and Social Work Activities
+Agriculture, Forestry and Fishing ( 1 to 4 )
+Commodity Producing Activities (A+B)
+GDP (at Current Market Prices)
+GDP Growth Rate (%)
+GDP at mp (GVA+T-S)
+GDP {Total of GVA at bp (A+B+C)
+Gross National Income
+Industrial Activities ( 1 to 4 )
+Net Primary Income (NPI)
+Services ( 1 to 10)
+Subsidies
+Taxes
+i) Important Crops
+i) Large Scale
+ii) Other Crops
+ii) Small Scale
+iii) Cotton Ginning
+iii) Slaughtering
+
+## sbp_gdp_quarterly (62 indexed series)
+1. Crops (i+ii+iii) — growth
+1. Crops (i+ii+iii) — level
+1. Mining & Quarrying — growth
+1. Mining & Quarrying — level
+1. Wholesale & Retail Trade — growth
+1. Wholesale & Retail Trade — level
+10. Other Private Services — growth
+10. Other Private Services — level
+2. Livestock — growth
+2. Livestock — level
+2. Manufacturing (i+ii+iii) — growth
+2. Manufacturing (i+ii+iii) — level
+2. Transport& Storage — growth
+2. Transport& Storage — level
+3. Accomodation and Food Services Activities (Hotels & Restaurants) — growth
+3. Accomodation and Food Services Activities (Hotels & Restaurants) — level
+3. Electricity, gas and water supply — growth
+3. Electricity, gas and water supply — level
+3. Forestry — growth
+3. Forestry — level
+4. Construction — growth
+4. Construction — level
+4. Fishing — growth
+4. Fishing — level
+4. Information and Communication — growth
+4. Information and Communication — level
+5. Finance & Insurance Activities — growth
+5. Finance & Insurance Activities — level
+6. Real Estate Activities (Ownership of Dwellings) — growth
+6. Real Estate Activities (Ownership of Dwellings) — level
+7. Public Administration and Social Security (General Government) — growth
+7. Public Administration and Social Security (General Government) — level
+8. Education — growth
+8. Education — level
+9. Human Health and Social Work Activities — growth
+9. Human Health and Social Work Activities — level
+Agriculture Sector (1 to 4) — growth
+Agriculture Sector (1 to 4) — level
+Commodity Producing Sector (A+B) — growth
+Commodity Producing Sector (A+B) — level
+GDP at mp (GVA+NT — level
+Gross National Income — level
+Industrial Sector (1 to 4) — growth
+Industrial Sector (1 to 4) — level
+Net Primary Income (NPI) — level
+Net Taxes — level
+Services Sector (1 to 10) — growth
+Services Sector (1 to 10) — level
+Total of GVA (A+B+C) — growth
+Total of GVA (A+B+C) — level
+i. Important Crops — growth
+i. Important Crops — level
+i. Large Scale — growth
+i. Large Scale — level
+ii. Other Crops — growth
+ii. Other Crops — level
+ii. Small Scale — growth
+ii. Small Scale — level
+iii. Cotton Ginning — growth
+iii. Cotton Ginning — level
+iii. Slaughtering — growth
+iii. Slaughtering — level
+
+## sbp_interest_rate_corridor (4 indexed series)
+Ceiling — Amount
+Ceiling — Institutions
+Floor — Amount
+Floor — Institutions
+
+## sbp_interest_rates (22 indexed series)
+Deposit rate — fresh (marginal) (PKR, all banks)
+Deposit rate — outstanding (stocks) (PKR, all banks)
+KIBOR 1-month
+KIBOR 1-month (monthly average)
+KIBOR 3-month
+KIBOR 3-month (monthly average)
+KIBOR 6-month
+KIBOR 6-month (monthly average)
+Lending rate — fresh (marginal) (PKR, all banks)
+Lending rate — outstanding (stocks) (PKR, all banks)
+Minimum rate of return on saving deposits
+SBP Policy Rate (target)
+SBP Repo Rate (floor)
+SBP Reverse Repo Rate (ceiling)
+T-bill 1-month cut-off yield
+T-bill 1-month weighted average yield
+T-bill 12-month cut-off yield
+T-bill 12-month weighted average yield
+T-bill 3-month cut-off yield
+T-bill 3-month weighted average yield
+T-bill 6-month cut-off yield
+T-bill 6-month weighted average yield
+
+## sbp_reer_neer (8 indexed series)
+NEER
+NEER (fiscal-year average)
+NEER — change over previous period
+NEER — change over previous period (fiscal-year average)
+REER
+REER (fiscal-year average)
+REER — change over previous period
+REER — change over previous period (fiscal-year average)
+
+## sbp_workers_remittances (36 indexed series)
+Abu Dhabi
+Australia
+Bahrain
+Behrain
+Belgium
+Canada
+Denmark
+Dubai
+EU Countries
+EU Countryies
+France
+Germany
+Greece
+Ireland
+Italy
+Japan
+Kuwait
+Malaysia*
+Netherland
+Norway
+Oman
+Other Countries#
+Other GCC Countries
+Others
+Others Countries
+Qatar
+Saudi Arabia
+Sharjah
+South Africa*
+South Korea*
+Spain
+Sweden
+Switzerland
+U.A.E.
+U.K.
+USA
+

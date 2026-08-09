@@ -1,0 +1,76 @@
+source_id,tier,publisher,theme,declared_format,url,status,bytes_sampled,sniffed,verdict,detail,checked_at
+pbs_cpi_historical,1,pbs,inflation,xlsx,https://www.pbs.gov.pk/wp-content/uploads/2020/07/indices_and_growth_rates_historical.xlsx,200,8192,zip/xlsx/docx,ok,,2026-08-07T12:35:40+00:00
+pbs_spi_weekly,1,pbs,inflation,xlsx,,,0,,skipped,no static url (discover=pbs_media_search),2026-08-07T12:35:40+00:00
+pbs_spi_monthly_prices_annex,2,pbs,inflation,xlsx,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Monthly-Prices-Annex-6.xlsx,200,8192,zip/xlsx/docx,ok,,2026-08-07T12:35:40+00:00
+pbs_cpi_sdmx,2,pbs,inflation,xml,https://www.pbs.gov.pk/wp-content/uploads/2020/07/CPI-1.xml,200,8192,xml,ok,,2026-08-07T12:35:40+00:00
+pbs_monthly_price_review,3,pbs,inflation,pdf,,,0,,skipped,no static url (discover=pbs_media_search),2026-08-07T12:35:40+00:00
+pbs_cpi_urban_groupwise,3,pbs,inflation,pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/CpI-Urban-Groupwise-Cumulative-Indices.pdf,200,8192,pdf,ok,,2026-08-07T12:35:40+00:00
+pbs_rpi_groupwise,3,pbs,inflation,pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/RPI-Gropwise-Cumulative-Indices.pdf,200,8192,pdf,ok,,2026-08-07T12:35:40+00:00
+sbp_broad_money_m2,1,sbp,monetary,xls,https://www.sbp.org.pk/assets/document/BroadMoney_M2_Arch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_monetary_aggregates_m3,2,sbp,monetary,xlsx,https://www.sbp.org.pk/assets/document/M3-Arch.xlsx,200,8192,zip/xlsx/docx,ok,,2026-08-07T12:35:40+00:00
+sbp_reserve_money,2,sbp,monetary,xls,https://www.sbp.org.pk/assets/document/ReserveMoney_Arch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_interest_rates,1,sbp,monetary,pdf,https://www.sbp.org.pk/assets/document/sir.pdf,200,8192,pdf,ok,,2026-08-07T12:35:40+00:00
+sbp_interest_rate_corridor,1,sbp,monetary,xls,https://www.sbp.org.pk/assets/document/IR-Corridor-Hist.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_reer_neer,1,sbp,external,xls,https://www.sbp.org.pk/assets/document/neer-reer.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_credit_loans_by_borrower,1,sbp,monetary,xls,https://www.sbp.org.pk/assets/document/CreditLoans-arch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_domestic_debt,1,sbp,fiscal,xls,https://www.sbp.org.pk/assets/document/D-Debt-Liabilities.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_lending_deposit_rates,2,sbp,monetary,xls,https://www.sbp.org.pk/assets/document/Lendingdepositrates_Arch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_loans_by_type_of_finance,2,sbp,monetary,xls,https://www.sbp.org.pk/assets/document/By-type-of-finance-arch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_deposits_by_holder,2,sbp,monetary,xls,https://www.sbp.org.pk/assets/document/DDholders-Arc.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_depository_corporations_survey,2,sbp,monetary,xls,https://www.sbp.org.pk/assets/document/DCsArch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_pib_auction_results,1,sbp,monetary,xlsx,https://www.sbp.org.pk/assets/document/Pakinvestbonds.xlsx,200,8192,zip/xlsx/docx,ok,,2026-08-07T12:35:40+00:00
+sbp_tbill_auction_latest,2,sbp,monetary,xlsx,https://www.sbp.org.pk/assets/document/tb.xlsx,200,8192,zip/xlsx/docx,ok,,2026-08-07T12:35:40+00:00
+sbp_omo_injections,2,sbp,monetary,xlsx,https://www.sbp.org.pk/assets/document/OMO-Inject-Hist.xlsx,200,8192,zip/xlsx/docx,ok,,2026-08-07T12:35:40+00:00
+sbp_kibor_daily,3,sbp,monetary,pdf,,,0,,skipped,no static url (discover=sbp_dated_asset),2026-08-07T12:35:40+00:00
+sbp_monetary_policy_statement,3,sbp,monetary,pdf,,,0,,skipped,no static url (discover=sbp_mps_scan),2026-08-07T12:35:40+00:00
+mof_fiscal_operations,3,mof,fiscal,pdf,,,0,,skipped,no static url (discover=mof_link_scan),2026-08-07T12:35:40+00:00
+mof_economic_survey_chapters,3,mof,fiscal,pdf,,,0,,skipped,no static url (discover=mof_link_scan),2026-08-07T12:35:40+00:00
+mof_economic_survey_supplement,3,mof,fiscal,zip,https://www.finance.gov.pk/economic/supplement_2024-25.zip,200,8192,zip/xlsx/docx,ok,,2026-08-07T12:35:40+00:00
+mof_monthly_economic_update,3,mof,fiscal,pdf,,,0,,skipped,no static url (discover=mof_link_scan),2026-08-07T12:35:40+00:00
+mof_debt_bulletins,3,mof,fiscal,pdf,,,0,,skipped,no static url (discover=mof_link_scan),2026-08-07T12:35:40+00:00
+mof_budget_documents,3,mof,fiscal,pdf,,,0,,skipped,no static url (discover=mof_link_scan),2026-08-07T12:35:40+00:00
+fbr_monthwise_taxwise_collection,2,fbr,fiscal,pdf,,,0,,skipped,no static url (discover=fbr_link_scan),2026-08-07T12:35:40+00:00
+fbr_year_books,3,fbr,fiscal,pdf,,,0,,skipped,no static url (discover=fbr_link_scan),2026-08-07T12:35:40+00:00
+fbr_quarterly_reviews,3,fbr,fiscal,pdf,,,0,,skipped,no static url (discover=fbr_link_scan),2026-08-07T12:35:40+00:00
+sbp_central_govt_debt,1,sbp,fiscal,xls,https://www.sbp.org.pk/assets/document/CenGovDebt-Archive.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_debt_liabilities_summary,1,sbp,fiscal,xls,https://www.sbp.org.pk/assets/document/Summary.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_debt_liabilities_profile,2,sbp,fiscal,xls,https://www.sbp.org.pk/assets/document/Profile.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_external_debt_outstanding,1,sbp,fiscal,xls,https://www.sbp.org.pk/assets/document/pakdebt_Arch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_external_debt_servicing,2,sbp,fiscal,xls,https://www.sbp.org.pk/assets/document/pakdebtsvr_Arch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_pse_domestic_debt,2,sbp,fiscal,xls,https://www.sbp.org.pk/assets/document/PSEs.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_national_savings,2,sbp,fiscal,xls,https://www.sbp.org.pk/assets/document/savings.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_forex_reserves,1,sbp,external,xlsx,https://www.sbp.org.pk/assets/document/Forex_Arch.xlsx,200,8192,zip/xlsx/docx,ok,,2026-08-07T12:35:40+00:00
+sbp_workers_remittances,1,sbp,external,xlsx,https://www.sbp.org.pk/assets/document/Homeremit_Arch.xlsx,200,8192,zip/xlsx/docx,ok,,2026-08-07T12:35:40+00:00
+sbp_balance_of_trade,1,sbp,external,xls,https://www.sbp.org.pk/assets/document/exp_import_BOP_Arch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_bop_summary,1,sbp,external,xls,https://www.sbp.org.pk/assets/document/Balancepayment_BPM6.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_bop_summary_archive,1,sbp,external,xlsx,https://www.sbp.org.pk/assets/document/BPM6_Ach_M.xlsx,200,8192,zip/xlsx/docx,ok,,2026-08-07T12:35:40+00:00
+sbp_exports_by_commodity,2,sbp,external,xls,https://www.sbp.org.pk/assets/document/Export_Receipts_by_Commodities_and_Groups_Arch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_exports_by_country,2,sbp,external,xls,https://www.sbp.org.pk/assets/document/Export_Receipts_by_all_Countries_Arch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_imports_by_commodity,2,sbp,external,xls,https://www.sbp.org.pk/assets/document/Import_Payments_by_Commodities_and_Groups_Arch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_imports_by_country,2,sbp,external,xls,https://www.sbp.org.pk/assets/document/Import_Payments_by_all_Countries_Arch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_trade_in_services,2,sbp,external,xls,https://www.sbp.org.pk/assets/document/TradeInServicesArch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_fdi_summary,1,sbp,external,xls,https://www.sbp.org.pk/assets/document/FIS-FDI-Arch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_fdi_by_country_sector,2,sbp,external,xls,https://www.sbp.org.pk/assets/document/Netinflow.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_exchange_rate_monthly,1,sbp,external,xls,https://www.sbp.org.pk/assets/document/IBF_Arch.xls,200,8192,xls (OLE2),ok,,2026-08-07T12:35:40+00:00
+sbp_exchange_rate_daily,1,sbp,external,xlsx,https://www.sbp.org.pk/assets/document/BFER_Daily_Arch.xlsx,200,8192,zip/xlsx/docx,ok,,2026-08-07T12:35:40+00:00
+sbp_official_reserve_assets,2,sbp,external,xlsx,https://www.sbp.org.pk/assets/document/ORA_Arch.xlsx,200,8192,zip/xlsx/docx,ok,,2026-08-07T12:35:40+00:00
+pbs_trade_summary_monthly,1,pbs,external,xlsx,,,0,,skipped,no static url (discover=pbs_media_search),2026-08-07T12:35:40+00:00
+pbs_trade_services_summary,1,pbs,external,xlsx,,,0,,skipped,no static url (discover=pbs_media_search),2026-08-07T12:35:40+00:00
+sbp_gdp_annual,1,sbp,growth,xlsx,https://www.sbp.org.pk/assets/document/GDP_table.xlsx,200,8192,zip/xlsx/docx,ok,,2026-08-07T12:35:40+00:00
+sbp_gdp_quarterly,1,sbp,growth,xlsx,https://www.sbp.org.pk/assets/document/QGDP.xlsx,200,8192,zip/xlsx/docx,ok,,2026-08-07T12:35:40+00:00
+sbp_lsm_production,1,sbp,growth,xlsx,https://www.sbp.org.pk/assets/document/Productselect.xlsx,200,8192,zip/xlsx/docx,ok,,2026-08-07T12:35:40+00:00
+pbs_qim_lsm,3,pbs,growth,pdf,,,0,,skipped,no static url (discover=pbs_media_search),2026-08-07T12:35:40+00:00
+pbs_national_accounts,2,pbs,growth,xlsx,,,0,,skipped,no static url (discover=pbs_page_link_scan),2026-08-07T12:35:40+00:00
+pbs_labour_force_survey,2,pbs,labour,xlsx,,,0,,skipped,no static url (discover=pbs_page_link_scan),2026-08-07T12:35:40+00:00
+pbs_social_statistics,2,pbs,labour,xlsx,,,0,,skipped,no static url (discover=pbs_page_link_scan),2026-08-07T12:35:40+00:00
+pbs_agriculture_statistics,2,pbs,growth,xlsx,,,0,,skipped,no static url (discover=pbs_page_link_scan),2026-08-07T12:35:40+00:00
+nepra_state_of_industry,3,nepra,energy,pdf,https://nepra.org.pk/publications/State%20of%20Industry%20Reports/State%20of%20Industry%20Report%202024.pdf,200,8192,pdf,ok,,2026-08-07T12:35:40+00:00
+nepra_tariff_determinations,3,nepra,energy,pdf,,,0,,skipped,no static url (discover=nepra_link_scan),2026-08-07T12:35:40+00:00
+ogra_petroleum_industry_report,3,ogra,energy,pdf,,,0,,skipped,no static url (discover=manual),2026-08-07T12:35:40+00:00
+mof_general_govt_operations_sdmx,1,mof,fiscal,xml,http://sdmx.finance.gov.pk/GGO_Pakistan.xml,200,5658,xml,ok,,2026-08-07T12:35:40+00:00
+mof_central_govt_operations_sdmx,1,mof,fiscal,xml,http://sdmx.finance.gov.pk/CGO_Pakistan.xml,200,8177,xml,ok,,2026-08-07T12:35:40+00:00
+pbs_merchandise_trade_sdmx,1,pbs,external,xml,https://www.pbs.gov.pk/wp-content/uploads/2020/07/MET.xml,200,8192,xml,ok,,2026-08-07T12:35:40+00:00
+pbs_quarterly_national_accounts_sdmx,1,pbs,growth,xml,https://www.pbs.gov.pk/wp-content/uploads/2020/07/QNAG.xml,200,8192,xml,ok,,2026-08-07T12:35:40+00:00
+pbs_producer_prices_sdmx,1,pbs,inflation,xml,https://www.pbs.gov.pk/wp-content/uploads/2020/07/PPI.xml,200,8192,xml,ok,,2026-08-07T12:35:40+00:00
+pbs_energy_sdmx,1,pbs,energy,xml,https://www.pbs.gov.pk/wp-content/uploads/2020/07/ORSI.xml,200,8192,xml,ok,,2026-08-07T12:35:40+00:00
+pbs_labour_sdmx,1,pbs,labour,xml,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LMI.xml,200,5998,xml,ok,,2026-08-07T12:35:40+00:00

@@ -1,0 +1,10 @@
+page,references,absent_names,absent_from_master,resolved_series,observations,import
+app.py,8,none,none,8,2765,PASS
+1_Inflation.py,16,none,none,16,1212,PASS
+2_Monetary.py,20,none,none,20,8534,PASS
+3_Fiscal.py,8,none,none,8,776,PASS
+4_External.py,18,none,none,18,8224,PASS
+5_Growth.py,10,none,none,10,349,PASS
+6_Labour_and_Energy.py,10,none,none,10,440,PASS
+7_Series_Explorer.py,2,none,none,2,158,PASS
+8_Data_Catalog.py,2,none,none,2,143,PASS

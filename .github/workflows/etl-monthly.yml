@@ -1,0 +1,133 @@
+# Monthly full refresh — the main automation for the dashboard.
+#
+# Timing. Pakistan Bureau of Statistics releases CPI on the 1st of each month and
+# the trade summary in the first week; State Bank monthly bulletins follow a few
+# days later. The run is set to the 8th so the whole month's releases are on the
+# publishers' sites before the pipeline goes looking for them. Running on the 1st
+# would reliably pick up last month's files and then report success.
+#
+# 03:00 UTC is 08:00 Pakistan Standard Time, so a failure is waiting in the inbox
+# at the start of the working day rather than overnight.
+
+name: ETL — monthly full refresh
+
+on:
+  schedule:
+    - cron: "0 3 8 * *"
+  workflow_dispatch:
+    inputs:
+      tier:
+        description: "Source tiers to extract (space separated)"
+        required: false
+        default: "1"
+      skip_backfill:
+        description: "Skip the historical backfill stage"
+        type: boolean
+        required: false
+        default: false
+
+# Two pipeline runs writing to data/ at once would interleave their snapshots and
+# corrupt the manifest, so a run in flight is allowed to finish rather than being
+# cancelled partway through a download.
+concurrency:
+  group: etl-pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    # Government of Pakistan servers are slow and the SBP host is deliberately
+    # throttled to 4s between requests, so a full tier-1 run takes a while.
+    timeout-minutes: 90
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run pipeline
+        id: etl
+        run: |
+          python -m etl.run_etl \
+            --tier ${{ github.event.inputs.tier || '1' }} \
+            ${{ github.event.inputs.skip_backfill == 'true' && '--skip-backfill' || '' }}
+
+      - name: Summarise the run
+        # Always, so a failed run still explains itself in the job summary instead
+        # of forcing someone to read the raw log.
+        if: always()
+        run: |
+          {
+            echo "## PIDE macro ETL — $(date -u '+%Y-%m-%d %H:%M UTC')"
+            echo
+            if [ -f data/metadata/validation_report.csv ]; then
+              echo "### Validation"
+              echo '```'
+              head -40 data/metadata/validation_report.csv
+              echo '```'
+            fi
+            if [ -f data/processed/macro_master.parquet ]; then
+              python - <<'PY'
+          import pandas as pd
+          m = pd.read_parquet("data/processed/macro_master.parquet")
+          print(f"**{len(m):,} observations | {m['series'].nunique():,} series "
+                f"| {m['source_id'].nunique()} datasets**\n")
+          cov = (m.groupby("source_id")
+                   .agg(rows=("value", "size"), series=("series", "nunique"),
+                        start=("date", "min"), end=("date", "max"))
+                   .sort_index())
+          print(cov.to_markdown())
+          PY
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      # The raw downloads are the evidence for every number in the dashboard. If a
+      # publisher changes a file in place, this artifact is the only remaining copy
+      # of what the pipeline actually read on the day.
+      - name: Upload raw snapshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-snapshots-${{ github.run_number }}
+          path: data/raw/
+          retention-days: 90
+          if-no-files-found: warn
+
+      - name: Upload logs and validation report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: run-diagnostics-${{ github.run_number }}
+          path: |
+            logs/
+            data/metadata/validation_report.csv
+            data/metadata/manifest.json
+          retention-days: 90
+          if-no-files-found: warn
+
+      # Only the processed outputs and metadata are committed. data/raw/ is
+      # gitignored: it is large, binary and re-downloadable, and committing it
+      # would make the repository unusable within a year.
+      - name: Commit refreshed data
+        if: success()
+        run: |
+          git config user.name  "pide-etl-bot"
+          git config user.email "actions@github.com"
+          git add -A data/processed data/metadata
+          if git diff --cached --quiet; then
+            echo "No data changed this run — nothing to commit."
+          else
+            git commit -m "data: monthly refresh $(date -u '+%Y-%m-%d')"
+            git push
+          fi

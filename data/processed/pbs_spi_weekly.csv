@@ -1,0 +1,1411 @@
+date,series,value,unit,source_id,frequency
+2025-04-30,SPI Combined — % change WoW,0.1456970795829875,%,pbs_spi_weekly,weekly
+2025-05-15,SPI Combined — % change WoW,1.0288663118851673,%,pbs_spi_weekly,weekly
+2025-07-17,SPI Combined — % change WoW,0.3809161032282731,%,pbs_spi_weekly,weekly
+2025-07-24,SPI Combined — % change WoW,4.066660342156013,%,pbs_spi_weekly,weekly
+2025-07-31,SPI Combined — % change WoW,-0.3494484791394399,%,pbs_spi_weekly,weekly
+2025-10-09,SPI Combined — % change WoW,0.17460938675979776,%,pbs_spi_weekly,weekly
+2025-10-16,SPI Combined — % change WoW,0.49286250939142917,%,pbs_spi_weekly,weekly
+2025-10-23,SPI Combined — % change WoW,0.22428900385777695,%,pbs_spi_weekly,weekly
+2025-10-30,SPI Combined — % change WoW,0.11636927851046153,%,pbs_spi_weekly,weekly
+2025-11-06,SPI Combined — % change WoW,-0.5901111674067749,%,pbs_spi_weekly,weekly
+2025-11-13,SPI Combined — % change WoW,0.5276570229350881,%,pbs_spi_weekly,weekly
+2025-11-20,SPI Combined — % change WoW,0.06859324207451323,%,pbs_spi_weekly,weekly
+2025-11-27,SPI Combined — % change WoW,0.7301662990999631,%,pbs_spi_weekly,weekly
+2025-12-04,SPI Combined — % change WoW,-0.636113494482089,%,pbs_spi_weekly,weekly
+2025-12-11,SPI Combined — % change WoW,-0.03275369223439384,%,pbs_spi_weekly,weekly
+2025-12-18,SPI Combined — % change WoW,0.23828671849402383,%,pbs_spi_weekly,weekly
+2025-12-24,SPI Combined — % change WoW,-0.09211660178883108,%,pbs_spi_weekly,weekly
+2026-01-01,SPI Combined — % change WoW,-0.6721789304622092,%,pbs_spi_weekly,weekly
+2026-01-08,SPI Combined — % change WoW,0.11678045274885562,%,pbs_spi_weekly,weekly
+2026-01-15,SPI Combined — % change WoW,0.2542246149244818,%,pbs_spi_weekly,weekly
+2026-01-22,SPI Combined — % change WoW,-0.4773269689737276,%,pbs_spi_weekly,weekly
+2026-01-29,SPI Combined — % change WoW,-0.03297362110311042,%,pbs_spi_weekly,weekly
+2026-02-04,SPI Combined — % change WoW,0.08995771987166279,%,pbs_spi_weekly,weekly
+2026-02-12,SPI Combined — % change WoW,-0.5931873333533133,%,pbs_spi_weekly,weekly
+2026-02-19,SPI Combined — % change WoW,1.1633163557457635,%,pbs_spi_weekly,weekly
+2026-02-26,SPI Combined — % change WoW,-0.5392200673280314,%,pbs_spi_weekly,weekly
+2026-03-05,SPI Combined — % change WoW,0.3684178997184375,%,pbs_spi_weekly,weekly
+2026-03-11,SPI Combined — % change WoW,1.8890447342505183,%,pbs_spi_weekly,weekly
+2026-03-18,SPI Combined — % change WoW,0.2079550114228823,%,pbs_spi_weekly,weekly
+2026-03-26,SPI Combined — % change WoW,0.9703913717008135,%,pbs_spi_weekly,weekly
+2026-04-02,SPI Combined — % change WoW,1.0102764510059359,%,pbs_spi_weekly,weekly
+2026-04-09,SPI Combined — % change WoW,1.9258325213503866,%,pbs_spi_weekly,weekly
+2026-04-16,SPI Combined — % change WoW,-0.688860147331738,%,pbs_spi_weekly,weekly
+2026-04-23,SPI Combined — % change WoW,-0.3312476996687366,%,pbs_spi_weekly,weekly
+2026-04-30,SPI Combined — % change WoW,0.6220883990455661,%,pbs_spi_weekly,weekly
+2026-05-07,SPI Combined — % change WoW,0.7932699093809106,%,pbs_spi_weekly,weekly
+2026-05-14,SPI Combined — % change WoW,0.4677347075957812,%,pbs_spi_weekly,weekly
+2026-05-21,SPI Combined — % change WoW,-0.32616877143094314,%,pbs_spi_weekly,weekly
+2026-06-04,SPI Combined — % change WoW,-0.5565810818370096,%,pbs_spi_weekly,weekly
+2026-06-11,SPI Combined — % change WoW,0.1575024609759481,%,pbs_spi_weekly,weekly
+2026-06-18,SPI Combined — % change WoW,0.4633399792198958,%,pbs_spi_weekly,weekly
+2026-07-02,SPI Combined — % change WoW,-0.9838998211091194,%,pbs_spi_weekly,weekly
+2026-07-09,SPI Combined — % change WoW,-0.44602529358625986,%,pbs_spi_weekly,weekly
+2026-07-16,SPI Combined — % change WoW,1.4036182158452988,%,pbs_spi_weekly,weekly
+2026-07-23,SPI Combined — % change WoW,0.9144039596208131,%,pbs_spi_weekly,weekly
+2026-07-30,SPI Combined — % change WoW,-0.9061183772999186,%,pbs_spi_weekly,weekly
+2026-08-06,SPI Combined — % change WoW,0.27683789603199216,%,pbs_spi_weekly,weekly
+2025-04-30,SPI Combined — % change YoY,-2.4104748383025623,%,pbs_spi_weekly,weekly
+2025-05-15,SPI Combined — % change YoY,1.2902182700080829,%,pbs_spi_weekly,weekly
+2025-07-17,SPI Combined — % change YoY,-1.6085874299937757,%,pbs_spi_weekly,weekly
+2025-07-24,SPI Combined — % change YoY,2.2177356732411795,%,pbs_spi_weekly,weekly
+2025-07-31,SPI Combined — % change YoY,1.9840776215947216,%,pbs_spi_weekly,weekly
+2025-10-09,SPI Combined — % change YoY,4.33978238374462,%,pbs_spi_weekly,weekly
+2025-10-16,SPI Combined — % change YoY,4.565496106820092,%,pbs_spi_weekly,weekly
+2025-10-23,SPI Combined — % change YoY,5.029928860196193,%,pbs_spi_weekly,weekly
+2025-10-30,SPI Combined — % change YoY,5.050093926111458,%,pbs_spi_weekly,weekly
+2025-11-06,SPI Combined — % change YoY,4.179029890370728,%,pbs_spi_weekly,weekly
+2025-11-13,SPI Combined — % change YoY,4.152947754239932,%,pbs_spi_weekly,weekly
+2025-11-20,SPI Combined — % change YoY,3.526580481935156,%,pbs_spi_weekly,weekly
+2025-11-27,SPI Combined — % change YoY,4.317901234567898,%,pbs_spi_weekly,weekly
+2025-12-04,SPI Combined — % change YoY,4.004211699854437,%,pbs_spi_weekly,weekly
+2025-12-11,SPI Combined — % change YoY,3.896144086154621,%,pbs_spi_weekly,weekly
+2025-12-18,SPI Combined — % change YoY,3.74560700413096,%,pbs_spi_weekly,weekly
+2025-12-24,SPI Combined — % change YoY,2.8321507218008577,%,pbs_spi_weekly,weekly
+2026-01-01,SPI Combined — % change YoY,2.4103035878564754,%,pbs_spi_weekly,weekly
+2026-01-08,SPI Combined — % change YoY,3.204000370404671,%,pbs_spi_weekly,weekly
+2026-01-15,SPI Combined — % change YoY,3.8703479904558264,%,pbs_spi_weekly,weekly
+2026-01-22,SPI Combined — % change YoY,4.181630804784376,%,pbs_spi_weekly,weekly
+2026-01-29,SPI Combined — % change YoY,4.5226603146743685,%,pbs_spi_weekly,weekly
+2026-02-04,SPI Combined — % change YoY,4.840128148753081,%,pbs_spi_weekly,weekly
+2026-02-12,SPI Combined — % change YoY,4.2575252937849655,%,pbs_spi_weekly,weekly
+2026-02-19,SPI Combined — % change YoY,5.186136876410146,%,pbs_spi_weekly,weekly
+2026-02-26,SPI Combined — % change YoY,4.227022977022983,%,pbs_spi_weekly,weekly
+2026-03-05,SPI Combined — % change YoY,4.70253718285214,%,pbs_spi_weekly,weekly
+2026-03-11,SPI Combined — % change YoY,6.4442712392829264,%,pbs_spi_weekly,weekly
+2026-03-18,SPI Combined — % change YoY,7.042738251673853,%,pbs_spi_weekly,weekly
+2026-03-26,SPI Combined — % change YoY,8.244030832863317,%,pbs_spi_weekly,weekly
+2026-04-02,SPI Combined — % change YoY,9.115356953000415,%,pbs_spi_weekly,weekly
+2026-04-09,SPI Combined — % change YoY,12.153128153380436,%,pbs_spi_weekly,weekly
+2026-04-16,SPI Combined — % change YoY,12.158643465006975,%,pbs_spi_weekly,weekly
+2026-04-23,SPI Combined — % change YoY,13.980444214207083,%,pbs_spi_weekly,weekly
+2026-04-30,SPI Combined — % change YoY,14.522647182438348,%,pbs_spi_weekly,weekly
+2026-05-07,SPI Combined — % change YoY,15.155620061280445,%,pbs_spi_weekly,weekly
+2026-05-14,SPI Combined — % change YoY,14.51602605031286,%,pbs_spi_weekly,weekly
+2026-05-21,SPI Combined — % change YoY,14.471409361593146,%,pbs_spi_weekly,weekly
+2026-06-04,SPI Combined — % change YoY,14.749072131676627,%,pbs_spi_weekly,weekly
+2026-06-11,SPI Combined — % change YoY,15.056056347129342,%,pbs_spi_weekly,weekly
+2026-06-18,SPI Combined — % change YoY,15.276300950539706,%,pbs_spi_weekly,weekly
+2026-07-02,SPI Combined — % change YoY,13.516631417035185,%,pbs_spi_weekly,weekly
+2026-07-09,SPI Combined — % change YoY,11.944894137066314,%,pbs_spi_weekly,weekly
+2026-07-16,SPI Combined — % change YoY,13.08541251620656,%,pbs_spi_weekly,weekly
+2026-07-23,SPI Combined — % change YoY,9.659971436385192,%,pbs_spi_weekly,weekly
+2026-07-30,SPI Combined — % change YoY,9.047386717082404,%,pbs_spi_weekly,weekly
+2026-08-06,SPI Combined — % change YoY,9.28928440814336,%,pbs_spi_weekly,weekly
+2025-04-30,SPI Combined — index,309.31,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,SPI Combined — index,313.24,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,SPI Combined — index,316.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,SPI Combined — index,329.09,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,SPI Combined — index,327.94,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,SPI Combined — index,332.75,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,SPI Combined — index,334.39,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,SPI Combined — index,335.14,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,SPI Combined — index,335.53,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,SPI Combined — index,333.55,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,SPI Combined — index,335.31,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,SPI Combined — index,335.54,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,SPI Combined — index,337.99,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,SPI Combined — index,335.84,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,SPI Combined — index,335.73,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,SPI Combined — index,336.53,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,SPI Combined — index,336.22,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,SPI Combined — index,333.96,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,SPI Combined — index,334.35,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,SPI Combined — index,335.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,SPI Combined — index,333.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,SPI Combined — index,333.49,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,SPI Combined — index,333.79,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,SPI Combined — index,331.81,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,SPI Combined — index,335.67,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,SPI Combined — index,333.86,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,SPI Combined — index,335.09,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,SPI Combined — index,341.42,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,SPI Combined — index,342.13,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,SPI Combined — index,345.45,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,SPI Combined — index,348.94,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,SPI Combined — index,355.66,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,SPI Combined — index,353.21,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,SPI Combined — index,352.04,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,SPI Combined — index,354.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,SPI Combined — index,357.04,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,SPI Combined — index,358.71,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,SPI Combined — index,357.54,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,SPI Combined — index,355.55,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,SPI Combined — index,356.11,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,SPI Combined — index,357.76,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,SPI Combined — index,354.24,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,SPI Combined — index,352.66,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,SPI Combined — index,357.61,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,SPI Combined — index,360.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,SPI Combined — index,357.61,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,SPI Combined — index,358.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,SPI Combined — index previous week,308.86,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,SPI Combined — index previous week,310.05,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,SPI Combined — index previous week,315.03,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,SPI Combined — index previous week,316.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,SPI Combined — index previous week,329.09,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,SPI Combined — index previous week,332.17,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,SPI Combined — index previous week,332.75,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,SPI Combined — index previous week,334.39,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,SPI Combined — index previous week,335.14,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,SPI Combined — index previous week,335.53,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,SPI Combined — index previous week,333.55,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,SPI Combined — index previous week,335.31,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,SPI Combined — index previous week,335.54,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,SPI Combined — index previous week,337.99,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,SPI Combined — index previous week,335.84,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,SPI Combined — index previous week,335.73,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,SPI Combined — index previous week,336.53,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,SPI Combined — index previous week,336.22,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,SPI Combined — index previous week,333.96,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,SPI Combined — index previous week,334.35,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,SPI Combined — index previous week,335.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,SPI Combined — index previous week,333.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,SPI Combined — index previous week,333.49,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,SPI Combined — index previous week,333.79,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,SPI Combined — index previous week,331.81,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,SPI Combined — index previous week,335.67,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,SPI Combined — index previous week,333.86,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,SPI Combined — index previous week,335.09,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,SPI Combined — index previous week,341.42,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,SPI Combined — index previous week,342.13,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,SPI Combined — index previous week,345.45,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,SPI Combined — index previous week,348.94,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,SPI Combined — index previous week,355.66,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,SPI Combined — index previous week,353.21,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,SPI Combined — index previous week,352.04,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,SPI Combined — index previous week,354.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,SPI Combined — index previous week,357.04,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,SPI Combined — index previous week,358.71,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,SPI Combined — index previous week,357.54,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,SPI Combined — index previous week,355.55,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,SPI Combined — index previous week,356.11,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,SPI Combined — index previous week,357.76,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,SPI Combined — index previous week,354.24,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,SPI Combined — index previous week,352.66,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,SPI Combined — index previous week,357.61,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,SPI Combined — index previous week,360.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,SPI Combined — index previous week,357.61,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,SPI Combined — index year ago,316.95,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,SPI Combined — index year ago,309.25,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,SPI Combined — index year ago,321.4,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,SPI Combined — index year ago,321.95,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,SPI Combined — index year ago,321.56,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,SPI Combined — index year ago,318.91,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,SPI Combined — index year ago,319.79,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,SPI Combined — index year ago,319.09,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,SPI Combined — index year ago,319.4,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,SPI Combined — index year ago,320.17,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,SPI Combined — index year ago,321.94,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,SPI Combined — index year ago,324.11,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,SPI Combined — index year ago,324.0,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,SPI Combined — index year ago,322.91,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,SPI Combined — index year ago,323.14,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,SPI Combined — index year ago,324.38,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,SPI Combined — index year ago,326.96,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,SPI Combined — index year ago,326.1,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,SPI Combined — index year ago,323.97,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,SPI Combined — index year ago,322.71,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,SPI Combined — index year ago,320.21,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,SPI Combined — index year ago,319.06,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,SPI Combined — index year ago,318.38,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,SPI Combined — index year ago,318.26,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,SPI Combined — index year ago,319.12,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,SPI Combined — index year ago,320.32,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,SPI Combined — index year ago,320.04,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,SPI Combined — index year ago,320.75,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,SPI Combined — index year ago,319.62,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,SPI Combined — index year ago,319.14,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,SPI Combined — index year ago,319.79,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,SPI Combined — index year ago,317.12,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,SPI Combined — index year ago,314.92,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,SPI Combined — index year ago,308.86,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,SPI Combined — index year ago,309.31,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,SPI Combined — index year ago,310.05,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,SPI Combined — index year ago,313.24,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,SPI Combined — index year ago,312.34,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,SPI Combined — index year ago,309.85,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,SPI Combined — index year ago,309.51,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,SPI Combined — index year ago,310.35,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,SPI Combined — index year ago,312.06,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,SPI Combined — index year ago,315.03,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,SPI Combined — index year ago,316.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,SPI Combined — index year ago,329.09,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,SPI Combined — index year ago,327.94,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,SPI Combined — index year ago,328.12,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.07389741694939289,%,pbs_spi_weekly,weekly
+2025-05-15,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.9153701716738283,%,pbs_spi_weekly,weekly
+2025-07-17,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.13123790150595482,%,pbs_spi_weekly,weekly
+2025-07-24,"SPI Q1 (Upto Rs. 17,732) — % change WoW",3.9811265113535796,%,pbs_spi_weekly,weekly
+2025-07-31,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-0.41910884225120526,%,pbs_spi_weekly,weekly
+2025-10-09,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.13827858525642966,%,pbs_spi_weekly,weekly
+2025-10-16,"SPI Q1 (Upto Rs. 17,732) — % change WoW",1.0709463606235516,%,pbs_spi_weekly,weekly
+2025-10-23,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.273248929775022,%,pbs_spi_weekly,weekly
+2025-10-30,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.27553214037001794,%,pbs_spi_weekly,weekly
+2025-11-06,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-1.0417295730418488,%,pbs_spi_weekly,weekly
+2025-11-13,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.35394989778170327,%,pbs_spi_weekly,weekly
+2025-11-20,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.0729727264434814,%,pbs_spi_weekly,weekly
+2025-11-27,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-0.08756831838633161,%,pbs_spi_weekly,weekly
+2025-12-04,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-0.9610735009671316,%,pbs_spi_weekly,weekly
+2025-12-11,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-0.2624351541043666,%,pbs_spi_weekly,weekly
+2025-12-18,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.070370823644609,%,pbs_spi_weekly,weekly
+2025-12-24,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-0.32714709389426844,%,pbs_spi_weekly,weekly
+2026-01-01,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-0.6196319018404921,%,pbs_spi_weekly,weekly
+2026-01-08,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.12037780109884011,%,pbs_spi_weekly,weekly
+2026-01-15,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.28054382341152007,%,pbs_spi_weekly,weekly
+2026-01-22,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-0.30127889818001563,%,pbs_spi_weekly,weekly
+2026-01-29,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-0.15417823003392073,%,pbs_spi_weekly,weekly
+2026-02-04,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.1327980234712811,%,pbs_spi_weekly,weekly
+2026-02-12,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-0.6168460660642126,%,pbs_spi_weekly,weekly
+2026-02-19,"SPI Q1 (Upto Rs. 17,732) — % change WoW",1.1079042919653688,%,pbs_spi_weekly,weekly
+2026-02-26,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-0.7120933087783925,%,pbs_spi_weekly,weekly
+2026-03-05,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.0,%,pbs_spi_weekly,weekly
+2026-03-11,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.6615555830344846,%,pbs_spi_weekly,weekly
+2026-03-18,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.18426386585591104,%,pbs_spi_weekly,weekly
+2026-03-26,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.9717368646925166,%,pbs_spi_weekly,weekly
+2026-04-02,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.6982604207778138,%,pbs_spi_weekly,weekly
+2026-04-09,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.747686092435714,%,pbs_spi_weekly,weekly
+2026-04-16,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-0.3590986623574821,%,pbs_spi_weekly,weekly
+2026-04-23,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-0.41144847884193325,%,pbs_spi_weekly,weekly
+2026-04-30,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.1688781664656176,%,pbs_spi_weekly,weekly
+2026-05-07,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.6894267822735998,%,pbs_spi_weekly,weekly
+2026-05-14,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.3946778292719415,%,pbs_spi_weekly,weekly
+2026-05-21,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-0.06254281204395795,%,pbs_spi_weekly,weekly
+2026-06-04,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.31588985576350126,%,pbs_spi_weekly,weekly
+2026-06-11,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.18715465510071283,%,pbs_spi_weekly,weekly
+2026-06-18,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.640474425500372,%,pbs_spi_weekly,weekly
+2026-07-02,"SPI Q1 (Upto Rs. 17,732) — % change WoW",1.4171650805810003,%,pbs_spi_weekly,weekly
+2026-07-09,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-0.3602347336006062,%,pbs_spi_weekly,weekly
+2026-07-16,"SPI Q1 (Upto Rs. 17,732) — % change WoW",1.1079363228176504,%,pbs_spi_weekly,weekly
+2026-07-23,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.8708691389353476,%,pbs_spi_weekly,weekly
+2026-07-30,"SPI Q1 (Upto Rs. 17,732) — % change WoW",-1.1921097770154319,%,pbs_spi_weekly,weekly
+2026-08-06,"SPI Q1 (Upto Rs. 17,732) — % change WoW",0.42820357029194156,%,pbs_spi_weekly,weekly
+2025-04-30,"SPI Q1 (Upto Rs. 17,732) — % change YoY",-2.7199111865734977,%,pbs_spi_weekly,weekly
+2025-05-15,"SPI Q1 (Upto Rs. 17,732) — % change YoY",0.42375709042377707,%,pbs_spi_weekly,weekly
+2025-07-17,"SPI Q1 (Upto Rs. 17,732) — % change YoY",-2.1732858928743184,%,pbs_spi_weekly,weekly
+2025-07-24,"SPI Q1 (Upto Rs. 17,732) — % change YoY",1.639869322913313,%,pbs_spi_weekly,weekly
+2025-07-31,"SPI Q1 (Upto Rs. 17,732) — % change YoY",2.136393018745977,%,pbs_spi_weekly,weekly
+2025-10-09,"SPI Q1 (Upto Rs. 17,732) — % change YoY",4.14496181010513,%,pbs_spi_weekly,weekly
+2025-10-16,"SPI Q1 (Upto Rs. 17,732) — % change YoY",4.9818320902658115,%,pbs_spi_weekly,weekly
+2025-10-23,"SPI Q1 (Upto Rs. 17,732) — % change YoY",5.4636607484991515,%,pbs_spi_weekly,weekly
+2025-10-30,"SPI Q1 (Upto Rs. 17,732) — % change YoY",6.140632010768556,%,pbs_spi_weekly,weekly
+2025-11-06,"SPI Q1 (Upto Rs. 17,732) — % change YoY",4.729492218707065,%,pbs_spi_weekly,weekly
+2025-11-13,"SPI Q1 (Upto Rs. 17,732) — % change YoY",4.237449290060852,%,pbs_spi_weekly,weekly
+2025-11-20,"SPI Q1 (Upto Rs. 17,732) — % change YoY",3.369974874371877,%,pbs_spi_weekly,weekly
+2025-11-27,"SPI Q1 (Upto Rs. 17,732) — % change YoY",3.8543628374136745,%,pbs_spi_weekly,weekly
+2025-12-04,"SPI Q1 (Upto Rs. 17,732) — % change YoY",3.3102143757881493,%,pbs_spi_weekly,weekly
+2025-12-11,"SPI Q1 (Upto Rs. 17,732) — % change YoY",3.01311144730208,%,pbs_spi_weekly,weekly
+2025-12-18,"SPI Q1 (Upto Rs. 17,732) — % change YoY",2.3885549711996106,%,pbs_spi_weekly,weekly
+2025-12-24,"SPI Q1 (Upto Rs. 17,732) — % change YoY",1.3524016788434778,%,pbs_spi_weekly,weekly
+2026-01-01,"SPI Q1 (Upto Rs. 17,732) — % change YoY",1.2405862316802683,%,pbs_spi_weekly,weekly
+2026-01-08,"SPI Q1 (Upto Rs. 17,732) — % change YoY",2.4153826723920133,%,pbs_spi_weekly,weekly
+2026-01-15,"SPI Q1 (Upto Rs. 17,732) — % change YoY",3.3455123113582204,%,pbs_spi_weekly,weekly
+2026-01-22,"SPI Q1 (Upto Rs. 17,732) — % change YoY",4.119176806755064,%,pbs_spi_weekly,weekly
+2026-01-29,"SPI Q1 (Upto Rs. 17,732) — % change YoY",4.50217847345489,%,pbs_spi_weekly,weekly
+2026-02-04,"SPI Q1 (Upto Rs. 17,732) — % change YoY",4.9423873640600675,%,pbs_spi_weekly,weekly
+2026-02-12,"SPI Q1 (Upto Rs. 17,732) — % change YoY",4.5386711653257095,%,pbs_spi_weekly,weekly
+2026-02-19,"SPI Q1 (Upto Rs. 17,732) — % change YoY",5.498348552554887,%,pbs_spi_weekly,weekly
+2026-02-26,"SPI Q1 (Upto Rs. 17,732) — % change YoY",4.368587468542302,%,pbs_spi_weekly,weekly
+2026-03-05,"SPI Q1 (Upto Rs. 17,732) — % change YoY",4.574402741408861,%,pbs_spi_weekly,weekly
+2026-03-11,"SPI Q1 (Upto Rs. 17,732) — % change YoY",5.157435814629423,%,pbs_spi_weekly,weekly
+2026-03-18,"SPI Q1 (Upto Rs. 17,732) — % change YoY",5.767921408423305,%,pbs_spi_weekly,weekly
+2026-03-26,"SPI Q1 (Upto Rs. 17,732) — % change YoY",7.017771857435264,%,pbs_spi_weekly,weekly
+2026-04-02,"SPI Q1 (Upto Rs. 17,732) — % change YoY",7.46128426099915,%,pbs_spi_weekly,weekly
+2026-04-09,"SPI Q1 (Upto Rs. 17,732) — % change YoY",9.330934074922311,%,pbs_spi_weekly,weekly
+2026-04-16,"SPI Q1 (Upto Rs. 17,732) — % change YoY",9.818601583113477,%,pbs_spi_weekly,weekly
+2026-04-23,"SPI Q1 (Upto Rs. 17,732) — % change YoY",11.38356118370227,%,pbs_spi_weekly,weekly
+2026-04-30,"SPI Q1 (Upto Rs. 17,732) — % change YoY",11.489276004430565,%,pbs_spi_weekly,weekly
+2026-05-07,"SPI Q1 (Upto Rs. 17,732) — % change YoY",12.14122854077253,%,pbs_spi_weekly,weekly
+2026-05-14,"SPI Q1 (Upto Rs. 17,732) — % change YoY",11.562614214041261,%,pbs_spi_weekly,weekly
+2026-05-21,"SPI Q1 (Upto Rs. 17,732) — % change YoY",11.786261576387489,%,pbs_spi_weekly,weekly
+2026-06-04,"SPI Q1 (Upto Rs. 17,732) — % change YoY",12.585705207532015,%,pbs_spi_weekly,weekly
+2026-06-11,"SPI Q1 (Upto Rs. 17,732) — % change YoY",12.626903553299499,%,pbs_spi_weekly,weekly
+2026-06-18,"SPI Q1 (Upto Rs. 17,732) — % change YoY",13.295280058748943,%,pbs_spi_weekly,weekly
+2026-07-02,"SPI Q1 (Upto Rs. 17,732) — % change YoY",14.131299734747998,%,pbs_spi_weekly,weekly
+2026-07-09,"SPI Q1 (Upto Rs. 17,732) — % change YoY",12.529938646281053,%,pbs_spi_weekly,weekly
+2026-07-16,"SPI Q1 (Upto Rs. 17,732) — % change YoY",13.627576263966716,%,pbs_spi_weekly,weekly
+2026-07-23,"SPI Q1 (Upto Rs. 17,732) — % change YoY",10.228776706371718,%,pbs_spi_weekly,weekly
+2026-07-30,"SPI Q1 (Upto Rs. 17,732) — % change YoY",9.373121103762543,%,pbs_spi_weekly,weekly
+2026-08-06,"SPI Q1 (Upto Rs. 17,732) — % change YoY",9.508786320471955,%,pbs_spi_weekly,weekly
+2025-04-30,"SPI Q1 (Upto Rs. 17,732) — index",297.93,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,"SPI Q1 (Upto Rs. 17,732) — index",300.97,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,"SPI Q1 (Upto Rs. 17,732) — index",305.19,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,"SPI Q1 (Upto Rs. 17,732) — index",317.34,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,"SPI Q1 (Upto Rs. 17,732) — index",316.01,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,"SPI Q1 (Upto Rs. 17,732) — index",325.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,"SPI Q1 (Upto Rs. 17,732) — index",329.37,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,"SPI Q1 (Upto Rs. 17,732) — index",330.27,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,"SPI Q1 (Upto Rs. 17,732) — index",331.18,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,"SPI Q1 (Upto Rs. 17,732) — index",327.73,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,"SPI Q1 (Upto Rs. 17,732) — index",328.89,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,"SPI Q1 (Upto Rs. 17,732) — index",329.13,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,"SPI Q1 (Upto Rs. 17,732) — index",330.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,"SPI Q1 (Upto Rs. 17,732) — index",327.7,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,"SPI Q1 (Upto Rs. 17,732) — index",326.84,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,"SPI Q1 (Upto Rs. 17,732) — index",327.07,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,"SPI Q1 (Upto Rs. 17,732) — index",326.0,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,"SPI Q1 (Upto Rs. 17,732) — index",323.98,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,"SPI Q1 (Upto Rs. 17,732) — index",324.37,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,"SPI Q1 (Upto Rs. 17,732) — index",325.28,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,"SPI Q1 (Upto Rs. 17,732) — index",324.3,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,"SPI Q1 (Upto Rs. 17,732) — index",323.8,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,"SPI Q1 (Upto Rs. 17,732) — index",324.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,"SPI Q1 (Upto Rs. 17,732) — index",322.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,"SPI Q1 (Upto Rs. 17,732) — index",325.8,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,"SPI Q1 (Upto Rs. 17,732) — index",323.48,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,"SPI Q1 (Upto Rs. 17,732) — index",323.48,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,"SPI Q1 (Upto Rs. 17,732) — index",325.62,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,"SPI Q1 (Upto Rs. 17,732) — index",326.22,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,"SPI Q1 (Upto Rs. 17,732) — index",329.39,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,"SPI Q1 (Upto Rs. 17,732) — index",331.69,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,"SPI Q1 (Upto Rs. 17,732) — index",334.17,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,"SPI Q1 (Upto Rs. 17,732) — index",332.97,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,"SPI Q1 (Upto Rs. 17,732) — index",331.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,"SPI Q1 (Upto Rs. 17,732) — index",332.16,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,"SPI Q1 (Upto Rs. 17,732) — index",334.45,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,"SPI Q1 (Upto Rs. 17,732) — index",335.77,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,"SPI Q1 (Upto Rs. 17,732) — index",335.56,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,"SPI Q1 (Upto Rs. 17,732) — index",336.62,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,"SPI Q1 (Upto Rs. 17,732) — index",337.25,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,"SPI Q1 (Upto Rs. 17,732) — index",339.41,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,"SPI Q1 (Upto Rs. 17,732) — index",344.22,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,"SPI Q1 (Upto Rs. 17,732) — index",342.98,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,"SPI Q1 (Upto Rs. 17,732) — index",346.78,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,"SPI Q1 (Upto Rs. 17,732) — index",349.8,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,"SPI Q1 (Upto Rs. 17,732) — index",345.63,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,"SPI Q1 (Upto Rs. 17,732) — index",347.11,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,"SPI Q1 (Upto Rs. 17,732) — index previous week",297.71,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,"SPI Q1 (Upto Rs. 17,732) — index previous week",298.24,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,"SPI Q1 (Upto Rs. 17,732) — index previous week",304.79,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,"SPI Q1 (Upto Rs. 17,732) — index previous week",305.19,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,"SPI Q1 (Upto Rs. 17,732) — index previous week",317.34,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,"SPI Q1 (Upto Rs. 17,732) — index previous week",325.43,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,"SPI Q1 (Upto Rs. 17,732) — index previous week",325.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,"SPI Q1 (Upto Rs. 17,732) — index previous week",329.37,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,"SPI Q1 (Upto Rs. 17,732) — index previous week",330.27,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,"SPI Q1 (Upto Rs. 17,732) — index previous week",331.18,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,"SPI Q1 (Upto Rs. 17,732) — index previous week",327.73,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,"SPI Q1 (Upto Rs. 17,732) — index previous week",328.89,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,"SPI Q1 (Upto Rs. 17,732) — index previous week",331.17,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,"SPI Q1 (Upto Rs. 17,732) — index previous week",330.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,"SPI Q1 (Upto Rs. 17,732) — index previous week",327.7,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,"SPI Q1 (Upto Rs. 17,732) — index previous week",326.84,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,"SPI Q1 (Upto Rs. 17,732) — index previous week",327.07,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,"SPI Q1 (Upto Rs. 17,732) — index previous week",326.0,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,"SPI Q1 (Upto Rs. 17,732) — index previous week",323.98,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,"SPI Q1 (Upto Rs. 17,732) — index previous week",324.37,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,"SPI Q1 (Upto Rs. 17,732) — index previous week",325.28,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,"SPI Q1 (Upto Rs. 17,732) — index previous week",324.3,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,"SPI Q1 (Upto Rs. 17,732) — index previous week",323.8,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,"SPI Q1 (Upto Rs. 17,732) — index previous week",324.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,"SPI Q1 (Upto Rs. 17,732) — index previous week",322.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,"SPI Q1 (Upto Rs. 17,732) — index previous week",325.8,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,"SPI Q1 (Upto Rs. 17,732) — index previous week",323.48,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,"SPI Q1 (Upto Rs. 17,732) — index previous week",323.48,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,"SPI Q1 (Upto Rs. 17,732) — index previous week",325.62,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,"SPI Q1 (Upto Rs. 17,732) — index previous week",326.22,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,"SPI Q1 (Upto Rs. 17,732) — index previous week",329.39,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,"SPI Q1 (Upto Rs. 17,732) — index previous week",331.69,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,"SPI Q1 (Upto Rs. 17,732) — index previous week",334.17,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,"SPI Q1 (Upto Rs. 17,732) — index previous week",332.97,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,"SPI Q1 (Upto Rs. 17,732) — index previous week",331.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,"SPI Q1 (Upto Rs. 17,732) — index previous week",332.16,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,"SPI Q1 (Upto Rs. 17,732) — index previous week",334.45,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,"SPI Q1 (Upto Rs. 17,732) — index previous week",335.77,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,"SPI Q1 (Upto Rs. 17,732) — index previous week",335.56,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,"SPI Q1 (Upto Rs. 17,732) — index previous week",336.62,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,"SPI Q1 (Upto Rs. 17,732) — index previous week",337.25,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,"SPI Q1 (Upto Rs. 17,732) — index previous week",339.41,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,"SPI Q1 (Upto Rs. 17,732) — index previous week",344.22,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,"SPI Q1 (Upto Rs. 17,732) — index previous week",342.98,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,"SPI Q1 (Upto Rs. 17,732) — index previous week",346.78,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,"SPI Q1 (Upto Rs. 17,732) — index previous week",349.8,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,"SPI Q1 (Upto Rs. 17,732) — index previous week",345.63,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,"SPI Q1 (Upto Rs. 17,732) — index year ago",306.26,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,"SPI Q1 (Upto Rs. 17,732) — index year ago",299.7,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,"SPI Q1 (Upto Rs. 17,732) — index year ago",311.97,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,"SPI Q1 (Upto Rs. 17,732) — index year ago",312.22,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,"SPI Q1 (Upto Rs. 17,732) — index year ago",309.4,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,"SPI Q1 (Upto Rs. 17,732) — index year ago",312.91,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,"SPI Q1 (Upto Rs. 17,732) — index year ago",313.74,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,"SPI Q1 (Upto Rs. 17,732) — index year ago",313.16,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,"SPI Q1 (Upto Rs. 17,732) — index year ago",312.02,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,"SPI Q1 (Upto Rs. 17,732) — index year ago",312.93,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,"SPI Q1 (Upto Rs. 17,732) — index year ago",315.52,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,"SPI Q1 (Upto Rs. 17,732) — index year ago",318.4,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,"SPI Q1 (Upto Rs. 17,732) — index year ago",318.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,"SPI Q1 (Upto Rs. 17,732) — index year ago",317.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,"SPI Q1 (Upto Rs. 17,732) — index year ago",317.28,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,"SPI Q1 (Upto Rs. 17,732) — index year ago",319.44,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,"SPI Q1 (Upto Rs. 17,732) — index year ago",321.65,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,"SPI Q1 (Upto Rs. 17,732) — index year ago",320.01,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,"SPI Q1 (Upto Rs. 17,732) — index year ago",316.72,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,"SPI Q1 (Upto Rs. 17,732) — index year ago",314.75,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,"SPI Q1 (Upto Rs. 17,732) — index year ago",311.47,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,"SPI Q1 (Upto Rs. 17,732) — index year ago",309.85,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,"SPI Q1 (Upto Rs. 17,732) — index year ago",308.96,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,"SPI Q1 (Upto Rs. 17,732) — index year ago",308.24,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,"SPI Q1 (Upto Rs. 17,732) — index year ago",308.82,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,"SPI Q1 (Upto Rs. 17,732) — index year ago",309.94,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,"SPI Q1 (Upto Rs. 17,732) — index year ago",309.33,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,"SPI Q1 (Upto Rs. 17,732) — index year ago",309.65,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,"SPI Q1 (Upto Rs. 17,732) — index year ago",308.43,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,"SPI Q1 (Upto Rs. 17,732) — index year ago",307.79,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,"SPI Q1 (Upto Rs. 17,732) — index year ago",308.66,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,"SPI Q1 (Upto Rs. 17,732) — index year ago",305.65,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,"SPI Q1 (Upto Rs. 17,732) — index year ago",303.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,"SPI Q1 (Upto Rs. 17,732) — index year ago",297.71,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,"SPI Q1 (Upto Rs. 17,732) — index year ago",297.93,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,"SPI Q1 (Upto Rs. 17,732) — index year ago",298.24,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,"SPI Q1 (Upto Rs. 17,732) — index year ago",300.97,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,"SPI Q1 (Upto Rs. 17,732) — index year ago",300.18,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,"SPI Q1 (Upto Rs. 17,732) — index year ago",298.99,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,"SPI Q1 (Upto Rs. 17,732) — index year ago",299.44,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,"SPI Q1 (Upto Rs. 17,732) — index year ago",299.58,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,"SPI Q1 (Upto Rs. 17,732) — index year ago",301.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,"SPI Q1 (Upto Rs. 17,732) — index year ago",304.79,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,"SPI Q1 (Upto Rs. 17,732) — index year ago",305.19,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,"SPI Q1 (Upto Rs. 17,732) — index year ago",317.34,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,"SPI Q1 (Upto Rs. 17,732) — index year ago",316.01,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,"SPI Q1 (Upto Rs. 17,732) — index year ago",316.97,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.10191255902437035,%,pbs_spi_weekly,weekly
+2025-05-15,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",1.019682238558218,%,pbs_spi_weekly,weekly
+2025-07-17,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.21601861083418328,%,pbs_spi_weekly,weekly
+2025-07-24,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",5.262808821091028,%,pbs_spi_weekly,weekly
+2025-07-31,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",-0.4158528133072821,%,pbs_spi_weekly,weekly
+2025-10-09,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.1670017009432314,%,pbs_spi_weekly,weekly
+2025-10-16,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.9231529222884376,%,pbs_spi_weekly,weekly
+2025-10-23,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.25697503671074173,%,pbs_spi_weekly,weekly
+2025-10-30,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.16172342243376647,%,pbs_spi_weekly,weekly
+2025-11-06,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",-0.9291698400609221,%,pbs_spi_weekly,weekly
+2025-11-13,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.43050430504305837,%,pbs_spi_weekly,weekly
+2025-11-20,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.07042253521125019,%,pbs_spi_weekly,weekly
+2025-11-27,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.9882813695193136,%,pbs_spi_weekly,weekly
+2025-12-04,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",-0.8755983760528352,%,pbs_spi_weekly,weekly
+2025-12-11,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",-0.16810832289024802,%,pbs_spi_weekly,weekly
+2025-12-18,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.14389810789295154,%,pbs_spi_weekly,weekly
+2025-12-24,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",-0.17426396404658817,%,pbs_spi_weekly,weekly
+2026-01-01,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",-0.60945730736249,%,pbs_spi_weekly,weekly
+2026-01-08,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.1324993066896809,%,pbs_spi_weekly,weekly
+2026-01-15,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.2708025603151043,%,pbs_spi_weekly,weekly
+2026-01-22,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",-0.36520991897863553,%,pbs_spi_weekly,weekly
+2026-01-29,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",-0.12320961034959055,%,pbs_spi_weekly,weekly
+2026-02-04,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.11102544333077446,%,pbs_spi_weekly,weekly
+2026-02-12,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",-0.6192045839622864,%,pbs_spi_weekly,weekly
+2026-02-19,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",1.5003099814011165,%,pbs_spi_weekly,weekly
+2026-02-26,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",-0.6840947959931611,%,pbs_spi_weekly,weekly
+2026-03-05,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.08610086100861736,%,pbs_spi_weekly,weekly
+2026-03-11,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.943222317807539,%,pbs_spi_weekly,weekly
+2026-03-18,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.2130573733069525,%,pbs_spi_weekly,weekly
+2026-03-26,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",1.0873196659073585,%,pbs_spi_weekly,weekly
+2026-04-02,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.751134212661114,%,pbs_spi_weekly,weekly
+2026-04-09,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",1.0198908537858244,%,pbs_spi_weekly,weekly
+2026-04-16,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",-0.43985239852398195,%,pbs_spi_weekly,weekly
+2026-04-23,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",-0.3558085749866535,%,pbs_spi_weekly,weekly
+2026-04-30,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.2648336606558388,%,pbs_spi_weekly,weekly
+2026-05-07,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.7656922392046113,%,pbs_spi_weekly,weekly
+2026-05-14,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.4152799458074554,%,pbs_spi_weekly,weekly
+2026-05-21,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",-0.2845075379832167,%,pbs_spi_weekly,weekly
+2026-06-04,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.044121540135890314,%,pbs_spi_weekly,weekly
+2026-06-11,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.12348582853110202,%,pbs_spi_weekly,weekly
+2026-06-18,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.6137311329065511,%,pbs_spi_weekly,weekly
+2026-07-02,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.8580684703616015,%,pbs_spi_weekly,weekly
+2026-07-09,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",-0.33278351708770515,%,pbs_spi_weekly,weekly
+2026-07-16,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",1.1816967655769162,%,pbs_spi_weekly,weekly
+2026-07-23,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.8866825446928175,%,pbs_spi_weekly,weekly
+2026-07-30,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",-1.3681096763183263,%,pbs_spi_weekly,weekly
+2026-08-06,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",0.4094933241053127,%,pbs_spi_weekly,weekly
+2025-04-30,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",-3.3678756476683844,%,pbs_spi_weekly,weekly
+2025-05-15,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",-0.07706999966491423,%,pbs_spi_weekly,weekly
+2025-07-17,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",-3.144472281107454,%,pbs_spi_weekly,weekly
+2025-07-24,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",1.8252975331216135,%,pbs_spi_weekly,weekly
+2025-07-31,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",2.8000910598718747,%,pbs_spi_weekly,weekly
+2025-10-09,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",4.312399355877616,%,pbs_spi_weekly,weekly
+2025-10-16,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",4.981212062819139,%,pbs_spi_weekly,weekly
+2025-10-23,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",5.491534153093426,%,pbs_spi_weekly,weekly
+2025-10-30,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",6.089008112213563,%,pbs_spi_weekly,weekly
+2025-11-06,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",4.828831152085613,%,pbs_spi_weekly,weekly
+2025-11-13,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",4.508655723016858,%,pbs_spi_weekly,weekly
+2025-11-20,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",3.699590697084105,%,pbs_spi_weekly,weekly
+2025-11-27,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",4.704501475113403,%,pbs_spi_weekly,weekly
+2025-12-04,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",4.257353175488362,%,pbs_spi_weekly,weekly
+2025-12-11,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",4.029047361212861,%,pbs_spi_weekly,weekly
+2025-12-18,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",3.5586512585087604,%,pbs_spi_weekly,weekly
+2025-12-24,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",2.5760241266649757,%,pbs_spi_weekly,weekly
+2026-01-01,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",2.5598078563979385,%,pbs_spi_weekly,weekly
+2026-01-08,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",3.652196102197692,%,pbs_spi_weekly,weekly
+2026-01-15,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",4.519647153167597,%,pbs_spi_weekly,weekly
+2026-01-22,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",5.153203342618369,%,pbs_spi_weekly,weekly
+2026-01-29,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",5.522650351470972,%,pbs_spi_weekly,weekly
+2026-02-04,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",5.925925925925938,%,pbs_spi_weekly,weekly
+2026-02-12,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",5.448958912169459,%,pbs_spi_weekly,weekly
+2026-02-19,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",6.7831985390033935,%,pbs_spi_weekly,weekly
+2026-02-26,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",5.656454075830908,%,pbs_spi_weekly,weekly
+2026-03-05,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",5.950520833333343,%,pbs_spi_weekly,weekly
+2026-03-11,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",6.7726105748919565,%,pbs_spi_weekly,weekly
+2026-03-18,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",7.376968985422167,%,pbs_spi_weekly,weekly
+2026-03-26,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",8.757311374701843,%,pbs_spi_weekly,weekly
+2026-04-02,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",9.277846574985318,%,pbs_spi_weekly,weekly
+2026-04-09,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",11.500608933214835,%,pbs_spi_weekly,weekly
+2026-04-16,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",11.905235914791959,%,pbs_spi_weekly,weekly
+2026-04-23,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",14.162448619084827,%,pbs_spi_weekly,weekly
+2026-04-30,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",14.348253979027376,%,pbs_spi_weekly,weekly
+2026-05-07,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",15.020834039093472,%,pbs_spi_weekly,weekly
+2026-05-14,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",14.332662642521797,%,pbs_spi_weekly,weekly
+2026-05-21,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",14.321743224157643,%,pbs_spi_weekly,weekly
+2026-06-04,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",15.263657313270997,%,pbs_spi_weekly,weekly
+2026-06-11,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",15.359078590785913,%,pbs_spi_weekly,weekly
+2026-06-18,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",16.004198266522195,%,pbs_spi_weekly,weekly
+2026-07-02,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",16.107247253301082,%,pbs_spi_weekly,weekly
+2026-07-09,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",14.463276836158201,%,pbs_spi_weekly,weekly
+2026-07-16,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",15.566241087713479,%,pbs_spi_weekly,weekly
+2026-07-23,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",10.761766744376516,%,pbs_spi_weekly,weekly
+2026-07-30,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",9.702625751344513,%,pbs_spi_weekly,weekly
+2026-08-06,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",9.86684336741132,%,pbs_spi_weekly,weekly
+2025-04-30,"SPI Q2 (Rs. 17,733 - 22,888) — index",294.67,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,"SPI Q2 (Rs. 17,733 - 22,888) — index",298.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,"SPI Q2 (Rs. 17,733 - 22,888) — index",301.55,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,"SPI Q2 (Rs. 17,733 - 22,888) — index",317.42,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,"SPI Q2 (Rs. 17,733 - 22,888) — index",316.1,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,"SPI Q2 (Rs. 17,733 - 22,888) — index",323.89,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,"SPI Q2 (Rs. 17,733 - 22,888) — index",326.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,"SPI Q2 (Rs. 17,733 - 22,888) — index",327.72,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,"SPI Q2 (Rs. 17,733 - 22,888) — index",328.25,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,"SPI Q2 (Rs. 17,733 - 22,888) — index",325.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,"SPI Q2 (Rs. 17,733 - 22,888) — index",326.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,"SPI Q2 (Rs. 17,733 - 22,888) — index",326.83,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,"SPI Q2 (Rs. 17,733 - 22,888) — index",330.06,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,"SPI Q2 (Rs. 17,733 - 22,888) — index",327.17,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,"SPI Q2 (Rs. 17,733 - 22,888) — index",326.62,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,"SPI Q2 (Rs. 17,733 - 22,888) — index",327.09,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,"SPI Q2 (Rs. 17,733 - 22,888) — index",326.52,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,"SPI Q2 (Rs. 17,733 - 22,888) — index",324.53,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,"SPI Q2 (Rs. 17,733 - 22,888) — index",324.96,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,"SPI Q2 (Rs. 17,733 - 22,888) — index",325.84,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,"SPI Q2 (Rs. 17,733 - 22,888) — index",324.65,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,"SPI Q2 (Rs. 17,733 - 22,888) — index",324.25,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,"SPI Q2 (Rs. 17,733 - 22,888) — index",324.61,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,"SPI Q2 (Rs. 17,733 - 22,888) — index",322.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,"SPI Q2 (Rs. 17,733 - 22,888) — index",327.44,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,"SPI Q2 (Rs. 17,733 - 22,888) — index",325.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,"SPI Q2 (Rs. 17,733 - 22,888) — index",325.48,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,"SPI Q2 (Rs. 17,733 - 22,888) — index",328.55,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,"SPI Q2 (Rs. 17,733 - 22,888) — index",329.25,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,"SPI Q2 (Rs. 17,733 - 22,888) — index",332.83,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,"SPI Q2 (Rs. 17,733 - 22,888) — index",335.33,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,"SPI Q2 (Rs. 17,733 - 22,888) — index",338.75,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,"SPI Q2 (Rs. 17,733 - 22,888) — index",337.26,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,"SPI Q2 (Rs. 17,733 - 22,888) — index",336.06,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,"SPI Q2 (Rs. 17,733 - 22,888) — index",336.95,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,"SPI Q2 (Rs. 17,733 - 22,888) — index",339.53,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,"SPI Q2 (Rs. 17,733 - 22,888) — index",340.94,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,"SPI Q2 (Rs. 17,733 - 22,888) — index",339.97,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,"SPI Q2 (Rs. 17,733 - 22,888) — index",340.12,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,"SPI Q2 (Rs. 17,733 - 22,888) — index",340.54,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,"SPI Q2 (Rs. 17,733 - 22,888) — index",342.63,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,"SPI Q2 (Rs. 17,733 - 22,888) — index",345.57,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,"SPI Q2 (Rs. 17,733 - 22,888) — index",344.42,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,"SPI Q2 (Rs. 17,733 - 22,888) — index",348.49,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,"SPI Q2 (Rs. 17,733 - 22,888) — index",351.58,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,"SPI Q2 (Rs. 17,733 - 22,888) — index",346.77,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,"SPI Q2 (Rs. 17,733 - 22,888) — index",348.19,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",294.37,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",295.19,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",300.9,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",301.55,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",317.42,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",323.35,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",323.89,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",326.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",327.72,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",328.25,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",325.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",326.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",326.83,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",330.06,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",327.17,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",326.62,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",327.09,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",326.52,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",324.53,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",324.96,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",325.84,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",324.65,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",324.25,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",324.61,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",322.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",327.44,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",325.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",325.48,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",328.55,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",329.25,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",332.83,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",335.33,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",338.75,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",337.26,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",336.06,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",336.95,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",339.53,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",340.94,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",339.97,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",340.12,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",340.54,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",342.63,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",345.57,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",344.42,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",348.49,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",351.58,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",346.77,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",304.94,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",298.43,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",311.34,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",311.73,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",307.49,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",310.5,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",311.37,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",310.66,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",309.41,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",310.22,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",312.51,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",315.17,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",315.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",313.81,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",313.97,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",315.85,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",318.32,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",316.43,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",313.51,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",311.75,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",308.74,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",307.28,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",306.45,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",305.93,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",306.64,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",307.79,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",307.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",307.71,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",306.63,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",306.03,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",306.86,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",303.81,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",301.38,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",294.37,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",294.67,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",295.19,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",298.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",297.38,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",295.08,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",295.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",295.36,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",297.63,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",300.9,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",301.55,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",317.42,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",316.1,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",316.92,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.11304757418749034,%,pbs_spi_weekly,weekly
+2025-05-15,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.9797783760095058,%,pbs_spi_weekly,weekly
+2025-07-17,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.2645665415615781,%,pbs_spi_weekly,weekly
+2025-07-24,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",4.4397398134511405,%,pbs_spi_weekly,weekly
+2025-07-31,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.36722582919593094,%,pbs_spi_weekly,weekly
+2025-10-09,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.18490696868138912,%,pbs_spi_weekly,weekly
+2025-10-16,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.7123082247087353,%,pbs_spi_weekly,weekly
+2025-10-23,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.23193883686968775,%,pbs_spi_weekly,weekly
+2025-10-30,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.14569763455605766,%,pbs_spi_weekly,weekly
+2025-11-06,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.7416916274425915,%,pbs_spi_weekly,weekly
+2025-11-13,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.44259232648369107,%,pbs_spi_weekly,weekly
+2025-11-20,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.040058370768832674,%,pbs_spi_weekly,weekly
+2025-11-27,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.4862282984869637,%,pbs_spi_weekly,weekly
+2025-12-04,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.7286596647027039,%,pbs_spi_weekly,weekly
+2025-12-11,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.09175101069473612,%,pbs_spi_weekly,weekly
+2025-12-18,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.1808006887645348,%,pbs_spi_weekly,weekly
+2025-12-24,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.18620373553339675,%,pbs_spi_weekly,weekly
+2026-01-01,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.5711333696868763,%,pbs_spi_weekly,weekly
+2026-01-08,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.12700611938574013,%,pbs_spi_weekly,weekly
+2026-01-15,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.24504151291513665,%,pbs_spi_weekly,weekly
+2026-01-22,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.3882322491588326,%,pbs_spi_weekly,weekly
+2026-01-29,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.0923840868410366,%,pbs_spi_weekly,weekly
+2026-02-04,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.07802115240131968,%,pbs_spi_weekly,weekly
+2026-02-12,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.5861461611757477,%,pbs_spi_weekly,weekly
+2026-02-19,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",1.02817310485041,%,pbs_spi_weekly,weekly
+2026-02-26,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.5979760809567551,%,pbs_spi_weekly,weekly
+2026-03-05,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.16196205460434498,%,pbs_spi_weekly,weekly
+2026-03-11,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",1.1232386232386204,%,pbs_spi_weekly,weekly
+2026-03-18,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.20273550155623354,%,pbs_spi_weekly,weekly
+2026-03-26,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.8577453550666831,%,pbs_spi_weekly,weekly
+2026-04-02,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.8193710620744099,%,pbs_spi_weekly,weekly
+2026-04-09,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",1.1714261693243344,%,pbs_spi_weekly,weekly
+2026-04-16,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.4819811085565533,%,pbs_spi_weekly,weekly
+2026-04-23,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.31174325716035867,%,pbs_spi_weekly,weekly
+2026-04-30,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.3657685327376896,%,pbs_spi_weekly,weekly
+2026-05-07,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.7566905914427196,%,pbs_spi_weekly,weekly
+2026-05-14,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.3920702413164605,%,pbs_spi_weekly,weekly
+2026-05-21,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.1540154015401498,%,pbs_spi_weekly,weekly
+2026-06-04,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.13772587042750217,%,pbs_spi_weekly,weekly
+2026-06-11,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.11033265294864236,%,pbs_spi_weekly,weekly
+2026-06-18,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.5317683363641521,%,pbs_spi_weekly,weekly
+2026-07-02,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.2768109189574375,%,pbs_spi_weekly,weekly
+2026-07-09,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.3197769760577245,%,pbs_spi_weekly,weekly
+2026-07-16,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",1.173535137506505,%,pbs_spi_weekly,weekly
+2026-07-23,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.7994796606953969,%,pbs_spi_weekly,weekly
+2026-07-30,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",-0.9732752594504461,%,pbs_spi_weekly,weekly
+2026-08-06,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",0.36109904430929873,%,pbs_spi_weekly,weekly
+2025-04-30,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",-2.543331397303831,%,pbs_spi_weekly,weekly
+2025-05-15,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",0.9892621231568626,%,pbs_spi_weekly,weekly
+2025-07-17,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",-1.7573474001507066,%,pbs_spi_weekly,weekly
+2025-07-24,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",2.4530459908499864,%,pbs_spi_weekly,weekly
+2025-07-31,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",2.2553217150093303,%,pbs_spi_weekly,weekly
+2025-10-09,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",5.104267701260909,%,pbs_spi_weekly,weekly
+2025-10-16,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",5.571342200725525,%,pbs_spi_weekly,weekly
+2025-10-23,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",6.0566580821087825,%,pbs_spi_weekly,weekly
+2025-10-30,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",6.018448510509614,%,pbs_spi_weekly,weekly
+2025-11-06,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",4.984461273873819,%,pbs_spi_weekly,weekly
+2025-11-13,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",4.8040303475575,%,pbs_spi_weekly,weekly
+2025-11-20,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",4.096823175633418,%,pbs_spi_weekly,weekly
+2025-11-27,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",4.602971387739302,%,pbs_spi_weekly,weekly
+2025-12-04,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",4.2442538183339735,%,pbs_spi_weekly,weekly
+2025-12-11,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",4.080169658591942,%,pbs_spi_weekly,weekly
+2025-12-18,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",3.790919632503801,%,pbs_spi_weekly,weekly
+2025-12-24,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",2.8211408504736255,%,pbs_spi_weekly,weekly
+2026-01-01,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",2.52434080080495,%,pbs_spi_weekly,weekly
+2026-01-08,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",3.432030294898155,%,pbs_spi_weekly,weekly
+2026-01-15,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",4.166916302198786,%,pbs_spi_weekly,weekly
+2026-01-22,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",4.627559958919832,%,pbs_spi_weekly,weekly
+2026-01-29,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",4.936624416277539,%,pbs_spi_weekly,weekly
+2026-02-04,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",5.267477203647417,%,pbs_spi_weekly,weekly
+2026-02-12,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",4.765092502434285,%,pbs_spi_weekly,weekly
+2026-02-19,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",5.591645923137634,%,pbs_spi_weekly,weekly
+2026-02-26,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",4.57611227051386,%,pbs_spi_weekly,weekly
+2026-03-05,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",4.9104843839932215,%,pbs_spi_weekly,weekly
+2026-03-11,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",5.896404705028573,%,pbs_spi_weekly,weekly
+2026-03-18,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",6.523388883829639,%,pbs_spi_weekly,weekly
+2026-03-26,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",7.613487792270973,%,pbs_spi_weekly,weekly
+2026-04-02,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",8.241824910513841,%,pbs_spi_weekly,weekly
+2026-04-09,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",10.512137631248649,%,pbs_spi_weekly,weekly
+2026-04-16,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",10.776393685249147,%,pbs_spi_weekly,weekly
+2026-04-23,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",12.466635264562726,%,pbs_spi_weekly,weekly
+2026-04-30,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",12.750541074621239,%,pbs_spi_weekly,weekly
+2026-05-07,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",13.372566205471742,%,pbs_spi_weekly,weekly
+2026-05-14,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",12.712731330791428,%,pbs_spi_weekly,weekly
+2026-05-21,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",12.836451793373541,%,pbs_spi_weekly,weekly
+2026-06-04,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",13.353969296188623,%,pbs_spi_weekly,weekly
+2026-06-11,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",13.518078318528694,%,pbs_spi_weekly,weekly
+2026-06-18,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",14.00406186533354,%,pbs_spi_weekly,weekly
+2026-07-02,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",13.6732221083046,%,pbs_spi_weekly,weekly
+2026-07-09,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",12.197748108041594,%,pbs_spi_weekly,weekly
+2026-07-16,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",13.214899361806573,%,pbs_spi_weekly,weekly
+2026-07-23,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",9.26877992890509,%,pbs_spi_weekly,weekly
+2026-07-30,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",8.604116294155801,%,pbs_spi_weekly,weekly
+2026-08-06,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",8.794184301144895,%,pbs_spi_weekly,weekly
+2025-04-30,"SPI Q3 (Rs. 22,889 - 29,517) — index",318.81,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,"SPI Q3 (Rs. 22,889 - 29,517) — index",322.59,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,"SPI Q3 (Rs. 22,889 - 29,517) — index",325.92,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,"SPI Q3 (Rs. 22,889 - 29,517) — index",340.39,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,"SPI Q3 (Rs. 22,889 - 29,517) — index",339.14,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,"SPI Q3 (Rs. 22,889 - 29,517) — index",346.76,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,"SPI Q3 (Rs. 22,889 - 29,517) — index",349.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,"SPI Q3 (Rs. 22,889 - 29,517) — index",350.04,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,"SPI Q3 (Rs. 22,889 - 29,517) — index",350.55,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,"SPI Q3 (Rs. 22,889 - 29,517) — index",347.95,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,"SPI Q3 (Rs. 22,889 - 29,517) — index",349.49,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,"SPI Q3 (Rs. 22,889 - 29,517) — index",349.63,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,"SPI Q3 (Rs. 22,889 - 29,517) — index",351.33,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,"SPI Q3 (Rs. 22,889 - 29,517) — index",348.77,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,"SPI Q3 (Rs. 22,889 - 29,517) — index",348.45,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,"SPI Q3 (Rs. 22,889 - 29,517) — index",349.08,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,"SPI Q3 (Rs. 22,889 - 29,517) — index",348.43,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,"SPI Q3 (Rs. 22,889 - 29,517) — index",346.44,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,"SPI Q3 (Rs. 22,889 - 29,517) — index",346.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,"SPI Q3 (Rs. 22,889 - 29,517) — index",347.73,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,"SPI Q3 (Rs. 22,889 - 29,517) — index",346.38,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,"SPI Q3 (Rs. 22,889 - 29,517) — index",346.06,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,"SPI Q3 (Rs. 22,889 - 29,517) — index",346.33,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,"SPI Q3 (Rs. 22,889 - 29,517) — index",344.3,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,"SPI Q3 (Rs. 22,889 - 29,517) — index",347.84,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,"SPI Q3 (Rs. 22,889 - 29,517) — index",345.76,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,"SPI Q3 (Rs. 22,889 - 29,517) — index",346.32,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,"SPI Q3 (Rs. 22,889 - 29,517) — index",350.21,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,"SPI Q3 (Rs. 22,889 - 29,517) — index",350.92,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,"SPI Q3 (Rs. 22,889 - 29,517) — index",353.93,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,"SPI Q3 (Rs. 22,889 - 29,517) — index",356.83,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,"SPI Q3 (Rs. 22,889 - 29,517) — index",361.01,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,"SPI Q3 (Rs. 22,889 - 29,517) — index",359.27,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,"SPI Q3 (Rs. 22,889 - 29,517) — index",358.15,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,"SPI Q3 (Rs. 22,889 - 29,517) — index",359.46,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,"SPI Q3 (Rs. 22,889 - 29,517) — index",362.18,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,"SPI Q3 (Rs. 22,889 - 29,517) — index",363.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,"SPI Q3 (Rs. 22,889 - 29,517) — index",363.04,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,"SPI Q3 (Rs. 22,889 - 29,517) — index",362.54,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,"SPI Q3 (Rs. 22,889 - 29,517) — index",362.94,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,"SPI Q3 (Rs. 22,889 - 29,517) — index",364.87,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,"SPI Q3 (Rs. 22,889 - 29,517) — index",365.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,"SPI Q3 (Rs. 22,889 - 29,517) — index",364.71,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,"SPI Q3 (Rs. 22,889 - 29,517) — index",368.99,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,"SPI Q3 (Rs. 22,889 - 29,517) — index",371.94,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,"SPI Q3 (Rs. 22,889 - 29,517) — index",368.32,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,"SPI Q3 (Rs. 22,889 - 29,517) — index",369.65,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",318.45,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",319.46,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",325.06,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",325.92,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",340.39,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",346.12,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",346.76,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",349.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",350.04,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",350.55,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",347.95,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",349.49,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",349.63,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",351.33,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",348.77,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",348.45,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",349.08,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",348.43,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",346.44,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",346.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",347.73,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",346.38,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",346.06,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",346.33,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",344.3,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",347.84,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",345.76,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",346.32,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",350.21,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",350.92,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",353.93,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",356.83,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",361.01,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",359.27,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",358.15,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",359.46,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",362.18,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",363.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",363.04,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",362.54,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",362.94,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",364.87,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",365.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",364.71,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",368.99,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",371.94,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",368.32,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",327.13,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",319.43,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",331.75,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",332.24,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",331.66,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",329.92,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",330.8,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",330.05,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",330.65,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",331.43,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",333.47,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",335.87,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",335.87,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",334.57,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",334.79,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",336.33,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",338.87,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",337.91,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",335.37,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",333.82,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",331.06,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",329.78,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",329.0,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",328.64,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",329.42,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",330.63,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",330.11,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",330.71,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",329.43,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",328.89,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",329.66,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",326.67,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",324.32,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",318.45,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",318.81,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",319.46,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",322.59,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",321.74,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",319.83,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",319.72,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",320.05,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",321.87,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",325.06,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",325.92,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",340.39,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",339.14,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",339.77,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.13915857605178417,%,pbs_spi_weekly,weekly
+2025-05-15,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",1.0605376829346795,%,pbs_spi_weekly,weekly
+2025-07-17,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.34222701058371285,%,pbs_spi_weekly,weekly
+2025-07-24,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",3.7011305501168295,%,pbs_spi_weekly,weekly
+2025-07-31,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.37152079907423285,%,pbs_spi_weekly,weekly
+2025-10-09,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.20401428099967234,%,pbs_spi_weekly,weekly
+2025-10-16,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.5928321207221927,%,pbs_spi_weekly,weekly
+2025-10-23,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.23514004226565532,%,pbs_spi_weekly,weekly
+2025-10-30,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.13956526903433542,%,pbs_spi_weekly,weekly
+2025-11-06,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.6612697565459769,%,pbs_spi_weekly,weekly
+2025-11-13,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.5104477611940155,%,pbs_spi_weekly,weekly
+2025-11-20,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.03266906239791467,%,pbs_spi_weekly,weekly
+2025-11-27,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.2820497595154734,%,pbs_spi_weekly,weekly
+2025-12-04,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.6898185155579171,%,pbs_spi_weekly,weekly
+2025-12-11,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.04471738611971432,%,pbs_spi_weekly,weekly
+2025-12-18,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.2385994213963869,%,pbs_spi_weekly,weekly
+2025-12-24,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.15769585527685592,%,pbs_spi_weekly,weekly
+2026-01-01,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.6287996185481006,%,pbs_spi_weekly,weekly
+2026-01-08,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.12895486579698456,%,pbs_spi_weekly,weekly
+2026-01-15,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.23960704444712633,%,pbs_spi_weekly,weekly
+2026-01-22,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.4541651727022753,%,pbs_spi_weekly,weekly
+2026-01-29,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.06903589866730897,%,pbs_spi_weekly,weekly
+2026-02-04,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.08109812873576061,%,pbs_spi_weekly,weekly
+2026-02-12,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.6212484993997691,%,pbs_spi_weekly,weekly
+2026-02-19,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.9180684323377477,%,pbs_spi_weekly,weekly
+2026-02-26,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.592512792889849,%,pbs_spi_weekly,weekly
+2026-03-05,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.2588879857912758,%,pbs_spi_weekly,weekly
+2026-03-11,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",1.5042786368413061,%,pbs_spi_weekly,weekly
+2026-03-18,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.2248121635212641,%,pbs_spi_weekly,weekly
+2026-03-26,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.7850776223363454,%,pbs_spi_weekly,weekly
+2026-04-02,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.9400257701768737,%,pbs_spi_weekly,weekly
+2026-04-09,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",1.5550204531608074,%,pbs_spi_weekly,weekly
+2026-04-16,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.5913440937008971,%,pbs_spi_weekly,weekly
+2026-04-23,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.30174147939536056,%,pbs_spi_weekly,weekly
+2026-04-30,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.513071801227909,%,pbs_spi_weekly,weekly
+2026-05-07,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.8287688910556028,%,pbs_spi_weekly,weekly
+2026-05-14,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.4351535836177476,%,pbs_spi_weekly,weekly
+2026-05-21,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.130263642284703,%,pbs_spi_weekly,weekly
+2026-06-04,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.37712308957384266,%,pbs_spi_weekly,weekly
+2026-06-11,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.07684863664827901,%,pbs_spi_weekly,weekly
+2026-06-18,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.514774892636737,%,pbs_spi_weekly,weekly
+2026-07-02,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.3197328957048313,%,pbs_spi_weekly,weekly
+2026-07-09,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.3321127480200943,%,pbs_spi_weekly,weekly
+2026-07-16,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",1.281613123718401,%,pbs_spi_weekly,weekly
+2026-07-23,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.860469039986512,%,pbs_spi_weekly,weekly
+2026-07-30,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",-0.811308129809305,%,pbs_spi_weekly,weekly
+2026-08-06,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",0.3429181774742318,%,pbs_spi_weekly,weekly
+2025-04-30,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",-2.001583531274747,%,pbs_spi_weekly,weekly
+2025-05-15,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",1.8418659043659034,%,pbs_spi_weekly,weekly
+2025-07-17,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",-0.9632826671670642,%,pbs_spi_weekly,weekly
+2025-07-24,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",2.5130334342709233,%,pbs_spi_weekly,weekly
+2025-07-31,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",1.8999563944434072,%,pbs_spi_weekly,weekly
+2025-10-09,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",5.153957559347646,%,pbs_spi_weekly,weekly
+2025-10-16,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",5.4850863422292235,%,pbs_spi_weekly,weekly
+2025-10-23,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",5.9826907946498835,%,pbs_spi_weekly,weekly
+2025-10-30,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",5.791009191580159,%,pbs_spi_weekly,weekly
+2025-11-06,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",4.851330203442885,%,pbs_spi_weekly,weekly
+2025-11-13,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",4.773314248374149,%,pbs_spi_weekly,weekly
+2025-11-20,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",4.082074101541977,%,pbs_spi_weekly,weekly
+2025-11-27,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",4.401446542824459,%,pbs_spi_weekly,weekly
+2025-12-04,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",4.073717849275553,%,pbs_spi_weekly,weekly
+2025-12-11,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",3.949775228646729,%,pbs_spi_weekly,weekly
+2025-12-18,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",3.7731188439805976,%,pbs_spi_weekly,weekly
+2025-12-24,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",2.765442685205045,%,pbs_spi_weekly,weekly
+2026-01-01,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",2.2256966798491504,%,pbs_spi_weekly,weekly
+2026-01-08,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",3.0780154981321743,%,pbs_spi_weekly,weekly
+2026-01-15,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",3.7735264022821013,%,pbs_spi_weekly,weekly
+2026-01-22,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",4.138534633658409,%,pbs_spi_weekly,weekly
+2026-01-29,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",4.432245922208281,%,pbs_spi_weekly,weekly
+2026-02-04,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",4.75681453768037,%,pbs_spi_weekly,weekly
+2026-02-12,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",4.158409612783487,%,pbs_spi_weekly,weekly
+2026-02-19,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",4.817916627458359,%,pbs_spi_weekly,weekly
+2026-02-26,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",3.7639782595114752,%,pbs_spi_weekly,weekly
+2026-03-05,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",4.1562421816362445,%,pbs_spi_weekly,weekly
+2026-03-11,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",5.488813305457612,%,pbs_spi_weekly,weekly
+2026-03-18,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",6.1466165413533815,%,pbs_spi_weekly,weekly
+2026-03-26,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",7.15451236349945,%,pbs_spi_weekly,weekly
+2026-04-02,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",7.92135007357777,%,pbs_spi_weekly,weekly
+2026-04-09,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",10.614295645579233,%,pbs_spi_weekly,weekly
+2026-04-16,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",10.768741047270439,%,pbs_spi_weekly,weekly
+2026-04-23,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",12.275080906148858,%,pbs_spi_weekly,weekly
+2026-04-30,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",12.694308890540668,%,pbs_spi_weekly,weekly
+2026-05-07,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",13.338920765908057,%,pbs_spi_weekly,weekly
+2026-05-14,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",12.637555420879721,%,pbs_spi_weekly,weekly
+2026-05-21,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",12.80747209160991,%,pbs_spi_weekly,weekly
+2026-06-04,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",13.051032884999046,%,pbs_spi_weekly,weekly
+2026-06-11,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",13.250877701549271,%,pbs_spi_weekly,weekly
+2026-06-18,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",13.683736489963977,%,pbs_spi_weekly,weekly
+2026-07-02,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",12.76888604353394,%,pbs_spi_weekly,weekly
+2026-07-09,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",11.26180366309653,%,pbs_spi_weekly,weekly
+2026-07-16,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",12.303416914040284,%,pbs_spi_weekly,weekly
+2026-07-23,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",9.227114927827529,%,pbs_spi_weekly,weekly
+2026-07-30,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",8.744956596160876,%,pbs_spi_weekly,weekly
+2026-08-06,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",8.964654172516944,%,pbs_spi_weekly,weekly
+2025-04-30,"SPI Q4 (Rs. 29,518 - 44,175) — index",309.43,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,"SPI Q4 (Rs. 29,518 - 44,175) — index",313.51,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,"SPI Q4 (Rs. 29,518 - 44,175) — index",316.66,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,"SPI Q4 (Rs. 29,518 - 44,175) — index",328.38,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,"SPI Q4 (Rs. 29,518 - 44,175) — index",327.16,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,"SPI Q4 (Rs. 29,518 - 44,175) — index",333.99,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,"SPI Q4 (Rs. 29,518 - 44,175) — index",335.97,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,"SPI Q4 (Rs. 29,518 - 44,175) — index",336.76,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,"SPI Q4 (Rs. 29,518 - 44,175) — index",337.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,"SPI Q4 (Rs. 29,518 - 44,175) — index",335.0,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,"SPI Q4 (Rs. 29,518 - 44,175) — index",336.71,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,"SPI Q4 (Rs. 29,518 - 44,175) — index",336.82,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,"SPI Q4 (Rs. 29,518 - 44,175) — index",337.77,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,"SPI Q4 (Rs. 29,518 - 44,175) — index",335.44,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,"SPI Q4 (Rs. 29,518 - 44,175) — index",335.29,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,"SPI Q4 (Rs. 29,518 - 44,175) — index",336.09,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,"SPI Q4 (Rs. 29,518 - 44,175) — index",335.56,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,"SPI Q4 (Rs. 29,518 - 44,175) — index",333.45,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,"SPI Q4 (Rs. 29,518 - 44,175) — index",333.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,"SPI Q4 (Rs. 29,518 - 44,175) — index",334.68,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,"SPI Q4 (Rs. 29,518 - 44,175) — index",333.16,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,"SPI Q4 (Rs. 29,518 - 44,175) — index",332.93,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,"SPI Q4 (Rs. 29,518 - 44,175) — index",333.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,"SPI Q4 (Rs. 29,518 - 44,175) — index",331.13,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,"SPI Q4 (Rs. 29,518 - 44,175) — index",334.17,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,"SPI Q4 (Rs. 29,518 - 44,175) — index",332.19,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,"SPI Q4 (Rs. 29,518 - 44,175) — index",333.05,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,"SPI Q4 (Rs. 29,518 - 44,175) — index",338.06,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,"SPI Q4 (Rs. 29,518 - 44,175) — index",338.82,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,"SPI Q4 (Rs. 29,518 - 44,175) — index",341.48,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,"SPI Q4 (Rs. 29,518 - 44,175) — index",344.69,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,"SPI Q4 (Rs. 29,518 - 44,175) — index",350.05,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,"SPI Q4 (Rs. 29,518 - 44,175) — index",347.98,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,"SPI Q4 (Rs. 29,518 - 44,175) — index",346.93,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,"SPI Q4 (Rs. 29,518 - 44,175) — index",348.71,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,"SPI Q4 (Rs. 29,518 - 44,175) — index",351.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,"SPI Q4 (Rs. 29,518 - 44,175) — index",353.13,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,"SPI Q4 (Rs. 29,518 - 44,175) — index",352.67,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,"SPI Q4 (Rs. 29,518 - 44,175) — index",351.34,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,"SPI Q4 (Rs. 29,518 - 44,175) — index",351.61,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,"SPI Q4 (Rs. 29,518 - 44,175) — index",353.42,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,"SPI Q4 (Rs. 29,518 - 44,175) — index",352.29,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,"SPI Q4 (Rs. 29,518 - 44,175) — index",351.12,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,"SPI Q4 (Rs. 29,518 - 44,175) — index",355.62,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,"SPI Q4 (Rs. 29,518 - 44,175) — index",358.68,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,"SPI Q4 (Rs. 29,518 - 44,175) — index",355.77,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,"SPI Q4 (Rs. 29,518 - 44,175) — index",356.99,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",309.0,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",310.22,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",315.58,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",316.66,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",328.38,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",333.31,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",333.99,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",335.97,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",336.76,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",337.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",335.0,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",336.71,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",336.82,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",337.77,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",335.44,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",335.29,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",336.09,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",335.56,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",333.45,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",333.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",334.68,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",333.16,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",332.93,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",333.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",331.13,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",334.17,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",332.19,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",333.05,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",338.06,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",338.82,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",341.48,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",344.69,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",350.05,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",347.98,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",346.93,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",348.71,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",351.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",353.13,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",352.67,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",351.34,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",351.61,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",353.42,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",352.29,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",351.12,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",355.62,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",358.68,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",355.77,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",315.75,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",307.84,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",319.74,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",320.33,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",321.06,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",317.62,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",318.5,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",317.75,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",318.77,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",319.5,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",321.37,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",323.61,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",323.53,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",322.31,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",322.55,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",323.87,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",326.53,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",326.19,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",323.91,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",322.51,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",319.92,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",318.8,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",318.07,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",317.91,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",318.81,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",320.14,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",319.76,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",320.47,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",319.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",318.68,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",319.39,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",316.46,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",314.15,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",309.0,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",309.43,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",310.22,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",313.51,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",312.63,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",310.78,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",310.47,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",310.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",312.4,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",315.58,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",316.66,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",328.38,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",327.16,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",327.62,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.16680567139282232,%,pbs_spi_weekly,weekly
+2025-05-15,"SPI Q5 (Above Rs. 44,175) — % change WoW",1.0284911204803961,%,pbs_spi_weekly,weekly
+2025-07-17,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.4625696214481252,%,pbs_spi_weekly,weekly
+2025-07-24,"SPI Q5 (Above Rs. 44,175) — % change WoW",3.025747040030069,%,pbs_spi_weekly,weekly
+2025-07-31,"SPI Q5 (Above Rs. 44,175) — % change WoW",-0.3253070655478467,%,pbs_spi_weekly,weekly
+2025-10-09,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.163354206370812,%,pbs_spi_weekly,weekly
+2025-10-16,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.28993385883843814,%,pbs_spi_weekly,weekly
+2025-10-23,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.20778751468064627,%,pbs_spi_weekly,weekly
+2025-10-30,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.08414472893376512,%,pbs_spi_weekly,weekly
+2025-11-06,"SPI Q5 (Above Rs. 44,175) — % change WoW",-0.43838577948595514,%,pbs_spi_weekly,weekly
+2025-11-13,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.5820616442487392,%,pbs_spi_weekly,weekly
+2025-11-20,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.08995232526760333,%,pbs_spi_weekly,weekly
+2025-11-27,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.5991432251879729,%,pbs_spi_weekly,weekly
+2025-12-04,"SPI Q5 (Above Rs. 44,175) — % change WoW",-0.53006164199995,%,pbs_spi_weekly,weekly
+2025-12-11,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.020956201538794517,%,pbs_spi_weekly,weekly
+2025-12-18,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.28434600419035405,%,pbs_spi_weekly,weekly
+2025-12-24,"SPI Q5 (Above Rs. 44,175) — % change WoW",-0.06566184151620291,%,pbs_spi_weekly,weekly
+2026-01-01,"SPI Q5 (Above Rs. 44,175) — % change WoW",-0.7287280112295775,%,pbs_spi_weekly,weekly
+2026-01-08,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.10529799332110201,%,pbs_spi_weekly,weekly
+2026-01-15,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.2584600589048591,%,pbs_spi_weekly,weekly
+2026-01-22,"SPI Q5 (Above Rs. 44,175) — % change WoW",-0.5395683453237439,%,pbs_spi_weekly,weekly
+2026-01-29,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.018083182640140194,%,pbs_spi_weekly,weekly
+2026-02-04,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.0873862472126774,%,pbs_spi_weekly,weekly
+2026-02-12,"SPI Q5 (Above Rs. 44,175) — % change WoW",-0.5780520849013868,%,pbs_spi_weekly,weekly
+2026-02-19,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.7782454652817847,%,pbs_spi_weekly,weekly
+2026-02-26,"SPI Q5 (Above Rs. 44,175) — % change WoW",-0.4717548076923066,%,pbs_spi_weekly,weekly
+2026-03-05,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.5343718866044753,%,pbs_spi_weekly,weekly
+2026-03-11,"SPI Q5 (Above Rs. 44,175) — % change WoW",2.486486486486484,%,pbs_spi_weekly,weekly
+2026-03-18,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.20218002812941904,%,pbs_spi_weekly,weekly
+2026-03-26,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.9445272977161636,%,pbs_spi_weekly,weekly
+2026-04-02,"SPI Q5 (Above Rs. 44,175) — % change WoW",1.1529548088064843,%,pbs_spi_weekly,weekly
+2026-04-09,"SPI Q5 (Above Rs. 44,175) — % change WoW",2.49727934016839,%,pbs_spi_weekly,weekly
+2026-04-16,"SPI Q5 (Above Rs. 44,175) — % change WoW",-0.8410170438669979,%,pbs_spi_weekly,weekly
+2026-04-23,"SPI Q5 (Above Rs. 44,175) — % change WoW",-0.34376849164529233,%,pbs_spi_weekly,weekly
+2026-04-30,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.8312833997794513,%,pbs_spi_weekly,weekly
+2026-05-07,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.8019965788957251,%,pbs_spi_weekly,weekly
+2026-05-14,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.5174284363090038,%,pbs_spi_weekly,weekly
+2026-05-21,"SPI Q5 (Above Rs. 44,175) — % change WoW",-0.3570143636011238,%,pbs_spi_weekly,weekly
+2026-06-04,"SPI Q5 (Above Rs. 44,175) — % change WoW",-0.877680257749148,%,pbs_spi_weekly,weekly
+2026-06-11,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.20174848688637326,%,pbs_spi_weekly,weekly
+2026-06-18,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.3942953020134041,%,pbs_spi_weekly,weekly
+2026-07-02,"SPI Q5 (Above Rs. 44,175) — % change WoW",-2.0027297289769024,%,pbs_spi_weekly,weekly
+2026-07-09,"SPI Q5 (Above Rs. 44,175) — % change WoW",-0.5514183389233125,%,pbs_spi_weekly,weekly
+2026-07-16,"SPI Q5 (Above Rs. 44,175) — % change WoW",1.5776837772950643,%,pbs_spi_weekly,weekly
+2026-07-23,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.9819921215531906,%,pbs_spi_weekly,weekly
+2026-07-30,"SPI Q5 (Above Rs. 44,175) — % change WoW",-0.6826604251999271,%,pbs_spi_weekly,weekly
+2026-08-06,"SPI Q5 (Above Rs. 44,175) — % change WoW",0.20199753114130203,%,pbs_spi_weekly,weekly
+2025-04-30,"SPI Q5 (Above Rs. 44,175) — % change YoY",-1.5790966684527348,%,pbs_spi_weekly,weekly
+2025-05-15,"SPI Q5 (Above Rs. 44,175) — % change YoY",2.319412544884031,%,pbs_spi_weekly,weekly
+2025-07-17,"SPI Q5 (Above Rs. 44,175) — % change YoY",-0.4490177736202128,%,pbs_spi_weekly,weekly
+2025-07-24,"SPI Q5 (Above Rs. 44,175) — % change YoY",2.371615312791775,%,pbs_spi_weekly,weekly
+2025-07-31,"SPI Q5 (Above Rs. 44,175) — % change YoY",1.2257626281338787,%,pbs_spi_weekly,weekly
+2025-10-09,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.594893936549653,%,pbs_spi_weekly,weekly
+2025-10-16,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.6099843993759606,%,pbs_spi_weekly,weekly
+2025-10-23,"SPI Q5 (Above Rs. 44,175) — % change YoY",4.046025889562884,%,pbs_spi_weekly,weekly
+2025-10-30,"SPI Q5 (Above Rs. 44,175) — % change YoY",4.20199618284785,%,pbs_spi_weekly,weekly
+2025-11-06,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.499079189686924,%,pbs_spi_weekly,weekly
+2025-11-13,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.6421268529164905,%,pbs_spi_weekly,weekly
+2025-11-20,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.110520788286891,%,pbs_spi_weekly,weekly
+2025-11-27,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.7860056867350806,%,pbs_spi_weekly,weekly
+2025-12-04,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.530250433920145,%,pbs_spi_weekly,weekly
+2025-12-11,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.471770572021441,%,pbs_spi_weekly,weekly
+2025-12-18,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.4583912305079565,%,pbs_spi_weekly,weekly
+2025-12-24,"SPI Q5 (Above Rs. 44,175) — % change YoY",2.5638669362249686,%,pbs_spi_weekly,weekly
+2026-01-01,"SPI Q5 (Above Rs. 44,175) — % change YoY",1.916354939596502,%,pbs_spi_weekly,weekly
+2026-01-08,"SPI Q5 (Above Rs. 44,175) — % change YoY",2.5772242431715995,%,pbs_spi_weekly,weekly
+2026-01-15,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.1603686065928827,%,pbs_spi_weekly,weekly
+2026-01-22,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.3290772632431214,%,pbs_spi_weekly,weekly
+2026-01-29,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.647948029233561,%,pbs_spi_weekly,weekly
+2026-02-04,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.9365397252558125,%,pbs_spi_weekly,weekly
+2026-02-12,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.31633451177926,%,pbs_spi_weekly,weekly
+2026-02-19,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.824795657328252,%,pbs_spi_weekly,weekly
+2026-02-26,"SPI Q5 (Above Rs. 44,175) — % change YoY",2.9976056469417784,%,pbs_spi_weekly,weekly
+2026-03-05,"SPI Q5 (Above Rs. 44,175) — % change YoY",3.5834266517357207,%,pbs_spi_weekly,weekly
+2026-03-11,"SPI Q5 (Above Rs. 44,175) — % change YoY",5.895494600968092,%,pbs_spi_weekly,weekly
+2026-03-18,"SPI Q5 (Above Rs. 44,175) — % change YoY",6.492899850523173,%,pbs_spi_weekly,weekly
+2026-03-26,"SPI Q5 (Above Rs. 44,175) — % change YoY",7.6428950076397655,%,pbs_spi_weekly,weekly
+2026-04-02,"SPI Q5 (Above Rs. 44,175) — % change YoY",8.697547005354252,%,pbs_spi_weekly,weekly
+2026-04-09,"SPI Q5 (Above Rs. 44,175) — % change YoY",12.250658637561159,%,pbs_spi_weekly,weekly
+2026-04-16,"SPI Q5 (Above Rs. 44,175) — % change YoY",12.026894788345572,%,pbs_spi_weekly,weekly
+2026-04-23,"SPI Q5 (Above Rs. 44,175) — % change YoY",13.450311156733193,%,pbs_spi_weekly,weekly
+2026-04-30,"SPI Q5 (Above Rs. 44,175) — % change YoY",14.202907833215917,%,pbs_spi_weekly,weekly
+2026-05-07,"SPI Q5 (Above Rs. 44,175) — % change YoY",14.81729909288363,%,pbs_spi_weekly,weekly
+2026-05-14,"SPI Q5 (Above Rs. 44,175) — % change YoY",14.236484350300344,%,pbs_spi_weekly,weekly
+2026-05-21,"SPI Q5 (Above Rs. 44,175) — % change YoY",14.17155541461868,%,pbs_spi_weekly,weekly
+2026-06-04,"SPI Q5 (Above Rs. 44,175) — % change YoY",14.077483697736866,%,pbs_spi_weekly,weekly
+2026-06-11,"SPI Q5 (Above Rs. 44,175) — % change YoY",14.508950014409677,%,pbs_spi_weekly,weekly
+2026-06-18,"SPI Q5 (Above Rs. 44,175) — % change YoY",14.480229591836718,%,pbs_spi_weekly,weekly
+2026-07-02,"SPI Q5 (Above Rs. 44,175) — % change YoY",11.681797981080578,%,pbs_spi_weekly,weekly
+2026-07-09,"SPI Q5 (Above Rs. 44,175) — % change YoY",10.097863368891396,%,pbs_spi_weekly,weekly
+2026-07-16,"SPI Q5 (Above Rs. 44,175) — % change YoY",11.319927331955142,%,pbs_spi_weekly,weekly
+2026-07-23,"SPI Q5 (Above Rs. 44,175) — % change YoY",9.111638088288942,%,pbs_spi_weekly,weekly
+2026-07-30,"SPI Q5 (Above Rs. 44,175) — % change YoY",8.72045142595698,%,pbs_spi_weekly,weekly
+2026-08-06,"SPI Q5 (Above Rs. 44,175) — % change YoY",9.003235060733687,%,pbs_spi_weekly,weekly
+2025-04-30,"SPI Q5 (Above Rs. 44,175) — index",312.26,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,"SPI Q5 (Above Rs. 44,175) — index",316.3,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,"SPI Q5 (Above Rs. 44,175) — index",319.26,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,"SPI Q5 (Above Rs. 44,175) — index",328.92,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,"SPI Q5 (Above Rs. 44,175) — index",327.85,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,"SPI Q5 (Above Rs. 44,175) — index",331.11,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,"SPI Q5 (Above Rs. 44,175) — index",332.07,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,"SPI Q5 (Above Rs. 44,175) — index",332.76,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,"SPI Q5 (Above Rs. 44,175) — index",333.04,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,"SPI Q5 (Above Rs. 44,175) — index",331.58,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,"SPI Q5 (Above Rs. 44,175) — index",333.51,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,"SPI Q5 (Above Rs. 44,175) — index",333.81,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,"SPI Q5 (Above Rs. 44,175) — index",335.81,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,"SPI Q5 (Above Rs. 44,175) — index",334.03,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,"SPI Q5 (Above Rs. 44,175) — index",334.1,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,"SPI Q5 (Above Rs. 44,175) — index",335.05,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,"SPI Q5 (Above Rs. 44,175) — index",334.83,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,"SPI Q5 (Above Rs. 44,175) — index",332.39,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,"SPI Q5 (Above Rs. 44,175) — index",332.74,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,"SPI Q5 (Above Rs. 44,175) — index",333.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,"SPI Q5 (Above Rs. 44,175) — index",331.8,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,"SPI Q5 (Above Rs. 44,175) — index",331.86,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,"SPI Q5 (Above Rs. 44,175) — index",332.15,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,"SPI Q5 (Above Rs. 44,175) — index",330.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,"SPI Q5 (Above Rs. 44,175) — index",332.8,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,"SPI Q5 (Above Rs. 44,175) — index",331.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,"SPI Q5 (Above Rs. 44,175) — index",333.0,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,"SPI Q5 (Above Rs. 44,175) — index",341.28,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,"SPI Q5 (Above Rs. 44,175) — index",341.97,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,"SPI Q5 (Above Rs. 44,175) — index",345.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,"SPI Q5 (Above Rs. 44,175) — index",349.18,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,"SPI Q5 (Above Rs. 44,175) — index",357.9,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,"SPI Q5 (Above Rs. 44,175) — index",354.89,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,"SPI Q5 (Above Rs. 44,175) — index",353.67,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,"SPI Q5 (Above Rs. 44,175) — index",356.61,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,"SPI Q5 (Above Rs. 44,175) — index",359.47,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,"SPI Q5 (Above Rs. 44,175) — index",361.33,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,"SPI Q5 (Above Rs. 44,175) — index",360.04,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,"SPI Q5 (Above Rs. 44,175) — index",356.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,"SPI Q5 (Above Rs. 44,175) — index",357.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,"SPI Q5 (Above Rs. 44,175) — index",359.01,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,"SPI Q5 (Above Rs. 44,175) — index",351.82,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,"SPI Q5 (Above Rs. 44,175) — index",349.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,"SPI Q5 (Above Rs. 44,175) — index",355.4,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,"SPI Q5 (Above Rs. 44,175) — index",358.89,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,"SPI Q5 (Above Rs. 44,175) — index",356.44,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,"SPI Q5 (Above Rs. 44,175) — index",357.16,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,"SPI Q5 (Above Rs. 44,175) — index previous week",311.74,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,"SPI Q5 (Above Rs. 44,175) — index previous week",313.08,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,"SPI Q5 (Above Rs. 44,175) — index previous week",317.79,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,"SPI Q5 (Above Rs. 44,175) — index previous week",319.26,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,"SPI Q5 (Above Rs. 44,175) — index previous week",328.92,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,"SPI Q5 (Above Rs. 44,175) — index previous week",330.57,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,"SPI Q5 (Above Rs. 44,175) — index previous week",331.11,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,"SPI Q5 (Above Rs. 44,175) — index previous week",332.07,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,"SPI Q5 (Above Rs. 44,175) — index previous week",332.76,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,"SPI Q5 (Above Rs. 44,175) — index previous week",333.04,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,"SPI Q5 (Above Rs. 44,175) — index previous week",331.58,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,"SPI Q5 (Above Rs. 44,175) — index previous week",333.51,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,"SPI Q5 (Above Rs. 44,175) — index previous week",333.81,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,"SPI Q5 (Above Rs. 44,175) — index previous week",335.81,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,"SPI Q5 (Above Rs. 44,175) — index previous week",334.03,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,"SPI Q5 (Above Rs. 44,175) — index previous week",334.1,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,"SPI Q5 (Above Rs. 44,175) — index previous week",335.05,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,"SPI Q5 (Above Rs. 44,175) — index previous week",334.83,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,"SPI Q5 (Above Rs. 44,175) — index previous week",332.39,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,"SPI Q5 (Above Rs. 44,175) — index previous week",332.74,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,"SPI Q5 (Above Rs. 44,175) — index previous week",333.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,"SPI Q5 (Above Rs. 44,175) — index previous week",331.8,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,"SPI Q5 (Above Rs. 44,175) — index previous week",331.86,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,"SPI Q5 (Above Rs. 44,175) — index previous week",332.15,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,"SPI Q5 (Above Rs. 44,175) — index previous week",330.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,"SPI Q5 (Above Rs. 44,175) — index previous week",332.8,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,"SPI Q5 (Above Rs. 44,175) — index previous week",331.23,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,"SPI Q5 (Above Rs. 44,175) — index previous week",333.0,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,"SPI Q5 (Above Rs. 44,175) — index previous week",341.28,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,"SPI Q5 (Above Rs. 44,175) — index previous week",341.97,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,"SPI Q5 (Above Rs. 44,175) — index previous week",345.2,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,"SPI Q5 (Above Rs. 44,175) — index previous week",349.18,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,"SPI Q5 (Above Rs. 44,175) — index previous week",357.9,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,"SPI Q5 (Above Rs. 44,175) — index previous week",354.89,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,"SPI Q5 (Above Rs. 44,175) — index previous week",353.67,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,"SPI Q5 (Above Rs. 44,175) — index previous week",356.61,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,"SPI Q5 (Above Rs. 44,175) — index previous week",359.47,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,"SPI Q5 (Above Rs. 44,175) — index previous week",361.33,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,"SPI Q5 (Above Rs. 44,175) — index previous week",360.04,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,"SPI Q5 (Above Rs. 44,175) — index previous week",356.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,"SPI Q5 (Above Rs. 44,175) — index previous week",357.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,"SPI Q5 (Above Rs. 44,175) — index previous week",359.01,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,"SPI Q5 (Above Rs. 44,175) — index previous week",351.82,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,"SPI Q5 (Above Rs. 44,175) — index previous week",349.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,"SPI Q5 (Above Rs. 44,175) — index previous week",355.4,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,"SPI Q5 (Above Rs. 44,175) — index previous week",358.89,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,"SPI Q5 (Above Rs. 44,175) — index previous week",356.44,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-04-30,"SPI Q5 (Above Rs. 44,175) — index year ago",317.27,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-05-15,"SPI Q5 (Above Rs. 44,175) — index year ago",309.13,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-17,"SPI Q5 (Above Rs. 44,175) — index year ago",320.7,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-24,"SPI Q5 (Above Rs. 44,175) — index year ago",321.3,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-07-31,"SPI Q5 (Above Rs. 44,175) — index year ago",323.88,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-09,"SPI Q5 (Above Rs. 44,175) — index year ago",319.62,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-16,"SPI Q5 (Above Rs. 44,175) — index year ago",320.5,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-23,"SPI Q5 (Above Rs. 44,175) — index year ago",319.82,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-10-30,"SPI Q5 (Above Rs. 44,175) — index year ago",319.61,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-06,"SPI Q5 (Above Rs. 44,175) — index year ago",320.37,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-13,"SPI Q5 (Above Rs. 44,175) — index year ago",321.79,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-20,"SPI Q5 (Above Rs. 44,175) — index year ago",323.74,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-11-27,"SPI Q5 (Above Rs. 44,175) — index year ago",323.56,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-04,"SPI Q5 (Above Rs. 44,175) — index year ago",322.64,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-11,"SPI Q5 (Above Rs. 44,175) — index year ago",322.89,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-18,"SPI Q5 (Above Rs. 44,175) — index year ago",323.85,index (2015-16 = 100),pbs_spi_weekly,weekly
+2025-12-24,"SPI Q5 (Above Rs. 44,175) — index year ago",326.46,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-01,"SPI Q5 (Above Rs. 44,175) — index year ago",326.14,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-08,"SPI Q5 (Above Rs. 44,175) — index year ago",324.38,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-15,"SPI Q5 (Above Rs. 44,175) — index year ago",323.38,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-22,"SPI Q5 (Above Rs. 44,175) — index year ago",321.11,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-01-29,"SPI Q5 (Above Rs. 44,175) — index year ago",320.18,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-04,"SPI Q5 (Above Rs. 44,175) — index year ago",319.57,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-12,"SPI Q5 (Above Rs. 44,175) — index year ago",319.63,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-19,"SPI Q5 (Above Rs. 44,175) — index year ago",320.54,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-02-26,"SPI Q5 (Above Rs. 44,175) — index year ago",321.59,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-05,"SPI Q5 (Above Rs. 44,175) — index year ago",321.48,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-11,"SPI Q5 (Above Rs. 44,175) — index year ago",322.28,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-18,"SPI Q5 (Above Rs. 44,175) — index year ago",321.12,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-03-26,"SPI Q5 (Above Rs. 44,175) — index year ago",320.69,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-02,"SPI Q5 (Above Rs. 44,175) — index year ago",321.24,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-09,"SPI Q5 (Above Rs. 44,175) — index year ago",318.84,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-16,"SPI Q5 (Above Rs. 44,175) — index year ago",316.79,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-23,"SPI Q5 (Above Rs. 44,175) — index year ago",311.74,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-04-30,"SPI Q5 (Above Rs. 44,175) — index year ago",312.26,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-07,"SPI Q5 (Above Rs. 44,175) — index year ago",313.08,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-14,"SPI Q5 (Above Rs. 44,175) — index year ago",316.3,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-05-21,"SPI Q5 (Above Rs. 44,175) — index year ago",315.35,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-04,"SPI Q5 (Above Rs. 44,175) — index year ago",312.84,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-11,"SPI Q5 (Above Rs. 44,175) — index year ago",312.29,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-06-18,"SPI Q5 (Above Rs. 44,175) — index year ago",313.6,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-02,"SPI Q5 (Above Rs. 44,175) — index year ago",315.02,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-09,"SPI Q5 (Above Rs. 44,175) — index year ago",317.79,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-16,"SPI Q5 (Above Rs. 44,175) — index year ago",319.26,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-23,"SPI Q5 (Above Rs. 44,175) — index year ago",328.92,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-07-30,"SPI Q5 (Above Rs. 44,175) — index year ago",327.85,index (2015-16 = 100),pbs_spi_weekly,weekly
+2026-08-06,"SPI Q5 (Above Rs. 44,175) — index year ago",327.66,index (2015-16 = 100),pbs_spi_weekly,weekly

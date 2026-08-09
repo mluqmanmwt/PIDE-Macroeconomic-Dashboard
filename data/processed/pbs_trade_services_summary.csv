@@ -1,0 +1,43 @@
+date,series,value,unit,source_id,frequency
+2025-03-31,Balance of Trade (services),-226.81999999999994,million USD,pbs_trade_services_summary,monthly
+2025-05-31,Balance of Trade (services),-172.54234760363352,million USD,pbs_trade_services_summary,monthly
+2025-09-30,Balance of Trade (services),-198.50151005462385,million USD,pbs_trade_services_summary,monthly
+2025-12-31,Balance of Trade (services),-373.65141577937675,million USD,pbs_trade_services_summary,monthly
+2026-03-31,Balance of Trade (services),-22.89361905239457,million USD,pbs_trade_services_summary,monthly
+2026-04-30,Balance of Trade (services),26.066078519320058,million USD,pbs_trade_services_summary,monthly
+2026-06-30,Balance of Trade (services),23.093322643705392,million USD,pbs_trade_services_summary,monthly
+2025-03-31,Balance of Trade (services) (cumulative Jul-to-date),-2317.91,million USD,pbs_trade_services_summary,monthly
+2025-05-31,Balance of Trade (services) (cumulative Jul-to-date),-2669.0843932430944,million USD,pbs_trade_services_summary,monthly
+2025-09-30,Balance of Trade (services) (cumulative Jul-to-date),-930.4660282959644,million USD,pbs_trade_services_summary,monthly
+2025-12-31,Balance of Trade (services) (cumulative Jul-to-date),-1739.6002820786434,million USD,pbs_trade_services_summary,monthly
+2026-03-31,Balance of Trade (services) (cumulative Jul-to-date),-2151.093654923199,million USD,pbs_trade_services_summary,monthly
+2026-04-30,Balance of Trade (services) (cumulative Jul-to-date),-2040.4424470424437,million USD,pbs_trade_services_summary,monthly
+2026-06-30,Balance of Trade (services) (cumulative Jul-to-date),-1894.1157541246012,million USD,pbs_trade_services_summary,monthly
+2025-03-31,Exports (services),743.32,million USD,pbs_trade_services_summary,monthly
+2025-05-31,Exports (services),715.4536141609517,million USD,pbs_trade_services_summary,monthly
+2025-09-30,Exports (services),796.7259472566035,million USD,pbs_trade_services_summary,monthly
+2025-12-31,Exports (services),935.1577634015562,million USD,pbs_trade_services_summary,monthly
+2026-03-31,Exports (services),902.91,million USD,pbs_trade_services_summary,monthly
+2026-04-30,Exports (services),914.9845692380001,million USD,pbs_trade_services_summary,monthly
+2026-06-30,Exports (services),955.9056962109343,million USD,pbs_trade_services_summary,monthly
+2025-03-31,Exports (services) (cumulative Jul-to-date),6235.08,million USD,pbs_trade_services_summary,monthly
+2025-05-31,Exports (services) (cumulative Jul-to-date),7648.289519861741,million USD,pbs_trade_services_summary,monthly
+2025-09-30,Exports (services) (cumulative Jul-to-date),2199.123664644326,million USD,pbs_trade_services_summary,monthly
+2025-12-31,Exports (services) (cumulative Jul-to-date),4764.842654332878,million USD,pbs_trade_services_summary,monthly
+2026-03-31,Exports (services) (cumulative Jul-to-date),7345.347615336972,million USD,pbs_trade_services_summary,monthly
+2026-04-30,Exports (services) (cumulative Jul-to-date),8269.634347644504,million USD,pbs_trade_services_summary,monthly
+2026-06-30,Exports (services) (cumulative Jul-to-date),10035.70785160233,million USD,pbs_trade_services_summary,monthly
+2025-03-31,Imports (services),970.14,million USD,pbs_trade_services_summary,monthly
+2025-05-31,Imports (services),887.9959617645852,million USD,pbs_trade_services_summary,monthly
+2025-09-30,Imports (services),995.2274573112273,million USD,pbs_trade_services_summary,monthly
+2025-12-31,Imports (services),1308.809179180933,million USD,pbs_trade_services_summary,monthly
+2026-03-31,Imports (services),925.8036190523945,million USD,pbs_trade_services_summary,monthly
+2026-04-30,Imports (services),888.91849071868,million USD,pbs_trade_services_summary,monthly
+2026-06-30,Imports (services),932.8123735672289,million USD,pbs_trade_services_summary,monthly
+2025-03-31,Imports (services) (cumulative Jul-to-date),8552.99,million USD,pbs_trade_services_summary,monthly
+2025-05-31,Imports (services) (cumulative Jul-to-date),10317.373913104835,million USD,pbs_trade_services_summary,monthly
+2025-09-30,Imports (services) (cumulative Jul-to-date),3129.58969294029,million USD,pbs_trade_services_summary,monthly
+2025-12-31,Imports (services) (cumulative Jul-to-date),6504.442936411521,million USD,pbs_trade_services_summary,monthly
+2026-03-31,Imports (services) (cumulative Jul-to-date),9496.441270260171,million USD,pbs_trade_services_summary,monthly
+2026-04-30,Imports (services) (cumulative Jul-to-date),10310.076794686947,million USD,pbs_trade_services_summary,monthly
+2026-06-30,Imports (services) (cumulative Jul-to-date),11929.823605726931,million USD,pbs_trade_services_summary,monthly

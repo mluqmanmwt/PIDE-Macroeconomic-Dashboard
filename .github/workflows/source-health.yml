@@ -1,0 +1,148 @@
+# Early warning that a publisher has moved, retired or broken a file.
+#
+# The failure mode this catches is the expensive one. Government of Pakistan
+# sites reorganise without notice and frequently answer a dead path with HTTP 200
+# and an HTML error page, so a source can rot for months while the pipeline
+# reports success on everything still wired up. Of the 75 catalogued sources only
+# 24 are currently parsed; the rest are research assets that nobody would notice
+# had broken until the day someone tried to use one.
+#
+# This job downloads nothing into the repository and commits nothing. It probes
+# each URL, checks the magic bytes of the first chunk against the format the
+# catalogue declares, and fails loudly if a source starts serving a web page
+# where a spreadsheet used to be.
+#
+# Weekly on Monday 05:00 UTC (10:00 PKT) — start of the Pakistani working week,
+# so a broken source is found before anyone builds on it.
+
+name: Source health check
+
+on:
+  schedule:
+    - cron: "0 5 * * 1"
+  workflow_dispatch:
+    inputs:
+      tier:
+        description: "Restrict to these tiers (space separated); blank = all"
+        required: false
+        default: ""
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    # The sweep is slow by design: sbp.org.pk is throttled to one request every
+    # four seconds because bursting trips a Cloudflare block that outlives the
+    # process and then rejects even previously working URLs.
+    timeout-minutes: 60
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Probe every catalogued source
+        id: probe
+        continue-on-error: true
+        run: |
+          python -m etl.healthcheck \
+            ${{ github.event.inputs.tier && format('--tier {0}', github.event.inputs.tier) || '' }} \
+            --fail-on-error
+
+      - name: Publish the results to the job summary
+        if: always()
+        run: |
+          {
+            echo "## Source health — $(date -u '+%Y-%m-%d %H:%M UTC')"
+            echo
+            python - <<'PY'
+          import csv, pathlib
+          path = pathlib.Path("data/metadata/source_health.csv")
+          if not path.exists():
+              print("No health report was produced — the probe stage did not run.")
+              raise SystemExit
+          rows = list(csv.DictReader(path.open()))
+          bad = [r for r in rows if r["verdict"] in ("error", "warning")]
+          counts = {}
+          for r in rows:
+              counts[r["verdict"]] = counts.get(r["verdict"], 0) + 1
+          print(" | ".join(f"**{v}** {k}" for k, v in sorted(counts.items())))
+          print()
+          if not bad:
+              print("Every catalogued source with a static URL is serving the "
+                    "content type the catalogue declares.")
+          else:
+              print("| source | tier | status | expected | got | detail |")
+              print("|---|---|---|---|---|---|")
+              for r in bad:
+                  print(f"| `{r['source_id']}` | {r['tier']} | {r['status']} | "
+                        f"{r['declared_format']} | {r['sniffed']} | {r['detail']} |")
+          PY
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload the health report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-health-${{ github.run_number }}
+          path: data/metadata/source_health.csv
+          retention-days: 180
+          if-no-files-found: warn
+
+      # A failed scheduled run produces an email nobody reads. An issue is
+      # visible, assignable and carries the detail needed to act on it.
+      - name: Open an issue when a source is broken
+        if: steps.probe.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const csv = fs.readFileSync('data/metadata/source_health.csv', 'utf8')
+              .split('\n').slice(1).filter(Boolean);
+            const broken = csv.filter(l => l.includes(',error,'));
+            const body = [
+              'The weekly source health check found sources that are no longer',
+              'serving the content type the catalogue declares. A Government of',
+              'Pakistan publisher has most likely moved or retired a file.',
+              '',
+              'Affected rows from `data/metadata/source_health.csv`:',
+              '',
+              '```',
+              ...broken.slice(0, 40),
+              '```',
+              '',
+              `Full report: run #${context.runNumber} artifacts.`,
+              '',
+              'To fix: find the current URL on the publisher page recorded in',
+              '`config/sources.yaml`, update the `url` field, and re-run',
+              '`python -m etl.healthcheck --id <source_id>`.',
+            ].join('\n');
+
+            // Reuse one rolling issue rather than opening a new one every week.
+            const existing = await github.rest.issues.listForRepo({
+              owner: context.repo.owner, repo: context.repo.repo,
+              state: 'open', labels: 'source-health',
+            });
+            if (existing.data.length) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner, repo: context.repo.repo,
+                issue_number: existing.data[0].number, body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner, repo: context.repo.repo,
+                title: 'Source health check: one or more sources are unreachable',
+                labels: ['source-health'], body,
+              });
+            }
