@@ -9,7 +9,7 @@ The current validated build contains **144,647 observations**, **1,209 unique li
 ```bash
 pip install -r requirements.txt
 python -m etl.run_etl --tier 1
-streamlit run dashboard/Overview.py
+streamlit run app.py
 ```
 
 `python -m etl.run_etl --tier 1` is the normal production command. It runs, in order, SBP catalogue refresh, extraction, historical backfill where needed, transformation, and validation. It returns exit code **0** for success or warnings, and **1** for a failed stage or any validation error.
