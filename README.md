@@ -115,7 +115,7 @@ the import-level check; for visual verification, drive a headless browser over e
 route and assert positively that charts exist:
 
 ```bash
-streamlit run dashboard/Overview.py --server.port 8512 --server.headless true &
+streamlit run app.py --server.port 8512 --server.headless true &
 python -m playwright install chromium      # first run only
 python dashboard/verify_render.py          # screenshots + assertions
 ```
