@@ -1,38 +1,38 @@
 source_id,dataset,publisher,theme,series,unit,frequency,start,end,n_obs,page
-sbp_forex_reserves,Liquid foreign exchange reserves (SBP + banks),sbp,external,Reserves with SBP,million USD,weekly,1999-06-30,2026-08-07,747,https://www.sbp.org.pk/ecodata/index2.asp
-sbp_forex_reserves,Liquid foreign exchange reserves (SBP + banks),sbp,external,Reserves with banks,million USD,weekly,1999-06-30,2026-08-07,747,https://www.sbp.org.pk/ecodata/index2.asp
-sbp_forex_reserves,Liquid foreign exchange reserves (SBP + banks),sbp,external,Total liquid FX reserves,million USD,weekly,1999-06-30,2026-08-07,747,https://www.sbp.org.pk/ecodata/index2.asp
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,SPI Combined — % change WoW,%,weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,SPI Combined — % change YoY,%,weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,SPI Combined — index,index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,SPI Combined — index previous week,index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,SPI Combined — index year ago,index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q1 (Upto Rs. 17,732) — % change WoW",%,weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q1 (Upto Rs. 17,732) — % change YoY",%,weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q1 (Upto Rs. 17,732) — index",index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q1 (Upto Rs. 17,732) — index previous week",index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q1 (Upto Rs. 17,732) — index year ago",index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",%,weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",%,weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q2 (Rs. 17,733 - 22,888) — index",index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",%,weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",%,weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q3 (Rs. 22,889 - 29,517) — index",index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",%,weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",%,weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q4 (Rs. 29,518 - 44,175) — index",index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q5 (Above Rs. 44,175) — % change WoW",%,weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q5 (Above Rs. 44,175) — % change YoY",%,weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q5 (Above Rs. 44,175) — index",index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q5 (Above Rs. 44,175) — index previous week",index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q5 (Above Rs. 44,175) — index year ago",index (2015-16 = 100),weekly,2026-08-13,2026-08-13,1,https://www.pbs.gov.pk/spi
-sbp_interest_rate_corridor,SBP standing facility usage (ceiling / floor amounts and institutions),sbp,monetary,Ceiling — Amount,million PKR / count,daily,2009-08-13,2026-08-13,1687,https://www.sbp.org.pk/ecodata/index2.asp
-sbp_interest_rate_corridor,SBP standing facility usage (ceiling / floor amounts and institutions),sbp,monetary,Ceiling — Institutions,million PKR / count,daily,2009-08-13,2026-08-13,1687,https://www.sbp.org.pk/ecodata/index2.asp
-sbp_interest_rate_corridor,SBP standing facility usage (ceiling / floor amounts and institutions),sbp,monetary,Floor — Amount,million PKR / count,daily,2009-08-13,2026-08-11,1943,https://www.sbp.org.pk/ecodata/index2.asp
-sbp_interest_rate_corridor,SBP standing facility usage (ceiling / floor amounts and institutions),sbp,monetary,Floor — Institutions,million PKR / count,daily,2009-08-13,2026-08-11,1943,https://www.sbp.org.pk/ecodata/index2.asp
+sbp_forex_reserves,Liquid foreign exchange reserves (SBP + banks),sbp,external,Reserves with SBP,million USD,weekly,1999-06-30,2026-08-13,747,https://www.sbp.org.pk/ecodata/index2.asp
+sbp_forex_reserves,Liquid foreign exchange reserves (SBP + banks),sbp,external,Reserves with banks,million USD,weekly,1999-06-30,2026-08-13,747,https://www.sbp.org.pk/ecodata/index2.asp
+sbp_forex_reserves,Liquid foreign exchange reserves (SBP + banks),sbp,external,Total liquid FX reserves,million USD,weekly,1999-06-30,2026-08-13,747,https://www.sbp.org.pk/ecodata/index2.asp
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,SPI Combined — % change WoW,%,weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,SPI Combined — % change YoY,%,weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,SPI Combined — index,index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,SPI Combined — index previous week,index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,SPI Combined — index year ago,index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q1 (Upto Rs. 17,732) — % change WoW",%,weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q1 (Upto Rs. 17,732) — % change YoY",%,weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q1 (Upto Rs. 17,732) — index",index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q1 (Upto Rs. 17,732) — index previous week",index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q1 (Upto Rs. 17,732) — index year ago",index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q2 (Rs. 17,733 - 22,888) — % change WoW",%,weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q2 (Rs. 17,733 - 22,888) — % change YoY",%,weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q2 (Rs. 17,733 - 22,888) — index",index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q2 (Rs. 17,733 - 22,888) — index previous week",index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q2 (Rs. 17,733 - 22,888) — index year ago",index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q3 (Rs. 22,889 - 29,517) — % change WoW",%,weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q3 (Rs. 22,889 - 29,517) — % change YoY",%,weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q3 (Rs. 22,889 - 29,517) — index",index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q3 (Rs. 22,889 - 29,517) — index previous week",index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q3 (Rs. 22,889 - 29,517) — index year ago",index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q4 (Rs. 29,518 - 44,175) — % change WoW",%,weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q4 (Rs. 29,518 - 44,175) — % change YoY",%,weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q4 (Rs. 29,518 - 44,175) — index",index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q4 (Rs. 29,518 - 44,175) — index previous week",index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q4 (Rs. 29,518 - 44,175) — index year ago",index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q5 (Above Rs. 44,175) — % change WoW",%,weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q5 (Above Rs. 44,175) — % change YoY",%,weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q5 (Above Rs. 44,175) — index",index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q5 (Above Rs. 44,175) — index previous week",index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+pbs_spi_weekly,Weekly Sensitive Price Indicator (SPI) report,pbs,inflation,"SPI Q5 (Above Rs. 44,175) — index year ago",index (2015-16 = 100),weekly,2026-08-20,2026-08-20,1,https://www.pbs.gov.pk/spi
+sbp_interest_rate_corridor,SBP standing facility usage (ceiling / floor amounts and institutions),sbp,monetary,Ceiling — Amount,million PKR / count,daily,2009-08-13,2026-08-20,1691,https://www.sbp.org.pk/ecodata/index2.asp
+sbp_interest_rate_corridor,SBP standing facility usage (ceiling / floor amounts and institutions),sbp,monetary,Ceiling — Institutions,million PKR / count,daily,2009-08-13,2026-08-20,1691,https://www.sbp.org.pk/ecodata/index2.asp
+sbp_interest_rate_corridor,SBP standing facility usage (ceiling / floor amounts and institutions),sbp,monetary,Floor — Amount,million PKR / count,daily,2009-08-13,2026-08-17,1944,https://www.sbp.org.pk/ecodata/index2.asp
+sbp_interest_rate_corridor,SBP standing facility usage (ceiling / floor amounts and institutions),sbp,monetary,Floor — Institutions,million PKR / count,daily,2009-08-13,2026-08-17,1944,https://www.sbp.org.pk/ecodata/index2.asp

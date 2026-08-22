@@ -1686,6 +1686,10 @@ date,series,value,unit,source_id,frequency
 2026-08-10,Ceiling — Amount,173000.0,million PKR / count,sbp_interest_rate_corridor,daily
 2026-08-11,Ceiling — Amount,19000.0,million PKR / count,sbp_interest_rate_corridor,daily
 2026-08-13,Ceiling — Amount,21700.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-08-17,Ceiling — Amount,198000.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-08-18,Ceiling — Amount,220000.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-08-19,Ceiling — Amount,111800.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-08-20,Ceiling — Amount,104100.0,million PKR / count,sbp_interest_rate_corridor,daily
 2009-08-13,Ceiling — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
 2009-08-21,Ceiling — Institutions,0.0,million PKR / count,sbp_interest_rate_corridor,daily
 2009-08-28,Ceiling — Institutions,0.0,million PKR / count,sbp_interest_rate_corridor,daily
@@ -3373,6 +3377,10 @@ date,series,value,unit,source_id,frequency
 2026-08-10,Ceiling — Institutions,2.0,million PKR / count,sbp_interest_rate_corridor,daily
 2026-08-11,Ceiling — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
 2026-08-13,Ceiling — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-08-17,Ceiling — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-08-18,Ceiling — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-08-19,Ceiling — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-08-20,Ceiling — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
 2009-08-13,Floor — Amount,0.0,million PKR / count,sbp_interest_rate_corridor,daily
 2009-08-21,Floor — Amount,6550.0,million PKR / count,sbp_interest_rate_corridor,daily
 2009-08-28,Floor — Amount,12100.0,million PKR / count,sbp_interest_rate_corridor,daily
@@ -5316,6 +5324,7 @@ date,series,value,unit,source_id,frequency
 2026-07-31,Floor — Amount,39500.0,million PKR / count,sbp_interest_rate_corridor,daily
 2026-08-04,Floor — Amount,19000.0,million PKR / count,sbp_interest_rate_corridor,daily
 2026-08-11,Floor — Amount,5000.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-08-17,Floor — Amount,10000.0,million PKR / count,sbp_interest_rate_corridor,daily
 2009-08-13,Floor — Institutions,0.0,million PKR / count,sbp_interest_rate_corridor,daily
 2009-08-21,Floor — Institutions,9.0,million PKR / count,sbp_interest_rate_corridor,daily
 2009-08-28,Floor — Institutions,8.0,million PKR / count,sbp_interest_rate_corridor,daily
@@ -7259,3 +7268,4 @@ date,series,value,unit,source_id,frequency
 2026-07-31,Floor — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
 2026-08-04,Floor — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
 2026-08-11,Floor — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-08-17,Floor — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
