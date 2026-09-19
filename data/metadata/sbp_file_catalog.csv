@@ -686,7 +686,7 @@ real,real-sector,gross-domestic-product-of-pakistan,annually,2025,Gross Domestic
 real,real-sector,inflation-snapshot,monthly,2022,Inflation Snapshot Old Base: 2007-08,,MPM-Old.pdf,https://www.sbp.org.pk/assets/document/MPM-Old.pdf,pdf,57713.0,,
 real,real-sector,inflation-snapshot,monthly,2022,Inflation Snapshot New Base: 2015-16,,MPM-New.pdf,https://www.sbp.org.pk/assets/document/MPM-New.pdf,pdf,389724.0,,
 real,real-sector,price-of-domestic-commodity,weekly,2019,Price of Domestic Commodity,,WCP.pdf,https://www.sbp.org.pk/assets/document/WCP.pdf,pdf,631470.0,,
-real,real-sector,production-of-selected-large-scale-manufacturing,monthly,2026,Production of Selected Large-scale Manufacturing,,Productselect.pdf,https://www.sbp.org.pk/assets/document/Productselect.pdf,pdf,241541.0,Productselect.xlsx,https://www.sbp.org.pk/assets/document/Productselect.xlsx
+real,real-sector,production-of-selected-large-scale-manufacturing,monthly,2026,Production of Selected Large-scale Manufacturing,,Productselect.pdf,https://www.sbp.org.pk/assets/document/Productselect.pdf,pdf,251279.0,Productselect.xlsx,https://www.sbp.org.pk/assets/document/Productselect.xlsx
 real,real-sector,quarterly-gdp-of-pakistan,quarterly,2026,Quarterly GDP of Pakistan,,QGDP.pdf,https://www.sbp.org.pk/assets/document/QGDP.pdf,pdf,127836.0,QGDP.xlsx,https://www.sbp.org.pk/assets/document/QGDP.xlsx
 real,real-sector,quarterly-gdp-of-pakistan,quarterly,2025,Quarterly GDP of Pakistan,,QGDP.pdf,https://www.sbp.org.pk/assets/document/QGDP.pdf,pdf,936509.0,QGDP.xlsx,https://www.sbp.org.pk/assets/document/QGDP.xlsx
 real,real-sector,spi-inflation,weekly,2019,SPI-Inflation,,WPM.pdf,https://www.sbp.org.pk/assets/document/WPM.pdf,pdf,472228.0,,

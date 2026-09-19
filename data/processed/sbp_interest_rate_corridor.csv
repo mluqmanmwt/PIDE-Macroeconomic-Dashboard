@@ -1701,6 +1701,11 @@ date,series,value,unit,source_id,frequency
 2026-09-09,Ceiling — Amount,136600.0,million PKR / count,sbp_interest_rate_corridor,daily
 2026-09-10,Ceiling — Amount,109100.0,million PKR / count,sbp_interest_rate_corridor,daily
 2026-09-11,Ceiling — Amount,261000.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-09-14,Ceiling — Amount,282100.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-09-15,Ceiling — Amount,294100.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-09-16,Ceiling — Amount,310600.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-09-17,Ceiling — Amount,167200.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-09-18,Ceiling — Amount,198000.0,million PKR / count,sbp_interest_rate_corridor,daily
 2009-08-13,Ceiling — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
 2009-08-21,Ceiling — Institutions,0.0,million PKR / count,sbp_interest_rate_corridor,daily
 2009-08-28,Ceiling — Institutions,0.0,million PKR / count,sbp_interest_rate_corridor,daily
@@ -3403,6 +3408,11 @@ date,series,value,unit,source_id,frequency
 2026-09-09,Ceiling — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
 2026-09-10,Ceiling — Institutions,2.0,million PKR / count,sbp_interest_rate_corridor,daily
 2026-09-11,Ceiling — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-09-14,Ceiling — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-09-15,Ceiling — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-09-16,Ceiling — Institutions,3.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-09-17,Ceiling — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
+2026-09-18,Ceiling — Institutions,1.0,million PKR / count,sbp_interest_rate_corridor,daily
 2009-08-13,Floor — Amount,0.0,million PKR / count,sbp_interest_rate_corridor,daily
 2009-08-21,Floor — Amount,6550.0,million PKR / count,sbp_interest_rate_corridor,daily
 2009-08-28,Floor — Amount,12100.0,million PKR / count,sbp_interest_rate_corridor,daily
