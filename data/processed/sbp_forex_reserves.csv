@@ -729,6 +729,7 @@ date,series,value,unit,source_id,frequency
 2026-08-28 00:00:00,Reserves with SBP,17117.8,million USD,sbp_forex_reserves,weekly
 2026-09-04 00:00:00,Reserves with SBP,18328.2,million USD,sbp_forex_reserves,weekly
 2026-09-11 00:00:00,Reserves with SBP,21389.0,million USD,sbp_forex_reserves,weekly
+2026-09-18 00:00:00,Reserves with SBP,21400.3,million USD,sbp_forex_reserves,weekly
 2010-10-29 00:00:00,Reserves with banks,7207.1,million USD,sbp_forex_reserves,weekly
 2011-05-07 00:00:00,Reserves with banks,3419.0,million USD,sbp_forex_reserves,weekly
 2011-05-14 00:00:00,Reserves with banks,3410.5,million USD,sbp_forex_reserves,weekly
@@ -1459,6 +1460,7 @@ date,series,value,unit,source_id,frequency
 2026-08-28 00:00:00,Reserves with banks,5410.1,million USD,sbp_forex_reserves,weekly
 2026-09-04 00:00:00,Reserves with banks,5387.6,million USD,sbp_forex_reserves,weekly
 2026-09-11 00:00:00,Reserves with banks,5402.2,million USD,sbp_forex_reserves,weekly
+2026-09-18 00:00:00,Reserves with banks,5410.3,million USD,sbp_forex_reserves,weekly
 2010-10-29 00:00:00,Total liquid FX reserves,19389.7,million USD,sbp_forex_reserves,weekly
 2011-05-07 00:00:00,Total liquid FX reserves,17008.9,million USD,sbp_forex_reserves,weekly
 2011-05-14 00:00:00,Total liquid FX reserves,16966.6,million USD,sbp_forex_reserves,weekly
@@ -2189,6 +2191,7 @@ date,series,value,unit,source_id,frequency
 2026-08-28 00:00:00,Total liquid FX reserves,22527.9,million USD,sbp_forex_reserves,weekly
 2026-09-04 00:00:00,Total liquid FX reserves,23715.800000000003,million USD,sbp_forex_reserves,weekly
 2026-09-11 00:00:00,Total liquid FX reserves,26791.2,million USD,sbp_forex_reserves,weekly
+2026-09-18 00:00:00,Total liquid FX reserves,26810.6,million USD,sbp_forex_reserves,weekly
 2001-02-24 00:00:00,Reserves with SBP,7953.0,million USD,sbp_forex_reserves,monthly
 2001-02-24 00:00:00,Reserves with banks,4495.4,million USD,sbp_forex_reserves,monthly
 2001-02-24 00:00:00,Total liquid FX reserves,12448.4,million USD,sbp_forex_reserves,monthly

@@ -143,6 +143,14 @@
       "unchanged": 0,
       "skipped": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-09-26T09:11:47.601819+00:00",
+      "requested": 3,
+      "downloaded": 3,
+      "unchanged": 0,
+      "skipped": 0,
+      "failed": 0
     }
   ],
   "sources": {
@@ -187,11 +195,11 @@
       "status": "downloaded",
       "url": "https://www.sbp.org.pk/assets/document/IR-Corridor-Hist.xls",
       "page": "https://www.sbp.org.pk/ecodata/index2.asp",
-      "path": "data/raw/sbp/sbp_interest_rate_corridor__20260919__IR-Corridor-Hist.xls",
+      "path": "data/raw/sbp/sbp_interest_rate_corridor__20260926__IR-Corridor-Hist.xls",
       "latest_path": "data/raw/sbp/sbp_interest_rate_corridor__latest.xls",
-      "bytes": 217600,
-      "sha256": "ac09d1042e6f081635fcbaa8899b296ee8fb1b92d8aecb1954f8d4d5c718299a",
-      "fetched_at": "2026-09-19T08:36:17.065415+00:00",
+      "bytes": 218112,
+      "sha256": "664253b338bf4bdab46eeb2480b87c7f727320b61bd0ec63d86720bef37301f4",
+      "fetched_at": "2026-09-26T09:11:44.602793+00:00",
       "error": null
     },
     "sbp_credit_loans_by_borrower": {
@@ -299,11 +307,11 @@
       "status": "downloaded",
       "url": "https://www.sbp.org.pk/assets/document/Forex_Arch.xlsx",
       "page": "https://www.sbp.org.pk/ecodata/index2.asp",
-      "path": "data/raw/sbp/sbp_forex_reserves__20260919__Forex_Arch.xlsx",
+      "path": "data/raw/sbp/sbp_forex_reserves__20260926__Forex_Arch.xlsx",
       "latest_path": "data/raw/sbp/sbp_forex_reserves__latest.xlsx",
-      "bytes": 83110,
-      "sha256": "9d93a23f97432f530383a365dbe1237f0b9b9057c88d4dd85e614a412f237553",
-      "fetched_at": "2026-09-19T08:36:21.259587+00:00",
+      "bytes": 83364,
+      "sha256": "8f8f07cbab24098486496634fdf50581236f66955eb7cb179b6fc9429f89e4af",
+      "fetched_at": "2026-09-26T09:11:47.601757+00:00",
       "error": null
     },
     "sbp_workers_remittances": {
@@ -489,13 +497,13 @@
       "theme": "inflation",
       "tier": 1,
       "status": "downloaded",
-      "url": "https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-17.09.2026.xlsx",
+      "url": "https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-24.09.2026.xlsx",
       "page": "https://www.pbs.gov.pk/spi",
-      "path": "data/raw/pbs/pbs_spi_weekly__20260919__SPI-Report-17.09.2026.xlsx",
+      "path": "data/raw/pbs/pbs_spi_weekly__20260926__3.-SPI-Report-24.09.2026.xlsx",
       "latest_path": "data/raw/pbs/pbs_spi_weekly__latest.xlsx",
-      "bytes": 144439,
-      "sha256": "14448e4b867839a750d6a1711324dbcfc0abb2c425e9da9809e7da705ca95e7c",
-      "fetched_at": "2026-09-19T08:36:15.353433+00:00",
+      "bytes": 145699,
+      "sha256": "fbec567e4a7e990abee49aa9172da27047d7d27860cb4b93f7e36a70ac917a4a",
+      "fetched_at": "2026-09-26T09:11:42.802657+00:00",
       "error": null
     },
     "pbs_trade_summary_monthly": {
