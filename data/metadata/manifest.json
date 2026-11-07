@@ -191,6 +191,14 @@
       "unchanged": 0,
       "skipped": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-11-07T10:55:47.061253+00:00",
+      "requested": 3,
+      "downloaded": 1,
+      "unchanged": 0,
+      "skipped": 0,
+      "failed": 2
     }
   ],
   "sources": {
@@ -232,15 +240,15 @@
       "publisher": "sbp",
       "theme": "monetary",
       "tier": 1,
-      "status": "downloaded",
+      "status": "failed",
       "url": "https://www.sbp.org.pk/assets/document/IR-Corridor-Hist.xls",
       "page": "https://www.sbp.org.pk/ecodata/index2.asp",
-      "path": "data/raw/sbp/sbp_interest_rate_corridor__20261031__IR-Corridor-Hist.xls",
-      "latest_path": "data/raw/sbp/sbp_interest_rate_corridor__latest.xls",
-      "bytes": 219648,
-      "sha256": "458ff3764d07c857f2a417c7e9e52ecc66694faee31d96f14399216ffe21b0b8",
-      "fetched_at": "2026-10-31T10:13:51.666498+00:00",
-      "error": null
+      "path": null,
+      "latest_path": null,
+      "bytes": 0,
+      "sha256": null,
+      "fetched_at": "2026-11-07T10:55:27.490287+00:00",
+      "error": "all 3 attempts failed for https://www.sbp.org.pk/assets/document/IR-Corridor-Hist.xls"
     },
     "sbp_credit_loans_by_borrower": {
       "source_id": "sbp_credit_loans_by_borrower",
@@ -344,15 +352,15 @@
       "publisher": "sbp",
       "theme": "external",
       "tier": 1,
-      "status": "downloaded",
+      "status": "failed",
       "url": "https://www.sbp.org.pk/assets/document/Forex_Arch.xlsx",
       "page": "https://www.sbp.org.pk/ecodata/index2.asp",
-      "path": "data/raw/sbp/sbp_forex_reserves__20261031__Forex_Arch.xlsx",
-      "latest_path": "data/raw/sbp/sbp_forex_reserves__latest.xlsx",
-      "bytes": 83634,
-      "sha256": "657f92bc8bf8d065bfa9622e791f405a090d92829f1ed88244aa7ca686b3fd51",
-      "fetched_at": "2026-10-31T10:13:54.668450+00:00",
-      "error": null
+      "path": null,
+      "latest_path": null,
+      "bytes": 0,
+      "sha256": null,
+      "fetched_at": "2026-11-07T10:55:47.061217+00:00",
+      "error": "all 3 attempts failed for https://www.sbp.org.pk/assets/document/Forex_Arch.xlsx"
     },
     "sbp_workers_remittances": {
       "source_id": "sbp_workers_remittances",
@@ -537,13 +545,13 @@
       "theme": "inflation",
       "tier": 1,
       "status": "downloaded",
-      "url": "https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-29.10.2026.xlsx",
+      "url": "https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-05.11.2026.xlsx",
       "page": "https://www.pbs.gov.pk/spi",
-      "path": "data/raw/pbs/pbs_spi_weekly__20261031__3.-SPI-Report-29.10.2026.xlsx",
+      "path": "data/raw/pbs/pbs_spi_weekly__20261107__SPI-Report-05.11.2026.xlsx",
       "latest_path": "data/raw/pbs/pbs_spi_weekly__latest.xlsx",
-      "bytes": 142046,
-      "sha256": "e542e1a49328b6849be027ffd25e39b27d2e98c426052deb3f80573e935e604b",
-      "fetched_at": "2026-10-31T10:13:49.868944+00:00",
+      "bytes": 141364,
+      "sha256": "c98b5de414efaecd28b8f18d3a666b641444f6be0243b57fb27393909ffc37a1",
+      "fetched_at": "2026-11-07T10:55:10.546364+00:00",
       "error": null
     },
     "pbs_trade_summary_monthly": {
